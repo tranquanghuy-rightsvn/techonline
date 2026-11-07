@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Hướng dẫn API — Quản trị An Ninh Thái Nguyên</title>
+<link rel="icon" href="/assets/favicon.webp" type="image/webp">
+<!-- Trang TĨNH, sửa tay (không do build sinh). KHÔNG chứa khoá. Bảng action phải khớp API_ACTIONS trong
+     gas/Code.js và html/admin/api/openapi.json, html/llms.txt (GAS.md mục XI.7) - test-api.js kiểm tra. -->
+<style>
+  :root {
+    --brand: #0064bd; --brand-dark: #004f96; --accent: #df3333; --tint: #f2f7fc; --tint-border: #d7e6f5;
+    --ink: #222; --ink-soft: #6b7280; --line: #e1e1e1; --ok: #0a8a3f; --radius: 10px;
+    --mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #f8f8fa; color: var(--ink); font: 15px/1.65 "Mulish", Arial, sans-serif; }
+  a { color: var(--brand); }
+  code { font-family: var(--mono); font-size: 13px; background: var(--tint); border: 1px solid var(--tint-border); border-radius: 5px; padding: 1px 5px; }
+  header.top { background: var(--brand); color: #fff; padding: 22px 0; }
+  header.top .wrap { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  header.top h1 { margin: 0; font-size: 21px; }
+  header.top p { margin: 4px 0 0; color: #d6e8fa; font-size: 14px; }
+  header.top .spacer { flex: 1 1 auto; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
+  .layout { display: grid; grid-template-columns: 232px minmax(0, 1fr); gap: 28px; align-items: start; padding: 28px 16px 60px; }
+  nav.toc { position: sticky; top: 20px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; }
+  nav.toc strong { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-soft); margin-bottom: 8px; }
+  nav.toc a { display: block; padding: 6px 8px; border-radius: 7px; text-decoration: none; color: var(--ink); font-size: 14px; }
+  nav.toc a:hover { background: var(--tint); }
+  main { min-width: 0; }
+  section.card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 24px; margin-bottom: 20px; }
+  section.card h2 { margin: 0 0 4px; font-size: 18px; color: var(--brand-dark); }
+  section.card h3 { margin: 22px 0 6px; font-size: 15px; }
+  p { margin: 10px 0; }
+  ol, ul { margin: 10px 0; padding-left: 22px; }
+  li { margin: 4px 0; }
+  .key-form { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+  .key-form label { font-weight: 700; font-size: 13px; display: block; margin-bottom: 5px; }
+  .key-form input { width: 100%; font-family: var(--mono); font-size: 13px; padding: 9px 11px; border: 1px solid var(--line); border-radius: 8px; }
+  .btn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: #fff; color: var(--ink); text-decoration: none;
+         font: inherit; font-size: 14px; font-weight: 700; padding: 9px 15px; border-radius: 8px; cursor: pointer; }
+  .btn:hover { background: #f9fafb; }
+  .btn-sm { padding: 5px 10px; font-size: 12px; border-radius: 7px; }
+  .block { position: relative; margin: 12px 0; }
+  .block pre { margin: 0; background: #0b2d4f; color: #e6f0fa; border-radius: 9px; padding: 40px 15px 14px; overflow-x: auto;
+               font-family: var(--mono); font-size: 12.5px; line-height: 1.6; white-space: pre; }
+  .block .copy { position: absolute; top: 8px; right: 8px; background: rgba(255,255,255,.14); color: #fff; border-color: transparent; }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+  th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { background: var(--tint); font-size: 12px; text-transform: uppercase; letter-spacing: .03em; color: var(--brand-dark); }
+  td code { white-space: nowrap; }
+  .req { color: var(--accent); font-weight: 700; }
+  .callout { border-left: 3px solid var(--brand); background: var(--tint); border-radius: 0 8px 8px 0; padding: 12px 14px; margin: 14px 0; }
+  .callout.warn { border-left-color: var(--accent); background: #fff4f4; }
+  .muted { color: var(--ink-soft); font-size: 13px; }
+  .prompt-box { width: 100%; min-height: 280px; font-family: var(--mono); font-size: 12.5px; line-height: 1.55; border: 1px solid var(--line); border-radius: 9px; padding: 12px; }
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; padding: 20px 16px 40px; }
+    nav.toc { position: static; }
+    section.card { padding: 18px 16px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div>
+      <h1>Hướng dẫn API — đăng bài bằng AI từ máy của bạn</h1>
+      <p>Dành cho chủ website An Ninh Thái Nguyên. Trang này không hiển thị với khách.</p>
+    </div>
+    <div class="spacer"></div>
+    <a class="btn" href="/admin/" rel="nofollow noreferrer">← Về trang quản trị</a>
+  </div>
+</header>
+
+<div class="wrap layout">
+  <nav class="toc">
+    <strong>Nội dung</strong>
+    <a href="#batdau">1. Bắt đầu</a>
+    <a href="#goi">2. Cách gọi</a>
+    <a href="#actions">3. Danh sách lệnh</a>
+    <a href="#baiviet">4. Bài viết</a>
+    <a href="#sanpham">5. Sản phẩm</a>
+    <a href="#danhmuc">6. Danh mục</a>
+    <a href="#anh">7. Ảnh</a>
+    <a href="#smart">8. Smart content</a>
+    <a href="#loi">9. Lỗi thường gặp</a>
+    <a href="#prompt">10. Đoạn dán cho AI</a>
+  </nav>
+
+  <main>
+    <section class="card" id="batdau">
+      <h2>1. Bắt đầu</h2>
+      <p>Website có sẵn một cổng API. Bạn tạo một <strong>khoá kết nối</strong> trong trang quản trị, đưa khoá đó cho công cụ AI chạy trên máy bạn (ChatGPT có công cụ, trợ lý lập trình, mô hình chạy offline…), và AI tự thêm bài viết, sản phẩm, ảnh lên website — y như bạn tự nhập tay.</p>
+      <ol>
+        <li>Mở <a href="/admin/" rel="nofollow noreferrer">trang quản trị</a> → mục <strong>Kết nối AI</strong> (chỉ quản trị viên thấy).</li>
+        <li>Đặt tên khoá (ví dụ “Máy tính ở nhà”) → bấm <strong>+ Tạo khoá mới</strong>.</li>
+        <li>Bấm <strong>Chép</strong> ở dòng khoá vừa tạo, dán vào ô dưới đây để mọi ví dụ trong trang tự điền khoá của bạn.</li>
+      </ol>
+      <div class="key-form">
+        <div style="flex:1 1 300px">
+          <label for="key-input">Khoá kết nối của bạn (chỉ nằm trong trình duyệt này, không gửi đi đâu)</label>
+          <input type="text" id="key-input" placeholder="antn_…" autocomplete="off" spellcheck="false">
+        </div>
+        <button class="btn" id="key-clear" type="button">Xoá khỏi trang</button>
+      </div>
+      <p class="muted" id="endpoint-note"></p>
+      <div class="callout warn"><strong>Khoá này ghi được nội dung lên website.</strong> Chỉ dán vào công cụ chạy trên máy bạn, không gửi qua chat công cộng, không đưa lên mạng. Nghi ngờ lộ thì vào mục Kết nối AI bấm <strong>Thu hồi</strong> — khoá ngừng hoạt động ngay.</div>
+      <p class="muted">Khoá chỉ chạm được tới nội dung: bài viết, sản phẩm, danh mục, ảnh, Smart content. Nó <strong>không</strong> xem được liên hệ, đơn hàng, người dùng và <strong>không</strong> sửa được thông tin website.</p>
+    </section>
+
+    <section class="card" id="goi">
+      <h2>2. Cách gọi</h2>
+      <p>Mọi lệnh gửi tới <strong>một địa chỉ duy nhất</strong>. Lệnh ghi dùng <code>POST</code> với thân là JSON (nên đặt <code>Content-Type: text/plain;charset=utf-8</code>); lệnh chỉ đọc gọi được cả bằng <code>GET</code> với tham số trên địa chỉ. Địa chỉ trả về chuyển hướng 1 lần — với <code>curl</code> luôn thêm cờ <code>-L</code>.</p>
+      <div class="block"><pre data-tpl>curl -L -X POST "__URL__" \
+  -H "Content-Type: text/plain;charset=utf-8" \
+  -d '{"key":"__KEY__","action":"ping"}'</pre></div>
+      <div class="block"><pre data-tpl>curl -L "__URL__?action=post.list&amp;key=__KEY__&amp;q=camera%20wifi&amp;limit=5"</pre></div>
+      <p>Phản hồi <strong>luôn</strong> có dạng:</p>
+      <div class="block"><pre>{"ok": true,  "action": "ping", "data": { ... }}
+{"ok": false, "action": "post.create", "error": "Thiếu \"title\" (tiêu đề bài viết)."}</pre></div>
+      <div class="callout">Máy chủ không đặt được mã HTTP lỗi — <strong>luôn kiểm tra trường <code>ok</code></strong>. <code>ok:false</code> thì đọc <code>error</code> (tiếng Việt, nói rõ cần sửa gì).</div>
+      <ul>
+        <li>Gọi <strong>tuần tự</strong> từng lệnh ghi. Hai lệnh ghi cùng lúc thì lệnh sau tự chờ tối đa 45 giây rồi báo bận.</li>
+        <li>Lưu xong, website cập nhật sau khoảng <strong>1-3 phút</strong>. Bài/sản phẩm tạo qua API lên web ngay, không có bước duyệt.</li>
+        <li>Ngày dạng <code>YYYY-MM-DD</code>. Giá là số nguyên VND (vd <code>1290000</code>), <code>null</code> = “Liên hệ”.</li>
+      </ul>
+    </section>
+
+    <section class="card" id="actions">
+      <h2>3. Danh sách lệnh</h2>
+      <p class="muted">Lệnh <code>ping</code> trả về đúng danh sách này. Bản máy đọc cho AI có tool calling: <a href="/admin/api/openapi.json">openapi.json</a>.</p>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Lệnh (action)</th><th>GET?</th><th>Việc làm</th><th>Tham số chính</th></tr></thead>
+        <tbody>
+          <tr><td><code>ping</code></td><td>✔</td><td>Kiểm tra khoá, xem danh sách lệnh</td><td>—</td></tr>
+          <tr><td><code>site.info</code></td><td>✔</td><td>Thông tin website, danh mục, <strong>quy tắc viết bài</strong></td><td>—</td></tr>
+          <tr><td><code>post.list</code></td><td>✔</td><td>Danh sách bài viết (mới nhất trước)</td><td><code>q</code>, <code>category</code>, <code>limit</code> (≤ 200), <code>offset</code></td></tr>
+          <tr><td><code>post.get</code></td><td>✔</td><td>Một bài đầy đủ (có <code>content_html</code>)</td><td><code>slug</code></td></tr>
+          <tr><td><code>post.create</code></td><td>✘</td><td>Tạo bài mới</td><td>mục 4</td></tr>
+          <tr><td><code>post.update</code></td><td>✘</td><td>Sửa bài đã có — chỉ gửi field cần đổi</td><td><code>slug</code> + field</td></tr>
+          <tr><td><code>post.delete</code></td><td>✘</td><td>Xoá bài + ảnh riêng của bài</td><td><code>slug</code></td></tr>
+          <tr><td><code>post-category.list</code></td><td>✔</td><td>Danh mục bài viết</td><td>—</td></tr>
+          <tr><td><code>post-category.create</code></td><td>✘</td><td>Tạo danh mục bài viết</td><td><code>name</code>, <code>slug</code>?, <code>description</code>?, <code>order</code>?</td></tr>
+          <tr><td><code>product.list</code></td><td>✔</td><td>Danh sách sản phẩm</td><td><code>q</code>, <code>category</code>, <code>brand</code>, <code>limit</code>, <code>offset</code></td></tr>
+          <tr><td><code>product.get</code></td><td>✔</td><td>Một sản phẩm đầy đủ</td><td><code>slug</code></td></tr>
+          <tr><td><code>product.create</code></td><td>✘</td><td>Tạo sản phẩm mới</td><td>mục 5</td></tr>
+          <tr><td><code>product.update</code></td><td>✘</td><td>Sửa sản phẩm — chỉ gửi field cần đổi</td><td><code>slug</code> + field</td></tr>
+          <tr><td><code>product.delete</code></td><td>✘</td><td>Xoá sản phẩm + ảnh riêng</td><td><code>slug</code></td></tr>
+          <tr><td><code>product-category.list</code></td><td>✔</td><td>Danh mục sản phẩm</td><td>—</td></tr>
+          <tr><td><code>product-category.create</code></td><td>✘</td><td>Tạo danh mục sản phẩm</td><td>mục 6</td></tr>
+          <tr><td><code>image.upload</code></td><td>✘</td><td>Tải 1 ảnh lên, nhận lại đường dẫn</td><td>mục 7</td></tr>
+          <tr><td><code>smart.guide</code></td><td>✔</td><td>Quy tắc thiết kế Smart content</td><td>—</td></tr>
+          <tr><td><code>smart.get</code></td><td>✔</td><td>Nội dung gốc + ảnh được dùng + bản thiết kế hiện tại</td><td><code>kind</code>, <code>slug</code></td></tr>
+          <tr><td><code>smart.set</code></td><td>✘</td><td>Lưu bản thiết kế (thêm 1 phiên bản)</td><td><code>kind</code>, <code>slug</code>, <code>html</code>, <code>css</code>, <code>note</code></td></tr>
+          <tr><td><code>smart.revert</code></td><td>✘</td><td>Bỏ Smart content, quay về nội dung gốc</td><td><code>kind</code>, <code>slug</code></td></tr>
+        </tbody>
+      </table></div>
+    </section>
+
+    <section class="card" id="baiviet">
+      <h2>4. Bài viết</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Field</th><th>Ý nghĩa</th></tr></thead>
+        <tbody>
+          <tr><td><code>title</code> <span class="req">*</span></td><td>Tiêu đề (40-60 ký tự, có từ khoá chính). Trên web <code>&lt;title&gt;</code> = “Tiêu đề - An Ninh Thái Nguyên”.</td></tr>
+          <tr><td><code>slug</code></td><td>Đường dẫn <code>/&lt;slug&gt;/</code>. Không gửi thì tự sinh từ tiêu đề. <strong>Không đổi được</strong> sau khi tạo.</td></tr>
+          <tr><td><code>category</code> <span class="req">*</span></td><td>Slug 1 danh mục bài viết có sẵn (<code>post-category.list</code>).</td></tr>
+          <tr><td><code>cover</code> <span class="req">*</span></td><td>Ảnh bìa: URL http(s), <code>{"data": base64, "filename"}</code> hoặc <code>/assets/...</code> có sẵn (mục 7).</td></tr>
+          <tr><td><code>description</code> <span class="req">*</span></td><td>Mô tả ngắn 120-160 ký tự — thẻ bài viết + mô tả trên Google.</td></tr>
+          <tr><td><code>content_html</code></td><td>Nội dung HTML: đoạn mở bài, mục <code>&lt;h2&gt;</code>/<code>&lt;h3&gt;</code> (mục lục tự sinh từ <code>&lt;h2&gt;</code>), <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, <code>&lt;table&gt;</code>, ảnh <code>&lt;figure&gt;&lt;img src alt&gt;&lt;figcaption&gt;</code>. Ảnh http(s) trong HTML được tự tải về.</td></tr>
+          <tr><td><code>date</code></td><td>Ngày đăng <code>YYYY-MM-DD</code> (mặc định hôm nay).</td></tr>
+          <tr><td><code>keywords</code>, <code>focus_keyword</code></td><td>Từ khoá SEO (phân cách dấu phẩy) và từ khoá chính.</td></tr>
+        </tbody>
+      </table></div>
+      <div class="block"><pre data-tpl>curl -L -X POST "__URL__" -H "Content-Type: text/plain;charset=utf-8" -d '{
+  "key": "__KEY__",
+  "action": "post.create",
+  "title": "Cách chọn camera wifi cho gia đình",
+  "category": "tu-van-lua-chon",
+  "cover": "https://dia-chi-anh/cover.jpg",
+  "description": "Hướng dẫn chọn camera wifi cho gia đình: độ phân giải, góc quay, lưu trữ, lắp đặt — dễ hiểu, đúng nhu cầu.",
+  "content_html": "&lt;p&gt;Mở bài…&lt;/p&gt;&lt;h2&gt;Độ phân giải bao nhiêu là đủ&lt;/h2&gt;&lt;p&gt;…&lt;/p&gt;",
+  "keywords": "camera wifi, camera gia đình",
+  "focus_keyword": "camera wifi"
+}'</pre></div>
+      <p class="muted">Viết tiếng Việt có dấu, 1.000-2.500 chữ, có ít nhất 2 link nội bộ tới trang có thật (<code>/&lt;slug&gt;/</code> lấy từ <code>product.list</code>, <code>post.list</code>). Không bịa giá, khuyến mãi, bảo hành, thông số.</p>
+    </section>
+
+    <section class="card" id="sanpham">
+      <h2>5. Sản phẩm</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Field</th><th>Ý nghĩa</th></tr></thead>
+        <tbody>
+          <tr><td><code>name</code> <span class="req">*</span></td><td>Tên sản phẩm. <code>slug</code> tự sinh nếu không gửi, không đổi được sau khi tạo.</td></tr>
+          <tr><td><code>categories</code> <span class="req">*</span></td><td>Mảng slug danh mục sản phẩm có sẵn (<code>product-category.list</code>).</td></tr>
+          <tr><td><code>images</code> <span class="req">*</span></td><td>Mảng ảnh (≥ 1, ảnh đầu = ảnh đại diện). Gửi <code>images</code> khi sửa là THAY cả bộ ảnh.</td></tr>
+          <tr><td><code>brand</code>, <code>sku</code>, <code>warranty</code></td><td>Thương hiệu, mã sản phẩm, bảo hành (vd “24 tháng”).</td></tr>
+          <tr><td><code>stock</code></td><td><code>Còn hàng</code> | <code>Hết hàng</code> | <code>Liên hệ</code>.</td></tr>
+          <tr><td><code>price</code>, <code>old_price</code>, <code>vat</code></td><td>Giá bán / giá cũ (số VND, <code>null</code> = Liên hệ); <code>vat</code> true/false. % giảm do website tự tính.</td></tr>
+          <tr><td><code>summary</code>, <code>offers</code>, <code>attrs</code></td><td>Mảng chuỗi: mô tả tóm tắt (gạch đầu dòng), ưu đãi (trống = ưu đãi mặc định), nhãn thẻ (≤ 3 chip hiển thị).</td></tr>
+          <tr><td><code>specs</code></td><td>Bảng thông số <code>[["Độ phân giải","2MP"],["Hồng ngoại","30m"]]</code>.</td></tr>
+          <tr><td><code>description_html</code></td><td>Mô tả chi tiết (HTML).</td></tr>
+          <tr><td><code>badge</code>, <code>seo_description</code>, <code>keywords</code>, <code>focus_keyword</code></td><td>Nhãn (vd “Mẫu mới”), mô tả SEO, từ khoá.</td></tr>
+        </tbody>
+      </table></div>
+      <div class="block"><pre data-tpl>curl -L -X POST "__URL__" -H "Content-Type: text/plain;charset=utf-8" -d '{
+  "key": "__KEY__",
+  "action": "product.create",
+  "name": "Camera Imou IPC-A22EP 2MP",
+  "categories": ["camera-imou"],
+  "brand": "Imou", "sku": "IPC-A22EP", "warranty": "24 tháng", "stock": "Còn hàng",
+  "price": 590000, "old_price": 690000, "vat": true,
+  "images": ["https://dia-chi-anh/a22-1.jpg", "https://dia-chi-anh/a22-2.jpg"],
+  "summary": ["Độ phân giải 2MP", "Quay quét 355°", "Đàm thoại 2 chiều"],
+  "specs": [["Độ phân giải", "2MP"], ["Hồng ngoại", "10m"]],
+  "attrs": ["2MP", "Wi-Fi"],
+  "description_html": "&lt;p&gt;…&lt;/p&gt;"
+}'</pre></div>
+      <div class="block"><pre data-tpl>curl -L -X POST "__URL__" -H "Content-Type: text/plain;charset=utf-8" \
+  -d '{"key":"__KEY__","action":"product.update","slug":"camera-imou-ipc-a22ep-2mp","price":550000}'</pre></div>
+      <p class="muted">Chỉ dùng thông số chủ website cung cấp — tuyệt đối không bịa. Sản phẩm không có AI tự viết nội dung trong trang quản trị.</p>
+    </section>
+
+    <section class="card" id="danhmuc">
+      <h2>6. Danh mục</h2>
+      <p>Danh mục bài viết là các nhóm trong trang <code>/tin-tuc/</code>. Danh mục sản phẩm có trang riêng <code>/&lt;slug&gt;/</code>, tối đa 1 cấp cha.</p>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Field (product-category.create)</th><th>Ý nghĩa</th></tr></thead>
+        <tbody>
+          <tr><td><code>name</code> <span class="req">*</span></td><td>Tên danh mục; <code>slug</code> tự sinh nếu không gửi.</td></tr>
+          <tr><td><code>parent</code></td><td>Slug danh mục cha (phải là danh mục gốc).</td></tr>
+          <tr><td><code>layout</code></td><td><code>category</code> | <code>brand</code> | <code>subcategory</code> | <code>lock</code> | <code>network</code> (kiểu trang).</td></tr>
+          <tr><td><code>image</code>, <code>description</code>, <code>order</code></td><td>Ảnh/icon (như mục 7), mô tả, thứ tự.</td></tr>
+        </tbody>
+      </table></div>
+      <p class="muted">Menu đầu website không tự đổi theo danh mục mới — báo bên kỹ thuật nếu cần thêm vào menu.</p>
+    </section>
+
+    <section class="card" id="anh">
+      <h2>7. Ảnh</h2>
+      <p>Ở mọi chỗ nhận ảnh (<code>cover</code>, <code>images</code>, <code>image</code>, ảnh trong HTML) bạn gửi được 3 dạng:</p>
+      <ul>
+        <li>URL <code>https://…</code> — máy chủ tự tải về và lưu vào thư mục riêng của bài/sản phẩm.</li>
+        <li><code>{"data": "&lt;base64&gt;", "filename": "anh.jpg"}</code> — ảnh từ máy bạn (được có tiền tố <code>data:image/…;base64,</code>).</li>
+        <li><code>/assets/...</code> — ảnh đã có trên website (ảnh chung dùng thẳng; ảnh riêng của bài/sản phẩm khác được chép sang).</li>
+      </ul>
+      <p>Tối đa <strong>5MB/ảnh</strong>; nên tự nén còn cạnh dài ~1600px. Muốn chèn ảnh vào HTML: tải trước bằng <code>image.upload</code> rồi dùng <code>path</code> trả về.</p>
+      <div class="block"><pre data-tpl>curl -L -X POST "__URL__" -H "Content-Type: text/plain;charset=utf-8" \
+  -d '{"key":"__KEY__","action":"image.upload","target":"post-content","slug":"cach-chon-camera-wifi-cho-gia-dinh","url":"https://dia-chi-anh/so-do.jpg"}'
+# → {"ok":true,"data":{"path":"/assets/img/posts/cach-chon-camera-wifi-cho-gia-dinh/c02.jpg","url":"https://anninhthainguyen.vn/assets/..."}}</pre></div>
+      <p class="muted"><code>target</code>: <code>post-cover</code> | <code>post-content</code> | <code>product-gallery</code> | <code>product-content</code> | <code>category</code> (ảnh danh mục không cần <code>slug</code>).</p>
+    </section>
+
+    <section class="card" id="smart">
+      <h2>8. Smart content</h2>
+      <p>Smart content dàn trang lại bài viết / mô tả sản phẩm thành bố cục đẹp (bảng, thẻ, quy trình, slider, hỏi đáp…). Nội dung gốc luôn được giữ; màu luôn theo màu website.</p>
+      <ol>
+        <li>Gọi <code>smart.guide</code> 1 lần mỗi phiên — quy tắc thiết kế BẮT BUỘC tuân theo.</li>
+        <li><code>smart.get {"kind":"post"|"product","slug":"…"}</code> → <code>source_html</code>, <code>images</code>, <code>smart</code> hiện tại.</li>
+        <li>Thiết kế mới từ <code>source_html</code>; sửa theo yêu cầu thì sửa trên <code>smart.html</code>/<code>smart.css</code> hiện tại, chỉ đổi đúng phần được nhắc.</li>
+        <li><code>smart.set {"kind","slug","html","css","note"}</code> — lưu và lên web sau 1-3 phút; giữ 5 phiên bản, khôi phục được trong trang quản trị.</li>
+        <li>Bỏ Smart content: <code>smart.revert {"kind","slug"}</code>.</li>
+      </ol>
+      <div class="block"><pre data-tpl>curl -L "__URL__?action=smart.guide&amp;key=__KEY__"</pre></div>
+      <p class="muted">Sửa chữ gốc bằng <code>post.update</code>/<code>product.update</code> không làm đổi bản Smart content đang hiển thị — muốn trang hiện nội dung mới thì thiết kế lại.</p>
+    </section>
+
+    <section class="card" id="loi">
+      <h2>9. Lỗi thường gặp</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Thông báo</th><th>Cách xử lý</th></tr></thead>
+        <tbody>
+          <tr><td>Khoá kết nối không còn hiệu lực</td><td>Khoá đã bị thu hồi — tạo khoá mới trong mục Kết nối AI.</td></tr>
+          <tr><td>… đã tồn tại. Dùng "….update"</td><td><code>create</code> không ghi đè — dùng <code>update</code> hoặc đặt <code>slug</code> khác.</td></tr>
+          <tr><td>Danh mục … không tồn tại</td><td>Gọi <code>*-category.list</code> để lấy slug đúng, hoặc tạo bằng <code>*-category.create</code>.</td></tr>
+          <tr><td>… phải gọi bằng POST</td><td>Lệnh ghi không chạy bằng GET.</td></tr>
+          <tr><td>Hệ thống đang ghi một nội dung khác</td><td>Đợi vài giây rồi gọi lại; đừng chạy song song nhiều lệnh ghi.</td></tr>
+          <tr><td>URL … đang là một trang có sẵn</td><td>Đường dẫn trùng trang tĩnh của website — đặt <code>slug</code> khác.</td></tr>
+          <tr><td>Nhận về trang HTML thay vì JSON</td><td>Thiếu cờ <code>-L</code> (theo chuyển hướng) hoặc sai địa chỉ.</td></tr>
+        </tbody>
+      </table></div>
+    </section>
+
+    <section class="card" id="prompt">
+      <h2>10. Đoạn dán cho AI</h2>
+      <p>Chép đoạn dưới (đã kèm địa chỉ và khoá bạn dán ở mục 1) vào ô chat của công cụ AI là dùng được ngay.</p>
+      <textarea class="prompt-box" id="prompt-text" readonly></textarea>
+      <p><button class="btn" id="prompt-copy" type="button">Chép đoạn hướng dẫn</button></p>
+    </section>
+  </main>
+</div>
+
+<script>
+(function () {
+  // Địa chỉ web app (GAS.md mục 0 - CMS_URL). Đổi deployment thì sửa cả html/admin/index.html.
+  var endpoint = "https://script.google.com/macros/s/AKfycbw7iAdl8RInlsR6SF49btpqUHHyZm1oF7Nu2X2RR5iN3iAhmpC5WN_kW7HUlMqny_W1/exec";
+  var keyInput = document.getElementById("key-input");
+  var LS = "antn_api_doc_key";
+
+  document.getElementById("endpoint-note").textContent = "Địa chỉ kết nối của website này: " + endpoint;
+
+  var blocks = [].slice.call(document.querySelectorAll("pre[data-tpl]"));
+  blocks.forEach(function (pre) {
+    pre.dataset.raw = pre.textContent;
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn btn-sm copy";
+    btn.textContent = "Chép";
+    btn.addEventListener("click", function () { copy(pre.textContent, btn); });
+    pre.parentNode.appendChild(btn);
+  });
+
+  function currentKey() { return keyInput.value.trim(); }
+
+  function render() {
+    var key = currentKey() || "<KHOÁ>";
+    blocks.forEach(function (pre) {
+      pre.textContent = pre.dataset.raw.split("__URL__").join(endpoint).split("__KEY__").join(key);
+    });
+    document.getElementById("prompt-text").value = buildPrompt(currentKey());
+  }
+
+  function copy(text, btn) {
+    var done = function (ok) {
+      var old = btn.textContent;
+      btn.textContent = ok ? "Đã chép" : "Hãy chép tay";
+      setTimeout(function () { btn.textContent = old; }, 1600);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { done(true); }, function () { done(fallback(text)); });
+      return;
+    }
+    done(fallback(text));
+  }
+
+  function fallback(text) {
+    try {
+      var ta = document.createElement("textarea");
+      ta.value = text;
+      ta.style.position = "fixed";
+      ta.style.top = "-2000px";
+      document.body.appendChild(ta);
+      ta.select();
+      var ok = document.execCommand("copy");
+      document.body.removeChild(ta);
+      return ok;
+    } catch (e) { return false; }
+  }
+
+  function buildPrompt(key) {
+    var k = key || "<dán khoá kết nối vào đây>";
+    return [
+      "Bạn được phép đăng nội dung lên website https://anninhthainguyen.vn (An Ninh Thái Nguyên — camera, báo cháy, khoá cửa vân tay, thiết bị mạng) qua một API JSON.",
+      "",
+      "ĐỊA CHỈ: " + endpoint,
+      "KHOÁ: " + k,
+      "TÀI LIỆU: https://anninhthainguyen.vn/admin/api/ (máy đọc: https://anninhthainguyen.vn/admin/api/openapi.json)",
+      "",
+      "CÁCH GỌI — lệnh ghi là POST JSON tới đúng địa chỉ trên (nhớ cờ -L):",
+      "curl -L -X POST \"" + endpoint + "\" -H \"Content-Type: text/plain;charset=utf-8\" -d '{\"key\":\"" + k + "\",\"action\":\"ping\"}'",
+      "Phản hồi luôn là {\"ok\":true,\"data\":...} hoặc {\"ok\":false,\"error\":\"...\"}. LUÔN đọc \"ok\" trước.",
+      "",
+      "CÁC ACTION: ping, site.info, post.list, post.get, post.create, post.update, post.delete, post-category.list, post-category.create,",
+      "product.list, product.get, product.create, product.update, product.delete, product-category.list, product-category.create,",
+      "image.upload, smart.guide, smart.get, smart.set, smart.revert",
+      "",
+      "QUY TẮC: đầu phiên gọi site.info để đọc quy tắc viết bài; category/categories là slug có sẵn; ảnh là URL http(s), {\"data\":base64} hoặc /assets/...;",
+      "update chỉ gửi field cần đổi; gọi tuần tự; viết tiếng Việt có dấu; KHÔNG bịa giá, khuyến mãi, bảo hành, thông số.",
+      "",
+      "KHÔNG chia sẻ khoá này ra ngoài máy của chủ website."
+    ].join("\n");
+  }
+
+  try { keyInput.value = sessionStorage.getItem(LS) || ""; } catch (e) { /* bỏ qua */ }
+  keyInput.addEventListener("input", function () {
+    try { sessionStorage.setItem(LS, currentKey()); } catch (e) { /* bỏ qua */ }
+    render();
+  });
+  document.getElementById("key-clear").addEventListener("click", function () {
+    keyInput.value = "";
+    try { sessionStorage.removeItem(LS); } catch (e) { /* bỏ qua */ }
+    render();
+  });
+  document.getElementById("prompt-copy").addEventListener("click", function () {
+    copy(document.getElementById("prompt-text").value, this);
+  });
+  render();
+})();
+</script>
+</body>
+</html>

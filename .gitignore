@@ -4,3 +4,7 @@ darf
 # headless Chrome profiles from local test scripts
 prof-*/
 __pycache__/
+
+# CMS (Google Apps Script) - đẩy bằng clasp, không track git (gotcha #10)
+gas/
+.clasp.json

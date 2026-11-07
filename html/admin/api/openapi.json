@@ -1,0 +1,468 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "API nội dung An Ninh Thái Nguyên",
+  "version": "1.0",
+  "description": "API cho AI chạy trên máy chủ website (khoá kết nối antn_…, chỉ quyền nội dung). MỌI lệnh gửi tới cùng một địa chỉ; lệnh ghi dùng POST với thân JSON (Content-Type text/plain;charset=utf-8 để tránh preflight), lệnh đọc gọi được bằng GET. Địa chỉ chuyển hướng 1 lần (curl -L). Máy chủ luôn trả HTTP 200: kiểm tra trường ok. Tài liệu: https://anninhthainguyen.vn/admin/api/ - quy tắc viết bài: action site.info."
+ },
+ "servers": [
+  {
+   "url": "https://script.google.com/macros/s/AKfycbw7iAdl8RInlsR6SF49btpqUHHyZm1oF7Nu2X2RR5iN3iAhmpC5WN_kW7HUlMqny_W1/exec"
+  }
+ ],
+ "paths": {
+  "/": {
+   "post": {
+    "operationId": "callAction",
+    "summary": "Gọi một action (đọc hoặc ghi)",
+    "requestBody": {
+     "required": true,
+     "content": {
+      "text/plain": {
+       "schema": {
+        "$ref": "#/components/schemas/Request"
+       }
+      },
+      "application/json": {
+       "schema": {
+        "$ref": "#/components/schemas/Request"
+       }
+      }
+     }
+    },
+    "responses": {
+     "200": {
+      "description": "Kết quả (luôn HTTP 200 - kiểm tra trường ok)",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Response"
+        }
+       }
+      }
+     }
+    }
+   },
+   "get": {
+    "operationId": "readAction",
+    "summary": "Gọi một action CHỈ ĐỌC bằng query string",
+    "parameters": [
+     {
+      "name": "key",
+      "in": "query",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     },
+     {
+      "name": "action",
+      "in": "query",
+      "required": true,
+      "schema": {
+       "type": "string",
+       "enum": [
+        "ping",
+        "post.list",
+        "post.get",
+        "post-category.list",
+        "product.list",
+        "product.get",
+        "product-category.list",
+        "smart.guide",
+        "smart.get",
+        "site.info"
+       ]
+      }
+     },
+     {
+      "name": "slug",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "string"
+      }
+     },
+     {
+      "name": "kind",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "string",
+       "enum": [
+        "post",
+        "product"
+       ]
+      }
+     },
+     {
+      "name": "q",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "string"
+      }
+     },
+     {
+      "name": "category",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "string"
+      }
+     },
+     {
+      "name": "brand",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "string"
+      }
+     },
+     {
+      "name": "limit",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "integer",
+       "maximum": 200
+      }
+     },
+     {
+      "name": "offset",
+      "in": "query",
+      "required": false,
+      "schema": {
+       "type": "integer"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "Kết quả (luôn HTTP 200 - kiểm tra trường ok)",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Response"
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ },
+ "components": {
+  "schemas": {
+   "Action": {
+    "type": "string",
+    "enum": [
+     "ping",
+     "post.list",
+     "post.get",
+     "post.create",
+     "post.update",
+     "post.delete",
+     "post-category.list",
+     "post-category.create",
+     "product.list",
+     "product.get",
+     "product.create",
+     "product.update",
+     "product.delete",
+     "product-category.list",
+     "product-category.create",
+     "image.upload",
+     "smart.guide",
+     "smart.get",
+     "smart.set",
+     "smart.revert",
+     "site.info"
+    ],
+    "description": "ping trả về đúng danh sách này. Action đọc (gọi được bằng GET): ping, post.list, post.get, post-category.list, product.list, product.get, product-category.list, smart.guide, smart.get, site.info"
+   },
+   "Response": {
+    "type": "object",
+    "required": [
+     "ok"
+    ],
+    "properties": {
+     "ok": {
+      "type": "boolean"
+     },
+     "action": {
+      "type": "string"
+     },
+     "data": {
+      "description": "Kết quả khi ok=true"
+     },
+     "error": {
+      "type": "string",
+      "description": "Thông báo tiếng Việt khi ok=false"
+     }
+    }
+   },
+   "Image": {
+    "description": "Ảnh: URL http(s) (máy chủ tự tải về), đường dẫn \"/assets/...\" có sẵn, hoặc {data: base64, filename}.",
+    "oneOf": [
+     {
+      "type": "string"
+     },
+     {
+      "type": "object",
+      "properties": {
+       "url": {
+        "type": "string"
+       },
+       "data": {
+        "type": "string",
+        "description": "base64, được có tiền tố data:image/...;base64,"
+       },
+       "filename": {
+        "type": "string"
+       }
+      }
+     }
+    ]
+   },
+   "Request": {
+    "type": "object",
+    "required": [
+     "key",
+     "action"
+    ],
+    "properties": {
+     "key": {
+      "type": "string",
+      "description": "Khoá kết nối antn_… (tạo trong trang quản trị, mục Kết nối AI)"
+     },
+     "action": {
+      "$ref": "#/components/schemas/Action"
+     },
+     "slug": {
+      "type": "string",
+      "description": "Đường dẫn /<slug>/ - bắt buộc cho get/update/delete/smart.*; tự sinh khi create nếu bỏ trống; không đổi được sau khi tạo"
+     },
+     "q": {
+      "type": "string",
+      "description": "Tìm không dấu (list)"
+     },
+     "category": {
+      "type": "string",
+      "description": "post.create/update: slug danh mục bài viết; post.list/product.list: lọc theo danh mục"
+     },
+     "brand": {
+      "type": "string",
+      "description": "Thương hiệu (product)"
+     },
+     "limit": {
+      "type": "integer",
+      "maximum": 200
+     },
+     "offset": {
+      "type": "integer"
+     },
+     "title": {
+      "type": "string",
+      "description": "Tiêu đề bài viết"
+     },
+     "cover": {
+      "$ref": "#/components/schemas/Image"
+     },
+     "description": {
+      "type": "string",
+      "description": "Bài viết: mô tả ngắn 120-160 ký tự. Danh mục: mô tả"
+     },
+     "content_html": {
+      "type": "string",
+      "description": "Nội dung bài viết (HTML)"
+     },
+     "date": {
+      "type": "string",
+      "description": "YYYY-MM-DD",
+      "format": "date"
+     },
+     "keywords": {
+      "type": "string",
+      "description": "Từ khoá SEO, phân cách dấu phẩy"
+     },
+     "focus_keyword": {
+      "type": "string",
+      "description": "Từ khoá chính"
+     },
+     "name": {
+      "type": "string",
+      "description": "Tên sản phẩm / danh mục"
+     },
+     "categories": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "Slug danh mục sản phẩm (phần tử đầu = danh mục chính)"
+     },
+     "images": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/Image"
+      },
+      "description": "Ảnh sản phẩm, ảnh đầu = ảnh đại diện. Gửi khi update = thay cả bộ"
+     },
+     "sku": {
+      "type": "string",
+      "description": "Mã sản phẩm"
+     },
+     "warranty": {
+      "type": "string",
+      "description": "Bảo hành, vd \"24 tháng\""
+     },
+     "stock": {
+      "type": "string",
+      "enum": [
+       "Còn hàng",
+       "Hết hàng",
+       "Liên hệ"
+      ]
+     },
+     "price": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "VND; null = Liên hệ"
+     },
+     "old_price": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Giá cũ (VND)"
+     },
+     "vat": {
+      "type": "boolean",
+      "description": "Giá đã gồm VAT"
+     },
+     "summary": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "Mô tả tóm tắt (gạch đầu dòng)"
+     },
+     "offers": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "Ưu đãi; rỗng = ưu đãi mặc định của website"
+     },
+     "specs": {
+      "type": "array",
+      "items": {
+       "type": "array",
+       "items": {
+        "type": "string"
+       },
+       "minItems": 2,
+       "maxItems": 2
+      },
+      "description": "[[tên, giá trị], ...]"
+     },
+     "description_html": {
+      "type": "string",
+      "description": "Mô tả chi tiết sản phẩm (HTML)"
+     },
+     "attrs": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "Nhãn thẻ (≤ 3 hiển thị)"
+     },
+     "badge": {
+      "type": "string",
+      "description": "vd \"Mẫu mới\""
+     },
+     "featured": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "0 = không hiện trang chủ; n = thứ tự trên trang chủ"
+     },
+     "seo_description": {
+      "type": "string",
+      "description": "Mô tả SEO sản phẩm"
+     },
+     "parent": {
+      "type": "string",
+      "description": "Slug danh mục cha (product-category.create)"
+     },
+     "layout": {
+      "type": "string",
+      "enum": [
+       "category",
+       "brand",
+       "subcategory",
+       "lock",
+       "network"
+      ]
+     },
+     "image": {
+      "$ref": "#/components/schemas/Image"
+     },
+     "order": {
+      "type": "integer"
+     },
+     "target": {
+      "type": "string",
+      "enum": [
+       "post-cover",
+       "post-content",
+       "product-gallery",
+       "product-content",
+       "category"
+      ],
+      "description": "image.upload: ảnh dùng ở đâu"
+     },
+     "url": {
+      "type": "string",
+      "description": "image.upload: URL ảnh"
+     },
+     "data": {
+      "type": "string",
+      "description": "image.upload: base64"
+     },
+     "filename": {
+      "type": "string"
+     },
+     "kind": {
+      "type": "string",
+      "enum": [
+       "post",
+       "product"
+      ],
+      "description": "smart.*"
+     },
+     "html": {
+      "type": "string",
+      "description": "smart.set: HTML bên trong khung .smc-root"
+     },
+     "css": {
+      "type": "string",
+      "description": "smart.set: CSS (tự giới hạn phạm vi)"
+     },
+     "note": {
+      "type": "string",
+      "description": "smart.set: 1 câu tóm tắt đã làm gì"
+     },
+     "mode": {
+      "type": "string",
+      "enum": [
+       "keep",
+       "rewrite"
+      ]
+     }
+    }
+   }
+  }
+ }
+}

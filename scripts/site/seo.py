@@ -33,6 +33,8 @@ ORG_ID = f"{SITE}/#organization"
 SITE_ID = f"{SITE}/#website"
 
 # Utility pages: keep out of the index and the sitemap.
+# Trang quản trị CMS (/admin/, /admin/api/) tự có meta noindex - không thêm SEO, không vào sitemap.
+SKIP_DIRS = {"admin"}
 NOINDEX = {"gio-hang", "thanh-toan", "taikhoan", "tim-kiem", "san-pham-da-xem"}
 
 BLOCK = re.compile(r"\s*<!-- seo:start -->.*?<!-- seo:end -->", re.S)
@@ -239,7 +241,7 @@ def process(slug, path):
 
 pages = [("", os.path.join(ROOT, "index.html"))]
 pages += [(d, os.path.join(ROOT, d, "index.html")) for d in sorted(os.listdir(ROOT))
-          if os.path.isfile(os.path.join(ROOT, d, "index.html"))]
+          if d not in SKIP_DIRS and os.path.isfile(os.path.join(ROOT, d, "index.html"))]
 indexable = [slug for slug, path in pages if process(slug, path)]
 
 

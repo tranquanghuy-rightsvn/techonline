@@ -208,7 +208,14 @@ Menu (`menu-data.js`) vẫn sửa tay.
 
 ## IX. Bug đã gặp ở dự án này
 
-- (chưa có — ghi lại khi gặp, kèm cách vá)
+- `cleanImagePath_` chặn mọi khoảng trắng → 7 danh mục migrate có ảnh `logo_logo (1).png` không Lưu
+  lại được. Vá: cho phép dấu cách, chỉ chặn `"'<>`, xuống dòng, tab, `\`.
+- `saveCategory` sắp lại cả file theo `order` → Lưu 1 danh mục làm xáo 117/118 dòng. Vá: giữ thứ
+  tự file (danh mục mới thêm cuối); build + Admin tự sắp theo `order`.
+- `seo.py` coi `/admin/` là trang công khai (thêm SEO index + đưa vào sitemap). Vá: `SKIP_DIRS =
+  {"admin"}` — trang CMS tự có meta noindex.
+- `gas/` chỉ quản lý ở máy local (`.gitignore`), KHÔNG commit; đẩy bằng clasp. Test
+  (`tools/gas-api-test/`, `scripts/check_gas_client.mjs`) đọc `gas/` local nên chỉ chạy được ở máy có `gas/`.
 
 ## X. Script Properties (tên cố định)
 

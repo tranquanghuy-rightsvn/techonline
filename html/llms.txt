@@ -1,0 +1,23 @@
+# An Ninh Thái Nguyên
+
+> Cửa hàng tại Thái Nguyên bán và lắp đặt camera giám sát (Imou, Dahua, KBVision, Kabevision…), thiết bị báo cháy, khoá cửa vân tay, thiết bị mạng Wi-Fi (TP-Link…) và ổ cứng lưu trữ. Website: https://anninhthainguyen.vn — hotline 0913 286 293.
+
+Mọi trang nội dung có dạng https://anninhthainguyen.vn/<slug>/ (bài viết, sản phẩm, danh mục sản phẩm cùng dạng). Tin tức: https://anninhthainguyen.vn/tin-tuc/ . Sơ đồ trang: https://anninhthainguyen.vn/sitemap.xml
+
+## Trang chính
+
+- [Trang chủ](https://anninhthainguyen.vn/)
+- [Camera giám sát](https://anninhthainguyen.vn/camera-giam-sat/)
+- [Tin tức](https://anninhthainguyen.vn/tin-tuc/)
+- [Liên hệ](https://anninhthainguyen.vn/lien-he/)
+
+## API cho AI của chủ website (cần khoá kết nối)
+
+Chủ website có thể cho một công cụ AI chạy trên máy của họ đăng/sửa bài viết, sản phẩm, danh mục, ảnh và Smart content. Cần khoá kết nối `antn_…` do quản trị viên tạo trong trang quản trị (mục Kết nối AI); khoá chỉ có quyền nội dung (không xem liên hệ, đơn hàng, người dùng).
+
+- [Hướng dẫn API (tiếng Việt)](https://anninhthainguyen.vn/admin/api/)
+- [Mô tả máy đọc OpenAPI](https://anninhthainguyen.vn/admin/api/openapi.json)
+- Địa chỉ gọi: https://script.google.com/macros/s/AKfycbw7iAdl8RInlsR6SF49btpqUHHyZm1oF7Nu2X2RR5iN3iAhmpC5WN_kW7HUlMqny_W1/exec — POST JSON `{"key": "...", "action": "...", ...}` (curl -L); phản hồi `{"ok": true, "data": ...}` hoặc `{"ok": false, "error": "..."}`.
+- Đầu phiên gọi `site.info` để đọc quy tắc viết bài; `smart.guide` trước khi làm Smart content.
+
+Action: ping, site.info, post.list, post.get, post.create, post.update, post.delete, post-category.list, post-category.create, product.list, product.get, product.create, product.update, product.delete, product-category.list, product-category.create, image.upload, smart.guide, smart.get, smart.set, smart.revert
