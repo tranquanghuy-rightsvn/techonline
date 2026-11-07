@@ -1,5 +1,3 @@
-const LOCK_PRODUCT_IMG_BASE = 'assets/images/khoa-cua-van-tay/products/';
-
 function escapeHtmlLock(str) {
   return String(str)
     .replace(/&/g, '&amp;')
@@ -38,7 +36,7 @@ function renderLockProductCard(p) {
     <article class="product-card">
       ${newBadge}
       <a href="${href}" class="product-card__img">
-        <img src="${LOCK_PRODUCT_IMG_BASE}${p.image}" alt="${escapeHtmlLock(p.name)}" loading="lazy">
+        <img src="${p.image}" alt="${escapeHtmlLock(p.name)}" loading="lazy">
         ${ribbon}
       </a>
       <div class="product-card__body">

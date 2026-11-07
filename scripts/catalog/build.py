@@ -32,22 +32,12 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(REPO, "html")
 sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.join(REPO, "scripts", "site"))
 
-import smart_scope  # noqa: E402
+import smart  # noqa: E402  scripts/site/smart.py (node + html/js/smart-scope.js)
+from settings import load as load_settings, rel  # noqa: E402  scripts/site/settings.py
 
-try:  # shared site settings (scripts/site/settings.py), when present
-    from settings import load as _load_settings  # noqa: E402
-    S = _load_settings()
-except ImportError:  # pragma: no cover - standalone checkout
-    S = {"brand": "An Ninh Thái Nguyên", "hotline": "0913.286.293", "email": "anninhthainguyen@gmail.com",
-         "website": "https://anninhthainguyen.vn", "default_offers": []}
-    S["zalo"] = S["hotline"]
-
+S = load_settings()
 BRAND = S["brand"]
-DEFAULT_OFFERS = S.get("default_offers") or [
-    "Cam kết sản phẩm chính hãng", "Miễn phí giao hàng toàn quốc",
-    "Miễn phí lắp đặt tận nhà tại nội thành Hà Nội và Hồ Chí Minh", "Miễn phí hỗ trợ từ xa 24/7",
-    "Hỗ trợ cấu hình xem camera qua điện thoại", "Bảo hành chính hãng 24 tháng",
-    "Nhận hàng, kiểm tra hàng trước khi thanh toán", "Lỗi đổi mới trong 30 ngày đầu sử dụng"]
+DEFAULT_OFFERS = S["default_offers"]
 
 # How many rows are shown before "Xem thêm" (the rest get the collapsed class).
 SUMMARY_VISIBLE, DESC_VISIBLE, SPECS_VISIBLE = 6, 6, 4
@@ -108,12 +98,6 @@ def load_json(p, default=None):
         return json.loads(read(p))
     except (OSError, ValueError):
         return default
-
-
-def rel(src):
-    """<base href="/">: '/assets/x.jpg' is written as 'assets/x.jpg' in the pages."""
-    src = src or ""
-    return src[1:] if src.startswith("/") and not src.startswith("//") else src
 
 
 def txt(v):
@@ -525,7 +509,7 @@ def seo_description(p):
     return " ".join(plain) or f"{p['name']} chính hãng, giá tốt tại {BRAND}."
 
 
-def product_page(p, smart):
+def product_page(p, sm):
     s = SHELL
     s = sub1(r"<title>.*?</title>", f"<title>{esc(p['name'], quote=False)} | {esc(BRAND, quote=False)}</title>", s)
     s = sub1(r'<meta\s+name="description"\s+content="[^"]*"\s*/?>',
@@ -549,18 +533,17 @@ def product_page(p, smart):
              f'<button type="button" class="pdp-actions__btn pdp-actions__btn--buy">{buy}<span>', m)
     m = sub1(r'<div class="pdp-ads">.*?</div>', ads_block(p), m)
     m = sub1(r'<div class="pdp-description__body" id="js-desc-body">.*?</div>(?=\s*<button type="button" class="pdp-description__toggle")',
-             description_body(p, smart), m)
+             description_body(p, sm), m)
     m = sub1(r'<section class="pdp-reviews".*?</section>', reviews_section(p), m)
     m = sub1(r'<div class="pdp-specs">.*?</button>\s*</div>', specs_block(p), m)
     cards = "".join(similar_card(q) for q in similar(p))
     m = sub1(r'<div class="pdp-tabs__track">.*?(?=\s*<button type="button" class="pdp-tabs__arrow pdp-tabs__arrow--prev")',
              f'<div class="pdp-tabs__track">{cards}</div>', m)
     s = s[:i] + m + s[j:]
-    if smart:
-        style = f"\n  <style>{smart[1]}</style>" if smart[1] else ""
-        s = s.replace("</head>", f'  <link rel="stylesheet" href="css/smart.css">{style}\n</head>', 1)
+    if sm:
+        s = s.replace("</head>", smart.head_tags(sm[1]) + "</head>", 1)
         s = s.replace('<script src="js/main.js" defer></script>',
-                      '<script src="js/smart.js" defer></script>\n  <script src="js/main.js" defer></script>', 1)
+                      smart.JS_TAG + '\n  <script src="js/main.js" defer></script>', 1)
     return s
 
 
@@ -672,10 +655,10 @@ def category_page(cat):
 
 # ------------------------------------------------------------------ run
 def main():
-    smart = smart_scope.render_many({s: PROD[s].get("smart") for s in ORDER})
+    smarts = smart.render_many({s: PROD[s].get("smart") for s in ORDER})
     written = 0
     for slug in ORDER:
-        if write(os.path.join(ROOT, slug, "index.html"), product_page(PROD[slug], smart.get(slug))):
+        if write(os.path.join(ROOT, slug, "index.html"), product_page(PROD[slug], smarts.get(slug))):
             written += 1
     print(f"product pages: {len(ORDER)} ({written} written)")
 

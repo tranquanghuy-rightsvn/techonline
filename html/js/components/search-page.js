@@ -42,11 +42,26 @@
       .filter((p) => tokens.every((t) => p.norm.includes(t) || p.compact.includes(t)))
       .sort((a, b) => {
         const q = tokens.join(' ');
-        return (b.norm.startsWith(q) - a.norm.startsWith(q)) || a.name.length - b.name.length;
+        return ((a.type === 'post') - (b.type === 'post')) || (b.norm.startsWith(q) - a.norm.startsWith(q)) || a.name.length - b.name.length;
       });
   }
 
+  // Posts (type: 'post') are listed after products with a "Bài viết" label instead of a price.
+  function postCard(p) {
+    return `
+      <article class="product-card">
+        <a href="${escapeHtml(p.href)}" class="product-card__img">
+          <img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.name)}" loading="lazy">
+        </a>
+        <div class="product-card__body">
+          <a href="${escapeHtml(p.href)}" class="product-card__name"><h3>${escapeHtml(p.name)}</h3></a>
+          <div class="product-card__price-row"><p class="product-card__price product-card__price--contact">Bài viết</p></div>
+        </div>
+      </article>`;
+  }
+
   function card(p) {
+    if (p.type === 'post') return postCard(p);
     const contact = !p.price || p.price === 'Liên hệ';
     const priceRow = contact
       ? '<p class="product-card__price product-card__price--contact">Liên hệ</p>'
@@ -80,7 +95,7 @@
   document.querySelectorAll('.site-header__search-input').forEach((el) => { el.value = query; });
 
   if (!query) {
-    summary.textContent = `Nhập từ khóa để tìm trong ${SEARCH_INDEX.length} sản phẩm.`;
+    summary.textContent = `Nhập từ khóa để tìm trong ${SEARCH_INDEX.filter((p) => p.type !== 'post').length} sản phẩm.`;
     input.focus();
     return;
   }

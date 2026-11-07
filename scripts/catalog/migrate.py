@@ -107,8 +107,9 @@ def parse_product(slug, s):
     p = OrderedDict(slug=slug)
     p["name"] = text(g(r'<h1 class="pdp__title">(.*?)</h1>').group(1))
     meta = g(r'<div class="pdp__meta">(.*?)</div>').group(1)
-    m = re.search(r'Thương hiệu:\s*<a[^>]*>(.*?)</a>', meta, re.S)
-    p["brand"] = text(m.group(1)) if m else ""
+    m = re.search(r'Thương hiệu:\s*<a href="([^"]*)"[^>]*>(.*?)</a>', meta, re.S)
+    p["brand"] = text(m.group(2)) if m else ""
+    p["_brand_href"] = m.group(1).strip("/") if m else ""
     m = re.search(r'Mã sản phẩm:\s*<strong>(.*?)</strong>', meta, re.S)
     p["sku"] = text(m.group(1)) if m else ""
     m = re.search(r'class="pdp__meta-warranty">(.*?)</strong>', meta, re.S)
@@ -413,7 +414,10 @@ for sl, p in products.items():
     cs = membership[sl]
     want = [h.strip("/") for h in (p["_similar"] or [])]
     best = None
-    for c in cs:
+    # several categories may reproduce the list; prefer the one under the brand page the
+    # product's brand link pointed to (the build links the brand to the primary root)
+    root_of = lambda c: root_of(cats[c]["parent"]) if cats[c]["parent"] else c  # noqa: E731
+    for c in sorted(cs, key=lambda c: root_of(c) != p.get("_brand_href")):
         members = sorted((x for x in products if c in membership[x] and x != sl), key=pos.get)
         if members[:len(want)] == want and len(want) == min(4, len(members)):
             best = c

@@ -1,5 +1,3 @@
-const NETWORK_PRODUCT_IMG_BASE = 'assets/images/thiet-bi-mang/products/';
-
 function escapeHtmlNetwork(str) {
   return String(str)
     .replace(/&/g, '&amp;')
@@ -38,7 +36,7 @@ function renderNetworkProductCard(p) {
     <article class="product-card">
       ${newBadge}
       <a href="${href}" class="product-card__img">
-        <img src="${NETWORK_PRODUCT_IMG_BASE}${p.image}" alt="${escapeHtmlNetwork(p.name)}" loading="lazy">
+        <img src="${p.image}" alt="${escapeHtmlNetwork(p.name)}" loading="lazy">
         ${ribbon}
       </a>
       <div class="product-card__body">
