@@ -1,32 +1,22 @@
-# Tiến độ dựng CMS (GAS + OpenAI + API cho AI local) — cập nhật 07/11/2026
+# Tiến độ dựng CMS (GAS + OpenAI + API cho AI local) — cập nhật 07/11/2026 (chiều)
 
-Spec chốt: `GAS.md`. CMS_URL đã có trong GAS.md. Script ID (clasp):
-`1MfyE2ItptX-V-hPcKdvVj9lC-d9GnYLv5gI6CoEDKXlS8hu5I1vEV3b4` → `.clasp.json` = `{ "scriptId": "...", "rootDir": "gas" }`
-(clasp chạy qua `npx -y @google/clasp`, đã đăng nhập sẵn `~/.clasprc.json`).
+Spec chốt: `GAS.md`. Script ID: `1MfyE2ItptX-V-hPcKdvVj9lC-d9GnYLv5gI6CoEDKXlS8hu5I1vEV3b4`.
+`gas/` + `.clasp.json` CHỈ ở máy local (gitignore, KHÔNG commit) — đẩy bằng `npx -y @google/clasp push`.
 
-Chia 3 nhánh song song (git worktree trong `.claude/worktrees/`), tất cả bị dừng do hết quota,
-đã commit WIP. LƯU Ý: 3 nhánh tạo từ commit 6592983 (trước commit GAS.md 8911787) → khi gộp
-phải rebase lên master.
+## Đã xong
+- 3 nhánh đã gộp vào master: sản phẩm (f5234b9), bài viết/settings/form (bafbc79), GAS CMS (31114c4,
+  squash, không kèm `gas/`).
+- Test pass: `node scripts/check_gas_client.mjs`, `node tools/gas-api-test/test-api.js` (57/57),
+  `node tools/gas-api-test/test-real-data.js` (data thật: Lưu lại không đổi gì). `bash scripts/build.sh`
+  chạy lại không đổi gì.
+- Đã `clasp push` 8 file và deploy lại cùng URL (`AKfycbw7…W1` → phiên bản @2).
 
-| Nhánh | Phạm vi | Trạng thái |
-|---|---|---|
-| `worktree-agent-ac59499ecf2fdb33f` | `gas/` (CMS, Smart content, AI viết bài bằng OpenAI, API khoá `antn_`), `html/admin/`, `html/admin/api/`, `openapi.json`, `llms.txt`, `tools/gas-api-test/`, `scripts/check_gas_client.mjs` | ⏸ GẦN XONG, dừng chủ động để tiết kiệm quota (commit cuối trên nhánh). Đã có: đủ 8 file `gas/` (~8.200 dòng, force-commit), `html/admin/index.html`, `html/admin/api/` + `openapi.json` + `llms.txt`, test API 57/57 pass. Còn: rebase lên master, chạy `node scripts/check_gas_client.mjs` + `node tools/gas-api-test/test-api.js` với data/ thật, rà Smart content/AI OpenAI, rồi gộp + clasp push |
-| `worktree-agent-ae1894fadb11bfc3c` | Migrate sản phẩm + danh mục sản phẩm → `data/`, `scripts/catalog/build.py`, search-index | ✅ XONG, đã gộp vào master (f5234b9): 515 sản phẩm, 118 danh mục. Field mới `featured`, `breadcrumb`, `colors`, `reviews` (GAS.md III, XII, XIV) — CMS cần hỗ trợ |
-| `worktree-agent-a3de8af3a72dad4e6` | Bài viết → `data/posts*`, `data/settings.json`, smart.css/js/scope, `/lien-he/`, form đơn hàng gửi CMS, media-index, CI workflow, `vercel.json` | ✅ XONG, đã gộp vào master (bafbc79). Quyết định ghi ở GAS.md mục XIII. Catalog build nên dùng `scripts/site/settings.py` + `scripts/site/smart.py` |
-
-Bước tiếp theo:
-1. Tiếp tục từng nhánh tới khi xong + test pass.
-2. Gộp 3 nhánh vào master (rebase lên 8911787), chạy `bash scripts/build.sh`, test.
-3. `npx -y @google/clasp push` từ repo gốc (cần `.clasp.json`), deploy lại web app cùng URL.
-4. Khách điền Script Properties: `GITHUB_TOKEN`, `GITHUB_OWNER=tranquanghuy-rightsvn`,
-   `GITHUB_REPO=techonline`, `GITHUB_BRANCH=master`, `NOTIFY_EMAIL`; key OpenAI nhập trong Admin.
-5. Dọn worktree thừa `agent-a662384a985358d0f`, `agent-a682367313df9e5d1` (từ phiên cũ, gần như trống).
-
-## Cách làm tiếp (kể cả bằng tài khoản Claude khác)
-
-Mở Claude Code trong `~/Desktop/clone-web/techonline` rồi gõ:
-
-> Đọc PROGRESS-CMS.md và GAS.md, làm tiếp nhánh `worktree-agent-ac59499ecf2fdb33f`
-> (worktree `.claude/worktrees/agent-ac59499ecf2fdb33f`): rebase lên master, chạy 2 bộ test,
-> hoàn thiện phần còn thiếu, gộp vào master (giữ `gas/` ngoài git, copy sang repo gốc), tạo
-> `.clasp.json` rồi `npx -y @google/clasp push` và deploy lại web app cùng URL.
+## Còn lại (cần chủ script làm trên trình duyệt)
+1. Web app đang trả "Truy cập bị từ chối": mở script.google.com → dự án → chạy 1 hàm bất kỳ (vd
+   `doGet`) → cấp quyền (Sheets, gửi mail, gọi URL ngoài). Kiểm tra Deploy → Manage deployments: Execute
+   as = Me, Who has access = Anyone. Sau đó `curl -L "<CMS_URL>?action=ping"` phải ra JSON.
+2. Điền Script Properties: `GITHUB_TOKEN`, `GITHUB_OWNER=tranquanghuy-rightsvn`, `GITHUB_REPO=techonline`,
+   `GITHUB_BRANCH=master`, `NOTIFY_EMAIL`. Key OpenAI nhập trong Admin (tab Thông tin website).
+3. Push master lên GitHub (chưa push) để Vercel có `/admin/`.
+4. (Tuỳ chọn) xoá worktree đã gộp: `agent-ac59499ecf2fdb33f` (nhánh này còn commit chứa `gas/` — chỉ ở
+   local, đừng push), `agent-a3de8af3a72dad4e6`, `agent-ae1894fadb11bfc3c`.
