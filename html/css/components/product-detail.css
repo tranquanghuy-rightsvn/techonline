@@ -25,11 +25,6 @@
   border-bottom: 1px solid var(--color-border);
 }
 
-.pdp__stars {
-  color: var(--color-star);
-  letter-spacing: 1px;
-}
-
 .pdp__meta-link {
   color: var(--color-brand-blue);
   font-weight: 700;
@@ -811,177 +806,6 @@
 }
 
 /* ==========================================================================
-   Reviews
-   ========================================================================== */
-.pdp-reviews {
-  background: var(--color-bg-white);
-  border-radius: var(--radius-lg);
-  padding: var(--space-5);
-  box-shadow: var(--shadow-sm);
-}
-
-.pdp-reviews__title {
-  font-size: var(--text-lg);
-  font-weight: 700;
-  margin: 0 0 var(--space-4);
-}
-
-.pdp-reviews__summary {
-  display: grid;
-  grid-template-columns: 180px 1fr 200px;
-  gap: var(--space-6);
-  align-items: center;
-  padding-bottom: var(--space-5);
-  margin-bottom: var(--space-5);
-  border-bottom: 1px solid var(--color-border-light);
-}
-
-.pdp-reviews__score {
-  text-align: center;
-}
-
-.pdp-reviews__score-num {
-  display: block;
-  font-size: 32px;
-  font-weight: 800;
-}
-
-.pdp-reviews__score-stars {
-  display: block;
-  color: var(--color-star);
-  font-size: var(--text-lg);
-  letter-spacing: 2px;
-  margin: 4px 0;
-}
-
-.pdp-reviews__score-count {
-  font-size: var(--text-xs);
-  color: var(--color-text-muted);
-}
-
-.pdp-reviews__bars {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.pdp-reviews__bar-row {
-  display: grid;
-  grid-template-columns: 10px 14px 1fr 70px;
-  align-items: center;
-  gap: 6px;
-  font-size: var(--text-xs);
-  color: var(--color-text-muted);
-}
-
-.pdp-reviews__star {
-  color: var(--color-star);
-}
-
-.pdp-reviews__bar {
-  height: 8px;
-  background: var(--color-border-light);
-  border-radius: var(--radius-full);
-  overflow: hidden;
-}
-
-.pdp-reviews__bar span {
-  display: block;
-  height: 100%;
-  background: var(--color-price);
-}
-
-.pdp-reviews__cta {
-  text-align: center;
-  font-size: var(--text-sm);
-}
-
-.pdp-reviews__cta-btn {
-  margin-top: var(--space-2);
-  padding: var(--space-2) var(--space-5);
-  border: 0;
-  border-radius: var(--radius-sm);
-  background: var(--color-brand-blue);
-  color: #fff;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.pdp-reviews__item {
-  padding: var(--space-4) 0;
-  border-bottom: 1px solid var(--color-border-light);
-}
-
-.pdp-reviews__name {
-  font-weight: 700;
-  margin-bottom: 2px;
-}
-
-.pdp-reviews__date {
-  font-size: var(--text-xs);
-  color: var(--color-text-muted);
-  margin-bottom: var(--space-1);
-}
-
-.pdp-reviews__stars {
-  color: var(--color-star);
-  margin-bottom: var(--space-1);
-}
-
-.pdp-reviews__text {
-  font-size: var(--text-base);
-  color: var(--color-text-body);
-  line-height: 1.6;
-}
-
-/* ==========================================================================
-   Q&A
-   ========================================================================== */
-.pdp-qa {
-  background: var(--color-bg-white);
-  border-radius: var(--radius-lg);
-  padding: var(--space-5);
-  box-shadow: var(--shadow-sm);
-}
-
-.pdp-qa__title {
-  font-size: var(--text-lg);
-  font-weight: 700;
-  margin: 0 0 var(--space-4);
-}
-
-.pdp-qa__row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--space-3);
-  margin-bottom: var(--space-3);
-}
-
-.pdp-qa__form input,
-.pdp-qa__form textarea {
-  width: 100%;
-  padding: var(--space-3);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
-  font-size: var(--text-sm);
-}
-
-.pdp-qa__form textarea {
-  resize: vertical;
-  margin-bottom: var(--space-3);
-}
-
-.pdp-qa__submit {
-  padding: var(--space-3) var(--space-6);
-  border: 0;
-  border-radius: var(--radius-sm);
-  background: var(--color-brand-blue);
-  color: #fff;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-/* ==========================================================================
    Responsive
    ========================================================================== */
 @media (max-width: 1024px) {
@@ -1028,10 +852,6 @@
     grid-template-columns: 1fr;
   }
 
-  .pdp-reviews__summary {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
 
   .pdp-perks {
     grid-template-columns: 1fr;
@@ -1051,9 +871,6 @@
     font-size: var(--text-2xl);
   }
 
-  .pdp-qa__row {
-    grid-template-columns: 1fr;
-  }
 
   .pdp-tabs__track .product-card {
     width: 160px;

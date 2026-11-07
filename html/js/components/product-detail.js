@@ -120,6 +120,5 @@
   });
 })();
 
-// Consult + Q&A forms: prevent real submission on a static demo page
+// Consult form: prevent real submission on a static demo page
 document.getElementById('js-consult-form')?.addEventListener('submit', (e) => e.preventDefault());
-document.getElementById('js-qa-form')?.addEventListener('submit', (e) => e.preventDefault());

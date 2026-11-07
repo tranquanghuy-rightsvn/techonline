@@ -130,7 +130,9 @@ Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là O
    số kỹ thuật (bảng 2 cột tên/giá trị) · Mô tả chi tiết (TinyMCE, có chèn ảnh) · Nhãn thẻ (`attrs`,
    ≤ 3 chip trên thẻ sản phẩm) · Badge (tuỳ chọn, vd "Mẫu mới") · Hiện ở trang chủ (`featured`:
    số thứ tự, 0 = không) · Mô tả SEO · Từ khoá SEO · Từ khoá chính. Field chỉ có từ migrate, CMS giữ
-   nguyên (không có ô nhập): `breadcrumb` (đường dẫn cũ), `colors`, `reviews` (1 sản phẩm DDL609).
+   nguyên (không có ô nhập): `breadcrumb` (đường dẫn cũ), `colors`, `reviews` (1 sản phẩm DDL609 — chỉ
+   còn lưu trong data, KHÔNG hiển thị). Trang sản phẩm KHÔNG có "Đánh giá sản phẩm", "Hỏi và đáp" và dòng
+   sao "Đánh giá:" (khách chốt 07/11/2026; `catalog/build.py` gỡ 2 khối khỏi vỏ).
 2. Build tự suy: % giảm, JSON-LD Product, sản phẩm tương tự (cùng danh mục), thẻ sản phẩm trên
    trang danh mục/trang chủ, chỉ mục tìm kiếm.
 3. Ảnh RIÊNG 1-1: `html/assets/img/products/<slug>/gNN.jpg`. Ảnh đã migrate (đường dẫn cũ, kể cả

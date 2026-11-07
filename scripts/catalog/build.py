@@ -6,7 +6,8 @@
 Reads data/products.json, data/products/<slug>.json, data/product-categories.json
 (and data/posts.json + data/settings.json when present) and regenerates:
   - every product page html/<slug>/index.html (shell = an existing product page; the
-    constant blocks — header, footer, perks, trust box, Q&A — are kept from the shell)
+    constant blocks — header, footer, perks, trust box — are kept from the shell; reviews and Q&A
+    are stripped from it)
   - the product grids the category pages render client-side: the inline
     `window.SUBCATEGORY_GROUPS` of subcategory pages and html/js/data/<x>-products.js for the
     category / brand / lock / network layouts; a page is created for a new category
@@ -181,6 +182,8 @@ def find_shell():
 
 
 SHELL = re.sub(r"\s*<!-- seo:start -->.*?<!-- seo:end -->", "", find_shell(), flags=re.S)
+# Trang sản phẩm KHÔNG có "Đánh giá sản phẩm" + "Hỏi và đáp" (khách chốt 07/11/2026) - gỡ khỏi vỏ.
+SHELL = re.sub(r'\s*<section class="pdp-(?:reviews|qa)".*?</section>', "", SHELL, flags=re.S)
 CART_BTN = re.search(r'<div class="product-card__actions">(.*?</button>)', SHELL, re.S).group(1)
 SUMMARY_TOGGLE = re.search(r'</ul>\s*(<button type="button" class="pdp-summary__toggle".*?</button>)', SHELL, re.S).group(1)
 SPECS_TOGGLE = re.search(r'</table>\s*(<button type="button" class="pdp-specs__toggle".*?</button>)', SHELL, re.S).group(1)
@@ -231,11 +234,6 @@ def similar(p):
     return [PROD[s] for s in members(cs[0]) if s != p["slug"]][:SIMILAR_COUNT]
 
 
-def stars(n):
-    n = max(0, min(5, int(round(n))))
-    return "★" * n + "☆" * (5 - n)
-
-
 def primary_root(p):
     cs = p.get("categories") or []
     ch = chain(cs[0]) if cs else []
@@ -258,13 +256,7 @@ def ads_block(p):
 
 
 def meta_block(p):
-    reviews = p.get("reviews") or []
-    if reviews:
-        avg = sum(r["stars"] for r in reviews) / len(reviews)
-        rating = f'<span class="pdp__stars" aria-label="{round(avg):g} trên 5 sao">{stars(avg)}</span>'
-    else:
-        rating = '<span class="pdp__stars" aria-label="Chưa có đánh giá">☆☆☆☆☆</span>'
-    items = [f'<span class="pdp__meta-item">Đánh giá: {rating}</span>']
+    items = []
     if p.get("brand"):
         root = primary_root(p)
         href = f"/{root['slug']}/" if root and root.get("layout") == "brand" else "#"
@@ -417,61 +409,6 @@ def description_body(p, smart):
         </div>'''
 
 
-def reviews_section(p):
-    rv = p.get("reviews") or []
-    n = len(rv)
-    avg = sum(r["stars"] for r in rv) / n if n else 0
-    bars = []
-    for k in range(5, 0, -1):
-        c = sum(1 for r in rv if r["stars"] == k)
-        pct = round(c * 100 / n) if n else 0
-        bars.append(f'<div class="pdp-reviews__bar-row"><span>{k}</span><span class="pdp-reviews__star">★</span>'
-                    f'<div class="pdp-reviews__bar"><span style="width: {pct}%"></span></div>'
-                    f'<span class="pdp-reviews__bar-count">{c} Đánh giá</span></div>')
-    if rv:
-        items = []
-        for r in sorted(rv, key=lambda r: r.get("time", ""), reverse=True):
-            t = r.get("time", "")
-            m = re.match(r"(\d{4})-(\d\d)-(\d\d)T(\d\d):(\d\d)", t)
-            when = ""
-            if m:
-                h = int(m.group(4))
-                when = f"Ngày {m.group(3)}-{m.group(2)}-{m.group(1)}, {h % 12 or 12:02d}:{m.group(5)} {'pm' if h >= 12 else 'am'}"
-            items.append(f'''
-              <div class="pdp-reviews__item">
-                <p class="pdp-reviews__name">{esc(r["name"])}</p>
-                <p class="pdp-reviews__date">{when}</p>
-                <p class="pdp-reviews__stars">{stars(r["stars"])}</p>
-                <p class="pdp-reviews__text">{esc(r["text"])}</p>
-        </div>''')
-        lst = "".join(items)
-        count = f"{n} đánh giá &amp; nhận xét"
-    else:
-        lst = '\n              <p class="pdp-tabs__empty">Hãy là người đầu tiên đánh giá sản phẩm này.</p>'
-        count = "Chưa có đánh giá"
-    score = f"{avg:.1f}".rstrip("0").rstrip(".") if n else "0"
-    bars_html = "\n                ".join(bars)
-    return f'''<section class="pdp-reviews" aria-label="Đánh giá sản phẩm">
-            <h2 class="pdp-reviews__title">Đánh giá sản phẩm</h2>
-            <div class="pdp-reviews__summary">
-              <div class="pdp-reviews__score">
-                <span class="pdp-reviews__score-num">{score}/5</span>
-                <span class="pdp-reviews__score-stars">{stars(avg) if n else "☆☆☆☆☆"}</span>
-                <span class="pdp-reviews__score-count">{count}</span>
-        </div>
-              <div class="pdp-reviews__bars">
-                {bars_html}
-        </div>
-              <div class="pdp-reviews__cta">
-                <p>Bạn đánh giá sao sản phẩm này?</p>
-                <button type="button" class="pdp-reviews__cta-btn">Đánh giá ngay</button>
-        </div>
-        </div>
-            <div class="pdp-reviews__list">{lst}
-        </div>
-          </section>'''
-
-
 def specs_block(p):
     rows = p.get("specs") or []
     if not rows:
@@ -534,7 +471,6 @@ def product_page(p, sm):
     m = sub1(r'<div class="pdp-ads">.*?</div>', ads_block(p), m)
     m = sub1(r'<div class="pdp-description__body" id="js-desc-body">.*?</div>(?=\s*<button type="button" class="pdp-description__toggle")',
              description_body(p, sm), m)
-    m = sub1(r'<section class="pdp-reviews".*?</section>', reviews_section(p), m)
     m = sub1(r'<div class="pdp-specs">.*?</button>\s*</div>', specs_block(p), m)
     cards = "".join(similar_card(q) for q in similar(p))
     m = sub1(r'<div class="pdp-tabs__track">.*?(?=\s*<button type="button" class="pdp-tabs__arrow pdp-tabs__arrow--prev")',
