@@ -138,6 +138,7 @@
         Cart.clear();
         formWrap.hidden = true;
         summaryEl.innerHTML = '';
+        summaryEl.hidden = true;
         successEl.hidden = false;
         successEl.querySelector('#js-checkout-order-code').textContent = orderCode;
         successEl.scrollIntoView({ behavior: 'smooth', block: 'center' });

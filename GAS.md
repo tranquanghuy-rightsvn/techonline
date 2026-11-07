@@ -270,3 +270,38 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
   copyright, home_title, home_description, logo, favicon, og_image, hero: [{image, link}],
   promo_tiles: [{image, link}], default_offers: [chuỗi]}`
 - `data/media-index.json`: `[[src, caption, used_in]]`
+
+## XIII. Build `data/ → html/` (quyết định khi dựng — nhánh bài viết/settings/form)
+
+1. `scripts/build.sh` theo thứ tự: `site/apply_settings.py` → `news/covers.py` → `news/build.py` →
+   `site/build_pages.py` → `site/contact_page.py` → `catalog/build.py` (nếu có) →
+   `site/media_index.py` → `site/seo.py`. Chạy lại không đổi gì (idempotent). Chỉ Python stdlib +
+   Node (Pillow chỉ khi bài thiếu ảnh bìa; thiếu Pillow thì bỏ qua kèm cảnh báo).
+2. Settings: `scripts/site/settings.py` = mặc định (giá trị site hiện tại) + `load()`; mọi generator
+   dùng chung (sản phẩm lấy `default_offers` từ đây). `apply_settings.py` chạy ĐẦU TIÊN: đọc giá trị
+   đang hiển thị (brand/hotline/email) từ header/footer của `html/index.html` (ghi sau cùng) rồi đổi
+   sang giá trị mới trên mọi trang + `js/components/*.js`; các khối khác (logo, favicon, chân trang:
+   giới thiệu/địa chỉ/MST/website/bản quyền, nút Zalo `https://zalo.me/<số>`, câu đăng ký nhận tin,
+   link "Liên hệ" ở chân trang + menu tiện ích; trang chủ: tiêu đề/mô tả, banner, 4 ô khuyến mãi)
+   viết lại theo cấu trúc. Nội dung bài viết/sản phẩm (dữ liệu CMS) KHÔNG bị đổi theo settings.
+   Banner/ô khuyến mãi không có field alt → ảnh gốc giữ alt cũ, ảnh mới alt "Khuyến mãi N"/"Ưu đãi N";
+   `link` rỗng = `href="#"`. `website` cũng là domain canonical của `seo.py`.
+3. Đường dẫn ảnh lưu `/assets/...` trong data; trang xuất `assets/...` (mọi trang có
+   `<base href="/">`) để giữ nguyên HTML cũ.
+4. Bài viết: sắp xếp theo `date` giảm dần, cùng ngày giữ thứ tự `posts.json`. Bài thiếu
+   `data/posts/<slug>.json` bị bỏ qua. Ảnh bìa rỗng → `/assets/images/news-<slug>.jpg` (covers.py sinh
+   ảnh logo nếu chưa có). Icon chip danh mục là bảng cố định trong `news/build.py` (schema danh mục
+   không có ảnh). Slug trùng 1 trang không phải bài viết → bỏ qua + cảnh báo. Trang bài mồ côi
+   (có `class="article-detail"`, không còn trong `posts.json`) bị xoá. `keywords` → `<meta name="keywords">`.
+   Smart content: thay phần nội dung (không mục lục), giữ khung bài (tiêu đề, mô tả, ảnh bìa, CTA).
+5. Smart content: `html/js/smart-scope.js` là UMD (`require()` được); build gọi qua `node`
+   (`scripts/site/smart.py`, dùng chung cho sản phẩm). `css/smart.css` lấy màu từ `css/variables.css`.
+6. Form công khai: `html/js/cms-config.js` (`CMS_URL`, `cmsPost()`, `cmsBusy()`). Liên hệ gửi
+   `{action:'contact', name, phone, email, message, page, _hp}`. Đơn hàng gửi `{action:'order', id,
+   name, phone, email, address, note, payment, items:[{slug, name, price, qty}], total, page, _hp}`
+   (`slug` = đường dẫn sản phẩm trong giỏ, giá "Liên hệ" = 0). Mã đơn đổi tiền tố `TO` (dấu vết site
+   cũ) → `AN` + 8 số. Giỏ hàng chỉ xoá khi server trả `ok:true`; lỗi → hiện lỗi, giữ giỏ.
+7. Vercel: `vercel.json` ở gốc repo (Root Directory = gốc repo, `outputDirectory: html`); đã bỏ
+   `html/vercel.json`. CI commit `html/` + `data/media-index.json`.
+8. `data/media-index.json`: ảnh `/assets/...` từ bài viết, sản phẩm (data) và phần nội dung (giữa
+   header và footer) của mọi trang; `used_in` = tối đa 3 tên bài/sản phẩm/trang, nối " · ", "(+N)".
