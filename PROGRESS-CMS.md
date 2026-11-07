@@ -17,6 +17,6 @@ Spec chốt: `GAS.md`. Script ID: `1MfyE2ItptX-V-hPcKdvVj9lC-d9GnYLv5gI6CoEDKXlS
    as = Me, Who has access = Anyone. Sau đó `curl -L "<CMS_URL>?action=ping"` phải ra JSON.
 2. Điền Script Properties: `GITHUB_TOKEN`, `GITHUB_OWNER=tranquanghuy-rightsvn`, `GITHUB_REPO=techonline`,
    `GITHUB_BRANCH=master`, `NOTIFY_EMAIL`. Key OpenAI nhập trong Admin (tab Thông tin website).
-3. Push master lên GitHub (chưa push) để Vercel có `/admin/`.
+3. ✅ Đã push master lên origin (d72a358), GAS deploy @3.
 4. (Tuỳ chọn) xoá worktree đã gộp: `agent-ac59499ecf2fdb33f` (nhánh này còn commit chứa `gas/` — chỉ ở
    local, đừng push), `agent-a3de8af3a72dad4e6`, `agent-ae1894fadb11bfc3c`.
