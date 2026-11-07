@@ -214,6 +214,10 @@ Menu (`menu-data.js`) vẫn sửa tay.
   tự file (danh mục mới thêm cuối); build + Admin tự sắp theo `order`.
 - `seo.py` coi `/admin/` là trang công khai (thêm SEO index + đưa vào sitemap). Vá: `SKIP_DIRS =
   {"admin"}` — trang CMS tự có meta noindex.
+- Trang quản trị xoay mãi khi `anninhthainguyen.vn` chưa chạy: `js.html` nạp TinyMCE bằng thẻ script
+  ĐỒNG BỘ từ tên miền đó → chặn cả trang, `bootApp()` không chạy. Vá: `loadTinymce_()` nạp không chặn,
+  chỉ khi mở form, thử lần lượt Worker `techonline.3000vocab.workers.dev` → jsDelivr (repo GitHub) →
+  tên miền site. Phải là URL tuyệt đối: client GAS chạy trong iframe origin `*.googleusercontent.com`.
 - `gas/` chỉ quản lý ở máy local (`.gitignore`), KHÔNG commit; đẩy bằng clasp. Test
   (`tools/gas-api-test/`, `scripts/check_gas_client.mjs`) đọc `gas/` local nên chỉ chạy được ở máy có `gas/`.
 
