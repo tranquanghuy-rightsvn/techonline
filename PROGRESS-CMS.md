@@ -10,7 +10,7 @@ phải rebase lên master.
 
 | Nhánh | Phạm vi | Trạng thái |
 |---|---|---|
-| `worktree-agent-ac59499ecf2fdb33f` | `gas/` (CMS, Smart content, AI viết bài bằng OpenAI, API khoá `antn_`), `html/admin/`, `html/admin/api/`, `openapi.json`, `llms.txt`, `tools/gas-api-test/`, `scripts/check_gas_client.mjs` | Mới có `gas/Code.js` ~2.800 dòng (viết dở, commit force vì gas/ bị gitignore). Còn: app/js/css/index.html, smart-content-js, rank-math, trang admin, docs API, test |
+| `worktree-agent-ac59499ecf2fdb33f` | `gas/` (CMS, Smart content, AI viết bài bằng OpenAI, API khoá `antn_`), `html/admin/`, `html/admin/api/`, `openapi.json`, `llms.txt`, `tools/gas-api-test/`, `scripts/check_gas_client.mjs` | ⏸ GẦN XONG, dừng chủ động để tiết kiệm quota (commit cuối trên nhánh). Đã có: đủ 8 file `gas/` (~8.200 dòng, force-commit), `html/admin/index.html`, `html/admin/api/` + `openapi.json` + `llms.txt`, test API 57/57 pass. Còn: rebase lên master, chạy `node scripts/check_gas_client.mjs` + `node tools/gas-api-test/test-api.js` với data/ thật, rà Smart content/AI OpenAI, rồi gộp + clasp push |
 | `worktree-agent-ae1894fadb11bfc3c` | Migrate sản phẩm + danh mục sản phẩm → `data/`, `scripts/catalog/build.py`, search-index | ✅ XONG, đã gộp vào master (f5234b9): 515 sản phẩm, 118 danh mục. Field mới `featured`, `breadcrumb`, `colors`, `reviews` (GAS.md III, XII, XIV) — CMS cần hỗ trợ |
 | `worktree-agent-a3de8af3a72dad4e6` | Bài viết → `data/posts*`, `data/settings.json`, smart.css/js/scope, `/lien-he/`, form đơn hàng gửi CMS, media-index, CI workflow, `vercel.json` | ✅ XONG, đã gộp vào master (bafbc79). Quyết định ghi ở GAS.md mục XIII. Catalog build nên dùng `scripts/site/settings.py` + `scripts/site/smart.py` |
 
@@ -21,3 +21,12 @@ Bước tiếp theo:
 4. Khách điền Script Properties: `GITHUB_TOKEN`, `GITHUB_OWNER=tranquanghuy-rightsvn`,
    `GITHUB_REPO=techonline`, `GITHUB_BRANCH=master`, `NOTIFY_EMAIL`; key OpenAI nhập trong Admin.
 5. Dọn worktree thừa `agent-a662384a985358d0f`, `agent-a682367313df9e5d1` (từ phiên cũ, gần như trống).
+
+## Cách làm tiếp (kể cả bằng tài khoản Claude khác)
+
+Mở Claude Code trong `~/Desktop/clone-web/techonline` rồi gõ:
+
+> Đọc PROGRESS-CMS.md và GAS.md, làm tiếp nhánh `worktree-agent-ac59499ecf2fdb33f`
+> (worktree `.claude/worktrees/agent-ac59499ecf2fdb33f`): rebase lên master, chạy 2 bộ test,
+> hoàn thiện phần còn thiếu, gộp vào master (giữ `gas/` ngoài git, copy sang repo gốc), tạo
+> `.clasp.json` rồi `npx -y @google/clasp push` và deploy lại web app cùng URL.
