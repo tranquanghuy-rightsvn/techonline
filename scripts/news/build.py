@@ -8,6 +8,8 @@ and data/settings.json (brand, hotline). Run from the project root:
 
 - Post with `smart.html` -> that design replaces content_html (GAS.md II-D.7).
 - Article pages whose post was deleted (orphans) are removed.
+- Each post category has its own page /<category-slug>/ (list of all its posts); category pages whose
+  category was deleted are removed. Links "/tin-tuc/#<slug>" anywhere on the site become "/<slug>/".
 """
 import html
 import json
@@ -49,6 +51,33 @@ def read_json(path, default):
 CATEGORIES = sorted(read_json(os.path.join(DATA, "post-categories.json"), []),
                     key=lambda c: (c.get("order") if isinstance(c.get("order"), (int, float)) else 1e9))
 CAT = {c["slug"]: c for c in CATEGORIES}
+
+CAT_MARK = 'class="news-page news-page--category"'
+
+
+def is_category_page(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return CAT_MARK in f.read()
+    except OSError:
+        return False
+
+
+# Categories that get their own page /<slug>/: the URL must be free (or already a category page).
+CAT_PAGES = set()
+for c in CATEGORIES:
+    slug = c.get("slug", "")
+    target = os.path.join(ROOT, slug, "index.html")
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+        print(f"WARN bad category slug {slug!r}", file=sys.stderr)
+    elif os.path.exists(target) and not is_category_page(target):
+        print(f"WARN skip category page {slug}: /{slug}/ is already another page", file=sys.stderr)
+    else:
+        CAT_PAGES.add(slug)
+
+
+def cat_href(cid):
+    return f"/{cid}/" if cid in CAT_PAGES else f"/tin-tuc/#{cid}"
 
 ARTICLES = []
 for entry in read_json(os.path.join(DATA, "posts.json"), []):
@@ -124,7 +153,7 @@ def chips(current=None):
         cid, name, icon = c["slug"], c["name"], CAT_ICON.get(c["slug"])
         cur = " is-current" if cid == current else ""
         ic = f'\n        <img class="news-cats__icon" src="assets/images/{icon}" alt="">' if icon else ""
-        out.append(f'''      <a class="news-cats__item{cur}" href="/tin-tuc/#{cid}">{ic}
+        out.append(f'''      <a class="news-cats__item{cur}" href="{cat_href(cid)}">{ic}
         <span>{esc(name)}</span>
       </a>''')
     return "\n".join(out)
@@ -164,11 +193,13 @@ for c in CATEGORIES:
     if not items:
         continue
     cards = "\n".join(card(a) for a in items[:3])
+    more = (f'\n      <a class="news-box__more" href="/{cid}/">Xem thêm</a>'
+            if len(items) > 3 and cid in CAT_PAGES else "")
     boxes.append(f'''    <section class="news-box" id="{cid}" aria-labelledby="{cid}-title">
       <h2 class="news-box__title" id="{cid}-title">{esc(name)}</h2>
       <div class="news-box__grid">
 {cards}
-      </div>
+      </div>{more}
     </section>''')
 
 top = ""
@@ -200,6 +231,49 @@ out = page(tpl, "Tin tức", f"Tin tức, hướng dẫn kỹ thuật, tư vấn
            [("/tin-tuc/", "Tin tức")], listing)
 open(os.path.join(ROOT, "tin-tuc", "index.html"), "w", encoding="utf-8").write(out)
 print("tin-tuc/index.html")
+
+# ---------- Category pages /<category-slug>/ ----------
+for c in CATEGORIES:
+    cid, name = c["slug"], c["name"]
+    if cid not in CAT_PAGES:
+        continue
+    items = [a for a in ARTICLES if a.get("category") == cid]
+    desc = (c.get("description") or "").strip()
+    intro = f'\n      <p class="news-page__desc">{esc(desc)}</p>' if desc else ""
+    if items:
+        grid = f'''      <div class="news-box__grid">
+{chr(10).join(card(a, "h2") for a in items)}
+      </div>'''
+    else:
+        grid = '      <p class="news-page__empty">Chưa có bài viết trong danh mục này.</p>'
+    main = f'''<main {CAT_MARK}>
+  <h1 class="news-page__h1">{esc(name)}</h1>
+  <div class="container">
+    <nav class="news-cats" aria-label="Danh mục tin tức">
+{chips(cid)}
+    </nav>
+  </div>
+
+  <div class="news-page__body">
+    <div class="container">
+    <section class="news-box" aria-label="{esc(name)}">{intro}
+{grid}
+    </section>
+    </div>
+  </div>
+</main>
+'''
+    out = page(tpl, name, desc or f"{name} - tin tức, bài viết từ {B}.",
+               [("/tin-tuc/", "Tin tức"), (f"/{cid}/", name)], main)
+    os.makedirs(os.path.join(ROOT, cid), exist_ok=True)
+    open(os.path.join(ROOT, cid, "index.html"), "w", encoding="utf-8").write(out)
+    print(cid + "/index.html (category)")
+
+for d in sorted(os.listdir(ROOT)):
+    p = os.path.join(ROOT, d, "index.html")
+    if d not in CAT_PAGES and os.path.isfile(p) and is_category_page(p):
+        shutil.rmtree(os.path.join(ROOT, d))
+        print("removed orphan category", d + "/")
 
 
 # ---------- Detail pages ----------
@@ -258,7 +332,7 @@ for a in ARTICLES:
     main = f'''<main class="article-page">
   <div class="container article-page__layout">
     <article class="article-detail">
-      <a class="article-detail__cat" href="/tin-tuc/#{cid}">{esc(cname)}</a>
+      <a class="article-detail__cat" href="{cat_href(cid)}">{esc(cname)}</a>
       <h1 class="article-detail__title">{esc(a['title'])}</h1>
       <div class="article-detail__meta">
         {date_tag(a)}
@@ -293,7 +367,7 @@ for a in ARTICLES:
   </section>
 </main>
 '''
-    out = page(tpl, a["title"], a.get("description", ""), [("/tin-tuc/", "Tin tức"), (f"/tin-tuc/#{cid}", cname)], main,
+    out = page(tpl, a["title"], a.get("description", ""), [("/tin-tuc/", "Tin tức"), (cat_href(cid), cname)], main,
                extra_css=("article-page.css",), keywords=a.get("keywords", ""),
                smart_css=sm[1] if sm else None)
     os.makedirs(os.path.dirname(target), exist_ok=True)
@@ -318,3 +392,18 @@ cards = "\n".join(f'''    <a class="article-row__card" href="/{a['slug']}/">
 s, k = re.subn(r'(<div class="article-row__grid">\n).*?(\n  </div>\n</section>)', lambda m: m.group(1) + cards + m.group(2), s, 1, flags=re.S)
 open(p, "w", encoding="utf-8").write(s)
 print("index.html row", k)
+
+# ---------- Old anchor links "/tin-tuc/#<slug>" (footer "Cẩm nang sử dụng"…) -> category page ----------
+if CAT_PAGES:
+    rx = re.compile(r'href="/tin-tuc/#(' + "|".join(map(re.escape, sorted(CAT_PAGES))) + r')"')
+    changed = 0
+    for d in [""] + sorted(os.listdir(ROOT)):
+        p = os.path.join(ROOT, d, "index.html")
+        if not os.path.isfile(p):
+            continue
+        s = open(p, encoding="utf-8").read()
+        s2 = rx.sub(lambda m: f'href="/{m.group(1)}/"', s)
+        if s2 != s:
+            open(p, "w", encoding="utf-8").write(s2)
+            changed += 1
+    print("category links updated in", changed, "pages")

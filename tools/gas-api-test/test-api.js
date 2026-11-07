@@ -362,6 +362,22 @@ check('product.delete: dọn ảnh riêng, giữ ảnh chung', () => {
   assert([...repo.keys()].filter((k) => k.includes('img/products/camera-dahua-h3a-3mp/')).length === 0, 'ảnh còn sót');
 });
 
+check('danh mục bài viết mới: có trang riêng /<slug>/ nên không được trùng URL đã dùng', () => {
+  throws(() => S.saveCategory(ownerToken, 'post', { isNew: true, name: 'Tin tức', slug: 'tin-tuc' }), /đã được dùng|có sẵn/);
+  const someProduct = JSON.parse(repo.get('data/products.json').toString('utf8'))[0];
+  if (someProduct) throws(() => S.saveCategory(ownerToken, 'post', { isNew: true, name: 'X', slug: someProduct.slug }), /đã được dùng/);
+});
+check('listOpenAiModels: chỉ model chữ, bỏ bản có ngày / -pro / âm thanh / ảnh / embedding', () => {
+  const had = props.get('OPENAI_API_KEY');
+  props.set('OPENAI_API_KEY', 'sk-test');
+  try {
+    const ids = S.listOpenAiModels(ownerToken);
+    assert(JSON.stringify(ids) === JSON.stringify(['gpt-5', 'gpt-5-mini', 'o4-mini']), JSON.stringify(ids));
+  } finally {
+    if (had) props.set('OPENAI_API_KEY', had); else props.delete('OPENAI_API_KEY');
+  }
+});
+
 console.log('\n— form công khai: liên hệ + đơn hàng —');
 check('doPost contact: lưu Sheet Contacts đúng cột, gửi mail, rate-limit 60 giây', () => {
   mails.length = 0;
@@ -469,9 +485,9 @@ check('saveAiSettings: gọi thử rồi mới lưu; key sai không lưu; hiện
   throws(() => S.saveAiSettings(ownerToken, { key: 'abc' }), /sk-/);
   openai.replies.push(okReply({}, 20));
   const a = S.saveAiSettings(ownerToken, { key: 'sk-proj-' + 'b'.repeat(30), model: '' });
-  assert(props.get('OPENAI_API_KEY').startsWith('sk-proj-b') && a.key_masked === 'sk-proj…bbbb' && a.model === 'gpt-5-mini', JSON.stringify(a));
+  assert(props.get('OPENAI_API_KEY').startsWith('sk-proj-b') && a.key_masked === 'sk-proj…bbbb' && a.model === constant('OPENAI_DEFAULT_MODEL'), JSON.stringify(a));
   const call = openai.calls[openai.calls.length - 1];
-  assert(call.headers.Authorization === 'Bearer sk-proj-' + 'b'.repeat(30) && call.body.model === 'gpt-5-mini');
+  assert(call.headers.Authorization === 'Bearer sk-proj-' + 'b'.repeat(30) && call.body.model === constant('OPENAI_DEFAULT_MODEL'));
   assert(!JSON.stringify(S.getAiSettings(ownerToken)).includes('b'.repeat(20)), 'lộ key');
 });
 check('smartGenerate: Responses API + Structured Outputs strict, lọc HTML, gỡ link bịa, cộng token theo tháng', () => {

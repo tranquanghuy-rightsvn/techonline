@@ -120,6 +120,10 @@ const UrlFetchApp = {
       if (!r) throw new Error('chưa xếp sẵn câu trả lời OpenAI');
       return response(r.code || 200, JSON.stringify(r.body));
     }
+    if (url === 'https://api.openai.com/v1/models') {
+      const ids = ['gpt-5', 'gpt-5-mini', 'gpt-5-2025-08-07', 'gpt-5-pro', 'gpt-4o-audio-preview', 'text-embedding-3-small', 'o4-mini', 'dall-e-3', 'gpt-realtime'];
+      return response(200, JSON.stringify({ data: ids.map((id) => ({ id })) }));
+    }
     if (/^https?:\/\//.test(url)) {
       external.calls.push(url);
       if (url.includes('missing')) return response(404, 'nope');

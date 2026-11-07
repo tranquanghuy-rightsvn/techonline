@@ -79,7 +79,11 @@ Tài liệu API cho AI: `https://anninhthainguyen.vn/admin/api/`.
 
 Field: Tên, slug (bất biến), mô tả (tuỳ chọn), thứ tự. 4 danh mục hiện có: `huong-dan` (Hướng dẫn
 kỹ thuật), `tin-cong-nghe` (Tin công nghệ), `tu-van-lua-chon` (Tư vấn lựa chọn), `tin-tuc-cong-ty`
-(Tin tức công ty). Danh mục là anchor trong `/tin-tuc/` (`/tin-tuc/#<slug>`), không có trang riêng.
+(Tin tức công ty). Mỗi danh mục có TRANG RIÊNG `/<slug>/` (khách chốt 07/11/2026; `news/build.py`
+sinh: vỏ `/tin-tuc/`, chip danh mục đánh dấu mục hiện tại, mô tả nếu có, lưới mọi bài của danh mục) và
+vẫn là 1 nhóm (3 bài + nút "Xem thêm" khi > 3 bài) trong `/tin-tuc/`. Slug danh mục chung không gian URL
+với bài viết/sản phẩm/danh mục sản phẩm (`assertPathFree_`). Build đổi mọi link cũ `/tin-tuc/#<slug>` (footer
+"Cẩm nang sử dụng"…) thành `/<slug>/`; danh mục bị xoá → trang bị dọn (dấu `news-page--category`).
 Không xoá được danh mục còn bài.
 
 ## II-C. Thông tin website (`data/settings.json`, admin trở lên)
@@ -246,7 +250,8 @@ Menu (`menu-data.js`) vẫn sửa tay.
 - `NOTIFY_EMAIL` — nhận mail liên hệ/đơn hàng mới (tuỳ chọn).
 - `OPENAI_API_KEY` — key OpenAI của khách. Nhập ở tab "Thông tin website" → thẻ "AI (OpenAI)"
   (gọi thử rồi mới lưu, chỉ hiện bản che). `OPENAI_MODEL` — model, chỉnh cùng thẻ đó (mặc định
-  `gpt-5-mini`). `OPENAI_USAGE` — JSON số token đã dùng theo tháng (code tự ghi).
+  `gpt-5` — tầm trung, khách muốn ~ Claude Sonnet; ô gõ tự do + gợi ý có ghi chú hạng + nút "Tải danh sách
+  từ OpenAI" gọi `GET /v1/models` bằng key khách, `listOpenAiModels`). `OPENAI_USAGE` — JSON số token đã dùng theo tháng (code tự ghi).
 - `apikey_<khoá>` — khoá kết nối AI (mục XI), code tự ghi.
 
 ## XI. API cho AI chạy trên máy khách (khoá kết nối)

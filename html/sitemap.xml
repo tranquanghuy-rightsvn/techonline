@@ -1396,6 +1396,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://anninhthainguyen.vn/huong-dan/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://anninhthainguyen.vn/huong-dan-cai-dat-camera-imou-tren-dien-thoai/</loc>
     <lastmod>2026-11-07</lastmod>
     <priority>0.6</priority>
@@ -3061,7 +3066,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://anninhthainguyen.vn/tin-cong-nghe/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://anninhthainguyen.vn/tin-tuc/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anninhthainguyen.vn/tin-tuc-cong-ty/</loc>
     <lastmod>2026-11-07</lastmod>
     <priority>0.8</priority>
   </url>
@@ -3184,6 +3199,11 @@
     <loc>https://anninhthainguyen.vn/tplink-wifi-di-dong-m7000/</loc>
     <lastmod>2026-11-07</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://anninhthainguyen.vn/tu-van-lua-chon/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/tuyen-dung-nhan-vien-ky-thuat/</loc>
