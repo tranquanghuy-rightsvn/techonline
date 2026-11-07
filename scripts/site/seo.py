@@ -19,13 +19,15 @@ import re
 import sys
 from datetime import date
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from settings import load as load_settings, intl, rel  # noqa: E402
+
 ROOT = sys.argv[1]
-SITE = "https://anninhthainguyen.vn"
-BRAND = "An Ninh Thái Nguyên"
-PHONE = "+84913286293"
-EMAIL = "anninhthainguyen@gmail.com"
-LOGO = f"{SITE}/assets/images/logo.png"
-OG_DEFAULT = f"{SITE}/assets/images/og-default.jpg"
+SETTINGS = load_settings()  # data/settings.json over the built-in defaults (GAS.md II-C)
+SITE = SETTINGS["website"].rstrip("/")
+BRAND = SETTINGS["brand"]
+PHONE = intl(SETTINGS["hotline"])
+EMAIL = SETTINGS["email"]
 TODAY = date.today().isoformat()
 ORG_ID = f"{SITE}/#organization"
 SITE_ID = f"{SITE}/#website"
@@ -42,6 +44,11 @@ def absolute(url):
     if url.startswith(("http://", "https://")):
         return url
     return f"{SITE}/{url.lstrip('/')}"
+
+
+LOGO = absolute(SETTINGS["logo"])
+OG_DEFAULT = absolute(SETTINGS["og_image"])
+FAVICON = rel(SETTINGS["favicon"])
 
 
 def text(rx, s):
@@ -82,7 +89,8 @@ def breadcrumbs(s, url, title):
 
 
 ORG = {
-    "@type": "Organization",
+    # An address makes the shop a LocalBusiness (GAS.md II-C).
+    "@type": "LocalBusiness" if SETTINGS["address"] else "Organization",
     "@id": ORG_ID,
     "name": BRAND,
     "url": f"{SITE}/",
@@ -98,6 +106,10 @@ ORG = {
         "availableLanguage": ["Vietnamese"],
     }],
 }
+if SETTINGS["address"]:
+    ORG["address"] = {"@type": "PostalAddress", "streetAddress": SETTINGS["address"], "addressCountry": "VN"}
+if SETTINGS["tax_code"]:
+    ORG["taxID"] = SETTINGS["tax_code"]
 WEBSITE = {
     "@type": "WebSite",
     "@id": SITE_ID,
@@ -197,7 +209,7 @@ def process(slug, path):
         f'<link rel="canonical" href="{url}">',
         f'<meta name="robots" content="{robots}">',
         '<meta name="theme-color" content="#0064bd">',
-        f'<link rel="apple-touch-icon" href="assets/favicon.webp">',
+        f'<link rel="apple-touch-icon" href="{attr(FAVICON)}">',
         f'<meta property="og:locale" content="vi_VN">',
         f'<meta property="og:site_name" content="{attr(BRAND)}">',
         f'<meta property="og:type" content="{og_type}">',

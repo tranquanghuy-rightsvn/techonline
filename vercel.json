@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "outputDirectory": "html",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "ignoreCommand": "git log -1 --pretty=%B | grep -qF '[CI-Skip]' && exit 0 || exit 1"
+}

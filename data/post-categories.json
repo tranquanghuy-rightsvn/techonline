@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "huong-dan",
+    "name": "Hướng dẫn kỹ thuật",
+    "description": "",
+    "order": 1
+  },
+  {
+    "slug": "tin-cong-nghe",
+    "name": "Tin công nghệ",
+    "description": "",
+    "order": 2
+  },
+  {
+    "slug": "tu-van-lua-chon",
+    "name": "Tư vấn lựa chọn",
+    "description": "",
+    "order": 3
+  },
+  {
+    "slug": "tin-tuc-cong-ty",
+    "name": "Tin tức công ty",
+    "description": "",
+    "order": 4
+  }
+]

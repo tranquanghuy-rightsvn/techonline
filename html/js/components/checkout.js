@@ -1,5 +1,5 @@
-// Renders the order summary on the checkout page (thanh-toan.html) and
-// handles the (client-only, no backend) order submission.
+// Renders the order summary on the checkout page (/thanh-toan/) and sends the order to the
+// CMS (GAS.md VI, via js/cms-config.js). The cart stays in localStorage until the CMS accepts it.
 (() => {
   const formWrap = document.getElementById('js-checkout-form-wrap');
   const summaryEl = document.getElementById('js-checkout-summary');
@@ -52,7 +52,7 @@
   }
 
   function randomOrderCode() {
-    return 'TO' + Date.now().toString().slice(-8);
+    return 'AN' + Date.now().toString().slice(-8);
   }
 
   // Generated once per visit so the "Nội dung CK" shown before paying
@@ -77,11 +77,18 @@
     });
   });
 
+  const submitBtn = document.getElementById('js-checkout-submit');
+  const field = (id) => {
+    const el = document.getElementById(id);
+    return el ? el.value.trim() : '';
+  };
+
   form.addEventListener('submit', (event) => {
     event.preventDefault();
-    const name = document.getElementById('js-checkout-name').value.trim();
-    const phone = document.getElementById('js-checkout-phone').value.trim();
-    const address = document.getElementById('js-checkout-address').value.trim();
+    if (submitBtn && submitBtn.disabled) return;
+    const name = field('js-checkout-name');
+    const phone = field('js-checkout-phone');
+    const address = field('js-checkout-address');
     const paymentMethod = form.querySelector('input[name="payment"]:checked').value;
 
     if (!name || !phone || !address) {
@@ -98,12 +105,48 @@
     }
     errorEl.textContent = '';
 
-    Cart.clear();
+    // Order -> CMS (GAS.md VI). The server re-prices every line from data/products.json;
+    // prices sent here are only what the customer saw ("Liên hệ" = 0).
+    const items = Cart.getItems().map((item) => ({
+      slug: String(item.id || '').replace(/^\/+|\/+$/g, ''),
+      name: item.name,
+      price: item.priceValue === null || item.priceValue === undefined ? 0 : item.priceValue,
+      qty: item.qty,
+    }));
+    const payload = {
+      action: 'order',
+      id: orderCode,
+      name,
+      phone,
+      email: field('js-checkout-email'),
+      address,
+      note: field('js-checkout-note'),
+      payment: paymentMethod,
+      items,
+      total: Cart.subtotal(),
+      page: location.pathname,
+      _hp: field('js-checkout-hp'),
+    };
 
-    formWrap.hidden = true;
-    summaryEl.innerHTML = '';
-    successEl.hidden = false;
-    successEl.querySelector('#js-checkout-order-code').textContent = orderCode;
+    if (typeof window.cmsPost !== 'function') {
+      errorEl.textContent = 'Không gửi được đơn hàng. Vui lòng tải lại trang và thử lại.';
+      return;
+    }
+    const restore = submitBtn ? window.cmsBusy(submitBtn, 'Đang gửi đơn…') : () => {};
+    window.cmsPost(payload)
+      .then(() => {
+        Cart.clear();
+        formWrap.hidden = true;
+        summaryEl.innerHTML = '';
+        successEl.hidden = false;
+        successEl.querySelector('#js-checkout-order-code').textContent = orderCode;
+        successEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      })
+      .catch((err) => {
+        errorEl.textContent = `Đặt hàng chưa thành công: ${err.message.replace(/\.$/, '')}. Giỏ hàng vẫn được giữ nguyên, quý khách có thể thử lại hoặc gọi hotline.`;
+        errorEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      })
+      .finally(restore);
   });
 
   renderSummary();

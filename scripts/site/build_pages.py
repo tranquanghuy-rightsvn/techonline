@@ -11,10 +11,15 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from settings import load as load_settings, tel, host  # noqa: E402
+
 ROOT = sys.argv[1]
-B = "An Ninh Thái Nguyên"
-HOT, HOT_TEL = "0913.286.293", "0913286293"
-MAIL = "anninhthainguyen@gmail.com"
+SETTINGS = load_settings()
+B = SETTINGS["brand"]
+HOT, HOT_TEL = SETTINGS["hotline"], tel(SETTINGS["hotline"])
+MAIL = SETTINGS["email"]
+WEB = host(SETTINGS["website"])
 esc = H.escape
 
 
@@ -69,7 +74,7 @@ def policy(slug, title, desc, body, css=()):
 
 CONTACT = f'''      <p>Hotline (Zalo): <a href="tel:{HOT_TEL}">{HOT}</a></p>
       <p>Email: <a href="mailto:{MAIL}">{MAIL}</a></p>
-      <p>Website: <a href="/">anninhthainguyen.vn</a></p>'''
+      <p>Website: <a href="/">{WEB}</a></p>'''
 
 
 def sec(n, title):

@@ -1,0 +1,62 @@
+{
+  "brand": "An Ninh Thái Nguyên",
+  "hotline": "0913.286.293",
+  "zalo": "0913.286.293",
+  "email": "anninhthainguyen@gmail.com",
+  "website": "https://anninhthainguyen.vn",
+  "address": "",
+  "tax_code": "",
+  "footer_text": "Camera giám sát, khóa cửa vân tay, báo cháy, thiết bị mạng chính hãng.",
+  "copyright": "Bản quyền thuộc về An Ninh Thái Nguyên",
+  "home_title": "An Ninh Thái Nguyên - Camera giám sát, Khoá cửa vân tay, Thiết bị mạng, Nhà thông minh",
+  "home_description": "An Ninh Thái Nguyên - Chuyên camera giám sát, khoá cửa vân tay, thiết bị mạng, nhà thông minh, chấm công kiểm soát cửa. Giao hàng toàn quốc, bảo hành chính hãng, lắp đặt chuyên nghiệp.",
+  "logo": "/assets/images/logo.png",
+  "favicon": "/assets/favicon.webp",
+  "og_image": "/assets/images/og-default.jpg",
+  "hero": [
+    {
+      "image": "/assets/images/hero-slide-1.png",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/hero-slide-2.jpg",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/hero-slide-3.png",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/hero-slide-4.png",
+      "link": ""
+    }
+  ],
+  "promo_tiles": [
+    {
+      "image": "/assets/images/promo-tile-1.jpg",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/promo-tile-2.jpg",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/promo-tile-3.jpg",
+      "link": ""
+    },
+    {
+      "image": "/assets/images/promo-tile-4.jpg",
+      "link": ""
+    }
+  ],
+  "default_offers": [
+    "Cam kết sản phẩm chính hãng",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí lắp đặt tận nhà tại nội thành Hà Nội và Hồ Chí Minh",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Hỗ trợ cấu hình xem camera qua điện thoại",
+    "Bảo hành chính hãng 24 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán",
+    "Lỗi đổi mới trong 30 ngày đầu sử dụng"
+  ]
+}

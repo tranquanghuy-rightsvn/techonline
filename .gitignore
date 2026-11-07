@@ -3,3 +3,4 @@ darf
 ./outbox
 # headless Chrome profiles from local test scripts
 prof-*/
+__pycache__/

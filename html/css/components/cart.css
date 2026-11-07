@@ -494,6 +494,41 @@
   filter: brightness(1.08);
 }
 
+/* Sending to the CMS (checkout + /lien-he/): disabled + spinner. */
+.checkout-form__submit:disabled {
+  opacity: 0.75;
+  cursor: wait;
+  filter: none;
+}
+
+.checkout-form__submit.is-loading::before {
+  content: '';
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 8px;
+  vertical-align: -2px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: checkout-spin 0.8s linear infinite;
+}
+
+@keyframes checkout-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Honeypot field (anti-spam): off-screen, not display:none. */
+.checkout-form__hp {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 .checkout-form__error {
   color: var(--color-accent-red);
   font-size: var(--text-sm);

@@ -1,0 +1,90 @@
+/* ==========================================================================
+   /lien-he/ — contact details + form (scripts/site/contact_page.py).
+   The form itself reuses the checkout-form styles from cart.css; the submit
+   spinner below is shared with the checkout page.
+   ========================================================================== */
+.contact-page {
+  margin: var(--space-4) 0 var(--space-10);
+}
+
+.contact-page__title {
+  font-size: var(--text-2xl);
+  font-weight: 800;
+  margin: var(--space-4) 0 var(--space-2);
+}
+
+.contact-page__lead {
+  color: var(--color-text-body);
+  max-width: 760px;
+  margin: 0 0 var(--space-6);
+  line-height: 1.6;
+}
+
+.contact-page__grid {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: var(--space-6);
+  align-items: start;
+}
+
+.contact-info {
+  list-style: none;
+  margin: 0;
+  padding: var(--space-5);
+  background: var(--color-bg-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.contact-info__item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  font-size: var(--text-md);
+  color: var(--color-text-primary);
+  overflow-wrap: anywhere;
+}
+
+.contact-info__icon {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #eaf3fc;
+  color: var(--color-brand-blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-info__label {
+  display: block;
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin-bottom: 2px;
+}
+
+.contact-info__item a {
+  color: var(--color-brand-blue);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.contact-info__item a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  .contact-page__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-page__form-wrap .checkout-form__row {
+    grid-template-columns: 1fr;
+    gap: 0;
+    margin-bottom: 0;
+  }
+}
