@@ -18,7 +18,7 @@ DEFAULTS = {
     "brand": "An Ninh Thái Nguyên",
     "hotline": "0913.286.293",
     "zalo": "",  # empty = hotline
-    "email": "anninhthainguyen@gmail.com",
+    "email": "annguyentechcons@gmail.com",
     "website": "https://anninhthainguyen.vn",
     "address": "",
     "tax_code": "",
