@@ -616,20 +616,26 @@ body.is-homepage .site-header.is-sticky .category-menu__list {
 }
 
 @media (max-width: 600px) {
+  /* Mobile: top bar giữ cả hotline (có số) + "Tin tức nổi bật" trên 1 dòng. */
+  .site-header__top {
+    font-size: 13px;
+    padding: 6px 0;
+  }
+
+  .site-header__top-inner {
+    flex-wrap: nowrap;
+  }
+
   .site-header__top-links {
-    display: none;
+    gap: var(--space-3);
   }
 
   .site-header__hotlines {
     gap: var(--space-1);
   }
 
-  .site-header__pill span {
-    display: none;
-  }
-
   .site-header__pill {
-    padding: var(--space-2);
+    padding: 4px 10px;
   }
 
   .site-header__main-inner {

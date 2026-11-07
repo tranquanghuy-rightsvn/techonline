@@ -15,7 +15,9 @@
   flex-wrap: wrap;
   column-gap: var(--space-10);
   row-gap: var(--space-6);
-  padding: 30px 0;
+  /* Chỉ padding trên/dưới — không ghi đè padding trái/phải của .container. */
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .site-footer__col {
@@ -193,8 +195,53 @@
 }
 
 @media (max-width: 560px) {
+  /* Mobile: thông tin công ty + "Kết nối" full-width; "Chính sách" và
+     "Tin tức" (danh sách ngắn) đứng cạnh nhau thành 2 cột. */
+  .site-footer__main {
+    column-gap: var(--space-4);
+    row-gap: var(--space-5);
+    padding-top: var(--space-6);
+    padding-bottom: var(--space-6);
+  }
+
   .site-footer__col {
     flex: 1 1 100%;
+  }
+
+  .site-footer__col:nth-child(1) { order: 1; }
+  .site-footer__col:nth-child(2) { order: 2; flex: 1 1 calc(50% - var(--space-4) / 2); }
+  .site-footer__col:nth-child(4) { order: 3; flex: 1 1 calc(50% - var(--space-4) / 2); }
+  .site-footer__col:nth-child(3) { order: 4; }
+
+  .site-footer__col:nth-child(1) {
+    padding-bottom: var(--space-5);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .site-footer__title {
+    margin-bottom: var(--space-3);
+    font-size: 15px;
+  }
+
+  .site-footer__list {
+    line-height: 26px;
+  }
+
+  .site-footer__list a {
+    overflow-wrap: anywhere;
+  }
+
+  .site-footer__col:nth-child(3) {
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .site-footer__social {
+    margin-bottom: 0;
+  }
+
+  .site-footer__social-icon {
+    margin: 0 var(--space-2) 0 0;
   }
 
   .site-footer__branch {
@@ -203,5 +250,9 @@
 
   .site-footer__branch-title {
     border-radius: var(--radius-md);
+  }
+
+  .site-footer__copyright {
+    padding: var(--space-3) var(--container-pad);
   }
 }
