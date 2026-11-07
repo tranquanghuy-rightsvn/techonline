@@ -108,15 +108,13 @@
 /* ==========================================================================
    Under-banner promo strip (.promo-strip)
    Source: .home-banner-under.hover-img — 4 equal tiles, ~175px tall,
-   negative top margin overlaps bottom of hero by 40px, hover zoom 1.03x
+   sits below the hero (no overlap), hover zoom 1.03x
    ========================================================================== */
 .promo-strip {
   display: flex;
   gap: var(--space-3);
-  margin-top: -40px;
+  margin-top: var(--space-4);
   margin-bottom: var(--space-10);
-  position: relative;
-  z-index: 3;
 }
 
 .promo-strip__tile {
@@ -160,7 +158,9 @@
 }
 
 .category-icons__item {
-  width: 140px;
+  /* Grow equally so the row always spans the full container width. */
+  flex: 1 1 140px;
+  min-width: 0;
 }
 
 .category-icons__link {
@@ -226,8 +226,11 @@
    Responsive
    ========================================================================== */
 @media (max-width: 1024px) {
+  /* Follow the banner's real 1920x641 ratio so it isn't cropped, and stop
+     the promo strip from overlapping it. */
   .hero {
-    height: 360px;
+    height: auto;
+    aspect-ratio: 1920 / 641;
   }
 
   .promo-strip {
@@ -240,22 +243,19 @@
   }
 
   .category-icons__item {
+    flex: 0 0 auto;
     width: calc(33.333% - var(--space-3));
   }
 }
 
 @media (max-width: 600px) {
-  .hero {
-    height: 240px;
-  }
-
   .hero__arrow {
     width: 34px;
     height: 34px;
   }
 
   .promo-strip {
-    margin-top: -24px;
+    margin-top: var(--space-3);
     gap: var(--space-2);
   }
 

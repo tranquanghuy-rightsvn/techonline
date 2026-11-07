@@ -1,9 +1,56 @@
 const siteHeader = document.getElementById('js-site-header');
 
+// Sticky header: when scrolled, the header collapses to one compact row.
+// Collapsing removes a lot of in-flow height, which used to pull the page
+// content up, push scrollY back under the threshold and un-collapse the header
+// again — an endless flicker loop. We fix that by:
+//   1. reserving the lost height with margin-bottom, so content never moves;
+//   2. using separate enter/leave thresholds (hysteresis);
+//   3. batching scroll work into requestAnimationFrame.
 if (siteHeader) {
-  window.addEventListener('scroll', () => {
-    siteHeader.classList.toggle('is-sticky', window.scrollY > 10);
-  }, { passive: true });
+  const ENTER_AT = 120;
+  const LEAVE_AT = 40;
+  let expandedHeight = 0;
+  let ticking = false;
+
+  const measure = () => {
+    const wasSticky = siteHeader.classList.contains('is-sticky');
+    siteHeader.classList.remove('is-sticky');
+    siteHeader.style.marginBottom = '';
+    expandedHeight = siteHeader.offsetHeight;
+    if (wasSticky) applySticky(true);
+  };
+
+  function applySticky(sticky) {
+    siteHeader.classList.toggle('is-sticky', sticky);
+    if (sticky) {
+      const lost = Math.max(0, expandedHeight - siteHeader.offsetHeight);
+      siteHeader.style.marginBottom = `${lost}px`;
+    } else {
+      siteHeader.style.marginBottom = '';
+    }
+  }
+
+  const update = () => {
+    ticking = false;
+    const isSticky = siteHeader.classList.contains('is-sticky');
+    const y = window.scrollY;
+    if (!isSticky && y > ENTER_AT) applySticky(true);
+    else if (isSticky && y < LEAVE_AT) applySticky(false);
+  };
+
+  const onScroll = () => {
+    if (!ticking) {
+      ticking = true;
+      window.requestAnimationFrame(update);
+    }
+  };
+
+  measure();
+  update();
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', () => { measure(); update(); });
+  window.addEventListener('load', () => { measure(); update(); });
 }
 
 const categoryMenu = document.getElementById('js-category-menu');

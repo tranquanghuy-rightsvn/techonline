@@ -6,6 +6,7 @@
 
 .global-breadcrumb__list {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -15,7 +16,7 @@
   display: flex;
 }
 
-.global-breadcrumb__item:first-child::after {
+.global-breadcrumb__item:not(:last-child)::after {
   content: "/";
   margin: 0 6px;
   color: #353535;

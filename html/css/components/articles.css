@@ -54,7 +54,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: linear-gradient(rgba(0, 0, 0, 0.05) 40%, rgba(0, 0, 0, 0.75));
   z-index: 1;
 }
 
@@ -81,6 +81,10 @@
   font-size: var(--text-md);
   font-weight: 700;
   line-height: 18px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
 }
 
 /* ==========================================================================
