@@ -193,13 +193,16 @@ for c in CATEGORIES:
     if not items:
         continue
     cards = "\n".join(card(a) for a in items[:3])
-    more = (f'\n      <a class="news-box__more" href="/{cid}/">Xem thêm</a>'
-            if len(items) > 3 and cid in CAT_PAGES else "")
+    more = (f'\n        <a class="news-box__all" href="/{cid}/">Xem tất cả <span aria-hidden="true">›</span></a>'
+            if cid in CAT_PAGES else "")
     boxes.append(f'''    <section class="news-box" id="{cid}" aria-labelledby="{cid}-title">
-      <h2 class="news-box__title" id="{cid}-title">{esc(name)}</h2>
+      <div class="news-box__head">
+        <h2 class="news-box__title" id="{cid}-title">{esc(name)}</h2>
+        <span class="news-box__line" aria-hidden="true"></span>{more}
+      </div>
       <div class="news-box__grid">
 {cards}
-      </div>{more}
+      </div>
     </section>''')
 
 top = ""
@@ -239,7 +242,19 @@ for c in CATEGORIES:
         continue
     items = [a for a in ARTICLES if a.get("category") == cid]
     desc = (c.get("description") or "").strip()
-    intro = f'\n      <p class="news-page__desc">{esc(desc)}</p>' if desc else ""
+    icon = CAT_ICON.get(cid)
+    icon_html = (f'<img src="assets/images/{icon}" alt="" width="34" height="34">' if icon else
+                 '<svg viewBox="0 0 24 24" width="34" height="34" fill="none" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2" stroke="currentColor" stroke-width="1.6"/>'
+                 '<path d="M7 8h10M7 12h10M7 16h6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>')
+    desc_html = f'\n          <p class="news-cat-hero__desc">{esc(desc)}</p>' if desc else ""
+    hero = f'''      <header class="news-cat-hero">
+        <span class="news-cat-hero__icon">{icon_html}</span>
+        <div class="news-cat-hero__text">
+          <p class="news-cat-hero__label">Danh mục tin tức</p>
+          <h1 class="news-cat-hero__title">{esc(name)}</h1>{desc_html}
+        </div>
+        <span class="news-cat-hero__count">{len(items)} bài viết</span>
+      </header>'''
     if items:
         grid = f'''      <div class="news-box__grid">
 {chr(10).join(card(a, "h2") for a in items)}
@@ -247,7 +262,6 @@ for c in CATEGORIES:
     else:
         grid = '      <p class="news-page__empty">Chưa có bài viết trong danh mục này.</p>'
     main = f'''<main {CAT_MARK}>
-  <h1 class="news-page__h1">{esc(name)}</h1>
   <div class="container">
     <nav class="news-cats" aria-label="Danh mục tin tức">
 {chips(cid)}
@@ -256,7 +270,8 @@ for c in CATEGORIES:
 
   <div class="news-page__body">
     <div class="container">
-    <section class="news-box" aria-label="{esc(name)}">{intro}
+{hero}
+    <section class="news-box news-box--category" aria-label="Bài viết {esc(name)}">
 {grid}
     </section>
     </div>

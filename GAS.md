@@ -80,8 +80,9 @@ Tài liệu API cho AI: `https://anninhthainguyen.vn/admin/api/`.
 Field: Tên, slug (bất biến), mô tả (tuỳ chọn), thứ tự. 4 danh mục hiện có: `huong-dan` (Hướng dẫn
 kỹ thuật), `tin-cong-nghe` (Tin công nghệ), `tu-van-lua-chon` (Tư vấn lựa chọn), `tin-tuc-cong-ty`
 (Tin tức công ty). Mỗi danh mục có TRANG RIÊNG `/<slug>/` (khách chốt 07/11/2026; `news/build.py`
-sinh: vỏ `/tin-tuc/`, chip danh mục đánh dấu mục hiện tại, mô tả nếu có, lưới mọi bài của danh mục) và
-vẫn là 1 nhóm (3 bài + nút "Xem thêm" khi > 3 bài) trong `/tin-tuc/`. Slug danh mục chung không gian URL
+sinh: vỏ `/tin-tuc/`, chip danh mục đánh dấu mục hiện tại, băng tiêu đề xanh `news-cat-hero` = icon +
+"Danh mục tin tức" + tên (h1) + mô tả + số bài, lưới mọi bài của danh mục) và vẫn là 1 nhóm trong
+`/tin-tuc/` (tiêu đề có vạch xanh + đường kẻ + nút "Xem tất cả ›" sang trang danh mục, 3 bài). Slug danh mục chung không gian URL
 với bài viết/sản phẩm/danh mục sản phẩm (`assertPathFree_`). Build đổi mọi link cũ `/tin-tuc/#<slug>` (footer
 "Cẩm nang sử dụng"…) thành `/<slug>/`; danh mục bị xoá → trang bị dọn (dấu `news-page--category`).
 Không xoá được danh mục còn bài.
@@ -327,6 +328,9 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
    giới thiệu/địa chỉ/MST/website/bản quyền, nút Zalo `https://zalo.me/<số>`, câu đăng ký nhận tin,
    link "Liên hệ" ở chân trang (KHÔNG thêm vào hàng tiện ích header — mục IX); trang chủ: tiêu đề/mô tả, banner, 4 ô khuyến mãi)
    viết lại theo cấu trúc. Nội dung bài viết/sản phẩm (dữ liệu CMS) KHÔNG bị đổi theo settings.
+   Top bar header chỉ giữ "Tin tức nổi bật" (bỏ "Khuyến mãi hot", "Hệ thống cửa hàng" — khách chốt
+   07/11/2026). Nút Messenger nổi góc phải TẠM ẨN (bọc comment `messenger:hidden`); mở lại:
+   `SHOW_MESSENGER = True` trong `apply_settings.py` rồi build.
    Banner/ô khuyến mãi không có field alt → ảnh gốc giữ alt cũ, ảnh mới alt "Khuyến mãi N"/"Ưu đãi N";
    `link` rỗng = `href="#"`. `website` cũng là domain canonical của `seo.py`.
 3. Đường dẫn ảnh lưu `/assets/...` trong data; trang xuất `assets/...` (mọi trang có

@@ -78,6 +78,23 @@ FAVICON = rel(S["favicon"])
 FAVICON_TYPE = ICON_TYPES.get(os.path.splitext(FAVICON.split("?")[0])[1].lower(), "image/png")
 
 
+# Nút Messenger nổi góc phải: TẠM ẨN (khách yêu cầu 07/11/2026, sẽ mở lại) - bọc trong comment HTML.
+# Mở lại: đổi thành True rồi chạy scripts/build.sh (tự gỡ comment).
+SHOW_MESSENGER = False
+MSG_OPEN = "<!-- messenger:hidden (tạm ẩn - mở lại: SHOW_MESSENGER = True trong scripts/site/apply_settings.py)"
+MSG_CLOSE = "messenger:hidden -->"
+
+
+def messenger(s):
+    if SHOW_MESSENGER:
+        return re.sub(r"<!-- messenger:hidden[^\n]*\n[ \t]*(.*?)\n[ \t]*messenger:hidden -->", r"\1", s, flags=re.S)
+    if MSG_OPEN in s:
+        return s
+    return re.sub(r"([ \t]*)(<a\b[^>]*contact-stack__item--messenger[^>]*>.*?</a>)",
+                  lambda m: f"{m.group(1)}{MSG_OPEN}\n{m.group(1)}{m.group(2)}\n{m.group(1)}{MSG_CLOSE}",
+                  s, count=1, flags=re.S)
+
+
 def structural(s):
     # favicon + logo
     s = re.sub(r'<link rel="icon" href="[^"]*" type="[^"]*"',
@@ -110,6 +127,12 @@ def structural(s):
     # header utility menu: KHÔNG thêm "Liên hệ" (thêm mục thứ 5 làm hàng tiện ích tràn, rớt dòng đè menu
     # danh mục - GAS.md mục IX). Gỡ mục đã chèn ở bản build cũ; link "Liên hệ" vẫn có ở chân trang.
     s = re.sub(r'\n[ \t]*<a class="site-header__utility-item" href="/lien-he/">.*?</a>', "", s, count=1, flags=re.S)
+
+    s = messenger(s)
+
+    # top bar: bỏ "Khuyến mãi hot" + "Hệ thống cửa hàng" (khách chốt 07/11/2026), chỉ giữ "Tin tức nổi bật"
+    s = re.sub(r'\n[ \t]*<a class="site-header__top-link"[^>]*>(?:(?!</a>).)*?<span>(?:Khuyến mãi hot|Hệ thống cửa hàng)</span>\s*</a>',
+               "", s, flags=re.S)
 
     # floating Zalo button (attribute order differs between page families)
     z = esc(zalo_url(S))

@@ -52,18 +52,6 @@
         </a>
       </div>
       <nav class="site-header__top-links" aria-label="Liên kết nhanh">
-        <a class="site-header__top-link" href="#">
-          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" aria-hidden="true">
-            <path d="M12 3l2.1 4.3 4.7.7-3.4 3.3.8 4.7L12 13.8 7.8 16l.8-4.7L5.2 8l4.7-.7L12 3z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
-          </svg>
-          <span>Khuyến mãi hot</span>
-        </a>
-        <a class="site-header__top-link" href="#">
-          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" aria-hidden="true">
-            <path d="M4 10l8-6 8 6v9a1 1 0 01-1 1h-4v-6H9v6H5a1 1 0 01-1-1v-9z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
-          </svg>
-          <span>Hệ thống cửa hàng</span>
-        </a>
         <a class="site-header__top-link" href="/tin-tuc/">
           <svg viewBox="0 0 24 24" width="16" height="16" fill="none" aria-hidden="true">
             <path d="M4 5h16v12H9l-4 3V5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
@@ -184,7 +172,6 @@
 </nav>
 
 <main class="news-page news-page--category">
-  <h1 class="news-page__h1">Hướng dẫn kỹ thuật</h1>
   <div class="container">
     <nav class="news-cats" aria-label="Danh mục tin tức">
       <a class="news-cats__item is-current" href="/huong-dan/">
@@ -207,7 +194,15 @@
 
   <div class="news-page__body">
     <div class="container">
-    <section class="news-box" aria-label="Hướng dẫn kỹ thuật">
+      <header class="news-cat-hero">
+        <span class="news-cat-hero__icon"><img src="assets/images/news-cat-huong-dan.png" alt="" width="34" height="34"></span>
+        <div class="news-cat-hero__text">
+          <p class="news-cat-hero__label">Danh mục tin tức</p>
+          <h1 class="news-cat-hero__title">Hướng dẫn kỹ thuật</h1>
+        </div>
+        <span class="news-cat-hero__count">3 bài viết</span>
+      </header>
+    <section class="news-box news-box--category" aria-label="Bài viết Hướng dẫn kỹ thuật">
       <div class="news-box__grid">
         <article class="news-card">
           <a class="news-card__img" href="/cach-chon-vi-tri-lap-dat-camera-an-ninh/">
@@ -343,11 +338,13 @@
   </div>
 </footer>
 <div class="contact-stack">
+  <!-- messenger:hidden (tạm ẩn - mở lại: SHOW_MESSENGER = True trong scripts/site/apply_settings.py)
   <a href="#" class="contact-stack__item contact-stack__item--messenger" aria-label="Chat Messenger">
     <svg viewBox="0 0 48 48" width="28" height="28" aria-hidden="true">
       <path fill="#fff" d="M24 4C13 4 4 12.4 4 23c0 5.9 2.9 11.2 7.4 14.7V44l6.8-3.7c1.9.5 3.9.8 5.8.8 11 0 20-8.4 20-19s-9-18-20-18Zm2 25.6-5.1-5.4-10 5.4L21.9 18l5.2 5.4 9.9-5.4L26 29.6Z"/>
     </svg>
   </a>
+  messenger:hidden -->
   <a href="https://zalo.me/0913286293" class="contact-stack__item contact-stack__item--zalo" aria-label="Chat Zalo">
     <span class="contact-stack__zalo-text">Zalo</span>
   </a>
