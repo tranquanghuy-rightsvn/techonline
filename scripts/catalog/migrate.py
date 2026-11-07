@@ -451,14 +451,19 @@ for g_ in groups:
         if collapse(c["name"]) != p["name"]:
             warn(f"card name differs [{g_['page']}] {c['name']!r} -> page {p['name']!r}")
         if c.get("price") and c["price"] != fmt(p["price"]):
-            warn(f"card price differs [{g_['page']}] {sl}: card {c['price']!r} / page {fmt(p['price'])!r}")
-featured = []
+            if p["price"] is None and money(c["price"]):
+                # generated page shows "Liên hệ" but the listing has the real price: keep the price
+                p["price"], p["old_price"] = money(c["price"]), money(c.get("oldPrice") or "")
+                warn(f"price taken from card [{g_['page']}] {sl}: {c['price']} (page said Liên hệ)")
+            else:
+                warn(f"card price differs [{g_['page']}] {sl}: card {c['price']!r} / page {fmt(p['price'])!r} (page kept)")
+featured = {}  # slug -> rank on the home page (1 = first card of its section)
 for si, sec in enumerate(home):
-    for c in sec["products"]:
+    for rank, c in enumerate(sec["products"], 1):
         sl = c["link"].strip("/")
         attrs_src[sl].append((2, c.get("attrs") or [], "home"))
         badge_src[sl].append(c.get("badge") or "")
-        featured.append(sl)
+        featured[sl] = rank
 
 for sl, p in products.items():
     src = sorted(attrs_src.get(sl, []), key=lambda x: x[0])
@@ -469,7 +474,7 @@ for sl, p in products.items():
     p["badge"] = bs[0] if bs else ""
     if len(set(badge_src.get(sl, []))) > 1:
         warn(f"{sl}: badge differs between cards {set(badge_src[sl])}, kept {p['badge']!r}")
-    p["featured"] = sl in featured
+    p["featured"] = featured.get(sl, 0)
 
 # discount check: the build computes round((old - price) / old * 100)
 for sl, p in products.items():

@@ -42,7 +42,7 @@
     "Dahua"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "· Support four 10/100M PoE power supply ports, and two 10/100M uplink ports · Support 802.3af and 802.3at standards · OperatingTemperature: -10°C to +55°C",
   "keywords": "",
   "focus_keyword": "",

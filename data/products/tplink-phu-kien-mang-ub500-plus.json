@@ -8,8 +8,8 @@
   "sku": "UB500 PLUS",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 170000,
+  "old_price": 240000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-ub500-plus.png"
@@ -47,7 +47,7 @@
   "description_html": "<p>Bộ Chuyển Đổi USB Bluetooth Tầm Xa</p><p>Bluetooth 5.4 — Cải thiện bảo mật và độ ổn định so với Bluetooth thế hệ trước.†</p><p>Kết nối không dây – Cung cấp khả năng giao tiếp ổn định và tiện lợi giữa các thiết bị Bluetooth với PC hoặc laptop của bạn.</p><p>Ăng-ten đa hướng, có thể điều chỉnh – Xoay và điều chỉnh ăng-ten đa hướng để cải thiện trải nghiệm người dùng và hiệu suất trong nhiều môi trường khác nhau.</p><p>Hệ điều hành được hỗ trợ – Windows 11/10/8.1/7</p>",
   "attrs": [],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Bộ Chuyển Đổi USB Bluetooth Tầm Xa Bluetooth 5.4 — Cải thiện bảo mật và độ ổn định so với Bluetooth thế hệ trước.† Kết nối không dây – Cung cấp khả năng giao tiếp ổn định và tiện lợi giữa các thiết bị",
   "keywords": "",
   "focus_keyword": "",

@@ -8,8 +8,8 @@
   "sku": "ARCHER C54",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 450000,
+  "old_price": 630000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-archer-c54.png"
@@ -54,7 +54,7 @@
     "5 Cổng"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Router Wi-Fi Băng Tần Kép AC1200 Wi-Fi AC tốc độ cao—Wi-Fi băng tần kép AC1200 lý tưởng cho việc phát video 4K và tải về tốc độ cao. Vùng phủ Wi-Fi rộng lớn—4 ăng ten và công nghệ Beamforming mang đến",
   "keywords": "",
   "focus_keyword": "",

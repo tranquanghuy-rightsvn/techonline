@@ -8,8 +8,8 @@
   "sku": "TL-WN781ND",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 200000,
+  "old_price": 280000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg"
@@ -50,7 +50,7 @@
     "150 - 500 Mpps"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Card mạng PCI Express Wi-Fi 150Mbps Tốc độ truyền dữ liệu không dây lên tới 150Mbps Cung cấp giao diện PCI Express",
   "keywords": "",
   "focus_keyword": "",

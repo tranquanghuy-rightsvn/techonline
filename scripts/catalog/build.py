@@ -10,7 +10,7 @@ Reads data/products.json, data/products/<slug>.json, data/product-categories.jso
   - the product grids the category pages render client-side: the inline
     `window.SUBCATEGORY_GROUPS` of subcategory pages and html/js/data/<x>-products.js for the
     category / brand / lock / network layouts; a page is created for a new category
-  - html/js/data/products.js (home page sections: products with `featured: true`)
+  - html/js/data/products.js (home page sections: products with `featured` > 0, by that rank)
   - html/js/data/search-index.js (products + posts)
   - deletes orphan product pages (product removed from data) and orphan category pages
 Derived here: % discount, similar products (first 4 of the primary category), card fields.
@@ -653,6 +653,16 @@ def category_page(cat):
     return write(path, s)
 
 
+def featured_rank(p):
+    """`featured`: 0/false/absent = not on the home page; n >= 1 = rank (true counts as 1)."""
+    f = p.get("featured")
+    try:
+        f = int(f)
+    except (TypeError, ValueError):
+        f = 0
+    return f if f > 0 else 10 ** 9
+
+
 # ------------------------------------------------------------------ run
 def main():
     smarts = smart.render_many({s: PROD[s].get("smart") for s in ORDER})
@@ -692,9 +702,9 @@ def main():
     trees = {sec["id"]: set().union(*(subtree(r) for r in sec["roots"])) for sec in HOME_SECTIONS}
     by_claim = sorted(HOME_SECTIONS, key=lambda x: x["claim"])
     picked = {sec["id"]: [] for sec in HOME_SECTIONS}
-    for slug in ORDER:
+    for slug in sorted(ORDER, key=lambda s: (featured_rank(PROD[s]), POS[s])):
         p = PROD[slug]
-        if not p.get("featured"):
+        if not featured_rank(p) < 10 ** 9:
             continue
         cs = set(p.get("categories") or [])
         sec = next((x for x in by_claim if cs & trees[x["id"]]), None)

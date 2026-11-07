@@ -53,7 +53,9 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Bộ phát wifi TP-Link TL-WA850RE",
-        "price": "Liên hệ",
+        "price": "275.000 đ",
+        "oldPrice": "390.000 đ",
+        "discount": "-29%",
         "attrs": [
           "Chuẩn N",
           "2.4GHz",
@@ -64,7 +66,9 @@ const NETWORK_CATEGORY_GROUPS = [
       },
       {
         "name": "Bộ phát wifi TP-Link UE330C",
-        "price": "Liên hệ",
+        "price": "465.000 đ",
+        "oldPrice": "650.000 đ",
+        "discount": "-28%",
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-ue330c.png",
         "href": "/tplink-bo-phat-wifi-ue330c/"
@@ -77,7 +81,9 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Router – Modem TP-Link TL-WR840N",
-        "price": "Liên hệ",
+        "price": "325.000 đ",
+        "oldPrice": "460.000 đ",
+        "discount": "-29%",
         "attrs": [
           "Chuẩn N",
           "10 đến 20 thiết bị",
@@ -88,7 +94,9 @@ const NETWORK_CATEGORY_GROUPS = [
       },
       {
         "name": "Router – Modem TP-Link ARCHER C54",
-        "price": "Liên hệ",
+        "price": "450.000 đ",
+        "oldPrice": "630.000 đ",
+        "discount": "-29%",
         "attrs": [
           "20 đến 30 thiết bị",
           "5 Cổng"
@@ -98,7 +106,9 @@ const NETWORK_CATEGORY_GROUPS = [
       },
       {
         "name": "Router – Modem TP-Link ARCHER C50",
-        "price": "Liên hệ",
+        "price": "510.000 đ",
+        "oldPrice": "710.000 đ",
+        "discount": "-28%",
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png",
         "href": "/tplink-router-modem-archer-c50/"
@@ -111,14 +121,18 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Phụ kiện mạng TP-Link UB500 PLUS",
-        "price": "Liên hệ",
+        "price": "170.000 đ",
+        "oldPrice": "240.000 đ",
+        "discount": "-29%",
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-ub500-plus.png",
         "href": "/tplink-phu-kien-mang-ub500-plus/"
       },
       {
         "name": "Phụ kiện mạng TP-Link UE306",
-        "price": "Liên hệ",
+        "price": "210.000 đ",
+        "oldPrice": "290.000 đ",
+        "discount": "-28%",
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-ue306.png",
         "href": "/tplink-phu-kien-mang-ue306/"
@@ -131,14 +145,18 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Mesh Wi-Fi TP-Link UH9120C",
-        "price": "Liên hệ",
+        "price": "790.000 đ",
+        "oldPrice": "1.110.000 đ",
+        "discount": "-29%",
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-uh9120c.png",
         "href": "/tplink-mesh-wifi-uh9120c/"
       },
       {
         "name": "Mesh Wi-Fi TP-Link DECO M4",
-        "price": "Liên hệ",
+        "price": "970.000 đ",
+        "oldPrice": "1.360.000 đ",
+        "discount": "-29%",
         "attrs": [
           "Chuẩn AC",
           "Wifi 5",
@@ -149,7 +167,9 @@ const NETWORK_CATEGORY_GROUPS = [
       },
       {
         "name": "Mesh Wi-Fi TP-Link DECO S7",
-        "price": "Liên hệ",
+        "price": "1.020.000 đ",
+        "oldPrice": "1.430.000 đ",
+        "discount": "-29%",
         "attrs": [
           "Chuẩn AC",
           "Wifi 5",
@@ -166,7 +186,9 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Bộ kích sóng wifi TP-Link TL-WN781ND",
-        "price": "Liên hệ",
+        "price": "200.000 đ",
+        "oldPrice": "280.000 đ",
+        "discount": "-29%",
         "attrs": [
           "2.4GHz",
           "150 - 500 Mpps"
@@ -182,7 +204,9 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Wi-Fi Di Động TP-Link M7000",
-        "price": "Liên hệ",
+        "price": "1.140.000 đ",
+        "oldPrice": "1.600.000 đ",
+        "discount": "-29%",
         "attrs": [
           "2.4GHz",
           "150 - 500 Mpps"
@@ -204,7 +228,9 @@ const NETWORK_CATEGORY_GROUPS = [
       },
       {
         "name": "Wi-Fi Di Động TP-Link DECO E4",
-        "price": "Liên hệ",
+        "price": "1.880.000 đ",
+        "oldPrice": "2.630.000 đ",
+        "discount": "-29%",
         "attrs": [
           "Chuẩn AC",
           "Wifi 5",
@@ -221,7 +247,9 @@ const NETWORK_CATEGORY_GROUPS = [
     "products": [
       {
         "name": "Switch – Bộ chuyển mạch TP-Link TL-SG1005D",
-        "price": "Liên hệ",
+        "price": "280.000 đ",
+        "oldPrice": "390.000 đ",
+        "discount": "-28%",
         "attrs": [
           "Switch Ethernet 10/100/1000"
         ],

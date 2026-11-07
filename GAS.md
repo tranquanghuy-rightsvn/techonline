@@ -126,10 +126,11 @@ Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là O
    Mã sản phẩm (`sku`) · Bảo hành (vd "24 tháng") · Tình trạng (`Còn hàng` | `Hết hàng` |
    `Liên hệ`) · Giá (số, để trống = "Liên hệ") · Giá cũ (số, tuỳ chọn; % giảm do build tính) ·
    Đã gồm VAT (bật/tắt) · Ảnh (≥ 1, ảnh đầu = ảnh đại diện, đổi thứ tự được) · Mô tả tóm tắt (danh
-   sách gạch đầu dòng, 4 dòng đầu hiện sẵn) · Ưu đãi (danh sách, mặc định theo settings) · Thông
+   sách gạch đầu dòng, 6 dòng đầu hiện sẵn) · Ưu đãi (danh sách, mặc định theo settings) · Thông
    số kỹ thuật (bảng 2 cột tên/giá trị) · Mô tả chi tiết (TinyMCE, có chèn ảnh) · Nhãn thẻ (`attrs`,
-   ≤ 3 chip trên thẻ sản phẩm) · Badge (tuỳ chọn, vd "Mẫu mới") · Mô tả SEO · Từ khoá SEO · Từ khoá
-   chính.
+   ≤ 3 chip trên thẻ sản phẩm) · Badge (tuỳ chọn, vd "Mẫu mới") · Hiện ở trang chủ (`featured`:
+   số thứ tự, 0 = không) · Mô tả SEO · Từ khoá SEO · Từ khoá chính. Field chỉ có từ migrate, CMS giữ
+   nguyên (không có ô nhập): `breadcrumb` (đường dẫn cũ), `colors`, `reviews` (1 sản phẩm DDL609).
 2. Build tự suy: % giảm, JSON-LD Product, sản phẩm tương tự (cùng danh mục), thẻ sản phẩm trên
    trang danh mục/trang chủ, chỉ mục tìm kiếm.
 3. Ảnh RIÊNG 1-1: `html/assets/img/products/<slug>/gNN.jpg`. Ảnh đã migrate (đường dẫn cũ, kể cả
@@ -137,6 +138,8 @@ Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là O
 4. Migrate 1 lần (script local, KHÔNG thuộc CMS): 381 trang `html/<slug>/index.html` có
    `pdp__title` + 144 khoá cửa chỉ có trong `js/data/khoa-cua-van-tay-products.js` → `data/products`.
    Sau migrate, build sinh lại trang sản phẩm phải trùng nội dung với trang hiện tại (so diff).
+   Đã chạy 07/11/2026 (`scripts/catalog/migrate.py`): 515 sản phẩm (381 có trang + 134 khoá chỉ có
+   trong file JS, nay có trang riêng), 118 danh mục — chi tiết + quyết định ở mục XIV.
 
 ## III-B. Danh mục sản phẩm
 
@@ -260,12 +263,19 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
   `smart`: object mục II-D.1 hoặc không có key)
 - `data/product-categories.json`: `[{slug, name, parent, layout, image, description, order}]`
   (`parent`: slug hoặc `""`; `layout`: `category` | `brand` | `subcategory` | `lock` | `network`)
-- `data/products.json`: `[{slug, name, categories, brand, image, price, old_price, attrs, badge,
-  stock, smart, updated_at}]` (`image` = ảnh đầu của `images`)
+- `data/products.json` (thứ tự mảng = thứ tự sản phẩm trên mọi lưới danh mục):
+  `[{slug, name, categories, brand, image, price, old_price, attrs, badge, stock, featured, smart,
+  updated_at}]` (`image` = ảnh đầu của `images`)
 - `data/products/<slug>.json`: `{slug, name, categories, brand, sku, warranty, stock, price,
-  old_price, vat, images, summary, offers, specs, description_html, attrs, badge,
-  seo_description, keywords, focus_keyword, smart, created_at, updated_at}`
-  (`vat`: bool; `summary`/`offers`/`attrs`: mảng chuỗi; `specs`: mảng `[tên, giá trị]`)
+  old_price, vat, images, summary, offers, specs, description_html, attrs, badge, featured,
+  seo_description, keywords, focus_keyword, breadcrumb, colors, reviews, smart, created_at,
+  updated_at}` (`vat`: bool; `summary`/`offers`/`attrs`: mảng chuỗi; `specs`: mảng `[tên, giá trị]`;
+  chuỗi trong summary/offers/specs có thẻ HTML thì build in nguyên, không thì escape; `offers` rỗng =
+  `settings.default_offers`; `categories[0]` = danh mục chính (sản phẩm tương tự, breadcrumb, link
+  thương hiệu); `featured`: số nguyên, 0 = không hiện trang chủ, n ≥ 1 = thứ tự trong khối trang chủ;
+  TUỲ CHỌN, chỉ có từ migrate: `breadcrumb` `[[nhãn, href], …]` (không có "Trang chủ"; không có key
+  → build suy từ chuỗi cha của `categories[0]`; CMS nên xoá key khi đổi danh mục), `colors`
+  `[{name, hex, image}]`, `reviews` `[{name, time: "YYYY-MM-DDTHH:MM", stars, text}]`)
 - `data/settings.json`: `{brand, hotline, zalo, email, website, address, tax_code, footer_text,
   copyright, home_title, home_description, logo, favicon, og_image, hero: [{image, link}],
   promo_tiles: [{image, link}], default_offers: [chuỗi]}`
@@ -305,3 +315,37 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
    `html/vercel.json`. CI commit `html/` + `data/media-index.json`.
 8. `data/media-index.json`: ảnh `/assets/...` từ bài viết, sản phẩm (data) và phần nội dung (giữa
    header và footer) của mọi trang; `used_in` = tối đa 3 tên bài/sản phẩm/trang, nối " · ", "(+N)".
+
+## XIV. Build sản phẩm + danh mục sản phẩm (`scripts/catalog/`, quyết định khi dựng)
+
+1. `migrate.py` (chạy 1 lần, đọc html cũ): trang sản phẩm là nguồn đúng cho tên/giá/ảnh/mô tả…;
+   thẻ trên lưới danh mục chỉ cho `attrs` (ưu tiên thẻ trang danh mục con), `badge` ("Mẫu mới"),
+   `featured` (thứ tự trên trang chủ). Ngoại lệ: 14 sản phẩm mạng trang ghi "Liên hệ" nhưng lưới có
+   giá → lấy giá của lưới. Mọi xung đột khác (tên/ảnh thẻ khác trang) → bỏ giá trị của thẻ.
+2. Danh mục: mỗi trang danh mục cũ = 1 danh mục (`layout` theo component đang dùng). Nhóm của trang
+   `category/lock/network` = danh mục con (link "Xem tất cả" cũ). Nhóm của trang hãng (`brand`, link
+   cũ là `#`) = danh mục con mới `<hãng>-<tên nhóm>` (44 cái) + 4 ô icon không có nhóm của
+   `/thiet-bi-mang/` → 48 danh mục mới, build tạo trang `subcategory` cho chúng. Một sản phẩm có thể
+   thuộc nhiều danh mục (vd `camera-ip-dahua` và `dahua-camera-ip`).
+3. `build.py` (chạy trong `scripts/build.sh` trước `media_index.py`/`seo.py`):
+   - Trang sản phẩm: vỏ = 1 trang sản phẩm có sẵn (giữ header/footer/khối cố định), thay các khối
+     theo data. Hiện sẵn 6 dòng tóm tắt, 6 khối mô tả, 4 dòng thông số (còn lại thu gọn). Giá rỗng →
+     "Liên hệ" + nút "LIÊN HỆ ĐẶT MUA"; có giá → "ĐẶT MUA NGAY". % giảm = round((cũ − mới)/cũ·100).
+     Đoạn cảm ơn + hotline/Zalo/email cuối mô tả lấy từ settings. Link thương hiệu = trang gốc của
+     danh mục chính nếu gốc là `brand`, không thì `#`. Sản phẩm tương tự = 4 sản phẩm đầu của danh
+     mục chính (theo thứ tự `products.json`). JSON-LD/OG do `seo.py` đọc từ trang.
+   - Smart content: `scripts/site/smart.py` (thay nội dung trong khung mô tả, giữ đoạn cảm ơn).
+   - Lưới danh mục: `subcategory` → `window.SUBCATEGORY_GROUPS` trong trang (danh mục lá = 1 nhóm,
+     danh mục có con = mỗi con 1 nhóm); `category/brand/lock/network` → `js/data/<file>-products.js`
+     (dải icon = mọi danh mục con, ảnh = `image`; nhóm = con có sản phẩm, `brand` hiện cả nhóm rỗng).
+     Trang danh mục mới copy vỏ cùng layout. `lock-page.js`/`network-page.js` không còn ghép tiền tố
+     ảnh (data lưu đường dẫn đầy đủ).
+   - Trang chủ `js/data/products.js`: 4 khối cố định trong `HOME_SECTIONS` (build.py), mỗi khối = sản
+     phẩm `featured` thuộc cây danh mục của khối, theo `featured` tăng dần, tối đa 10.
+   - `js/data/search-index.js`: mọi sản phẩm + bài viết (`type: "post"`, từ `data/posts.json`);
+     `build_pages.py` không còn sinh file này.
+   - Xoá trang mồ côi: `html/<slug>/` có `pdp__title` mà không còn trong `products.json`; trang danh
+     mục (dùng 1 trong 5 component) không còn trong `product-categories.json`; file
+     `js/data/*-products.js` không trang nào dùng.
+4. Kiểm tra: `python3 scripts/catalog/diff_pages.py <html cũ> html` (so trang sản phẩm bỏ qua khoảng
+   trắng + khối SEO, báo theo vùng).

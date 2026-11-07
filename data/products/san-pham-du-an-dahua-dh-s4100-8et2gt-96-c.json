@@ -43,7 +43,7 @@
     "Dahua"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "· Supports visualized management and remote maintenance. · Supports automatic network topology generation. · 250 m long-distance power supply.",
   "keywords": "",
   "focus_keyword": "",

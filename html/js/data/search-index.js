@@ -348,25 +348,25 @@ const SEARCH_INDEX = [
 "name": "Bộ kích sóng wifi TP-Link TL-WN781ND",
 "href": "/tplink-bo-kich-song-wifi-tl-wn781nd/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "200.000 đ",
+"oldPrice": "280.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Bộ phát wifi TP-Link TL-WA850RE",
 "href": "/tplink-bo-phat-wifi-tl-wa850re/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wa850re.jpg",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "275.000 đ",
+"oldPrice": "390.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Bộ phát wifi TP-Link UE330C",
 "href": "/tplink-bo-phat-wifi-ue330c/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-ue330c.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "465.000 đ",
+"oldPrice": "650.000 đ",
+"discount": "-28%"
 },
 {
 "name": "Camera Analog Dahua DH-HAC-HDW1200TQP-IL-T-VN 2MP",
@@ -2596,25 +2596,25 @@ const SEARCH_INDEX = [
 "name": "Mesh Wi-Fi TP-Link UH9120C",
 "href": "/tplink-mesh-wifi-uh9120c/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-uh9120c.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "790.000 đ",
+"oldPrice": "1.110.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Mesh Wi-Fi TP-Link DECO M4",
 "href": "/tplink-mesh-wifi-deco-m4/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "970.000 đ",
+"oldPrice": "1.360.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Mesh Wi-Fi TP-Link DECO S7",
 "href": "/tplink-mesh-wifi-deco-s7/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-s7.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "1.020.000 đ",
+"oldPrice": "1.430.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Phụ kiện Dahua DHI-LM22-B220N",
@@ -2748,41 +2748,41 @@ const SEARCH_INDEX = [
 "name": "Phụ kiện mạng TP-Link UB500 PLUS",
 "href": "/tplink-phu-kien-mang-ub500-plus/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-ub500-plus.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "170.000 đ",
+"oldPrice": "240.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Phụ kiện mạng TP-Link UE306",
 "href": "/tplink-phu-kien-mang-ue306/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-ue306.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "210.000 đ",
+"oldPrice": "290.000 đ",
+"discount": "-28%"
 },
 {
 "name": "Router – Modem TP-Link TL-WR840N",
 "href": "/tplink-router-modem-tl-wr840n/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wr840n.jpg",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "325.000 đ",
+"oldPrice": "460.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Router – Modem TP-Link ARCHER C54",
 "href": "/tplink-router-modem-archer-c54/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c54.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "450.000 đ",
+"oldPrice": "630.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Router – Modem TP-Link ARCHER C50",
 "href": "/tplink-router-modem-archer-c50/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "510.000 đ",
+"oldPrice": "710.000 đ",
+"discount": "-28%"
 },
 {
 "name": "Sản phẩm dự án Dahua ITC431-RW1F-L 4MP",
@@ -2956,9 +2956,9 @@ const SEARCH_INDEX = [
 "name": "Switch – Bộ chuyển mạch TP-Link TL-SG1005D",
 "href": "/tplink-switch-tl-sg1005d/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "280.000 đ",
+"oldPrice": "390.000 đ",
+"discount": "-28%"
 },
 {
 "name": "Switch Dahua DH-CS4010-8ET2GT-60",
@@ -3076,9 +3076,9 @@ const SEARCH_INDEX = [
 "name": "Wi-Fi Di Động TP-Link M7000",
 "href": "/tplink-wifi-di-dong-m7000/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "1.140.000 đ",
+"oldPrice": "1.600.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Camera Wifi Dahua DH-IPC-HDW1339DA-SAW-IL",
@@ -3804,9 +3804,9 @@ const SEARCH_INDEX = [
 "name": "Wi-Fi Di Động TP-Link DECO E4",
 "href": "/tplink-wifi-di-dong-deco-e4/",
 "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-e4.png",
-"price": "Liên hệ",
-"oldPrice": "",
-"discount": ""
+"price": "1.880.000 đ",
+"oldPrice": "2.630.000 đ",
+"discount": "-29%"
 },
 {
 "name": "Wi-Fi Adapter TP-Link ARCHER TX50UH",

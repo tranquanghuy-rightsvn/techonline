@@ -8,8 +8,8 @@
   "sku": "TL-WA850RE",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 275000,
+  "old_price": 390000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-tl-wa850re.jpg"
@@ -53,7 +53,7 @@
     "150 - 500 Mpps"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Bộ mở rộng sóng Wi-Fi tốc độ 300Mbps TL-WA850RE Chế độ mở rộng sóng tăng cường tín hiệu Wi-Fi đến các điểm không thể hoặc khó đi dây trước đây một cách hoàn hảo Kích thước nhỏ gọn và thiết kế gắn tườn",
   "keywords": "",
   "focus_keyword": "",

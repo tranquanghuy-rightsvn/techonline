@@ -8,8 +8,8 @@
   "sku": "DECO S7",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 1020000,
+  "old_price": 1430000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-deco-s7.png"
@@ -54,7 +54,7 @@
     "1 Pack"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Hệ Thống Wi-Fi Mesh AC1900 Cho Gia Đình Tốc độ WiFi 1900 Mbps – Thỏa sức xem series yêu thích ở độ phân giải 4K với tổng tốc độ lên đến 1900 Mbps (600 Mbps trên băng tần 2.4 GHz và 1300 Mbps trên băng",
   "keywords": "",
   "focus_keyword": "",

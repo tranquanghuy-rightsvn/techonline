@@ -8,8 +8,8 @@
   "sku": "TL-WR840N",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 325000,
+  "old_price": 460000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-tl-wr840n.jpg"
@@ -52,7 +52,7 @@
     "5 Cổng"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Tốc độ truyền Wi-Fi 300 Mbps lý tưởng cho các tác vụ đòi hỏi độ nhạy cao và công việc cơ bản trên cả hai băng tần Hỗ trợ 4 chế độ: Chế độ Router, Mở Rộng Sóng, Điểm Truy Cập và WISP Quyền Kiểm Soát củ",
   "keywords": "",
   "focus_keyword": "",

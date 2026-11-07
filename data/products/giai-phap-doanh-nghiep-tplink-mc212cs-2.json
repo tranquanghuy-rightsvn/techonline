@@ -42,7 +42,7 @@
     "TP-Link"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Omada Gigabit WDM Media Converter • 1× 10/100/1000Mbps Auto-Negotiation RJ45 port supports Auto-MDI/MDIX • Auto-negotiation of Half-Duplex/Full-Duplex transfer mode",
   "keywords": "",
   "focus_keyword": "",

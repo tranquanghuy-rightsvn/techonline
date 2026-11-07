@@ -50,7 +50,7 @@
     "Dahua"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "· Industry embedded micro-controller · Max 512Mbps incoming bandwidth · 128-channel IP video access",
   "keywords": "",
   "focus_keyword": "",

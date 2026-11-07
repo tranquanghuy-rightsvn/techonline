@@ -8,8 +8,8 @@
   "sku": "M7000",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 1140000,
+  "old_price": 1600000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg"
@@ -49,7 +49,7 @@
     "150 - 500 Mpps"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Chia sẻ kết nối internet với bạn bè lên đến 10 thiết bị cùng lúc Pin sạc 2000 mAh cho thời gian sử dụng lâu dài Hỗ trợ 4G FDD/TDD-LTE, tương thích với mạng của hầu hết các quốc gia trên thế giới",
   "keywords": "",
   "focus_keyword": "",

@@ -44,7 +44,7 @@
     "Dahua"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "· O&M: Supports displaying equipment online status, fault status, working status, equipment power, equipment temperature, equipment photosensitive value and other operation and maintenance status info",
   "keywords": "",
   "focus_keyword": "",

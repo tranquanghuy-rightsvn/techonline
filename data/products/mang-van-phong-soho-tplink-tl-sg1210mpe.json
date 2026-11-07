@@ -46,7 +46,7 @@
     "TP-Link"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "10-Port Gigabit Easy Smart Switch with 8-Port PoE+ 9× gigabit RJ45 ports and 1× combo gigabit SFP/RJ45 port Equipped with eight 802.3af/at PoE+ ports with up to 30 W for each port, the switch can transfer data and power via one single cable",
   "keywords": "",
   "focus_keyword": "",

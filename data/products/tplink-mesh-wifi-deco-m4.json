@@ -8,8 +8,8 @@
   "sku": "DECO M4",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 970000,
+  "old_price": 1360000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png"
@@ -54,7 +54,7 @@
     "1 Pack"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Hệ Thống Mesh Wi-Fi AC1200 Cho Gia Đình Deco sử dụng một hệ thống các thiết bị để đạt được vùng phủ sóng Wi-Fi liền mạch cho cả căn nhà – loại bỏ các vùng Wi-Fi yếu một lần và mãi mãi! Công nghệ Mesh",
   "keywords": "",
   "focus_keyword": "",

@@ -46,7 +46,7 @@
     "Dahua"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "· Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats. · Max. decoding capability: 32 × 1080p@30 fps or 8 × 8MP@30 fps. · Max. 384 Mbps incoming/recording/outgoing bandwidth.",
   "keywords": "",
   "focus_keyword": "",

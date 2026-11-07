@@ -8,8 +8,8 @@
   "sku": "UE306",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 210000,
+  "old_price": 290000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-ue306.png"
@@ -47,7 +47,7 @@
   "description_html": "<p>Bộ chuyển đổi USB 3.0 sang Ethernet Gigabit</p><p>Giải pháp USB 3.0 và Gigabit đảm bảo truyền tải tốc độ cao nhất</p><p>Cắm và Sử dụng ngay với Nintendo Switch, Windows 11/10/8.1, Mac OS và Linux OS</p><p>Thiết kế di động và có thể gấp gọn lý tưởng cho Ultrabook của bạn</p><p>Tương thích với Nintendo Switch: tận hưởng chơi game cùng bạn bè và tải xuống nhanh chóng bằng cách cắm vào đế Nintendo switch của bạn và tận hưởngkết nối Ethernet gigabit</p>",
   "attrs": [],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Bộ chuyển đổi USB 3.0 sang Ethernet Gigabit Giải pháp USB 3.0 và Gigabit đảm bảo truyền tải tốc độ cao nhất Cắm và Sử dụng ngay với Nintendo Switch, Windows 11/10/8.1, Mac OS và Linux OS",
   "keywords": "",
   "focus_keyword": "",

@@ -8,8 +8,8 @@
   "sku": "UE330C",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 465000,
+  "old_price": 650000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-ue330c.png"
@@ -48,7 +48,7 @@
   "description_html": "<p>Hub USB Type-C ra 3 cổng USB-A 3.0 &amp; Mạng Gigabit Ethernet</p><p>Bổ sung thêm 3 cổng USB 3.0* với tốc độ truyền tải lên đến 5 Gbps, nhanh gấp 10 lần so với USB 2.0</p><p>Bổ sung kết nối mạng Gigabit Ethernet với tốc độ truyền tải lên đến 1000 Mbps</p><p>Nhỏ gọn và nhẹ</p><p>Cắm và Chạy**</p><p>Tăng cường độ ổn định và tương thích</p>",
   "attrs": [],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Hub USB Type-C ra 3 cổng USB-A 3.0 & Mạng Gigabit Ethernet Bổ sung thêm 3 cổng USB 3.0* với tốc độ truyền tải lên đến 5 Gbps, nhanh gấp 10 lần so với USB 2.0 Bổ sung kết nối mạng Gigabit Ethernet với",
   "keywords": "",
   "focus_keyword": "",

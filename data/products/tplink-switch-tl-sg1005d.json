@@ -8,8 +8,8 @@
   "sku": "TL-SG1005D",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 280000,
+  "old_price": 390000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png"
@@ -50,7 +50,7 @@
     "Switch Ethernet 10/100/1000"
   ],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Switch Để Bàn 5-Cổng Gigabit 5 cổng RJ45 Gigabit tính năng tự động đàm phán, hỗ trợ Auto MDI/MDIX Công nghệ Green Ethernet tiết kiệm điện",
   "keywords": "",
   "focus_keyword": "",

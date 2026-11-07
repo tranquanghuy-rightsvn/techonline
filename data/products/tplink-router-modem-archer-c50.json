@@ -8,8 +8,8 @@
   "sku": "ARCHER C50",
   "warranty": "24 tháng",
   "stock": "Còn hàng",
-  "price": null,
-  "old_price": null,
+  "price": 510000,
+  "old_price": 710000,
   "vat": false,
   "images": [
     "/assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png"
@@ -50,7 +50,7 @@
   "description_html": "<p>Router Wi-Fi AC1200 Băng Tần Kép</p><p>Hỗ trợ phát trực tuyến 4K mượt mà với Wi-Fi AC1200</p><p>4 ăng ten ngoài cung cấp kết nối Wi-Fi ổn định và vùng phủ tối ưu</p><p>Tương thích với các router EasyMesh và bộ mở rộng sóng để tạo hệ thống Mesh Wi-Fi toàn nhà liền mạch, ngăn chặn rớt mạng và độ trễ khi chuyển đổi tín hiệu</p><p>Quản lý router từ xa qua đám mây</p><p>WPA3 tăng cường mã hóa Wi-Fi để cải thiện bảo mật</p><p>Hỗ trợ IGMP Proxy/Snooping, Bridge và Tag VLAN để tối ưu hóa phát trực tuyến IPTV</p><p>Hỗ trợ chế độ Điểm truy cập để tạo điểm truy cập Wi-Fi mới</p>",
   "attrs": [],
   "badge": "",
-  "featured": false,
+  "featured": 0,
   "seo_description": "Router Wi-Fi AC1200 Băng Tần Kép Hỗ trợ phát trực tuyến 4K mượt mà với Wi-Fi AC1200 4 ăng ten ngoài cung cấp kết nối Wi-Fi ổn định và vùng phủ tối ưu",
   "keywords": "",
   "focus_keyword": "",
