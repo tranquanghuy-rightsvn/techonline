@@ -182,6 +182,19 @@ Menu (`menu-data.js`) vẫn sửa tay.
 - Khối khởi động `bootApp()` đặt CUỐI `js.html` (bug TDZ của adzo). Chạy
   `scripts/check_gas_client.mjs` sau mỗi lần sửa `gas/js.html`.
 
+## VII-B. Email (`gas/email.html`)
+
+- 1 mẫu HTML (template HtmlService, biến `d`) cho mail liên hệ mới, đơn hàng mới, mã đăng nhập;
+  `renderEmail_(data)` dựng + bản chữ thường, `sendTemplatedMail_()` gửi. Bảng lồng + style inline (Gmail/
+  Outlook), không `<style>`/flex. Mọi giá trị in bằng scriptlet có escape.
+- Logo đính kèm `inlineImages` (`cid:logo`), tải từ raw.githubusercontent.com theo `settings.logo` → hiện
+  ngay, không phụ thuộc tên miền. Tải lỗi → chữ tên thương hiệu. Tên/hotline/email/website ở chân mail lấy
+  `data/settings.json` (cache 6 giờ); lỗi → mặc định, KHÔNG chặn gửi (OTP phải luôn gửi được).
+- Link trong mail chỉ tạo từ dữ liệu an toàn: `tel:` số đã chuẩn hoá, `mailto:` email hợp lệ, "Gửi từ
+  trang" chỉ khi là đường dẫn nội bộ `/...` (`sitePageUrl_`), link sản phẩm chỉ khi slug có trong
+  `products.json`.
+- Kiểm thử: harness dịch `email.html` thật (`renderGasTemplate`), test-api kiểm logo/escape/link/nội dung.
+
 ## VIII. Kiến trúc lưu trữ (tên cố định)
 
 - Google Sheet `An Ninh Thai Nguyen CMS Data` (tự tạo lần đầu):

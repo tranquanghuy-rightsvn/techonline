@@ -42,6 +42,25 @@ const Utilities = {
   computeDigest: () => [1, 2, 3, 4, 5, 6],
 };
 
+/** Dịch template HtmlService: <?= x ?> (escape HTML), <?!= x ?> (thô), <? code ?>. Biến = thuộc tính của template. */
+function renderGasTemplate(file, vars) {
+  const src = fs.readFileSync(file, 'utf8');
+  let js = 'let __o = "";\n';
+  let last = 0;
+  src.replace(/<\?(!=|=)?([\s\S]*?)\?>/g, (m, kind, code, i) => {
+    js += '__o += ' + JSON.stringify(src.slice(last, i)) + ';\n';
+    if (kind === '=') js += '__o += __esc(' + code + ');\n';
+    else if (kind === '!=') js += '__o += String(' + code + ');\n';
+    else js += code + '\n';
+    last = i + m.length;
+    return m;
+  });
+  js += '__o += ' + JSON.stringify(src.slice(last)) + ';\nreturn __o;';
+  const esc = (v) => String(v == null ? '' : v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  const names = Object.keys(vars).filter((k) => k !== 'evaluate');
+  return new Function('__esc', ...names, js)(esc, ...names.map((k) => vars[k]));
+}
+
 function response(code, body, contentType) {
   const buf = Buffer.isBuffer(body) ? body : Buffer.from(String(body), 'utf8');
   return {
@@ -179,7 +198,12 @@ const sandbox = {
     createTextOutput: (t) => ({ setMimeType: () => ({ body: t, json: JSON.parse(t) }) }),
   },
   HtmlService: {
-    createTemplateFromFile: () => ({ evaluate: () => ({ getContent: () => '<div>app</div>', setTitle() { return this; } }) }),
+    // "email" chạy THẬT gas/email.html (bộ dịch scriptlet tối giản giống HtmlService); file khác giả lập.
+    createTemplateFromFile: (name) => {
+      if (name !== 'email') return { evaluate: () => ({ getContent: () => '<div>app</div>', setTitle() { return this; } }) };
+      const t = { evaluate: () => ({ getContent: () => renderGasTemplate(path.join(__dirname, '..', '..', 'gas', name + '.html'), t) }) };
+      return t;
+    },
     createHtmlOutputFromFile: () => ({ getContent: () => '' }),
     XFrameOptionsMode: { ALLOWALL: 'ALLOWALL' },
   },

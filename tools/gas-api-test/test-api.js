@@ -374,6 +374,19 @@ check('doPost contact: lưu Sheet Contacts đúng cột, gửi mail, rate-limit 
   assert(!out.json.ok && /1 phút/.test(out.json.error), 'thiếu rate-limit');
   assert(!S.doPost({ postData: { contents: JSON.stringify({ action: 'contact', phone: '12' }) } }).json.ok, 'SĐT sai vẫn nhận');
 });
+check('mail liên hệ: mẫu email.html, logo cid, escape dữ liệu khách, không link trang lạ', () => {
+  mails.length = 0;
+  const out = S.doPost({ postData: { contents: JSON.stringify({ action: 'contact', name: '<img src=x onerror=alert(1)>', phone: '0933 111 222', email: 'b@y.vn', message: 'Dòng 1\nDòng 2', page: '@evil.com/x' }) } });
+  assert(out.json.ok, JSON.stringify(out.json));
+  const m = mails[0];
+  assert(m && m.inlineImages && m.inlineImages.logo && m.htmlBody.includes('src="cid:logo"'), 'thiếu logo cid');
+  assert(m.name === 'An Ninh Thái Nguyên', m.name);
+  assert(!m.htmlBody.includes('<img src=x') && m.htmlBody.includes('&lt;img src=x'), 'không escape tên khách');
+  assert(!/href="[^"]*evil\.com/.test(m.htmlBody), 'tạo link tới trang lạ');
+  assert(m.htmlBody.includes('href="tel:0933111222"') && m.htmlBody.includes('href="mailto:b@y.vn"'));
+  assert(m.htmlBody.includes('Dòng 1\nDòng 2') && m.htmlBody.includes('LIÊN HỆ MỚI'));
+  assert(/Nội dung:\nDòng 1/.test(m.body) && !/<\?/.test(m.htmlBody), 'bản chữ thường / scriptlet sót');
+});
 check('honeypot _hp: trả ok nhưng không lưu', () => {
   const sh = spreadsheet.sheets.find((s) => s.getName() === 'Contacts');
   const n = sh._rows.length;
@@ -394,6 +407,13 @@ check('doPost order: server tính lại tổng theo products.json, "Liên hệ" 
   assert(items[0].name === 'Camera Imou IPC-A22' && items[0].price === 580000 && items[1].price === 0, JSON.stringify(items));
   sameKeys(items[0], ['slug', 'name', 'price', 'qty']);
   assert(row[header.indexOf('payment')] === 'bank' && row[header.indexOf('status')] === 'Mới');
+});
+check('mail đơn hàng: mã đơn, bảng sản phẩm, tổng tiền, nhãn chuyển khoản', () => {
+  const m = mails[mails.length - 1];
+  assert(m && /Đơn hàng mới KT47/.test(m.subject), m && m.subject);
+  assert(m.htmlBody.includes('KT47') && m.htmlBody.includes('Camera Imou IPC-A22') && m.htmlBody.includes('1.160.000đ'), 'thiếu nội dung đơn');
+  assert(m.htmlBody.includes('CHUYỂN KHOẢN') && m.htmlBody.includes('Liên hệ báo giá'), 'thiếu nhãn / dòng Liên hệ');
+  assert(/Tạm tính: 1\.160\.000đ/.test(m.body), m.body);
 });
 check('order: trùng mã -> DUPLICATE_CODE; giỏ trống / thiếu địa chỉ bị chặn', () => {
   const dup = S.doPost({ postData: { contents: JSON.stringify({ action: 'order', id: 'KT47', name: 'C', phone: '0977777777', address: 'x', items: [{ slug: 'camera-imou-ipc-a22' }] }) } });
