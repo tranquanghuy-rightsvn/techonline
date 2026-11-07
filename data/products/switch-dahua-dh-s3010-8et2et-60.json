@@ -1,0 +1,73 @@
+{
+  "slug": "switch-dahua-dh-s3010-8et2et-60",
+  "name": "Switch Dahua DH-S3010-8ET2ET-60",
+  "categories": [
+    "switch-dahua",
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-S3010-8ET2ET-60",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-dahua-dh-s3010-8et2et-60.png"
+  ],
+  "summary": [
+    "Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink)",
+    "8 x 10/100Mbps PoE Ports + 2 x 100Mbps Uplink port",
+    "Hỗ trợ chế độ mở rộng đường truyền lên đế 250m cho cáp cat6 (10 Mbps)",
+    "Tổng công suất cho 8 cổng POE là 60W",
+    "Công suất chuyển mạch: 2 Gbps",
+    "Tốc độ chuyển tiếp gói tin: 1.488 Mpps",
+    "Hỗ trợ chuẩn PoE: IEEE802.3at và IEEE802.3af",
+    "Nguồn: 53 V, 50/60 Hz, max 1.22 A",
+    "Kích thước sản phẩm: 184.6 mm × 77.4 mm × 27 mm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-S3010-8ET2ET-60"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink)</p><p>8 x 10/100Mbps PoE Ports + 2 x 100Mbps Uplink port</p><p>Hỗ trợ chế độ mở rộng đường truyền lên đế 250m cho cáp cat6 (10 Mbps)</p><p>Tổng công suất cho 8 cổng POE là 60W</p><p>Công suất chuyển mạch: 2 Gbps</p><p>Tốc độ chuyển tiếp gói tin: 1.488 Mpps</p><p>Hỗ trợ chuẩn PoE: IEEE802.3at và IEEE802.3af</p><p>Nguồn: 53 V, 50/60 Hz, max 1.22 A</p><p>Kích thước sản phẩm: 184.6 mm × 77.4 mm × 27 mm</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink) 8 x 10/100Mbps PoE Ports + 2 x 100Mbps Uplink port Hỗ trợ chế độ mở rộng đường truyền lên đế 250m cho cáp cat6 (10 Mbps)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

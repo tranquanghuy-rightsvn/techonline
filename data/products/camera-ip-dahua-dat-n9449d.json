@@ -1,0 +1,109 @@
+{
+  "slug": "camera-ip-dahua-dat-n9449d",
+  "name": "Camera IP Dahua DAT-N9449D 4MP",
+  "categories": [
+    "camera-ip-dahua",
+    "dahua-camera-ip"
+  ],
+  "brand": "Dahua",
+  "sku": "DAT-N9449D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449d.png"
+  ],
+  "summary": [
+    "Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/1.8”",
+    "2688 × 1520@(1–20 fps)/ 2560 ×1440@(1–25/30 fps)",
+    "Hỗ trợ công nghệ AI-ISP với độ nhạy sáng siêu thấp 0.0001",
+    "Chuẩn nén H265+",
+    "Hỗ trợ chức năng phát hiện thông minh: Hàng rào ảo, Xâm nhập (phân biệt người và xe), SMD Plus",
+    "Tìm kiếm thông minh: Tìm kiếm nhanh sự kiện theo từng đối tượng (người, xe) khi kết hợp NVR",
+    "Chống ngược sáng WDR (120dB)",
+    "Chế độ ngày đêm (ICR), tự động cân bằng trắng (AWB), tự động bù sáng (AGC), chống ngược sáng(BLC), chống nhiễu (3D-DNR), LDC",
+    "Tầm xa LED ánh sáng ấm thu hình có màu 30m",
+    "Hỗ trợ khe cắm thẻ nhớ 256GB, Tích hợp mic",
+    "Ống kính cố định 3.6mm góc nhìn rộng 89°",
+    "Chuẩn tương thích ONVIF, hỗ trợ tên miền miễn phí SmartDDNS.TV, AutoRegister 2.0",
+    "Chuẩn chống nước IP67",
+    "Điện áp DC12V hoặc PoE",
+    "Nhiệt độ hoạt động : -40° C ~ +60° C",
+    "Chất liệu kim loại + nhựa"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DAT-N9449D"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Âm thanh",
+      "Tích hợp"
+    ],
+    [
+      "Chống ngược sáng",
+      "True WDR 130dB"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera Dome"
+    ],
+    [
+      "Loại",
+      "IP Camera"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Đèn 40 mét"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "Hàng rào ảo, SMD Plus, Xâm nhập (phân biệt người và xe)"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/1.8”</p><p>2688 × 1520@(1–20 fps)/ 2560 ×1440@(1–25/30 fps)</p><p>Hỗ trợ công nghệ AI-ISP với độ nhạy sáng siêu thấp 0.0001</p><p>Chuẩn nén H265+</p><p>Hỗ trợ chức năng phát hiện thông minh: Hàng rào ảo, Xâm nhập (phân biệt người và xe), SMD Plus</p><p>Tìm kiếm thông minh: Tìm kiếm nhanh sự kiện theo từng đối tượng (người, xe) khi kết hợp NVR</p><p>Chống ngược sáng WDR (120dB)</p><p>Chế độ ngày đêm (ICR), tự động cân bằng trắng (AWB), tự động bù sáng (AGC), chống ngược sáng(BLC), chống nhiễu (3D-DNR), LDC</p><p>Tầm xa LED ánh sáng ấm thu hình có màu 30m</p><p>Hỗ trợ khe cắm thẻ nhớ 256GB, Tích hợp mic</p><p>Ống kính cố định 3.6mm góc nhìn rộng 89°</p><p>Chuẩn tương thích ONVIF, hỗ trợ tên miền miễn phí SmartDDNS.TV, AutoRegister 2.0</p><p>Chuẩn chống nước IP67</p><p>Điện áp DC12V hoặc PoE</p><p>Nhiệt độ hoạt động : -40° C ~ +60° C</p><p>Chất liệu kim loại + nhựa</p>",
+  "attrs": [
+    "4MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/1.8” 2688 × 1520@(1–20 fps)/ 2560 ×1440@(1–25/30 fps) Hỗ trợ công nghệ AI-ISP với độ nhạy sáng siêu thấp 0.0001",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

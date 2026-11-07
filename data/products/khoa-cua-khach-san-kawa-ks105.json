@@ -1,0 +1,32 @@
+{
+  "slug": "khoa-cua-khach-san-kawa-ks105",
+  "name": "Khóa cửa khách sạn Kawa KS105",
+  "categories": [
+    "khoa-cua-van-tay-kawa"
+  ],
+  "brand": "",
+  "sku": "",
+  "warranty": "",
+  "stock": "Còn hàng",
+  "price": 1680000,
+  "old_price": 2400000,
+  "vat": false,
+  "images": [
+    "assets/images/khoa-cua-van-tay/products/250-1369-kawa-ks105.png"
+  ],
+  "summary": [],
+  "offers": [],
+  "specs": [],
+  "description_html": "",
+  "attrs": [
+    "Cửa khách sạn",
+    "Thẻ từ"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

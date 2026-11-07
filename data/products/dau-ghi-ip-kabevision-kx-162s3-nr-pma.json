@@ -1,0 +1,75 @@
+{
+  "slug": "dau-ghi-ip-kabevision-kx-162s3-nr-pma",
+  "name": "Đầu ghi IP KabeVision KX-162S3-NR-PMA",
+  "categories": [
+    "dau-ghi-ip-kabevision",
+    "kabe-vision-dau-ghi-ip"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-162S3-NR-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162s3-nr-pma.png"
+  ],
+  "summary": [
+    "GIÁ: 7,000,000 VND",
+    "·",
+    "Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats.",
+    "·",
+    "Max. 160/160/80 Mbps incoming/recording/outgoing bandwidth.",
+    "·",
+    "Max. decoding capability: 8 × 1080p@30 fps or 2 × 8 MP@30 fps.",
+    "·",
+    "Supports IP cameras with a resolution up to 12 MP.",
+    "·",
+    "AI by Recorder supports 4-channel SMD Plus.",
+    "·",
+    "AI by Camera supports face detection and recognition, perimeter protection, SMD Plus, people counting, stereo analysis and heatmap.",
+    "·",
+    "Supports EPTZ, and one-click arming and disarming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-162S3-NR-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>·</p><p>Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats.</p><p>·</p><p>Max. 160/160/80 Mbps incoming/recording/outgoing bandwidth.</p><p>·</p><p>Max. decoding capability: 8 × 1080p@30 fps or 2 × 8 MP@30 fps.</p><p>·</p><p>Supports IP cameras with a resolution up to 12 MP.</p><p>·</p><p>AI by Recorder supports 4-channel SMD Plus.</p><p>·</p><p>AI by Camera supports face detection and recognition, perimeter protection, SMD Plus, people counting, stereo analysis and heatmap.</p><p>·</p><p>Supports EPTZ, and one-click arming and disarming</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "GIÁ: 7,000,000 VND · Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Đầu ghi IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

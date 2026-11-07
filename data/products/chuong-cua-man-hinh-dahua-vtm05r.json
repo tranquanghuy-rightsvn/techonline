@@ -1,0 +1,67 @@
+{
+  "slug": "chuong-cua-man-hinh-dahua-vtm05r",
+  "name": "Chuông cửa màn hình Dahua VTM05R",
+  "categories": [
+    "chuong-cua-man-hinh-dahua",
+    "dahua-chuong-cua-man-hinh"
+  ],
+  "brand": "Dahua",
+  "sku": "VTM05R",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm05r.png"
+  ],
+  "summary": [
+    "Box nổi DHI-VTO2202F-P (-S2)",
+    "Chất liệu hợp kim nhôm",
+    "AL5052 t=2.0mm, IP65"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "VTM05R"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Chuông cửa màn hình"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>Box nổi DHI-VTO2202F-P (-S2)</p><p>Chất liệu hợp kim nhôm</p><p>AL5052 t=2.0mm, IP65</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Box nổi DHI-VTO2202F-P (-S2) Chất liệu hợp kim nhôm AL5052 t=2.0mm, IP65",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Chuông cửa màn hình",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

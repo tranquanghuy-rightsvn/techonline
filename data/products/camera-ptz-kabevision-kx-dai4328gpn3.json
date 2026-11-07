@@ -1,0 +1,75 @@
+{
+  "slug": "camera-ptz-kabevision-kx-dai4328gpn3",
+  "name": "Camera PTZ KabeVision KX-DAi4328GPN3",
+  "categories": [
+    "camera-ptz-kabevision",
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-DAi4328GPN3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-dai4328gpn3.png"
+  ],
+  "summary": [
+    "Camera Speeddome AI IP 4.0MP phát hiện khuôn mặt",
+    "1/2.8″ CMOS 4.0Mp, 25/",
+    ", WDR 120dB",
+    "Zoom quang 32x , zoom số 16x",
+    "H.265+/H.265/H.264+/ H.264",
+    "Auto tracking , IVS: như hàng rào ảo, khu vực cấm, mất vật thể..giúp hạn chế báo động giả.",
+    "SMD 4.0 (nhận biết người và xe)",
+    "Quick Pick (giúp tìm kiếm nhanh đối tượng)",
+    "Phát hiện khuôn mặt với AI",
+    "Tốc độ: 400°/s xoay ngang, 300°/s xoay dọc, 360° không có điểm dừng",
+    "Báo động: 2 báo động vào Hỗ trợ các thiết bị báo động như công tắc từ hoặc PIR,1 báo động ra Hỗ trợ loa báo động hoặc điều khiển thiết bị khác",
+    "Hỗ trợ thẻ nhớ MicroSD lên đến 512GB",
+    "KBVISION.TV và P2P, AutoRegister 1.0",
+    "Mic in/out: 1/1 (Hỗ trợ âm thanh 2 chiều), IP67, IK10.",
+    "Tầm xa hồng ngoại: 150m, Nguồn: DC24V 2.5A ± 25%, PoE+"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-DAi4328GPN3"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera Speeddome AI IP 4.0MP phát hiện khuôn mặt</p><p>1/2.8″ CMOS 4.0Mp, 25/</p><p>, WDR 120dB</p><p>Zoom quang 32x , zoom số 16x</p><p>H.265+/H.265/H.264+/ H.264</p><p>Auto tracking , IVS: như hàng rào ảo, khu vực cấm, mất vật thể..giúp hạn chế báo động giả.</p><p>SMD 4.0 (nhận biết người và xe)</p><p>Quick Pick (giúp tìm kiếm nhanh đối tượng)</p><p>Phát hiện khuôn mặt với AI</p><p>Tốc độ: 400°/s xoay ngang, 300°/s xoay dọc, 360° không có điểm dừng</p><p>Báo động: 2 báo động vào Hỗ trợ các thiết bị báo động như công tắc từ hoặc PIR,1 báo động ra Hỗ trợ loa báo động hoặc điều khiển thiết bị khác</p><p>Hỗ trợ thẻ nhớ MicroSD lên đến 512GB</p><p>KBVISION.TV và P2P, AutoRegister 1.0</p><p>Mic in/out: 1/1 (Hỗ trợ âm thanh 2 chiều), IP67, IK10.</p><p>Tầm xa hồng ngoại: 150m, Nguồn: DC24V 2.5A ± 25%, PoE+</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera Speeddome AI IP 4.0MP phát hiện khuôn mặt 1/2.8″ CMOS 4.0Mp, 25/ , WDR 120dB",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

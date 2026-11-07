@@ -1,0 +1,102 @@
+{
+  "slug": "camera-wifi-dahua-dh-p3i-pv",
+  "name": "Camera Wifi Dahua DH-P3I-PV 3MP",
+  "categories": [
+    "camera-wifi-dahua",
+    "dahua-camera-wifi"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-P3I-PV",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3i-pv.png"
+  ],
+  "summary": [
+    "Camera WiFi quay quét ngoài trời 3.0MP",
+    "Độ phân giải 1/3.2″ CMOS 3MP, 15fps@2304×1296",
+    "Chuẩn nén H265",
+    "Hỗ trợ các chế độ ánh sáng ban đêm: Có màu (Full Color), Hồng ngoại và Thông minh",
+    "Ống kính cố định 2.8mm, góc nhìn 87°",
+    "Tầm xa đèn hồng ngoại 30m , tầm xa đèn LED ánh sáng ấm thu hình có màu 30m",
+    "Chức năng thông minh: Phát hiện con người, Phát hiện phương tiện.",
+    "Chức năng Smart Tracking, theo dõi đối tượng xâm nhập",
+    "Hỗ trợ đàm thoại hai chiều",
+    "Hỗ trợ còi hú và đèn chớp báo động",
+    "Hỗ trợ khe cắm thẻ nhớ 256GB",
+    "Kết nối WiFi 6 (2.4GHz), LAN, Bluetooth pairing",
+    "Không hỗ trợ giao diện cài đặt web",
+    "App sử dụng: DMSS, SmartPSS Lite",
+    "Chuẩn chống nước IP66, lắp đặt ngoài trời",
+    "Điện áp DC12V (không hỗ trợ PoE)",
+    "Nhiệt độ hoạt động: –30 °C to +50 °C"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-P3I-PV"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera Wifi"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Đèn 30 mét, Hồng ngoại 30 mét"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "Phát hiện con người, Phát hiện xâm nhập"
+    ],
+    [
+      "Âm thanh",
+      "Hỗ trợ"
+    ],
+    [
+      "Báo động",
+      "Còi, Đèn"
+    ],
+    [
+      "Bảo vệ",
+      "IP 66"
+    ],
+    [
+      "Độ phân giải",
+      "3MP"
+    ]
+  ],
+  "description_html": "<p>Camera WiFi quay quét ngoài trời 3.0MP</p><p>Độ phân giải 1/3.2″ CMOS 3MP, 15fps@2304×1296</p><p>Chuẩn nén H265</p><p>Hỗ trợ các chế độ ánh sáng ban đêm: Có màu (Full Color), Hồng ngoại và Thông minh</p><p>Ống kính cố định 2.8mm, góc nhìn 87°</p><p>Tầm xa đèn hồng ngoại 30m , tầm xa đèn LED ánh sáng ấm thu hình có màu 30m</p><p>Chức năng thông minh: Phát hiện con người, Phát hiện phương tiện.</p><p>Chức năng Smart Tracking, theo dõi đối tượng xâm nhập</p><p>Hỗ trợ đàm thoại hai chiều</p><p>Hỗ trợ còi hú và đèn chớp báo động</p><p>Hỗ trợ khe cắm thẻ nhớ 256GB</p><p>Kết nối WiFi 6 (2.4GHz), LAN, Bluetooth pairing</p><p>Không hỗ trợ giao diện cài đặt web</p><p>App sử dụng: DMSS, SmartPSS Lite</p><p>Chuẩn chống nước IP66, lắp đặt ngoài trời</p><p>Điện áp DC12V (không hỗ trợ PoE)</p><p>Nhiệt độ hoạt động: –30 °C to +50 °C</p>",
+  "attrs": [
+    "3MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera WiFi quay quét ngoài trời 3.0MP Độ phân giải 1/3.2″ CMOS 3MP, 15fps@2304×1296 Chuẩn nén H265",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera Wifi",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

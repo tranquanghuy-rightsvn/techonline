@@ -1,0 +1,67 @@
+{
+  "slug": "dau-ghi-ip-kabevision-kx-162e3-nr-pma",
+  "name": "Đầu ghi IP KabeVision KX-162E3-NR-PMA",
+  "categories": [
+    "dau-ghi-ip-kabevision",
+    "kabe-vision-dau-ghi-ip"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-162E3-NR-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162e3-nr-pma.png"
+  ],
+  "summary": [
+    "GIÁ: 14,990,000 VND",
+    "· Smart H.265+/H.265/Smart H.264+/H.264/MJPEG decoding format.",
+    "· 16-channel 1080p self-adaptive decoding capability.",
+    "· Max. 384 Mbps incoming/recording/outgoing bandwidth.",
+    "· AI by recorder: 2-channel face detection and recognition, 4-channel perimeter protection, and 8-channel SMD Plus.",
+    "· AI by camera: Face detection and recognition, perimeter protection, SMD Plus, metadata, ANPR, stereo analysis, heat map, and people counting.",
+    "· Security baseline 2.3."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-162E3-NR-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>· Smart H.265+/H.265/Smart H.264+/H.264/MJPEG decoding format.</p><p>· 16-channel 1080p self-adaptive decoding capability.</p><p>· Max. 384 Mbps incoming/recording/outgoing bandwidth.</p><p>· AI by recorder: 2-channel face detection and recognition, 4-channel perimeter protection, and 8-channel SMD Plus.</p><p>· AI by camera: Face detection and recognition, perimeter protection, SMD Plus, metadata, ANPR, stereo analysis, heat map, and people counting.</p><p>· Security baseline 2.3.</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "GIÁ: 14,990,000 VND · Smart H.265+/H.265/Smart H.264+/H.264/MJPEG decoding format. · 16-channel 1080p self-adaptive decoding capability.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Đầu ghi IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

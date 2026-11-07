@@ -1,0 +1,91 @@
+{
+  "slug": "camera-ip-kbvision-kx-a2012tn3-vn",
+  "name": "Camera IP KBVision KX-A2012TN3-VN 2MP",
+  "categories": [
+    "camera-ip-kbvision",
+    "kbvision-camera-ip"
+  ],
+  "brand": "KBVision",
+  "sku": "KX-A2012TN3-VN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-a2012tn3-vn.png"
+  ],
+  "summary": [
+    "Cảm biến: 1/2.9” Sony NIR 2.0MP",
+    "Độ phân giải: 25-30fps@ 2M(1920×1080)",
+    "Ống kính: 3.6mm ( góc nhìn 83°)",
+    "Tầm xa hồng ngoại: 30m, Led SMD",
+    "Hỗ trợ tên miền KBVISION.TV",
+    "Vỏ kim loại IP67"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-A2012TN3-VN"
+    ],
+    [
+      "Thương hiệu",
+      "KBVision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Chống ngược sáng",
+      "DWDR"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera Dome"
+    ],
+    [
+      "Loại",
+      "XVR"
+    ],
+    [
+      "Tầm xa hồng ngoại",
+      "30 mét"
+    ],
+    [
+      "Thương hiệu",
+      "KBVISION"
+    ]
+  ],
+  "description_html": "<p>Camera</p><p>KBVISION</p><p>Cảm biến hình ảnh 1/2.9″ 2.0 Mp, max 25/30fps@1080P(1920×1080), Sony NIR</p><p>Hỗ trợ cân bằng ánh sáng (AWB), bù sáng (AGC), chống ngược sáng (DWDR), chống nhiễu (3D- DNR), cảm biến ngày/đêm (ICR) giúp camera tự động điều chỉnh hình ảnh và màu sắc đẹp nhất phù hợp nhất với mọi môi trường ánh sáng.</p><p>Hỗ trợ 20 user truy cập cùng lúc</p><p>Chuẩn nén hình ảnh: H265+/H.265/H.264+/H264 giúp tiết kiệm băng thông và dung lượng lưu trữ</p><p>Ống kính: 3.6mm (góc nhìn 83°)</p><p>Tầm xa hồng ngoại: 30m với hồng ngoại thông minh giúp chống lóa</p><p>Nguồn 12VDC/PoE (cấp nguồn qua đường dây mạng giúp giảm chi phí dây nguồn và nguồn cho camera)</p><p>Chuẩn chống bụi và nước IP67</p><p>Hỗ trợ chuẩn kết nối Onvif</p><p>Nhiệt độ hoạt động -30~+60°C</p><p>Hỗ trợ tên miền kbvision.tv</p>",
+  "attrs": [
+    "2MP",
+    "KBVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Cảm biến: 1/2.9” Sony NIR 2.0MP Độ phân giải: 25-30fps@ 2M(1920×1080) Ống kính: 3.6mm ( góc nhìn 83°)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KBVision",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

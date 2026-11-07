@@ -1,0 +1,72 @@
+{
+  "slug": "switch-dahua-dh-sf1005l",
+  "name": "Switch Dahua DH-SF1005L",
+  "categories": [
+    "switch-dahua",
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-SF1005L",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1005l.png"
+  ],
+  "summary": [
+    "5-Port Unmanaged Ethernet Switch",
+    "5 cổng Ethernet với tốc độ 100Mbps.",
+    "Khả năng chuyển đổi: 1 Gbit",
+    "Bộ nhớ lưu trữ MAC: 2K",
+    "Nguồn: 5 VDC; 1 A",
+    "Chống sét: 2KV",
+    "Kích thước (mm): 86.4 mm × 52.0 mm × 23.0 mm",
+    "Khối lượng: 0.12 kg, thiết kế vỏ nhựa nhỏ gọn"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-SF1005L"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>5-Port Unmanaged Ethernet Switch</p><p>5 cổng Ethernet với tốc độ 100Mbps.</p><p>Khả năng chuyển đổi: 1 Gbit</p><p>Bộ nhớ lưu trữ MAC: 2K</p><p>Nguồn: 5 VDC; 1 A</p><p>Chống sét: 2KV</p><p>Kích thước (mm): 86.4 mm × 52.0 mm × 23.0 mm</p><p>Khối lượng: 0.12 kg, thiết kế vỏ nhựa nhỏ gọn</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "5-Port Unmanaged Ethernet Switch 5 cổng Ethernet với tốc độ 100Mbps. Khả năng chuyển đổi: 1 Gbit",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

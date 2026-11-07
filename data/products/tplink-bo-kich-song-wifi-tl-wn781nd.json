@@ -1,0 +1,73 @@
+{
+  "slug": "tplink-bo-kich-song-wifi-tl-wn781nd",
+  "name": "Bộ kích sóng wifi TP-Link TL-WN781ND",
+  "categories": [
+    "bo-kich-song-wifi"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-WN781ND",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express Wi-Fi 150Mbps",
+    "Tốc độ truyền dữ liệu không dây lên tới 150Mbps",
+    "Cung cấp giao diện PCI Express",
+    "Kết nối bảo mật nâng cao với mã hóa WPA/WPA2",
+    "Tiện ích đi kèm cho phép quản lý dễ dàng"
+  ],
+  "offers": [
+    "Cam kết sản phẩm chính hãng",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí lắp đặt tận nhà tại nội thành Hà Nội và Hồ Chí Minh",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Bảo hành chính hãng 24 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán",
+    "Lỗi đổi mới trong 30 ngày đầu sử dụng"
+  ],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-WN781ND"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Danh mục",
+      "Bộ kích sóng wifi"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express Wi-Fi 150Mbps</p><p>Tốc độ truyền dữ liệu không dây lên tới 150Mbps</p><p>Cung cấp giao diện PCI Express</p><p>Kết nối bảo mật nâng cao với mã hóa WPA/WPA2</p><p>Tiện ích đi kèm cho phép quản lý dễ dàng</p>",
+  "attrs": [
+    "2.4GHz",
+    "150 - 500 Mpps"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Card mạng PCI Express Wi-Fi 150Mbps Tốc độ truyền dữ liệu không dây lên tới 150Mbps Cung cấp giao diện PCI Express",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Thiết bị mạng",
+      "/thiet-bi-mang/"
+    ],
+    [
+      "TP-Link",
+      "#"
+    ],
+    [
+      "Bộ kích sóng wifi",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

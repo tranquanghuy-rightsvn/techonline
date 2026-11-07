@@ -1,0 +1,63 @@
+{
+  "slug": "he-thuong-wisualarm-dhi-hy-c123",
+  "name": "Hệ thường Wisualarm DHI-HY-C123",
+  "categories": [
+    "bao-chay-he-thuong",
+    "dahua-wisualarm-he-thuong"
+  ],
+  "brand": "Wisualarm",
+  "sku": "DHI-HY-C123",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-C123-150x150-1.png"
+  ],
+  "summary": [
+    "Nút nhấn thường (tròn)",
+    "Điện áp đầu vào: DC 24V(16V-28V)",
+    "Dòng điện chờ: ≤ 0,1mA",
+    "Dòng điện báo động: ≤ 0,17mA",
+    "Chỉ thị: Đèn LED màu đỏ",
+    "Download Image",
+    "Download Brochure"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DHI-HY-C123"
+    ],
+    [
+      "Thương hiệu",
+      "Wisualarm"
+    ],
+    [
+      "Danh mục",
+      "Hệ thường"
+    ]
+  ],
+  "description_html": "<p>Nút nhấn thường (tròn)</p><p>Điện áp đầu vào: DC 24V(16V-28V)</p><p>Dòng điện chờ: ≤ 0,1mA</p><p>Dòng điện báo động: ≤ 0,17mA</p><p>Chỉ thị: Đèn LED màu đỏ</p>",
+  "attrs": [
+    "Wisualarm"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Nút nhấn thường (tròn) Điện áp đầu vào: DC 24V(16V-28V) Dòng điện chờ: ≤ 0,1mA",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Wisualarm",
+      "/dahua-wisualarm/"
+    ],
+    [
+      "Hệ thường",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

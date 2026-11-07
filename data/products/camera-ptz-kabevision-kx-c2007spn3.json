@@ -1,0 +1,69 @@
+{
+  "slug": "camera-ptz-kabevision-kx-c2007spn3",
+  "name": "Camera PTZ KabeVision KX-C2007sPN3",
+  "categories": [
+    "camera-ptz-kabevision",
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-C2007sPN3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007spn3.png"
+  ],
+  "summary": [
+    "Camera IP PTZ mini ốp trần 2MP",
+    "CMOS 2MP, H.265+, WDR 120dB",
+    "Zoom quang 4x, zoom số 16x",
+    "Tốc độ xoay 100°/s, xoay ngang 355°",
+    "Hỗ trợ 255 điểm Preset, 8 chế độ tuần tra thông minh",
+    "AI: Hàng rào ảo, khu vực cấm, phát hiện lãng vãng, tụ tập, vật thể bỏ rơi/lấy mất, di chuyển nhanh, đỗ xe trái phép, SMD 3.0, phát hiện khuôn mặt…",
+    "Khe cắm thẻ nhớ Micro SD 512GB",
+    "KBVISION.TV, P2P, AutoRegister 1.0",
+    "12VDC, PoE, IP66, IK10, chống sét 6000V"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-C2007sPN3"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera IP PTZ mini ốp trần 2MP</p><p>CMOS 2MP, H.265+, WDR 120dB</p><p>Zoom quang 4x, zoom số 16x</p><p>Tốc độ xoay 100°/s, xoay ngang 355°</p><p>Hỗ trợ 255 điểm Preset, 8 chế độ tuần tra thông minh</p><p>AI: Hàng rào ảo, khu vực cấm, phát hiện lãng vãng, tụ tập, vật thể bỏ rơi/lấy mất, di chuyển nhanh, đỗ xe trái phép, SMD 3.0, phát hiện khuôn mặt…</p><p>Khe cắm thẻ nhớ Micro SD 512GB</p><p>KBVISION.TV, P2P, AutoRegister 1.0</p><p>12VDC, PoE, IP66, IK10, chống sét 6000V</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera IP PTZ mini ốp trần 2MP CMOS 2MP, H.265+, WDR 120dB Zoom quang 4x, zoom số 16x",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

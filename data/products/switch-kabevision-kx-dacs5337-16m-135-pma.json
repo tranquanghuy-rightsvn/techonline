@@ -1,0 +1,67 @@
+{
+  "slug": "switch-kabevision-kx-dacs5337-16m-135-pma",
+  "name": "Switch KabeVision KX-DACS5337-16M-135-PMA",
+  "categories": [
+    "switch-kabevision",
+    "kabe-vision-switch"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-DACS5337-16M-135-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5337-16m-135-pma.png"
+  ],
+  "summary": [
+    "GIÁ: 5,680,000 VND",
+    "· 16 × RJ-45 10/100 Mbps (PoE) ports, 2 × RJ-45 10/100/1000 Mbps (combo) ports and 2 × SFP 1000 Mbps (combo) ports.",
+    "· Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE, and IEEE802.3bt power supply standards.",
+    "· PoE watchdog real-time monitors camera statues and automatically reboots faulty network cameras, VLAN port isolation, QoS.",
+    "· Up to 250 m transmission distance.",
+    "· Supports VIP ports, prioritizing transmission for port1 to port8.",
+    "· Lightning Protection 4kV."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-DACS5337-16M-135-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>· 16 × RJ-45 10/100 Mbps (PoE) ports, 2 × RJ-45 10/100/1000 Mbps (combo) ports and 2 × SFP 1000 Mbps (combo) ports.</p><p>· Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE, and IEEE802.3bt power supply standards.</p><p>· PoE watchdog real-time monitors camera statues and automatically reboots faulty network cameras, VLAN port isolation, QoS.</p><p>· Up to 250 m transmission distance.</p><p>· Supports VIP ports, prioritizing transmission for port1 to port8.</p><p>· Lightning Protection 4kV.</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "GIÁ: 5,680,000 VND · 16 × RJ-45 10/100 Mbps (PoE) ports, 2 × RJ-45 10/100/1000 Mbps (combo) ports and 2 × SFP 1000 Mbps (combo) ports. · Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE, and",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

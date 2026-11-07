@@ -305,7 +305,8 @@ for page, (layout, s, gl, strip) in cat_pages.items():
         if href != "#":
             child = href.strip("/")
         else:
-            child = f"{page}-{slugify(label)}"
+            child = slugify(label)
+            child = child if child.startswith(page + "-") else f"{page}-{child}"
             if child in taken:
                 warn(f"category slug collision {child}")
             add_cat(child, label, page, "subcategory")
@@ -392,6 +393,8 @@ ORPHAN_HOME = {  # decided from their breadcrumbs (Chấm công - Kiểm soát c
     "may-cham-cong-khuon-mat-dahua-dhi-asi3213a-w-e1": "cham-cong-kiem-soat-ra-vao-dahua",
     "may-kiem-soat-ra-vao-dahua-dhi-asi7213k-w": "cham-cong-kiem-soat-ra-vao-dahua",
     "may-kiem-soat-ra-vao-kabevision-kx-fr04ac-fw": "cham-cong-kiem-soat-ra-vao-kabevision",
+    "bo-mo-rong-wifi-tplink-re235be": "tp-link-thiet-bi-mo-rong-mang",
+    "modem-4g-tplink-tl-mr6400": "tp-link-modem-gateway",
 }
 for sl in orphans:
     if sl in ORPHAN_HOME:
@@ -426,9 +429,9 @@ attrs_src = defaultdict(list)   # slug -> [(priority, attrs, where)]
 badge_src = defaultdict(list)
 for sl, p in products.items():
     for href, at in (p.get("_sim_attrs") or {}).items():
-        attrs_src[href.strip("/")].append((0, at, f"similar@{sl}"))
+        attrs_src[href.strip("/")].append((3, at, f"similar@{sl}"))
 for g_ in groups:
-    prio = 1 if g_["layout"] == "subcategory" else 2
+    prio = 0 if g_["layout"] == "subcategory" else 1
     for c in g_["cards"]:
         sl = key_to_slug.get(card_key(c), card_key(c))
         attrs_src[sl].append((prio, c.get("attrs") or [], f"{g_['page']}"))
@@ -444,7 +447,7 @@ featured = []
 for si, sec in enumerate(home):
     for c in sec["products"]:
         sl = c["link"].strip("/")
-        attrs_src[sl].append((3, c.get("attrs") or [], "home"))
+        attrs_src[sl].append((2, c.get("attrs") or [], "home"))
         badge_src[sl].append(c.get("badge") or "")
         featured.append(sl)
 

@@ -1,0 +1,60 @@
+{
+  "slug": "phu-kien-kbvision-provms",
+  "name": "Phụ kiện / Sản phẩm khác KBVision PROVMS",
+  "categories": [
+    "kbvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "KBVision",
+  "sku": "PROVMS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2024/11/PROVMS.jpg"
+  ],
+  "summary": [
+    "Scalable Design, Easy to Grow",
+    "AI-Powered Applications, Proactive Security",
+    "Highly Available Technology, More Stable",
+    "Customized Services, Enhanced Competitiveness",
+    "Download Brochure"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "PROVMS"
+    ],
+    [
+      "Thương hiệu",
+      "KBVision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>Scalable Design, Easy to Grow</p><p>AI-Powered Applications, Proactive Security</p><p>Highly Available Technology, More Stable</p><p>Customized Services, Enhanced Competitiveness</p>",
+  "attrs": [
+    "KBVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Scalable Design, Easy to Grow AI-Powered Applications, Proactive Security Highly Available Technology, More Stable",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "KBVision",
+      "/kbvision/"
+    ],
+    [
+      "Phụ kiện / Sản phẩm khác",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "san-pham-khac-imou-sf110p",
+  "name": "Sản phẩm khác Imou SF110P",
+  "categories": [
+    "san-pham-khac-imou",
+    "imou-san-pham-khac"
+  ],
+  "brand": "Imou",
+  "sku": "SF110P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf110p.png"
+  ],
+  "summary": [
+    "Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink)",
+    "Thiết bị chuyển mạch 8 cổng có cấp nguồn PoE cho camera",
+    "8 x 10/100Mbps PoE Port + 2 x 100Mbps Uplink port",
+    "Chế độ mở rộng đường truyền lên đế 250m",
+    "Công suất PoE cổng 1-8 lên đến 30W. Tổng công suất cho 8 cổng POE là 65W",
+    "Công suất chuyển mạch: 1.6Gbps",
+    "Tốc độ chuyển tiếp gói tin: 1.488Mbps",
+    "Hỗ trợ chuẩn PoE Standard 802.3af/at",
+    "Chất liệu: Kim loại",
+    "Nguồn: AC100~240V"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SF110P"
+    ],
+    [
+      "Thương hiệu",
+      "Imou"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink)</p><p>Thiết bị chuyển mạch 8 cổng có cấp nguồn PoE cho camera</p><p>8 x 10/100Mbps PoE Port + 2 x 100Mbps Uplink port</p><p>Chế độ mở rộng đường truyền lên đế 250m</p><p>Công suất PoE cổng 1-8 lên đến 30W. Tổng công suất cho 8 cổng POE là 65W</p><p>Công suất chuyển mạch: 1.6Gbps</p><p>Tốc độ chuyển tiếp gói tin: 1.488Mbps</p><p>Hỗ trợ chuẩn PoE Standard 802.3af/at</p><p>Chất liệu: Kim loại</p><p>Nguồn: AC100~240V</p><p>Kích thước sản phẩm: 220× 162× 43.2mm</p>",
+  "attrs": [
+    "Imou"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Switch PoE 8 port (Hỗ trợ 2 cổng mạng uplink) Thiết bị chuyển mạch 8 cổng có cấp nguồn PoE cho camera 8 x 10/100Mbps PoE Port + 2 x 100Mbps Uplink port",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Imou",
+      "#"
+    ],
+    [
+      "Sản phẩm khác",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1016d",
+  "name": "Giải pháp doanh nghiệp TP-Link TL-SG1016D",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1016D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1016D.png"
+  ],
+  "summary": [
+    "16-Port Gigabit Desktop/Rackmount Switch",
+    "16 10/100/1000Mbps ports",
+    "Innovative energy-efficient technology saves power consumption",
+    "Supports MAC address self-learning, Auto MDI/MDIX and Auto negotiation",
+    "Isolation Mode: Ports 1-14",
+    "Loop Prevention: Ports 1-16",
+    "Plug & play design",
+    "Download Image",
+    "Download Brochure"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1016D"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Danh mục",
+      "Giải pháp doanh nghiệp"
+    ]
+  ],
+  "description_html": "<p>16-Port Gigabit Desktop/Rackmount Switch</p><p>16 10/100/1000Mbps ports</p><p>Innovative energy-efficient technology saves power consumption</p><p>Supports MAC address self-learning, Auto MDI/MDIX and Auto negotiation</p><p>Isolation Mode: Ports 1-14</p><p>Loop Prevention: Ports 1-16</p><p>Plug &amp; play design</p>",
+  "attrs": [
+    "TP-Link"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "16-Port Gigabit Desktop/Rackmount Switch 16 10/100/1000Mbps ports Innovative energy-efficient technology saves power consumption",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "TP-Link",
+      "/tp-link/"
+    ],
+    [
+      "Giải pháp doanh nghiệp",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

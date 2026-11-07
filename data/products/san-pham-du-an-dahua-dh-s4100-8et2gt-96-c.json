@@ -1,0 +1,66 @@
+{
+  "slug": "san-pham-du-an-dahua-dh-s4100-8et2gt-96-c",
+  "name": "Sản phẩm dự án Dahua DH-S4100-8ET2GT-96-C",
+  "categories": [
+    "san-pham-du-an-dahua",
+    "dahua-san-pham-du-an"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-S4100-8ET2GT-96-C",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-s4100-8et2gt-96-c.png"
+  ],
+  "summary": [
+    "· Supports visualized management and remote maintenance.",
+    "· Supports automatic network topology generation.",
+    "· 250 m long-distance power supply.",
+    "· 8-pin PoE offers better compatibility and reduces cable loss.",
+    "· PoE watchdog monitors the status of terminals in real-time.",
+    "· Supports the power management policy"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-S4100-8ET2GT-96-C"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm dự án"
+    ]
+  ],
+  "description_html": "<p>· Supports visualized management and remote maintenance.</p><p>· Supports automatic network topology generation.</p><p>· 250 m long-distance power supply.</p><p>· 8-pin PoE offers better compatibility and reduces cable loss.</p><p>· PoE watchdog monitors the status of terminals in real-time.</p><p>· Supports the power management policy</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "· Supports visualized management and remote maintenance. · Supports automatic network topology generation. · 250 m long-distance power supply.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Sản phẩm dự án",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "module-van-tay-dahua-asf7k-fq",
+  "name": "Module mở rộng vân tay Dahua ASF7K-FQ (10.000 vân tay)",
+  "categories": [
+    "phu-kien-khoa-van-tay"
+  ],
+  "brand": "Dahua",
+  "sku": "ASF7K-FQ",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 1450000,
+  "old_price": 1950000,
+  "vat": true,
+  "images": [
+    "assets/images/product-cat5-access-dahua3.png"
+  ],
+  "summary": [
+    "Module mở rộng QR Code và vân tay dành cho thiết bị kiểm soát ra vào",
+    "Hoạt động với thiết bị kiểm soát ra vào DHI-ASI7213K-W như một module mở rộng",
+    "Hỗ trợ mở khóa bằng: Vân tay, QR Code",
+    "Hỗ trợ lên đến 10.000 vân tay",
+    "Thời gian nhận dạng vân tay: 0.5s, thời gian so sánh vân tay: 1.5s",
+    "Cổng kết nối: 1 × Type-C port"
+  ],
+  "offers": [
+    "Cam kết sản phẩm chính hãng",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí lắp đặt và hướng dẫn sử dụng tận nơi tại Hà Nội, Hồ Chí Minh",
+    "Hỗ trợ đồng bộ dữ liệu chấm công, kiểm soát ra vào",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Bảo hành chính hãng 24 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán",
+    "Lỗi đổi mới trong 30 ngày đầu sử dụng"
+  ],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "ASF7K-FQ"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Dung lượng vân tay",
+      "Lên đến 10.000 vân tay"
+    ],
+    [
+      "Thời gian nhận dạng",
+      "0.5s, so sánh 1.5s"
+    ],
+    [
+      "Cổng kết nối",
+      "1 × Type-C"
+    ],
+    [
+      "Chuẩn chống nước",
+      "IP65"
+    ],
+    [
+      "Kích thước",
+      "78.3 × 116.0 × 28.5 mm"
+    ]
+  ],
+  "description_html": "<p>Module mở rộng QR Code và vân tay dành cho thiết bị kiểm soát ra vào</p><p>Hoạt động với thiết bị kiểm soát ra vào DHI-ASI7213K-W như một module mở rộng</p><p>Hỗ trợ mở khóa bằng: Vân tay, QR Code</p><p>Hỗ trợ lên đến 10.000 vân tay</p><p>Thời gian nhận dạng vân tay: 0.5s, thời gian so sánh vân tay: 1.5s</p><p>Cổng kết nối: 1 × Type-C port</p><p>Nguồn cấp: 5 VDC, 1A (cấp nguồn từ thiết bị kiểm soát ra vào)</p><p>Nhiệt độ hoạt động: -30°C đến +60°C</p><p>Chống bụi nước IP65. Kích thước: 78.3 × 116.0 × 28.5 mm</p>",
+  "attrs": [
+    "Vân tay",
+    "QR Code"
+  ],
+  "badge": "Mẫu mới",
+  "featured": true,
+  "seo_description": "Module mở rộng QR Code và vân tay dành cho thiết bị kiểm soát ra vào Hoạt động với thiết bị kiểm soát ra vào DHI-ASI7213K-W như một module mở rộng Hỗ trợ mở khóa bằng: Vân tay, QR Code",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Chấm công - Kiểm soát cửa",
+      "#"
+    ],
+    [
+      "Thiết bị kiểm soát cửa",
+      "#"
+    ],
+    [
+      "Dahua",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

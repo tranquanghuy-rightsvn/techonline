@@ -1,0 +1,63 @@
+{
+  "slug": "chuong-cua-man-hinh-dahua-vtm09r",
+  "name": "Chuông cửa màn hình Dahua VTM09R",
+  "categories": [
+    "chuong-cua-man-hinh-dahua",
+    "dahua-chuong-cua-man-hinh"
+  ],
+  "brand": "Dahua",
+  "sku": "VTM09R",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm09r.png"
+  ],
+  "summary": [
+    "Box nổi chuông cửa wifi VTO2211G-WP",
+    "IP65",
+    "Chất liệu : nhựa"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "VTM09R"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Chuông cửa màn hình"
+    ]
+  ],
+  "description_html": "<p>Box nổi chuông cửa wifi VTO2211G-WP</p><p>IP65</p><p>Chất liệu : nhựa</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Box nổi chuông cửa wifi VTO2211G-WP IP65 Chất liệu : nhựa",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Chuông cửa màn hình",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

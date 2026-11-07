@@ -1,0 +1,91 @@
+{
+  "slug": "camera-ip-kbvision-kx-af2111n3-vn",
+  "name": "Camera IP KBVision KX-AF2111N3-VN 2MP",
+  "categories": [
+    "camera-ip-kbvision",
+    "kbvision-camera-ip"
+  ],
+  "brand": "KBVision",
+  "sku": "KX-AF2111N3-VN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-af2111n3-vn.png"
+  ],
+  "summary": [
+    "Cảm biến: 1/2.7” Sony Starvis 2.0MP",
+    "Chuẩn nén: H.265+/H.265/H.264+/ H.264/MJPEG",
+    "Độ phân giải 1080P@ 25/30 fps",
+    "Hỗ trợ 3D- DNR, Starlight, DWDR",
+    "Ống kính 3.6 mm, góc nhìn 88°",
+    "Tầm xa đèn LED lên đến 15m",
+    "Chức năng phát hiện chuyển động",
+    "Nguồn 12vDC/PoE",
+    "Vỏ kim loại + nhựa, IP67",
+    "Hỗ trợ tên miền KBVISION.TV"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-AF2111N3-VN"
+    ],
+    [
+      "Thương hiệu",
+      "KBVision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera Thân"
+    ],
+    [
+      "Loại",
+      "IP Camera"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Đèn 15 mét"
+    ],
+    [
+      "Thương hiệu",
+      "KBVISION"
+    ]
+  ],
+  "description_html": "<p>Camera IP Full Color 2.0MP</p><p>Cảm biến hình ảnh 1/2.8” 2 Megapixel Sony SNR1s</p><p>Chuẩn nén hình ảnh H.265+; H.265, H.264+; H.264; MJPEG</p><p>Độ phân giải 1080P (1920 × 1080) @ 25/30 fps</p><p>Hỗ trợ cân bằng ánh sáng, bù sáng, chống ngược sáng, chống nhiễu 3D- DNR, chức năng Starlight giúp camera tự động điều chỉnh hình ảnh và màu sắc đẹp nhất phù hợp nhất với môi trường ánh sáng yếu</p><p>Chuyên chống ngược sáng DWDR</p><p>Hỗ trợ tên miền miễn phí KBVISION.TV</p><p>Ống kính 3.6 mm, góc nhìn 88°</p><p>Tầm xa đèn LED lên đến 15m</p><p>Chức năng phát hiện chuyển động</p><p>Chuẩn chống bụi và nước IP67, vỏ kim loại + nhựa</p><p>Nguồn 12vDC/PoE</p><p>Nhiệt độ hoạt động: -40°C ~ +60°C</p>",
+  "attrs": [
+    "2MP",
+    "KBVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Cảm biến: 1/2.7” Sony Starvis 2.0MP Chuẩn nén: H.265+/H.265/H.264+/ H.264/MJPEG Độ phân giải 1080P@ 25/30 fps",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KBVision",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

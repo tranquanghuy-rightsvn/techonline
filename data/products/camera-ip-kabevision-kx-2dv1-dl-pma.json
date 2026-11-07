@@ -1,0 +1,67 @@
+{
+  "slug": "camera-ip-kabevision-kx-2dv1-dl-pma",
+  "name": "Camera IP KabeVision KX-2DV1-DL-PMA",
+  "categories": [
+    "kabe-vision-camera-ip"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-2DV1-DL-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/AD2112CN-A.png"
+  ],
+  "summary": [
+    "GIÁ: 2,200,000 VND",
+    "· 2-MP 1/2.7″ SONY NIR CMOS image sensor, low luminance, and high definition image.",
+    "· Outputs max. 2 MP (1920 x 1080)@25/30 fps.",
+    "· H.265 codec, high compression rate, ultra-low bit rate.· Built-in multi-core light, the max. IR distance is 30 m and the max. warm light distance is 15 m.",
+    "· DWDR, 3D NR, HLC, BLC, digital watermarking, applicable to various monitoring scenes.",
+    "· ROI, SMART H.264+/H.265+, flexible coding, applicable to various bandwidth and storage environments.",
+    "· Built in Mic.",
+    "· Supports human detection.",
+    "· 12 VDC/PoE power supply, easy for installation.",
+    "· IP67, Ryder heat dissipation, Lightning Protection 4.5kV",
+    "Download Brochure",
+    "Download Image"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-2DV1-DL-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>· 2-MP 1/2.7″ SONY NIR CMOS image sensor, low luminance, and high definition image.</p><p>· Outputs max. 2 MP (1920 x 1080)@25/30 fps.</p><p>· H.265 codec, high compression rate, ultra-low bit rate.· Built-in multi-core light, the max. IR distance is 30 m and the max. warm light distance is 15 m.</p><p>· DWDR, 3D NR, HLC, BLC, digital watermarking, applicable to various monitoring scenes.</p><p>· ROI, SMART H.264+/H.265+, flexible coding, applicable to various bandwidth and storage environments.</p><p>· Built in Mic.</p><p>· Supports human detection.</p><p>· 12 VDC/PoE power supply, easy for installation.</p><p>· IP67, Ryder heat dissipation, Lightning Protection 4.5kV</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "GIÁ: 2,200,000 VND · 2-MP 1/2.7″ SONY NIR CMOS image sensor, low luminance, and high definition image. · Outputs max. 2 MP (1920 x 1080)@25/30 fps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "KabeVision",
+      "/kabe-vision/"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

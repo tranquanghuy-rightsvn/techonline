@@ -1,0 +1,86 @@
+{
+  "slug": "router-wifi-tplink-archer-ge230",
+  "name": "Router Wi-Fi 7 TP-Link Archer GE230 băng tần kép BE3600",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "ARCHER GE230",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 1690000,
+  "old_price": 2290000,
+  "vat": true,
+  "images": [
+    "assets/images/product-cat2-tplink-router.png"
+  ],
+  "summary": [
+    "Router Wi-Fi 7 Băng Tần Kép BE3600",
+    "Wi-Fi siêu tốc cho game thủ – lên đến 3600 Mbps: 2882 Mbps trên băng tần 5GHz và 688 Mbps trên băng tần 2.4GHz, công nghệ Multi-Link Operation (MLO) và 4K-QAM",
+    "2 cổng LAN 2.5G – tốc độ truyền dữ liệu nhanh hơn gấp 2.5 lần",
+    "Turbo Game: tối ưu hóa ứng dụng game, ổn định kết nối, giảm giật lag và ping",
+    "Thiết kế lấy cảm hứng từ xe đua, đèn RGB tùy chỉnh",
+    "Bảng điều khiển riêng cho game, hiển thị thông tin thời gian thực"
+  ],
+  "offers": [
+    "Cam kết sản phẩm chính hãng",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí hỗ trợ cấu hình qua điện thoại/Zalo",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Hỗ trợ đổi máy trong thời gian bảo hành nếu lỗi phần cứng",
+    "Bảo hành chính hãng 24 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán",
+    "Lỗi đổi mới trong 30 ngày đầu sử dụng"
+  ],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "ARCHER GE230"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "Wi-Fi 7, băng tần kép BE3600"
+    ],
+    [
+      "Tốc độ",
+      "2882 Mbps (5GHz) + 688 Mbps (2.4GHz)"
+    ],
+    [
+      "Cổng LAN",
+      "2 cổng 2.5G"
+    ],
+    [
+      "Tính năng",
+      "MLO, Turbo Game, EasyMesh, TP-Link HomeShield"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 7 Băng Tần Kép BE3600</p><p>Wi-Fi siêu tốc cho game thủ – lên đến 3600 Mbps: 2882 Mbps trên băng tần 5GHz và 688 Mbps trên băng tần 2.4GHz, công nghệ Multi-Link Operation (MLO) và 4K-QAM</p><p>2 cổng LAN 2.5G – tốc độ truyền dữ liệu nhanh hơn gấp 2.5 lần</p><p>Turbo Game: tối ưu hóa ứng dụng game, ổn định kết nối, giảm giật lag và ping</p><p>Thiết kế lấy cảm hứng từ xe đua, đèn RGB tùy chỉnh</p><p>Bảng điều khiển riêng cho game, hiển thị thông tin thời gian thực</p><p>Hỗ trợ EasyMesh tạo hệ thống Wi-Fi Mesh phủ sóng toàn nhà</p><p>Bảo mật mạnh mẽ với TP-Link HomeShield</p>",
+  "attrs": [
+    "TP-Link"
+  ],
+  "badge": "Mẫu mới",
+  "featured": true,
+  "seo_description": "Router Wi-Fi 7 Băng Tần Kép BE3600 Wi-Fi siêu tốc cho game thủ – lên đến 3600 Mbps: 2882 Mbps trên băng tần 5GHz và 688 Mbps trên băng tần 2.4GHz, công nghệ Multi-Link Operation (MLO) và 4K-QAM 2 cổng LAN 2.5G – tốc độ truyền dữ liệu nhanh hơn gấp 2.5 lần",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Thiết bị mạng",
+      "#"
+    ],
+    [
+      "Router Wi-Fi",
+      "#"
+    ],
+    [
+      "TP-Link",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

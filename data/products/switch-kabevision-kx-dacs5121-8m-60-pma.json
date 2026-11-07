@@ -1,0 +1,65 @@
+{
+  "slug": "switch-kabevision-kx-dacs5121-8m-60-pma",
+  "name": "Switch KabeVision KX-DACS5121-8M-60-PMA",
+  "categories": [
+    "switch-kabevision",
+    "kabe-vision-switch"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-DACS5121-8M-60-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5121-8m-60-pma.png"
+  ],
+  "summary": [
+    "GIÁ: 2,025,000 VND",
+    "Meets the requirements of IEEE802.3,IEEE802.3u,IEEE802.3x,IEEE802.3ab standards.",
+    "Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE power supply standards.",
+    "Manages PoE power consumption and PoE power on/off. Supports Intelligent PoE.",
+    "A wide operating temperature range and a full metal casing that is fully- enclosed and dust-proof."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-DACS5121-8M-60-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>Meets the requirements of IEEE802.3,IEEE802.3u,IEEE802.3x,IEEE802.3ab standards.</p><p>Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE power supply standards.</p><p>Manages PoE power consumption and PoE power on/off. Supports Intelligent PoE.</p><p>A wide operating temperature range and a full metal casing that is fully- enclosed and dust-proof.</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "GIÁ: 2,025,000 VND Meets the requirements of IEEE802.3,IEEE802.3u,IEEE802.3x,IEEE802.3ab standards. Meets the requirements of IEEE802.3af, IEEE802.3at, Hi-PoE power supply standards.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

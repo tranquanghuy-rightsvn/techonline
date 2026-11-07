@@ -1,0 +1,66 @@
+{
+  "slug": "san-pham-khac-imou-the-nho-imou",
+  "name": "Sản phẩm khác Imou Thẻ nhớ Imou",
+  "categories": [
+    "san-pham-khac-imou",
+    "imou-san-pham-khac"
+  ],
+  "brand": "Imou",
+  "sku": "Thẻ nhớ Imou",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-the-nho-imou.png"
+  ],
+  "summary": [
+    "– Tốc độ đọc lên đến 90MB/s",
+    "– Chuẩn tốc độ: Class 10, U3, V30, USH-1",
+    "– Độ ổn định cao",
+    "– Chống chịu tốt với nhiệt độ và thời tiết",
+    "– Dung lượng: 32GB/ 64GB",
+    "– Bảo hành chính hãng 6 năm 1 đổi 1"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Thẻ nhớ Imou"
+    ],
+    [
+      "Thương hiệu",
+      "Imou"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>Thẻ nhớ Imou:</p><p>– Tốc độ đọc lên đến 90MB/s</p><p>– Chuẩn tốc độ: Class 10, U3, V30, USH-1</p><p>– Độ ổn định cao</p><p>– Chống chịu tốt với nhiệt độ và thời tiết</p><p>– Dung lượng: 32GB/ 64GB</p><p>– Bảo hành chính hãng 6 năm 1 đổi 1</p>",
+  "attrs": [
+    "Imou"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "– Tốc độ đọc lên đến 90MB/s – Chuẩn tốc độ: Class 10, U3, V30, USH-1 – Độ ổn định cao",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Imou",
+      "#"
+    ],
+    [
+      "Sản phẩm khác",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

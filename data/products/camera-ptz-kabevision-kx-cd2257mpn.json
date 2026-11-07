@@ -1,0 +1,72 @@
+{
+  "slug": "camera-ptz-kabevision-kx-cd2257mpn",
+  "name": "Camera PTZ KabeVision KX-CD2257MPN",
+  "categories": [
+    "camera-ptz-kabevision",
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-CD2257MPN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cd2257mpn.png"
+  ],
+  "summary": [
+    "STARVIS CMOS kích thước 1/2.8″, 2 MP 50/60fps@2MP.",
+    "H.265+, Startlight, WDR(120dB)",
+    "Tầm xa hồng ngoại 100m và Led 50m",
+    "Ống kính zoom 25X (4.8 mm–120 mm), zoom số 16x.",
+    "Quay quét ngang (PAN) 0° đến 360°, quay dọc lên xuống –15° đển +90°, hỗ trợ lật hình tự động 180°",
+    "Phát hiện khuôn mặt,Hàng rào ảo, khu vực cấm, vật thể bỏ rơi, vật thể bị lấy mất, phát hiện lãng vãng, đỗ xe trái phép, tụ tập đám đông, di chuyển nhanh…",
+    "AcuPick, SMD 4.0, Auto Tracking 3.0, Auto Patrol",
+    "Preset, Pattern, Tour, Auto Scan, Idle Motion.",
+    "1 audio in, 1 audio out, báo động 2 kênh vào 1 kênh ra .",
+    "IP67, chống sét 6000V, chống sét lan truyền. Hỗ trợ thẻ nhớ 512GB.",
+    "KBVISION.TV và P2P, AutoRegister 1.0",
+    "12 VDC, 3 A ± 10% với công suất 8W, tối đa 20W . Hỗ trợ PoE"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-CD2257MPN"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>STARVIS CMOS kích thước 1/2.8″, 2 MP 50/60fps@2MP.</p><p>H.265+, Startlight, WDR(120dB)</p><p>Tầm xa hồng ngoại 100m và Led 50m</p><p>Ống kính zoom 25X (4.8 mm–120 mm), zoom số 16x.</p><p>Quay quét ngang (PAN) 0° đến 360°, quay dọc lên xuống –15° đển +90°, hỗ trợ lật hình tự động 180°</p><p>Phát hiện khuôn mặt,Hàng rào ảo, khu vực cấm, vật thể bỏ rơi, vật thể bị lấy mất, phát hiện lãng vãng, đỗ xe trái phép, tụ tập đám đông, di chuyển nhanh…</p><p>AcuPick, SMD 4.0, Auto Tracking 3.0, Auto Patrol</p><p>Preset, Pattern, Tour, Auto Scan, Idle Motion.</p><p>1 audio in, 1 audio out, báo động 2 kênh vào 1 kênh ra .</p><p>IP67, chống sét 6000V, chống sét lan truyền. Hỗ trợ thẻ nhớ 512GB.</p><p>KBVISION.TV và P2P, AutoRegister 1.0</p><p>12 VDC, 3 A ± 10% với công suất 8W, tối đa 20W . Hỗ trợ PoE</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "STARVIS CMOS kích thước 1/2.8″, 2 MP 50/60fps@2MP. H.265+, Startlight, WDR(120dB) Tầm xa hồng ngoại 100m và Led 50m",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

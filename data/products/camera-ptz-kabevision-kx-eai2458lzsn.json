@@ -1,0 +1,73 @@
+{
+  "slug": "camera-ptz-kabevision-kx-eai2458lzsn",
+  "name": "Camera PTZ KabeVision KX-EAi2458LZSN",
+  "categories": [
+    "camera-ptz-kabevision",
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-EAi2458LZSN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-eai2458lzsn.png"
+  ],
+  "summary": [
+    "Camera IP PTZ 2.0MP ngoài trời hồng ngoại lazer",
+    "Sony Starvis 2.0Mp, 50/60fps@ 2.0Mp(1920×1080)",
+    "Zoom quang 45x, zoom số 16x",
+    "H.265/H.265+/H.264+/H.264/MJPEG",
+    "Tầm xa hồng ngoại: 550m với công nghệ led Lazer",
+    "Starlight, WDR 120dB",
+    "Auto Tracking,",
+    "IVS (Tripwire, Intrusion, Object Abandoned/Missing), SMD 4.0, Face Detection, Video Metadata, Quick Pick.",
+    "Alarm 7in/2out, Audio 1in/1out",
+    "Hỗ trợ thẻ nhớ Micro SD lên đến 512GB",
+    "KBVISION.TV và P2P, AutoRegister 1.0",
+    "IP67. Khả năng chống sét 6000V",
+    "Nguồn DC36V/2.23A ± 25%, Hi-PoE"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-EAi2458LZSN"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera IP PTZ 2.0MP ngoài trời hồng ngoại lazer</p><p>Sony Starvis 2.0Mp, 50/60fps@ 2.0Mp(1920×1080)</p><p>Zoom quang 45x, zoom số 16x</p><p>H.265/H.265+/H.264+/H.264/MJPEG</p><p>Tầm xa hồng ngoại: 550m với công nghệ led Lazer</p><p>Starlight, WDR 120dB</p><p>Auto Tracking,</p><p>IVS (Tripwire, Intrusion, Object Abandoned/Missing), SMD 4.0, Face Detection, Video Metadata, Quick Pick.</p><p>Alarm 7in/2out, Audio 1in/1out</p><p>Hỗ trợ thẻ nhớ Micro SD lên đến 512GB</p><p>KBVISION.TV và P2P, AutoRegister 1.0</p><p>IP67. Khả năng chống sét 6000V</p><p>Nguồn DC36V/2.23A ± 25%, Hi-PoE</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": true,
+  "seo_description": "Camera IP PTZ 2.0MP ngoài trời hồng ngoại lazer Sony Starvis 2.0Mp, 50/60fps@ 2.0Mp(1920×1080) Zoom quang 45x, zoom số 16x",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

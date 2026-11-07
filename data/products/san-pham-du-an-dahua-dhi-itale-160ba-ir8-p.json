@@ -1,0 +1,67 @@
+{
+  "slug": "san-pham-du-an-dahua-dhi-itale-160ba-ir8-p",
+  "name": "Sản phẩm dự án Dahua DHI-ITALE-160BA-IR8-P",
+  "categories": [
+    "san-pham-du-an-dahua",
+    "dahua-san-pham-du-an"
+  ],
+  "brand": "Dahua",
+  "sku": "DHI-ITALE-160BA-IR8-P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dhi-itale-160ba-ir8-p.png"
+  ],
+  "summary": [
+    "· O&M: Supports displaying equipment online status, fault status, working status, equipment power, equipment temperature, equipment photosensitive value and other operation and maintenance status information of the illuminator in real time through RS485 on Dahua cameras or intelligent cabinets.",
+    "· Adjustable brightness: Supports adjusting the LED strobe brightness from 1 to 20.",
+    "· Adjustable pulse width: Supports configuring the pulse width of the flashlight as 0 ms to 3 ms.",
+    "· Strobe duration: Supports calculating the device service life through the duration of the strobe shines.",
+    "· Strobe cascading: Supports controling multiple illuminators with one camera, through the connection between the Strobe synchronization output line and the strobe trigger line of the next illuminator, to achieve the effect of multi-lane synchronization illumination.",
+    "· Creative structure: Streamline design, simple appearance and high saturation greatly improve the protection level (waterproof and dust-free). The inside heat dissipation design prevents the illuminator from overheating damage effectively.",
+    "· Wide voltage power supply: Supports 100–240 VAC power supply"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DHI-ITALE-160BA-IR8-P"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm dự án"
+    ]
+  ],
+  "description_html": "<p>· O&amp;M: Supports displaying equipment online status, fault status, working status, equipment power, equipment temperature, equipment photosensitive value and other operation and maintenance status information of the illuminator in real time through RS485 on Dahua cameras or intelligent cabinets.</p><p>· Adjustable brightness: Supports adjusting the LED strobe brightness from 1 to 20.</p><p>· Adjustable pulse width: Supports configuring the pulse width of the flashlight as 0 ms to 3 ms.</p><p>· Strobe duration: Supports calculating the device service life through the duration of the strobe shines.</p><p>· Strobe cascading: Supports controling multiple illuminators with one camera, through the connection between the Strobe synchronization output line and the strobe trigger line of the next illuminator, to achieve the effect of multi-lane synchronization illumination.</p><p>· Creative structure: Streamline design, simple appearance and high saturation greatly improve the protection level (waterproof and dust-free). The inside heat dissipation design prevents the illuminator from overheating damage effectively.</p><p>· Wide voltage power supply: Supports 100–240 VAC power supply</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "· O&M: Supports displaying equipment online status, fault status, working status, equipment power, equipment temperature, equipment photosensitive value and other operation and maintenance status info",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Sản phẩm dự án",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

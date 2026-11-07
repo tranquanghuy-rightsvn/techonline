@@ -1,0 +1,106 @@
+{
+  "slug": "camera-ptz-dahua-dh-sd6al245gb-hnv",
+  "name": "Camera PTZ Dahua DH-SD6AL245GB-HNV 2MP",
+  "categories": [
+    "camera-ptz-dahua",
+    "dahua-camera-ptz"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-SD6AL245GB-HNV",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd6al245gb-hnv.png"
+  ],
+  "summary": [
+    "Camera PTZ Dahua DH-SD6AL245GB-HNV 2MP"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-SD6AL245GB-HNV"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Âm thanh",
+      "Hỗ trợ"
+    ],
+    [
+      "Báo động",
+      "Alarm in, Alarm out"
+    ],
+    [
+      "Bảo vệ",
+      "IP 67"
+    ],
+    [
+      "Chống ngược sáng",
+      "True WDR 120dB"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera PTZ"
+    ],
+    [
+      "Loại",
+      "HD Analog"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Hồng ngoại trên 500m"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "Auto tracking, IVS, Phát hiện khuôn mặt, SMD"
+    ],
+    [
+      "Zoom quang",
+      "Trên 40X"
+    ]
+  ],
+  "description_html": "<p>Âm thanh</p><p>Hỗ trợ</p><p>Báo động</p><p>Alarm in, Alarm out</p><p>Bảo vệ</p><p>IP 67</p><p>Chống ngược sáng</p><p>True WDR 120dB</p><p>Độ phân giải</p><p>2MP</p><p>Hình dáng</p><p>Camera PTZ</p><p>Loại</p><p>HD Analog</p><p>Tầm nhìn ban đêm</p><p>Hồng ngoại trên 500m</p><p>Thương hiệu</p><p>DAHUA</p><p>Tính năng đặc biệt</p><p>Auto tracking, IVS, Phát hiện khuôn mặt, SMD</p><p>Zoom quang</p><p>Trên 40X</p>",
+  "attrs": [
+    "2MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Âm thanh Hỗ trợ Báo động Alarm in, Alarm out Bảo vệ IP 67 Chống ngược sáng True WDR 120dB Độ phân giải 2MP Hình dáng Camera PTZ Loại HD Analog Tầm nhìn ban đêm",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "san-pham-khac-imou-rv-l11-a",
+  "name": "Sản phẩm khác Imou RV-L11-A",
+  "categories": [
+    "san-pham-khac-imou",
+    "imou-san-pham-khac"
+  ],
+  "brand": "Imou",
+  "sku": "RV-L11-A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-rv-l11-a.png"
+  ],
+  "summary": [
+    "ROBOT:",
+    "Chế độ 3-trong-1: Hút bụi, quét và lau",
+    "Hệ thống dẫn đường Lazer với cảm biến LiDAR thông minh, tính toán đường đi tối ưu giúp đảm bảo không bỏ sót.",
+    "Lực hút mạnh mẽ lên đến 3000Pa",
+    "Tự động quay về tram sạc khi hết pin, tự động tiếp tục công việc khi sạc đủ pin",
+    "Khoảng sáng gầm: 2cm, có nhận diện thảm để tăng lực hút",
+    "Hỗ trợ chức năng : Tường ảo, Vùng Không xâm nhập, Hút thảm, Vệ sinh theo lịch.",
+    "Khay nước 250ml, có thể tháo rời để châm nước",
+    "Tích hợp pin 3200mAh, thời gian sạc đầy: 4h. Thời gian hoạt động 110 phút.",
+    "Độ ồn hoạt động: 65dB",
+    "Chức năng Tự làm sạch: Khay chứa bụi 300ml, Quay về và chuyển bụi sang Dock.",
+    "Chức năng Tự động tạo Bản đồ nhanh và quản lý bản đồ trên app.",
+    "Phần mềm điều khiển: Imou Life , dễ dàng cài đặt, điều khiển, đặt lịch và giám sát việc vệ sinh.",
+    "Kích thước: 350*350*98mm",
+    "DOCK (Trạm sạc):",
+    "Tích hợp màn hình hiển thị thông số",
+    "Công suất hút : 26KPa, độ ồn hoạt động: <80dB",
+    "Tự động hút bụi từ Robot khi quay về trạm",
+    "Nguồn cấp : AC220V 5A, nguồn sạc: DC24V, 1.5A",
+    "Kích thước: 356*250*193mm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "RV-L11-A"
+    ],
+    [
+      "Thương hiệu",
+      "Imou"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>ROBOT:</p><p>Chế độ 3-trong-1: Hút bụi, quét và lau</p><p>Hệ thống dẫn đường Lazer với cảm biến LiDAR thông minh, tính toán đường đi tối ưu giúp đảm bảo không bỏ sót.</p><p>Lực hút mạnh mẽ lên đến 3000Pa</p><p>Tự động quay về tram sạc khi hết pin, tự động tiếp tục công việc khi sạc đủ pin</p><p>Khoảng sáng gầm: 2cm, có nhận diện thảm để tăng lực hút</p><p>Hỗ trợ chức năng : Tường ảo, Vùng Không xâm nhập, Hút thảm, Vệ sinh theo lịch.</p><p>Khay nước 250ml, có thể tháo rời để châm nước</p><p>Tích hợp pin 3200mAh, thời gian sạc đầy: 4h. Thời gian hoạt động 110 phút.</p><p>Độ ồn hoạt động: 65dB</p><p>Chức năng Tự làm sạch: Khay chứa bụi 300ml, Quay về và chuyển bụi sang Dock.</p><p>Chức năng Tự động tạo Bản đồ nhanh và quản lý bản đồ trên app.</p><p>Phần mềm điều khiển: Imou Life , dễ dàng cài đặt, điều khiển, đặt lịch và giám sát việc vệ sinh.</p><p>Kích thước: 350*350*98mm</p><p>DOCK (Trạm sạc):</p><p>Tích hợp màn hình hiển thị thông số</p><p>Công suất hút : 26KPa, độ ồn hoạt động: &lt;80dB</p><p>Tự động hút bụi từ Robot khi quay về trạm</p><p>Nguồn cấp : AC220V 5A, nguồn sạc: DC24V, 1.5A</p><p>Kích thước: 356*250*193mm</p>",
+  "attrs": [
+    "Imou"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "ROBOT: Chế độ 3-trong-1: Hút bụi, quét và lau Hệ thống dẫn đường Lazer với cảm biến LiDAR thông minh, tính toán đường đi tối ưu giúp đảm bảo không bỏ sót.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Imou",
+      "#"
+    ],
+    [
+      "Sản phẩm khác",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

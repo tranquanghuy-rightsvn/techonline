@@ -1,0 +1,94 @@
+{
+  "slug": "dau-ghi-ip-kbvision-kx-a8124n2-vn",
+  "name": "Sản phẩm KBVision KX-A8124N2-VN",
+  "categories": [
+    "san-pham-kbvision",
+    "kbvision-dau-ghi-ip"
+  ],
+  "brand": "KBVision",
+  "sku": "KX-A8124N2-VN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a8124n2-vn.png"
+  ],
+  "summary": [
+    "Đầu ghi hình NVR 4 kênh",
+    "Cổng vào: 4 kênh IP, băng thông tối đa 80Mbps",
+    "Khả năng phân giải: 1ch 8MP(30fps)/1ch, 5MP(30fps)/ 2ch 4MP(30fps)/2ch, 3MP(30fps)/4ch 1080p(30fps)",
+    "Chuẩn nén: H.265+/H.265/H.264+/H.264",
+    "Cổng ra: VGA / HDMI",
+    "Xem lại: 4/8 kênh đồng thời",
+    "Hỗ trợ: 1 SATA x 8TB",
+    "Hỗ trợ Cloud, QR Code, Onvif 2.4",
+    "Hỗ trợ: RJ45 10/100 mbps, 2USB 2.0, 1 audio in/1 audio out (đàm thoại)",
+    "Hỗ trợ tên miền miễn phí KBVISION.TV"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-A8124N2-VN"
+    ],
+    [
+      "Thương hiệu",
+      "KBVision"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm"
+    ],
+    [
+      "Ghi hình",
+      "4K (8MP)"
+    ],
+    [
+      "Loại",
+      "NVR"
+    ],
+    [
+      "Ổ cứng",
+      "1"
+    ],
+    [
+      "Số kênh",
+      "4"
+    ],
+    [
+      "Thương hiệu",
+      "KBVISION"
+    ],
+    [
+      "Video Out",
+      "1 HDMI & 1 VGA"
+    ]
+  ],
+  "description_html": "<p>Đầu ghi hình NVR 4 kênh</p><p>Cổng vào: 4 kênh IP, băng thông tối đa 80Mbps</p><p>Khả năng phân giải: 1ch 8MP(30fps)/1ch, 5MP(30fps)/ 2ch 4MP(30fps)/2ch, 3MP(30fps)/4ch 1080p(30fps)</p><p>Chuẩn nén: H.265+/H.265/H.264+/H.264</p><p>Cổng ra: VGA / HDMI</p><p>Xem lại: 4/8 kênh đồng thời</p><p>Hỗ trợ: 1 SATA x 8TB</p><p>Hỗ trợ Cloud, QR Code, Onvif 2.4</p><p>Hỗ trợ: RJ45 10/100 mbps, 2USB 2.0, 1 audio in/1 audio out (đàm thoại)</p><p>Hỗ trợ tên miền miễn phí KBVISION.TV</p>",
+  "attrs": [
+    "KBVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Đầu ghi hình NVR 4 kênh Cổng vào: 4 kênh IP, băng thông tối đa 80Mbps Khả năng phân giải: 1ch 8MP(30fps)/1ch, 5MP(30fps)/ 2ch 4MP(30fps)/2ch, 3MP(30fps)/4ch 1080p(30fps)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KBVision",
+      "#"
+    ],
+    [
+      "Sản phẩm",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

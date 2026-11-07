@@ -1,0 +1,79 @@
+{
+  "slug": "switch-dahua-dh-cs4220-16gt-135",
+  "name": "Switch Dahua DH-CS4220-16GT-135",
+  "categories": [
+    "switch-dahua",
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-CS4220-16GT-135",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4220-16gt-135.png"
+  ],
+  "summary": [
+    "Switch PoE Cloud 20 port với 16 port PoE",
+    "Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.",
+    "Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+    "Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…",
+    "Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af; IEEE802.3at; Hi-PoE; IEEE802.3bt",
+    "Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…",
+    "PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m",
+    "Cổng giao tiếp: 2 × RJ-45 10/100/1000 Mbps (uplink), 2 × SFP 1000 Mbps (uplink), 16 × RJ-45 10/100/1000 Mbps (PoE)",
+    "Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤135 W",
+    "Hỗ trợ 2 cổng Hi-PoE công suất cao 90W dành cho camera speedome",
+    "Khả năng chuyển tải: 40 Gbps",
+    "Tốc độ chuyển tiếp gói tin: 29.76 Mpps",
+    "Nguồn tích hợp 100-240 VDC, 47-63 Hz, max 3 A. Chống sét 4KV",
+    "Kích thước: 440 mm × 220 mm × 44 mm",
+    "Khối lượng: 2.26 kg"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-CS4220-16GT-135"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>Switch PoE Cloud 20 port với 16 port PoE</p><p>Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.</p><p>Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.</p><p>Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…</p><p>Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af; IEEE802.3at; Hi-PoE; IEEE802.3bt</p><p>Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…</p><p>PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m</p><p>Cổng giao tiếp: 2 × RJ-45 10/100/1000 Mbps (uplink), 2 × SFP 1000 Mbps (uplink), 16 × RJ-45 10/100/1000 Mbps (PoE)</p><p>Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤135 W</p><p>Hỗ trợ 2 cổng Hi-PoE công suất cao 90W dành cho camera speedome</p><p>Khả năng chuyển tải: 40 Gbps</p><p>Tốc độ chuyển tiếp gói tin: 29.76 Mpps</p><p>Nguồn tích hợp 100-240 VDC, 47-63 Hz, max 3 A. Chống sét 4KV</p><p>Kích thước: 440 mm × 220 mm × 44 mm</p><p>Khối lượng: 2.26 kg</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Switch PoE Cloud 20 port với 16 port PoE Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì. Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

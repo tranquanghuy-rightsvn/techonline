@@ -1,0 +1,90 @@
+{
+  "slug": "camera-ip-dahua-dh-ipc-hdw1439t1-a-pro",
+  "name": "Camera IP Dome Dahua DH-IPC-HDW1439T1-A-PRO 4MP có mic, AI-ISP",
+  "categories": [
+    "camera-ip-dahua",
+    "dahua-camera-ip"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-IPC-HDW1439T1-A-PRO",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 1250000,
+  "old_price": 1780000,
+  "vat": true,
+  "images": [
+    "assets/images/product-cat1-dahua-ip.png"
+  ],
+  "summary": [
+    "Camera Dome cố định 4.0MP có mic",
+    "Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/3”",
+    "2560 × 1440@(25/30 fps)",
+    "Công nghệ AI-ISP kết hợp cảm biến lớn cho hình ảnh vượt trội ban đêm cũng như ban ngày",
+    "Chuẩn nén H265+, Super AI Coding",
+    "Hỗ trợ chức năng phát hiện thông minh: SMD Plus"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-IPC-HDW1439T1-A-PRO"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Độ phân giải",
+      "4MP (2560 × 1440)"
+    ],
+    [
+      "Ống kính",
+      "2.8mm, góc nhìn 95°"
+    ],
+    [
+      "Chuẩn nén",
+      "H.265+, Super AI Coding"
+    ],
+    [
+      "Tầm xa hồng ngoại",
+      "20m (LED ánh sáng ấm)"
+    ],
+    [
+      "Chuẩn chống nước",
+      "IP67"
+    ],
+    [
+      "Nguồn điện",
+      "DC12V hoặc PoE"
+    ],
+    [
+      "Chất liệu",
+      "Kim loại + nhựa"
+    ]
+  ],
+  "description_html": "<p>Camera Dome cố định 4.0MP có mic</p><p>Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/3”</p><p>2560 × 1440@(25/30 fps)</p><p>Công nghệ AI-ISP kết hợp cảm biến lớn cho hình ảnh vượt trội ban đêm cũng như ban ngày</p><p>Chuẩn nén H265+, Super AI Coding</p><p>Hỗ trợ chức năng phát hiện thông minh: SMD Plus</p><p>Chống ngược sáng WDR (120dB)</p><p>Tầm xa LED ánh sáng ấm thu hình có màu 20m</p><p>Tích hợp mic</p><p>Ống kính cố định 2.8mm (góc nhìn 95°), option 3.6mm</p><p>Hỗ trợ chuẩn ONVIF, Tên miền miễn phí SmartDDNS.TV và P2P</p><p>Chuẩn chống nước IP67</p><p>Điện áp DC12V hoặc PoE</p><p>Nhiệt độ hoạt động: -40°C ~ +60°C</p><p>Chất liệu kim loại + nhựa</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": true,
+  "seo_description": "Camera Dome cố định 4.0MP có mic Độ phân giải 4 Megapixel cảm biến CMOS kích thước 1/3” 2560 × 1440@(25/30 fps)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "#"
+    ],
+    [
+      "Camera theo hãng",
+      "#"
+    ],
+    [
+      "Dahua",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

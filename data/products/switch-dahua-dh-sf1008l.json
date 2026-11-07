@@ -1,0 +1,72 @@
+{
+  "slug": "switch-dahua-dh-sf1008l",
+  "name": "Switch Dahua DH-SF1008L",
+  "categories": [
+    "switch-dahua",
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-SF1008L",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1008l.png"
+  ],
+  "summary": [
+    "8-Port Unmanaged Ethernet Switch",
+    "8 cổng Ethernet với tốc độ 100Mbps.",
+    "Khả năng chuyển đổi: 1.6 Gbit",
+    "Bộ nhớ lưu trữ MAC: 2K",
+    "Nguồn: 5 VDC; 1 A",
+    "Chống sét: 2KV",
+    "Kích thước (mm): 132.9 mm × 62.4 mm × 24.0 mm",
+    "Khối lượng: 0.16 kg, thiết kế vỏ nhựa nhỏ gọn"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-SF1008L"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>8-Port Unmanaged Ethernet Switch</p><p>8 cổng Ethernet với tốc độ 100Mbps.</p><p>Khả năng chuyển đổi: 1.6 Gbit</p><p>Bộ nhớ lưu trữ MAC: 2K</p><p>Nguồn: 5 VDC; 1 A</p><p>Chống sét: 2KV</p><p>Kích thước (mm): 132.9 mm × 62.4 mm × 24.0 mm</p><p>Khối lượng: 0.16 kg, thiết kế vỏ nhựa nhỏ gọn</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "8-Port Unmanaged Ethernet Switch 8 cổng Ethernet với tốc độ 100Mbps. Khả năng chuyển đổi: 1.6 Gbit",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

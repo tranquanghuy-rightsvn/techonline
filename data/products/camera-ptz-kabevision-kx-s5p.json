@@ -1,0 +1,68 @@
+{
+  "slug": "camera-ptz-kabevision-kx-s5p",
+  "name": "Camera PTZ KabeVision KX-S5P",
+  "categories": [
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-S5P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-S5P.png"
+  ],
+  "summary": [
+    "Camera PoE quay quét ánh sáng kép báo động 3.0MP",
+    "1/2.8″ 5MP, H265+, 25/30fps@2560 × 1920",
+    "4 chế độ ánh sáng ban đêm",
+    "Ống kính 4mm (80.4°)",
+    "Hồng ngoại 30m, LED 30m",
+    "IVS (Hỗ trợ Hàng rào ảo, khu vực cấm), Human detection, SMD 3.0",
+    "Thiết lập điểm preset, gọi điểm preset nhanh, Smart Tracking",
+    "Tích hợp Mic. Đàm thoại hai chiều, báo động còi hú và đèn chớp",
+    "Hỗ trợ khe cắm thẻ nhớ 256GB",
+    "KBVISION.TV, AutoRegister 1.0, ONVIF",
+    "IP66, Điện áp DC12V1.5A / PoE",
+    "Download Brochure",
+    "Download Image"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-S5P"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera PoE quay quét ánh sáng kép báo động 3.0MP</p><p>1/2.8″ 5MP, H265+, 25/30fps@2560 × 1920</p><p>4 chế độ ánh sáng ban đêm</p><p>Ống kính 4mm (80.4°)</p><p>Hồng ngoại 30m, LED 30m</p><p>IVS (Hỗ trợ Hàng rào ảo, khu vực cấm), Human detection, SMD 3.0</p><p>Thiết lập điểm preset, gọi điểm preset nhanh, Smart Tracking</p><p>Tích hợp Mic. Đàm thoại hai chiều, báo động còi hú và đèn chớp</p><p>Hỗ trợ khe cắm thẻ nhớ 256GB</p><p>KBVISION.TV, AutoRegister 1.0, ONVIF</p><p>IP66, Điện áp DC12V1.5A / PoE</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera PoE quay quét ánh sáng kép báo động 3.0MP 1/2.8″ 5MP, H265+, 25/30fps@2560 × 1920 4 chế độ ánh sáng ban đêm",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "KabeVision",
+      "/kabe-vision/"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "san-pham-du-an-dahua-dh-pfs3006-4et-36",
+  "name": "Sản phẩm dự án Dahua DH-PFS3006-4ET-36",
+  "categories": [
+    "san-pham-du-an-dahua",
+    "dahua-san-pham-du-an"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-PFS3006-4ET-36",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfs3006-4et-36.png"
+  ],
+  "summary": [
+    "· Support four 10/100M PoE power supply ports, and two 10/100M uplink ports",
+    "· Support 802.3af and 802.3at standards",
+    "· OperatingTemperature: -10°C to +55°C",
+    "· Support 250 m long distance PoE tansmission",
+    "· Support PoE watchdog"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-PFS3006-4ET-36"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm dự án"
+    ]
+  ],
+  "description_html": "<p>· Support four 10/100M PoE power supply ports, and two 10/100M uplink ports</p><p>· Support 802.3af and 802.3at standards</p><p>· OperatingTemperature: -10°C to +55°C</p><p>· Support 250 m long distance PoE tansmission</p><p>· Support PoE watchdog</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "· Support four 10/100M PoE power supply ports, and two 10/100M uplink ports · Support 802.3af and 802.3at standards · OperatingTemperature: -10°C to +55°C",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Sản phẩm dự án",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

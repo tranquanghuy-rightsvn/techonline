@@ -1,0 +1,70 @@
+{
+  "slug": "camera-ip-dahua-dh-ipc-hfw1239m1-a-b-pro",
+  "name": "Camera IP Dahua DH-IPC-HFW1239M1-A-B-PRO",
+  "categories": [
+    "camera-ip-dahua",
+    "dahua-camera-ip"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-IPC-HFW1239M1-A-B-PRO",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1239m1-a-b-pro.png"
+  ],
+  "summary": [
+    "Camera Thân cố định 2.0MP có mic",
+    "2 MP CMOS 1/2.9”, 1920 × 1080@(25/30 fps)",
+    "Công nghệ AI-ISP – hình ảnh vượt trội ban đêm cũng như ban ngày",
+    "Chuẩn nén H265+, Super AI Coding",
+    "SMD Plus",
+    "Tìm kiếm nhanh sự kiện theo từng đối tượng (người, xe) khi kết hợp NVR",
+    "Tầm xa LED 30m, Tích hợp mic",
+    "Ống kính 3.6mm (81°), option 6mm",
+    "ONVIF, SmartDDNS.TV và P2P",
+    "IP67, DC12V / PoE, kim loại + nhựa, kèm chân đế"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-IPC-HFW1239M1-A-B-PRO"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>Camera Thân cố định 2.0MP có mic</p><p>Độ phân giải 2 Megapixel cảm biến CMOS kích thước 1/2.9”</p><p>1920 × 1080@(25/30 fps)</p><p>Độ nhạy sáng siêu thấp 0.0004</p><p>Công nghệ AI-ISP kết hợp cảm biến lớn cho hình ảnh vượt trội ban đêm cũng như ban ngày</p><p>Chuẩn nén H265+, Super AI Coding</p><p>Hỗ trợ chức năng phát hiện thông minh: SMD Plus</p><p>Tìm kiếm thông minh: Tìm kiếm nhanh sự kiện theo từng đối tượng (người, xe) khi kết hợp NVR</p><p>Chống ngược sáng DWDR</p><p>Chế độ ngày đêm (ICR), tự động cân bằng trắng (AWB), tự động bù sáng (AGC), chống ngược sáng(BLC), chống nhiễu (3D-DNR), LDC</p><p>Tầm xa LED ánh sáng ấm thu hình có màu 30m</p><p>Tích hợp mic</p><p>Ống kính cố định 3.6mm (góc nhìn 81°), option 6mm</p><p>Hỗ trợ chuẩn ONVIF, Tên miền miễn phí SmartDDNS.TV và P2P</p><p>Phần mềm sử dụng: DMSS, SmartPSS Lite, Dolynk Care</p><p>Chuẩn chống nước IP67</p><p>Điện áp DC12V hoặc PoE</p><p>Nhiệt độ hoạt động : -40° C ~ +60° C</p><p>Chất liệu kim loại + nhựa, kèm chân đế</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera Thân cố định 2.0MP có mic 2 MP CMOS 1/2.9”, 1920 × 1080@(25/30 fps) Công nghệ AI-ISP – hình ảnh vượt trội ban đêm cũng như ban ngày",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

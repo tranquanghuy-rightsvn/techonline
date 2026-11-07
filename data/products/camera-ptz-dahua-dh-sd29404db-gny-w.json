@@ -1,0 +1,109 @@
+{
+  "slug": "camera-ptz-dahua-dh-sd29404db-gny-w",
+  "name": "Camera PTZ Dahua DH-SD29404DB-GNY-W 4MP",
+  "categories": [
+    "camera-ptz-dahua",
+    "dahua-camera-ptz"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-SD29404DB-GNY-W",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd29404db-gny-w.png"
+  ],
+  "summary": [
+    "1/2.8″CMOS, 4MP 25/30fps@4MP, H.265+",
+    "Starlight, WDR 120dB, hồng ngoại 50m.",
+    "Zoom quang 4X(2.8mm-12mm)",
+    "Hỗ trợ các chức năng tuần tra",
+    "Tích hợp Mic, Audio in/out, Alarm in/out",
+    "WIFI, LAN, ONVIF, Nguồn 12VDC, 2A",
+    "Hỗ trợ thẻ nhớ max 512GB",
+    "IVS, Phát hiện khuôn mặt, SMD 3.0"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-SD29404DB-GNY-W"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Chống ngược sáng",
+      "True WDR 120dB"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera PTZ"
+    ],
+    [
+      "Loại",
+      "IP Camera"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Hồng ngoại 50 mét"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ],
+    [
+      "Zoom quang",
+      "4X"
+    ],
+    [
+      "Âm thanh",
+      "Hỗ trợ, Tích hợp"
+    ],
+    [
+      "Báo động",
+      "Alarm in, Alarm out"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "IVS, Phát hiện khuôn mặt, SMD"
+    ]
+  ],
+  "description_html": "<p>Camera PTZ WIFI ốp trần dòng WizSense 4MP</p><p>Độ phân giải 4.0MP cảm biến 1/2.8″ CMOS</p><p>Công nghệ Starlight, chuẩn nén hình ảnh H.265+</p><p>Tầm xa hồng ngoại 50m</p><p>Tốc độ khung hình 25/30fps@4MP</p><p>Ống kính zoom quang 4x (2.8mm-12mm)</p><p>Bổ trợ hình ảnh: Chống ngược sáng 120dB, ổn định hình ảnh điện tử EIS, chống sương mù DEFOG, Auto daynight, AWB…</p><p>Hỗ trợ các chức năng PTZ: Preset (300 điểm), Tour (8), Tour (8), Pattern (5), hỗ trợ Idle Motion. Tầm quay quét: Ngang 0° – 360° không điểm dừng; Dọc 0° – 90°</p><p>Hỗ trợ các chức năng thông minh: Bảo vệ vành đai, Phát hiện khuôn mặt, SMD 3.0</p><p>Kết nối Wifi 2.4GHz, hỗ trợ cổng LAN.</p><p>Tích hợp Mic, hỗ trợ cổng Audio in/out, Alarm in/out.</p><p>Hỗ trợ thẻ nhớ tối đa 512GB</p><p>Hỗ trợ chuẩn ONVIF</p><p>Nguồn cấp 12 VDC, 2A ± 10%</p><p>Chống sét 6000V</p>",
+  "attrs": [
+    "4MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "1/2.8″CMOS, 4MP 25/30fps@4MP, H.265+ Starlight, WDR 120dB, hồng ngoại 50m. Zoom quang 4X(2.8mm-12mm)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

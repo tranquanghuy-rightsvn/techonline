@@ -1,0 +1,31 @@
+{
+  "slug": "khoa-cua-khach-san-hyundai-hy-hl03",
+  "name": "Khóa cửa khách sạn Hyundai HY-HL03",
+  "categories": [
+    "khoa-cua-van-tay-hyundai"
+  ],
+  "brand": "",
+  "sku": "",
+  "warranty": "",
+  "stock": "Còn hàng",
+  "price": 5450000,
+  "old_price": 5500000,
+  "vat": false,
+  "images": [
+    "assets/images/khoa-cua-van-tay/products/250-2017-khoa-cua-khach-san-hyundai-hy-hl03.jpg"
+  ],
+  "summary": [],
+  "offers": [],
+  "specs": [],
+  "description_html": "",
+  "attrs": [
+    "Cửa khách sạn"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

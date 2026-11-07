@@ -1,0 +1,79 @@
+{
+  "slug": "switch-dahua-dh-cs4006-4et2et-60",
+  "name": "Switch Dahua DH-CS4006-4ET2ET-60",
+  "categories": [
+    "switch-dahua",
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-CS4006-4ET2ET-60",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4006-4et2et-60.png"
+  ],
+  "summary": [
+    "Switch PoE Cloud 6 port với 4 port PoE",
+    "Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.",
+    "Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+    "Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…",
+    "Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af, IEEE802.3at, Hi-PoE",
+    "Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…",
+    "PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m",
+    "Cổng giao tiếp: : 2 × RJ-45 10/100/100 Mbps (uplink), 4 × RJ-45 10/100 Mbps (Cấp nguồn PoE);",
+    "Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤60W",
+    "Hỗ trợ 1 cổng Hi-PoE công suất cao 60W dành cho camera speedome",
+    "Khả năng chuyển tải: 0.89 Gbps",
+    "Tốc độ chuyển tiếp gói tin: 1.2 Mpps",
+    "Nguồn: 53 VDC, 1.226 A. Chống sét 4KV",
+    "Kích thước: 130 mm × 90 mm × 26 mm",
+    "Khối lượng: 0.28 kg"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-CS4006-4ET2ET-60"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ]
+  ],
+  "description_html": "<p>Switch PoE Cloud 6 port với 4 port PoE</p><p>Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.</p><p>Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.</p><p>Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…</p><p>Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af, IEEE802.3at, Hi-PoE</p><p>Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…</p><p>PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m</p><p>Cổng giao tiếp: : 2 × RJ-45 10/100/100 Mbps (uplink), 4 × RJ-45 10/100 Mbps (Cấp nguồn PoE);</p><p>Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤60W</p><p>Hỗ trợ 1 cổng Hi-PoE công suất cao 60W dành cho camera speedome</p><p>Khả năng chuyển tải: 0.89 Gbps</p><p>Tốc độ chuyển tiếp gói tin: 1.2 Mpps</p><p>Nguồn: 53 VDC, 1.226 A. Chống sét 4KV</p><p>Kích thước: 130 mm × 90 mm × 26 mm</p><p>Khối lượng: 0.28 kg</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Switch PoE Cloud 6 port với 4 port PoE Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì. Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

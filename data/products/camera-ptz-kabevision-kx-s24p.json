@@ -1,0 +1,68 @@
+{
+  "slug": "camera-ptz-kabevision-kx-s24p",
+  "name": "Camera PTZ KabeVision KX-S24P",
+  "categories": [
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-S24P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-S24P-.-KX-S44P-scaled.png"
+  ],
+  "summary": [
+    "Camera PT ốp trần 2MP",
+    "• 2MP, CMOS 1/2.8″, H.265+",
+    "• Hồng ngoại 30m, LED 30m",
+    "• Ống kính 2.8mm (103°), WDR 120dB",
+    "• PTZ: Preset 50 điểm, Idle Motion",
+    "• Góc quay: Ngang 0°–345°, dọc 0°–90°",
+    "• IVS phân biệt người/phương tiện, phát hiện con người",
+    "• Cảnh báo chủ động bằng đèn chớp và còi hú",
+    "• Tích hợp Mic, hỗ trợ đàm thoại 2 chiều",
+    "• Hỗ trợ ONVIF, P2P, KBVISION.TV",
+    "• LAN, PoE 802.3af, 12VDC / PoE, Chất liệu nhựa",
+    "Download Image",
+    "Download Brochure"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-S24P"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera PT ốp trần 2MP</p><p>• 2MP, CMOS 1/2.8″, H.265+</p><p>• Hồng ngoại 30m, LED 30m</p><p>• Ống kính 2.8mm (103°), WDR 120dB</p><p>• PTZ: Preset 50 điểm, Idle Motion</p><p>• Góc quay: Ngang 0°–345°, dọc 0°–90°</p><p>• IVS phân biệt người/phương tiện, phát hiện con người</p><p>• Cảnh báo chủ động bằng đèn chớp và còi hú</p><p>• Tích hợp Mic, hỗ trợ đàm thoại 2 chiều</p><p>• Hỗ trợ ONVIF, P2P, KBVISION.TV</p><p>• LAN, PoE 802.3af, 12VDC / PoE, Chất liệu nhựa</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera PT ốp trần 2MP • 2MP, CMOS 1/2.8″, H.265+ • Hồng ngoại 30m, LED 30m",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "KabeVision",
+      "/kabe-vision/"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

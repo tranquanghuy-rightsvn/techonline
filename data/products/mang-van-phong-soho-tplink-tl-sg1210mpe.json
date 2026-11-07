@@ -1,0 +1,65 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1210mpe",
+  "name": "Mạng Văn Phòng SOHO TP-Link TL-SG1210MPE",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1210MPE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG1210MPE.jpg"
+  ],
+  "summary": [
+    "10-Port Gigabit Easy Smart Switch with 8-Port PoE+",
+    "9× gigabit RJ45 ports and 1× combo gigabit SFP/RJ45 port",
+    "Equipped with eight 802.3af/at PoE+ ports with up to 30 W for each port, the switch can transfer data and power via one single cable",
+    "Supports PoE power up to 123 W for all PoE ports*",
+    "Provides network monitoring, traffic prioritization, VLAN features, and PoE Auto Recovery",
+    "Simple network set-up on top of plug-and-play connectivity",
+    "Web-based user interface and Easy Smart Configuration Utility simplify configuration",
+    "Fanless design lowers energy consumption and eliminates operating noise",
+    "Download Brochure",
+    "Download Image"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1210MPE"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Danh mục",
+      "Mạng Văn Phòng SOHO"
+    ]
+  ],
+  "description_html": "<p>10-Port Gigabit Easy Smart Switch with 8-Port PoE+</p><p>9× gigabit RJ45 ports and 1× combo gigabit SFP/RJ45 port</p><p>Equipped with eight 802.3af/at PoE+ ports with up to 30 W for each port, the switch can transfer data and power via one single cable</p><p>Supports PoE power up to 123 W for all PoE ports*</p><p>Provides network monitoring, traffic prioritization, VLAN features, and PoE Auto Recovery</p><p>Simple network set-up on top of plug-and-play connectivity</p><p>Web-based user interface and Easy Smart Configuration Utility simplify configuration</p><p>Fanless design lowers energy consumption and eliminates operating noise</p>",
+  "attrs": [
+    "TP-Link"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "10-Port Gigabit Easy Smart Switch with 8-Port PoE+ 9× gigabit RJ45 ports and 1× combo gigabit SFP/RJ45 port Equipped with eight 802.3af/at PoE+ ports with up to 30 W for each port, the switch can transfer data and power via one single cable",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "TP-Link",
+      "/tp-link/"
+    ],
+    [
+      "Mạng Văn Phòng SOHO",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

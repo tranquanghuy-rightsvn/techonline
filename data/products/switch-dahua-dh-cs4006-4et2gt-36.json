@@ -1,0 +1,71 @@
+{
+  "slug": "switch-dahua-dh-cs4006-4et2gt-36",
+  "name": "Switch Dahua DH-CS4006-4ET2GT-36",
+  "categories": [
+    "dahua-switch"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-CS4006-4ET2GT-36",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_20_11802_674015150_crop.png"
+  ],
+  "summary": [
+    "Switch PoE Cloud 6 port với 4 port PoE",
+    "Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.",
+    "Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+    "Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…",
+    "Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af, IEEE802.3at",
+    "Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…",
+    "PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m",
+    "Cổng giao tiếp: : 2 × RJ-45 10/100/1000 Mbps (uplink), 4 × RJ-45 10/100 Mbps (Cấp nguồn PoE);",
+    "Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤40W",
+    "Khả năng chuyển tải: 4.8Gbps",
+    "Tốc độ chuyển tiếp gói tin: 3.57 Mpps",
+    "Nguồn: 53 VDC, 0.8 A . Chống sét 6KV",
+    "Kích thước: 115 mm × 84 mm × 27 mm",
+    "Khối lượng: 0.19kg",
+    "Download Brochure",
+    "Download Image"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-CS4006-4ET2GT-36"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>Switch PoE Cloud 6 port với 4 port PoE</p><p>Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì.</p><p>Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.</p><p>Giám sát thiết bị, bật tắt khởi động lại từ xa, cảnh báo khi có thiết bị mất kết nối, tự động tạo cây sơ đồ kết nối…</p><p>Đáp ứng tiêu chuẩn cấp nguồn IEEE802.3af, IEEE802.3at</p><p>Hỗ trợ Intelligent PoE, PoE Watchdog, giao thức LLDP, VLAN, LOOP Detection…</p><p>PoE Extend : Khoảng cách truyền tín hiệu và nguồn tối đa 250m</p><p>Cổng giao tiếp: : 2 × RJ-45 10/100/1000 Mbps (uplink), 4 × RJ-45 10/100 Mbps (Cấp nguồn PoE);</p><p>Công suất PoE: Mỗi cổng ≤30W, Tổng cộng ≤40W</p><p>Khả năng chuyển tải: 4.8Gbps</p><p>Tốc độ chuyển tiếp gói tin: 3.57 Mpps</p><p>Nguồn: 53 VDC, 0.8 A . Chống sét 6KV</p><p>Kích thước: 115 mm × 84 mm × 27 mm</p><p>Khối lượng: 0.19kg</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Switch PoE Cloud 6 port với 4 port PoE Quản lý từ xa qua Cloud (Dolynk Care), giảm chi phí và nhân công bảo trì. Thêm thiết bị dễ dàng bằng mã QR, Quản lý bằng app và web.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Dahua",
+      "/dahua/"
+    ],
+    [
+      "Switch",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

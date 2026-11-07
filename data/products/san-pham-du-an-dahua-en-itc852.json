@@ -1,0 +1,69 @@
+{
+  "slug": "san-pham-du-an-dahua-en-itc852",
+  "name": "Sản phẩm dự án Dahua EN-ITC852",
+  "categories": [
+    "san-pham-du-an-dahua",
+    "dahua-san-pham-du-an"
+  ],
+  "brand": "Dahua",
+  "sku": "EN-ITC852",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-itc852.png"
+  ],
+  "summary": [
+    "· GS-CMOS image sensor.",
+    "· 4096 × 2336@50 fps.",
+    "· Video compression standards: H.265, H.264M, H.264H and MJPEG.",
+    "· Works in poor lighting and does not smear.",
+    "· High-speed capture.",
+    "· Integrated design, IP66 and IK10 rated.",
+    "· Under recommended installation and lighting conditions:",
+    "Capture rate > 99%",
+    "LPR accuracy > 98%"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EN-ITC852"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Sản phẩm dự án"
+    ]
+  ],
+  "description_html": "<p>· GS-CMOS image sensor.</p><p>· 4096 × 2336@50 fps.</p><p>· Video compression standards: H.265, H.264M, H.264H and MJPEG.</p><p>· Works in poor lighting and does not smear.</p><p>· High-speed capture.</p><p>· Integrated design, IP66 and IK10 rated.</p><p>· Under recommended installation and lighting conditions:</p><p>Capture rate &gt; 99%</p><p>LPR accuracy &gt; 98%</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "· GS-CMOS image sensor. · 4096 × 2336@50 fps. · Video compression standards: H.265, H.264M, H.264H and MJPEG.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Sản phẩm dự án",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

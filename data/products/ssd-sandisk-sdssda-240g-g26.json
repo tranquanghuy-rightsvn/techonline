@@ -1,0 +1,93 @@
+{
+  "slug": "ssd-sandisk-sdssda-240g-g26",
+  "name": "SSD SanDisk SDSSDA-240G-G26 2.5\" SATA 3, 240GB",
+  "categories": [
+    "luu-tru-ssd",
+    "sandisk-ssd"
+  ],
+  "brand": "SanDisk",
+  "sku": "SDSSDA-240G-G26",
+  "warranty": "36 tháng",
+  "stock": "Còn hàng",
+  "price": 590000,
+  "old_price": 790000,
+  "vat": true,
+  "images": [
+    "assets/images/product-cat6-sandisk-ssd.png"
+  ],
+  "summary": [
+    "Dung lượng: 240GB",
+    "Giao tiếp: SATA 3",
+    "Tốc độ đọc: 530MB/s",
+    "Tốc độ ghi: 440MB/s",
+    "Kích thước: 2.5 inch",
+    "Thương hiệu Mỹ"
+  ],
+  "offers": [
+    "Cam kết sản phẩm chính hãng, tem bảo hành đầy đủ",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Đổi mới trong 7 ngày đầu nếu lỗi phần cứng",
+    "Bảo hành chính hãng 36 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán"
+  ],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SDSSDA-240G-G26"
+    ],
+    [
+      "Thương hiệu",
+      "SanDisk"
+    ],
+    [
+      "Dung lượng",
+      "240GB"
+    ],
+    [
+      "Giao tiếp",
+      "SATA 3"
+    ],
+    [
+      "Tốc độ đọc",
+      "530MB/s"
+    ],
+    [
+      "Tốc độ ghi",
+      "440MB/s"
+    ],
+    [
+      "Kích thước",
+      "2.5 inch"
+    ],
+    [
+      "Bảo hành",
+      "36 tháng"
+    ]
+  ],
+  "description_html": "<p>Dung lượng: 240GB</p><p>Giao tiếp: SATA 3</p><p>Tốc độ đọc: 530MB/s</p><p>Tốc độ ghi: 440MB/s</p><p>Kích thước: 2.5 inch</p><p>Thương hiệu Mỹ</p><p>Bảo hành 3 năm</p><p>Chống sốc tốt – Hiệu suất tốt</p>",
+  "attrs": [
+    "SanDisk"
+  ],
+  "badge": "",
+  "featured": true,
+  "seo_description": "Dung lượng: 240GB Giao tiếp: SATA 3 Tốc độ đọc: 530MB/s",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Thiết bị lưu trữ",
+      "#"
+    ],
+    [
+      "Ổ cứng SSD",
+      "#"
+    ],
+    [
+      "SanDisk",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

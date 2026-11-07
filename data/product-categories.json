@@ -1,0 +1,1064 @@
+[
+ {
+  "slug": "bao-chay-camera",
+  "name": "Camera báo cháy",
+  "parent": "thiet-bi-bao-dong-bao-chay",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Camera báo cháy chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 5
+ },
+ {
+  "slug": "bao-chay-co-day",
+  "name": "Báo cháy có dây",
+  "parent": "thiet-bi-bao-dong-bao-chay",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Báo cháy có dây chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "bao-chay-he-dia-chi",
+  "name": "Hệ địa chỉ",
+  "parent": "thiet-bi-bao-dong-bao-chay",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Hệ địa chỉ chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 4
+ },
+ {
+  "slug": "bao-chay-he-thuong",
+  "name": "Hệ thường",
+  "parent": "thiet-bi-bao-dong-bao-chay",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Hệ thường chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "bao-chay-khong-day",
+  "name": "Báo cháy không dây",
+  "parent": "thiet-bi-bao-dong-bao-chay",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Báo cháy không dây chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "bo-kich-song-wifi",
+  "name": "Bộ kích sóng wifi",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "Bộ kích sóng wifi chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 8
+ },
+ {
+  "slug": "bo-phat-wifi",
+  "name": "Bộ phát wifi",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/cat_big_56_1748060524.jpg",
+  "description": "Bộ phát wifi chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "camera-analog-dahua",
+  "name": "Camera Analog Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1200tqp-il-t-vn.png",
+  "description": "Camera Analog Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "camera-analog-kabevision",
+  "name": "Camera Analog KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5013-a.png",
+  "description": "Camera Analog KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 19
+ },
+ {
+  "slug": "camera-analog-kbvision",
+  "name": "Camera Analog KBVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kbvision-kx-af5004s-dl-a.png",
+  "description": "Camera Analog KBVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 16
+ },
+ {
+  "slug": "camera-giam-sat",
+  "name": "Camera giám sát",
+  "parent": "",
+  "layout": "category",
+  "image": "",
+  "description": "Camera giám sát Imou, Ezviz, Dahua, Hikvision, Tapo TP-Link chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "camera-imou",
+  "name": "Camera Imou",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-a82p-pro.png",
+  "description": "Camera Imou chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 12
+ },
+ {
+  "slug": "camera-ip-dahua",
+  "name": "Camera IP Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hdw1439t1-a-pro.png",
+  "description": "Camera IP Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "camera-ip-kbvision",
+  "name": "Camera IP KBVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-caif5003n-dl-ab.png",
+  "description": "Camera IP KBVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 15
+ },
+ {
+  "slug": "camera-ptz-dahua",
+  "name": "Camera PTZ Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4a225db-hny.png",
+  "description": "Camera PTZ Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 4
+ },
+ {
+  "slug": "camera-ptz-kabevision",
+  "name": "Camera PTZ KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-eai2458lzsn.png",
+  "description": "Camera PTZ KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 20
+ },
+ {
+  "slug": "camera-wifi-dahua",
+  "name": "Camera Wifi Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h5as.png",
+  "description": "Camera Wifi Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "camera-wifi-kabevision",
+  "name": "Camera Wifi KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-kabevision-kx-5ptw-d-pma.png",
+  "description": "Camera Wifi KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 18
+ },
+ {
+  "slug": "cham-cong-kiem-soat-cua",
+  "name": "Chấm công - Kiểm soát cửa",
+  "parent": "",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Chấm công - Kiểm soát cửa chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "cham-cong-kiem-soat-ra-vao-dahua",
+  "name": "Kiểm soát ra vào Dahua",
+  "parent": "cham-cong-kiem-soat-cua",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Kiểm soát ra vào Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "cham-cong-kiem-soat-ra-vao-kabevision",
+  "name": "Kiểm soát ra vào KabeVision",
+  "parent": "cham-cong-kiem-soat-cua",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Kiểm soát ra vào KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "chuong-cua-man-hinh-dahua",
+  "name": "Chuông cửa màn hình Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2201f-p-s2.png",
+  "description": "Chuông cửa màn hình Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 8
+ },
+ {
+  "slug": "dahua",
+  "name": "DAHUA",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Camera giám sát, đầu ghi, switch, chuông cửa màn hình, kiểm soát ra vào DAHUA chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "dahua-wisualarm",
+  "name": "DAHUA WISUALARM",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Hệ thống báo cháy không dây, có dây, hệ thường, hệ địa chỉ DAHUA WISUALARM chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 4
+ },
+ {
+  "slug": "dau-ghi-analog-dahua",
+  "name": "Đầu ghi Analog Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr4116hs-i-t.png",
+  "description": "Đầu ghi Analog Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 6
+ },
+ {
+  "slug": "dau-ghi-analog-kabevision",
+  "name": "Đầu ghi Analog KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-7108t-vn.png",
+  "description": "Đầu ghi Analog KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 22
+ },
+ {
+  "slug": "dau-ghi-imou",
+  "name": "Đầu ghi Imou",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110w-8a0e.png",
+  "description": "Đầu ghi Imou chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 13
+ },
+ {
+  "slug": "dau-ghi-ip-dahua",
+  "name": "Đầu ghi IP Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5864-ei2.png",
+  "description": "Đầu ghi IP Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 5
+ },
+ {
+  "slug": "dau-ghi-ip-kabevision",
+  "name": "Đầu ghi IP KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8864n4.png",
+  "description": "Đầu ghi IP KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 21
+ },
+ {
+  "slug": "imou",
+  "name": "IMOU",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Camera, đầu ghi và sản phẩm khác IMOU chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 5
+ },
+ {
+  "slug": "kabe-vision",
+  "name": "Kabe vision",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Camera, đầu ghi, switch và kiểm soát ra vào Kabe vision chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 6
+ },
+ {
+  "slug": "kbvision",
+  "name": "KBVISION",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Camera giám sát, đầu ghi IP, chuông cửa màn hình và phụ kiện KBVISION chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 7
+ },
+ {
+  "slug": "khoa-cua-hexa",
+  "name": "Khóa cửa Hexa",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "description": "Khóa cửa Hexa chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 15
+ },
+ {
+  "slug": "khoa-cua-van-tay",
+  "name": "Khoá cửa vân tay",
+  "parent": "",
+  "layout": "lock",
+  "image": "",
+  "description": "Khóa cửa vân tay Ezviz, Bosch, Hafele, Philips, Kaadas, Hyundai, Kawa, Kassler, Solity, Hubert chính hãng. Giá tốt, bảo hành 24 tháng, giao lắp toàn quốc.",
+  "order": 8
+ },
+ {
+  "slug": "khoa-cua-van-tay-ezviz",
+  "name": "Khóa cửa Ezviz",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_74_1749193066.jpg",
+  "description": "Khóa cửa Ezviz chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "khoa-cua-van-tay-hafele",
+  "name": "Khóa cửa Hafele",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_82_1749193056.jpg",
+  "description": "Khóa cửa Hafele chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "khoa-cua-van-tay-hubert",
+  "name": "Khóa cửa Hubert",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_128_1749193115.jpg",
+  "description": "Khóa cửa Hubert chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 10
+ },
+ {
+  "slug": "khoa-cua-van-tay-hyundai",
+  "name": "Khóa cửa Hyundai",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_126_1749193217.png",
+  "description": "Khóa cửa Hyundai chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 6
+ },
+ {
+  "slug": "khoa-cua-van-tay-kaadas",
+  "name": "Khóa cửa Kaadas",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_71_1749193075.jpg",
+  "description": "Khóa cửa Kaadas chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 5
+ },
+ {
+  "slug": "khoa-cua-van-tay-kassler",
+  "name": "Khóa cửa Kassler",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_73_1749193097.jpg",
+  "description": "Khóa cửa Kassler chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 8
+ },
+ {
+  "slug": "khoa-cua-van-tay-kawa",
+  "name": "Khóa cửa Kawa",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_163_1749193105.jpg",
+  "description": "Khóa cửa Kawa chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 7
+ },
+ {
+  "slug": "khoa-cua-van-tay-solity",
+  "name": "Khóa cửa Solity",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_72_1749193123.jpg",
+  "description": "Khóa cửa Solity chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 9
+ },
+ {
+  "slug": "khoa-cua-yale",
+  "name": "Khóa cửa Yale",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "description": "Khóa cửa Yale chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 14
+ },
+ {
+  "slug": "khoa-van-tay-bosch",
+  "name": "Khóa vân tay Bosch",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_68_1749193030.jpg",
+  "description": "Khóa vân tay Bosch chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "khoa-van-tay-kitos",
+  "name": "Khóa vân tay Kitos",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "description": "Khóa vân tay Kitos chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 11
+ },
+ {
+  "slug": "khoa-van-tay-philips",
+  "name": "Khóa cửa Philips",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_69_1749193041.jpg",
+  "description": "Khóa cửa Philips chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 4
+ },
+ {
+  "slug": "khoa-van-tay-theo-loai-cua",
+  "name": "Khóa vân tay theo loại cửa",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_76_1748060744.jpg",
+  "description": "Khóa vân tay theo loại cửa chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 13
+ },
+ {
+  "slug": "kiem-soat-ra-vao-dahua",
+  "name": "Kiểm soát ra vào Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3214a-w.png",
+  "description": "Kiểm soát ra vào Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 7
+ },
+ {
+  "slug": "kiem-soat-ra-vao-kabevision",
+  "name": "Kiểm soát ra vào KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-fw.png",
+  "description": "Kiểm soát ra vào KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 23
+ },
+ {
+  "slug": "luu-tru-o-cung",
+  "name": "Ổ cứng",
+  "parent": "thiet-bi-luu-tru",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Ổ cứng chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 1
+ },
+ {
+  "slug": "luu-tru-ssd",
+  "name": "SSD",
+  "parent": "thiet-bi-luu-tru",
+  "layout": "subcategory",
+  "image": "",
+  "description": "SSD chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "luu-tru-the-nho",
+  "name": "Thẻ nhớ",
+  "parent": "thiet-bi-luu-tru",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Thẻ nhớ chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 2
+ },
+ {
+  "slug": "mesh-wi-fi",
+  "name": "Mesh Wi-Fi",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "Mesh Wi-Fi chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 5
+ },
+ {
+  "slug": "phu-kien-dahua",
+  "name": "Phụ kiện Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm22-b220n.png",
+  "description": "Phụ kiện Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 10
+ },
+ {
+  "slug": "phu-kien-khoa-van-tay",
+  "name": "Phụ kiện khóa vân tay",
+  "parent": "khoa-cua-van-tay",
+  "layout": "subcategory",
+  "image": "assets/images/khoa-cua-van-tay/icons/cat_big_123_1748060785.jpg",
+  "description": "Phụ kiện khóa vân tay chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 12
+ },
+ {
+  "slug": "phu-kien-mang",
+  "name": "Phụ kiện mạng",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/cat_big_60_1748060603.jpg",
+  "description": "Phụ kiện mạng chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 4
+ },
+ {
+  "slug": "router-modem",
+  "name": "Router – Modem",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/cat_big_57_1748060640.jpg",
+  "description": "Router – Modem chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 3
+ },
+ {
+  "slug": "san-pham-du-an-dahua",
+  "name": "Sản phẩm dự án Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-itc431-rw1f-l.png",
+  "description": "Sản phẩm dự án Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 11
+ },
+ {
+  "slug": "san-pham-kbvision",
+  "name": "Sản phẩm KBVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/san-pham-kbvision-provms.jpg",
+  "description": "Sản phẩm KBVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 17
+ },
+ {
+  "slug": "san-pham-khac-imou",
+  "name": "Sản phẩm khác Imou",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf110p.png",
+  "description": "Sản phẩm khác Imou chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 14
+ },
+ {
+  "slug": "sandisk",
+  "name": "SANDISK",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Thẻ nhớ, SSD SANDISK chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 9
+ },
+ {
+  "slug": "seagate",
+  "name": "SEAGATE",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Ổ cứng lưu trữ SEAGATE chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 10
+ },
+ {
+  "slug": "switch-bo-chuyen-mach",
+  "name": "Switch – Bộ chuyển mạch",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "Switch – Bộ chuyển mạch chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 10
+ },
+ {
+  "slug": "switch-dahua",
+  "name": "Switch Dahua",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8et2gt-60.png",
+  "description": "Switch Dahua chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 9
+ },
+ {
+  "slug": "switch-kabevision",
+  "name": "Switch KabeVision",
+  "parent": "camera-giam-sat",
+  "layout": "subcategory",
+  "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5121-8m-60-pma.png",
+  "description": "Switch KabeVision chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 24
+ },
+ {
+  "slug": "thiet-bi-bao-dong-bao-chay",
+  "name": "Thiết bị báo động- báo cháy",
+  "parent": "",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Thiết bị báo động- báo cháy chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 11
+ },
+ {
+  "slug": "thiet-bi-luu-tru",
+  "name": "Thiết bị lưu trữ",
+  "parent": "",
+  "layout": "subcategory",
+  "image": "",
+  "description": "Thiết bị lưu trữ chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 12
+ },
+ {
+  "slug": "thiet-bi-mang",
+  "name": "Thiết bị mạng",
+  "parent": "",
+  "layout": "network",
+  "image": "",
+  "description": "Thiết bị mạng TP-Link, Mercusys, Ubiquiti, Huawei chính hãng: router, modem, switch, access point, mesh wifi, bộ phát wifi di động. Giá tốt, bảo hành 2 năm.",
+  "order": 13
+ },
+ {
+  "slug": "tp-link",
+  "name": "TP-Link",
+  "parent": "",
+  "layout": "brand",
+  "image": "",
+  "description": "Mesh Wi-Fi, Router Wi-Fi, Modem/Gateway và thiết bị mạng TP-Link chính hãng 100%, giá tốt, bảo hành 24 tháng. Giao hàng toàn quốc, lắp đặt chuyên nghiệp.",
+  "order": 14
+ },
+ {
+  "slug": "wi-fi-di-dong",
+  "name": "Wi-Fi Di Động",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "Wi-Fi Di Động chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
+  "order": 9
+ },
+ {
+  "slug": "dahua-camera-wifi",
+  "name": "Camera Wifi",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/H3AS-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "dahua-camera-ip",
+  "name": "Camera IP",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/12-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "dahua-camera-analog",
+  "name": "Camera Analog",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/04/HAC-HDW1200TQP-IL-T-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "dahua-camera-ptz",
+  "name": "Camera PTZ",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_07_15253_195330777_crop-247x296.png",
+  "description": "",
+  "order": 4
+ },
+ {
+  "slug": "dahua-dau-ghi-ip",
+  "name": "Đầu ghi IP",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/DHI-NVR5864-EI2-247x296.png",
+  "description": "",
+  "order": 5
+ },
+ {
+  "slug": "dahua-dau-ghi-analog",
+  "name": "Đầu ghi Analog",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/XVR5104HS-I21-247x296.png",
+  "description": "",
+  "order": 6
+ },
+ {
+  "slug": "dahua-switch",
+  "name": "Switch",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_20_11945_746851564_crop-247x296.png",
+  "description": "",
+  "order": 7
+ },
+ {
+  "slug": "dahua-chuong-cua-man-hinh",
+  "name": "Chuông cửa màn hình",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/03/DHI-VTO2201F-P-S2-247x296.png",
+  "description": "",
+  "order": 8
+ },
+ {
+  "slug": "dahua-access-control",
+  "name": "Access control",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/DHI-ASI3214A-W-247x296.png",
+  "description": "",
+  "order": 9
+ },
+ {
+  "slug": "dahua-san-pham-du-an",
+  "name": "Sản phẩm dự án",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/09/ITC431-RW1F-L-247x296.png",
+  "description": "",
+  "order": 10
+ },
+ {
+  "slug": "dahua-phu-kien-san-pham-khac",
+  "name": "Phụ kiện / Sản phẩm khác",
+  "parent": "dahua",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/admin-ajax-1-247x296.png",
+  "description": "",
+  "order": 11
+ },
+ {
+  "slug": "dahua-wisualarm-bao-chay-khong-day",
+  "name": "Báo cháy không dây",
+  "parent": "dahua-wisualarm",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-HT10A-R4-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "dahua-wisualarm-bao-chay-co-day",
+  "name": "Báo cháy có dây",
+  "parent": "dahua-wisualarm",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-BD1-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "dahua-wisualarm-he-thuong",
+  "name": "Hệ thường",
+  "parent": "dahua-wisualarm",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-BD1-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "dahua-wisualarm-he-dia-chi",
+  "name": "Hệ địa chỉ",
+  "parent": "dahua-wisualarm",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-1460-247x296.png",
+  "description": "",
+  "order": 4
+ },
+ {
+  "slug": "dahua-wisualarm-camera-bao-chay",
+  "name": "Camera báo cháy",
+  "parent": "dahua-wisualarm",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/HY-FT121LD-E_2_thumb-247x296.png",
+  "description": "",
+  "order": 5
+ },
+ {
+  "slug": "imou-camera",
+  "name": "Camera",
+  "parent": "imou",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-A32P-PRO-.-IPC-A52P-PRO-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "imou-dau-ghi",
+  "name": "Đầu ghi",
+  "parent": "imou",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/11/NVR-N110W-8A0E-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "imou-san-pham-khac",
+  "name": "Sản phẩm khác",
+  "parent": "imou",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/01/1-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "kabe-vision-camera-wifi",
+  "name": "Camera Wifi",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/KX-5PTW-D-PMA-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "kabe-vision-camera-ip",
+  "name": "Camera IP",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/KX-7009P-PMA-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "kabe-vision-camera-analog",
+  "name": "Camera Analog",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/KX-AD5013-A-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "kabe-vision-camera-ptz",
+  "name": "Camera PTZ",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/EAi2458LZSN-247x296.png",
+  "description": "",
+  "order": 4
+ },
+ {
+  "slug": "kabe-vision-dau-ghi-ip",
+  "name": "Đầu ghi IP",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/DAi4K8832N4-247x296.png",
+  "description": "",
+  "order": 5
+ },
+ {
+  "slug": "kabe-vision-dau-ghi-analog",
+  "name": "Đầu ghi Analog",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-7108T-247x296.png",
+  "description": "",
+  "order": 6
+ },
+ {
+  "slug": "kabe-vision-switch",
+  "name": "Switch",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/KX-DACS5121-8M-60-PMA-247x296.png",
+  "description": "",
+  "order": 7
+ },
+ {
+  "slug": "kabe-vision-access-control",
+  "name": "Access Control",
+  "parent": "kabe-vision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-FR04AC-FW-247x296.png",
+  "description": "",
+  "order": 8
+ },
+ {
+  "slug": "kbvision-camera-ip",
+  "name": "Camera IP",
+  "parent": "kbvision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/06/KX-CAiF5003N-DL-AB-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "kbvision-camera-analog",
+  "name": "Camera Analog",
+  "parent": "kbvision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/10/KX-AF5004S-DL-A-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "kbvision-dau-ghi-ip",
+  "name": "Đầu ghi IP",
+  "parent": "kbvision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/KX-A8124N2-VN-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "kbvision-chuong-cua-man-hinh",
+  "name": "Chuông cửa màn hình",
+  "parent": "kbvision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/04/KX-VDP02HWN-247x296.png",
+  "description": "",
+  "order": 4
+ },
+ {
+  "slug": "kbvision-phu-kien-san-pham-khac",
+  "name": "Phụ kiện / Sản phẩm khác",
+  "parent": "kbvision",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/11/PROVMS-247x296.jpg",
+  "description": "",
+  "order": 5
+ },
+ {
+  "slug": "sandisk-the-nho",
+  "name": "Thẻ nhớ",
+  "parent": "sandisk",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/10/the-nho-sandisk-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "sandisk-ssd",
+  "name": "SSD",
+  "parent": "sandisk",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/03/SDSSDA-240G-G26-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "seagate-o-cung",
+  "name": "Ổ cứng",
+  "parent": "seagate",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/seagate-skyhawk-20tb-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "thiet-bi-mang-theo-hang",
+  "name": "Thiết bị mạng theo hãng",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/cat_big_144_1748060512.jpg",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "thiet-bi-mang-quan-ly-ap",
+  "name": "Quán lý AP",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "",
+  "order": 6
+ },
+ {
+  "slug": "thiet-bi-mang-gateway",
+  "name": "Gateway",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "",
+  "order": 7
+ },
+ {
+  "slug": "thiet-bi-mang-module-mang",
+  "name": "Module mạng",
+  "parent": "thiet-bi-mang",
+  "layout": "subcategory",
+  "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "description": "",
+  "order": 11
+ },
+ {
+  "slug": "tp-link-mesh-wi-fi",
+  "name": "Mesh Wi-Fi",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-X50-OUTDOOR-247x296.png",
+  "description": "",
+  "order": 1
+ },
+ {
+  "slug": "tp-link-router-wi-fi",
+  "name": "Router Wi-Fi",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-GE230-247x296.png",
+  "description": "",
+  "order": 2
+ },
+ {
+  "slug": "tp-link-modem-gateway",
+  "name": "Modem / Gateway",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-MR202-247x296.png",
+  "description": "",
+  "order": 3
+ },
+ {
+  "slug": "tp-link-thiet-bi-mo-rong-mang",
+  "name": "Thiết bị mở rộng mạng",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/RE235BE-247x296.png",
+  "description": "",
+  "order": 4
+ },
+ {
+  "slug": "tp-link-wi-fi-di-dong",
+  "name": "Wi-Fi di động",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/M7000-247x296.jpg",
+  "description": "",
+  "order": 5
+ },
+ {
+  "slug": "tp-link-wi-fi-adapter",
+  "name": "Wi-Fi Adapter",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX50UH-247x296.png",
+  "description": "",
+  "order": 6
+ },
+ {
+  "slug": "tp-link-phu-kien",
+  "name": "Phụ kiện",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UH9120C-247x296.png",
+  "description": "",
+  "order": 7
+ },
+ {
+  "slug": "tp-link-mang-van-phong-soho",
+  "name": "Mạng Văn Phòng SOHO",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG1024DE-247x296.jpg",
+  "description": "",
+  "order": 8
+ },
+ {
+  "slug": "tp-link-giai-phap-doanh-nghiep",
+  "name": "Giải pháp doanh nghiệp",
+  "parent": "tp-link",
+  "layout": "subcategory",
+  "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1-247x296.png",
+  "description": "",
+  "order": 9
+ }
+]

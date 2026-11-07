@@ -1,0 +1,72 @@
+{
+  "slug": "tplink-wifi-di-dong-m7000",
+  "name": "Wi-Fi Di Động TP-Link M7000",
+  "categories": [
+    "wi-fi-di-dong"
+  ],
+  "brand": "TP-Link",
+  "sku": "M7000",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg"
+  ],
+  "summary": [
+    "Chia sẻ kết nối internet với bạn bè lên đến 10 thiết bị cùng lúc",
+    "Pin sạc 2000 mAh cho thời gian sử dụng lâu dài",
+    "Hỗ trợ 4G FDD/TDD-LTE, tương thích với mạng của hầu hết các quốc gia trên thế giới",
+    "Dễ dàng quản lý với Ứng dụng tpMiFi"
+  ],
+  "offers": [
+    "Cam kết sản phẩm chính hãng",
+    "Miễn phí giao hàng toàn quốc",
+    "Miễn phí lắp đặt tận nhà tại nội thành Hà Nội và Hồ Chí Minh",
+    "Miễn phí hỗ trợ từ xa 24/7",
+    "Bảo hành chính hãng 24 tháng",
+    "Nhận hàng, kiểm tra hàng trước khi thanh toán",
+    "Lỗi đổi mới trong 30 ngày đầu sử dụng"
+  ],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "M7000"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Danh mục",
+      "Wi-Fi Di Động"
+    ]
+  ],
+  "description_html": "<p>Chia sẻ kết nối internet với bạn bè lên đến 10 thiết bị cùng lúc</p><p>Pin sạc 2000 mAh cho thời gian sử dụng lâu dài</p><p>Hỗ trợ 4G FDD/TDD-LTE, tương thích với mạng của hầu hết các quốc gia trên thế giới</p><p>Dễ dàng quản lý với Ứng dụng tpMiFi</p>",
+  "attrs": [
+    "2.4GHz",
+    "150 - 500 Mpps"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Chia sẻ kết nối internet với bạn bè lên đến 10 thiết bị cùng lúc Pin sạc 2000 mAh cho thời gian sử dụng lâu dài Hỗ trợ 4G FDD/TDD-LTE, tương thích với mạng của hầu hết các quốc gia trên thế giới",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Thiết bị mạng",
+      "/thiet-bi-mang/"
+    ],
+    [
+      "TP-Link",
+      "#"
+    ],
+    [
+      "Wi-Fi Di Động",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

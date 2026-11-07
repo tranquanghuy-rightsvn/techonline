@@ -1,0 +1,79 @@
+{
+  "slug": "camera-ip-dahua-dat-n9449dzi",
+  "name": "Camera IP Dahua DAT-N9449DZI",
+  "categories": [
+    "camera-ip-dahua",
+    "dahua-camera-ip"
+  ],
+  "brand": "Dahua",
+  "sku": "DAT-N9449DZI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449dzi.png"
+  ],
+  "summary": [
+    "Camera IP Dome Full Color ánh sáng kép thông minh",
+    "Cảm biến 4-MP 1/2.9″ CMOS",
+    "Độ phân giải: 4 MP (2560 × 1440)@25/30 fps.",
+    "Độ nhạy sáng 0.0006",
+    "Chuẩn nén hình ảnh H.265, H.264, H.264H, H.264B, AI H.264, AI H.265",
+    "Ánh sáng kép thông minh, tích hợp đèn Led ánh sáng trắng và đèn hồng ngoại, chế độ thông minh tự động bật đèn khi phát hiện người / xe đi vào khu vực quan sát",
+    "Tầm xa hồng ngoại 40m, tầm xa đèn LED ánh sáng ấm thu hình có màu 40m",
+    "Có thể tùy chỉnh chế độ Tự động, Full Color hoặc Hồng ngoại ngay trên điện thoại",
+    "Chống ngược sáng WDR(120dB)",
+    "Chế độ Ngày Đêm ICR, chống nhiễu hình ảnh 3DNR, Tự động cân bằng trắng AWB, Tự động bù sáng AGC, Chống ngược sáng BLC.",
+    "Hỗ trợ chức năng Bảo vệ vành đai : Tripwire, Intrusion (có phân biệt người, xe) và SMD Plus",
+    "Ống kính cố định 2.7 mm–13.5 mm (góc nhìn 104°–29°)",
+    "Tích hợp mic",
+    "Hỗ trợ chuẩn ONVIF, Tên miền miễn phí SmartDDNS.TV và P2P, AutoRegister 2.0",
+    "Phần mềm sử dụng: DMSS, SmartPSS Lite, Dolynk Care",
+    "Hỗ trợ khe cắm thẻ nhớ lên đến 512GB",
+    "Điện áp DC12V hoặc PoE (802.3af)",
+    "Nhiệt độ hoạt động : –30 °C to +60 °C",
+    "Chất liệu kim loại, IP67"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DAT-N9449DZI"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>Camera IP Dome Full Color ánh sáng kép thông minh</p><p>Cảm biến 4-MP 1/2.9″ CMOS</p><p>Độ phân giải: 4 MP (2560 × 1440)@25/30 fps.</p><p>Độ nhạy sáng 0.0006</p><p>Chuẩn nén hình ảnh H.265, H.264, H.264H, H.264B, AI H.264, AI H.265</p><p>Ánh sáng kép thông minh, tích hợp đèn Led ánh sáng trắng và đèn hồng ngoại, chế độ thông minh tự động bật đèn khi phát hiện người / xe đi vào khu vực quan sát</p><p>Tầm xa hồng ngoại 40m, tầm xa đèn LED ánh sáng ấm thu hình có màu 40m</p><p>Có thể tùy chỉnh chế độ Tự động, Full Color hoặc Hồng ngoại ngay trên điện thoại</p><p>Chống ngược sáng WDR(120dB)</p><p>Chế độ Ngày Đêm ICR, chống nhiễu hình ảnh 3DNR, Tự động cân bằng trắng AWB, Tự động bù sáng AGC, Chống ngược sáng BLC.</p><p>Hỗ trợ chức năng Bảo vệ vành đai : Tripwire, Intrusion (có phân biệt người, xe) và SMD Plus</p><p>Ống kính cố định 2.7 mm–13.5 mm (góc nhìn 104°–29°)</p><p>Tích hợp mic</p><p>Hỗ trợ chuẩn ONVIF, Tên miền miễn phí SmartDDNS.TV và P2P, AutoRegister 2.0</p><p>Phần mềm sử dụng: DMSS, SmartPSS Lite, Dolynk Care</p><p>Hỗ trợ khe cắm thẻ nhớ lên đến 512GB</p><p>Điện áp DC12V hoặc PoE (802.3af)</p><p>Nhiệt độ hoạt động : –30 °C to +60 °C</p><p>Chất liệu kim loại, IP67</p>",
+  "attrs": [
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera IP Dome Full Color ánh sáng kép thông minh Cảm biến 4-MP 1/2.9″ CMOS Độ phân giải: 4 MP (2560 × 1440)@25/30 fps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

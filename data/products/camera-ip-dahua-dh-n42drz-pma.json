@@ -1,0 +1,105 @@
+{
+  "slug": "camera-ip-dahua-dh-n42drz-pma",
+  "name": "Camera IP Dahua DH-N42DRZ-PMA 4MP",
+  "categories": [
+    "camera-ip-dahua",
+    "dahua-camera-ip"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-N42DRZ-PMA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-n42drz-pma.png"
+  ],
+  "summary": [
+    "Camera IP dome hồng ngoại 4.0MP Motorized lens",
+    "Độ phân giải 4 Megapixel cảm biến Sony Stavis CMOS kích thước 1/2.9”",
+    "2688 × 1520@(1–20 fps )/2560 × 1440@(1-25/30 fps)",
+    "Hỗ trợ công nghệ Starlight, độ nhạy sáng 0.008",
+    "Chuẩn nén H265+",
+    "Hỗ trợ chức năng phát hiện thông minh: Hàng rào ảo, Xâm nhập (phân biệt người và xe), SMD Plus.",
+    "Chống ngược sáng WDR(120dB)",
+    "Chế độ ngày đêm (ICR), tự động cân bằng trắng (AWB), tự động bù sáng (AGC), chống ngược sáng (BLC), chống nhiễu (3D-DNR).",
+    "Tầm xa hồng ngoại 40m với công nghệ hồng ngoại thông minh",
+    "Hỗ trợ khe cắm thẻ nhớ 256GB",
+    "Tích hợp mic",
+    "Ống kính motorized 2.7mm-13.5mm",
+    "Hỗ trợ cổng Alarm in/out, Audio in/out",
+    "Điện áp DC12V hoặc PoE",
+    "Nhiệt độ hoạt động : -40° C ~ +60° C.",
+    "Chất liệu kim loại, chống bụi nước IP67, Chống va đập IK10."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-N42DRZ-PMA"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Chống ngược sáng",
+      "True WDR 120dB"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera Dome"
+    ],
+    [
+      "Loại",
+      "IP Camera"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Hồng ngoại 40 mét"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "Hàng rào ảo, SMD Plus, Xâm nhập (phân biệt người và xe)"
+    ]
+  ],
+  "description_html": "<p>Camera IP dome hồng ngoại 4.0MP Motorized lens</p><p>Độ phân giải 4 Megapixel cảm biến Sony Stavis CMOS kích thước 1/2.9”</p><p>2688 × 1520@(1–20 fps )/2560 × 1440@(1-25/30 fps)</p><p>Hỗ trợ công nghệ Starlight, độ nhạy sáng 0.008</p><p>Chuẩn nén H265+</p><p>Hỗ trợ chức năng phát hiện thông minh: Hàng rào ảo, Xâm nhập (phân biệt người và xe), SMD Plus.</p><p>Chống ngược sáng WDR(120dB)</p><p>Chế độ ngày đêm (ICR), tự động cân bằng trắng (AWB), tự động bù sáng (AGC), chống ngược sáng (BLC), chống nhiễu (3D-DNR).</p><p>Tầm xa hồng ngoại 40m với công nghệ hồng ngoại thông minh</p><p>Hỗ trợ khe cắm thẻ nhớ 256GB</p><p>Tích hợp mic</p><p>Ống kính motorized 2.7mm-13.5mm</p><p>Hỗ trợ cổng Alarm in/out, Audio in/out</p><p>Điện áp DC12V hoặc PoE</p><p>Nhiệt độ hoạt động : -40° C ~ +60° C.</p><p>Chất liệu kim loại, chống bụi nước IP67, Chống va đập IK10.</p>",
+  "attrs": [
+    "4MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera IP dome hồng ngoại 4.0MP Motorized lens Độ phân giải 4 Megapixel cảm biến Sony Stavis CMOS kích thước 1/2.9” 2688 × 1520@(1–20 fps )/2560 × 1440@(1-25/30 fps)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera IP",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

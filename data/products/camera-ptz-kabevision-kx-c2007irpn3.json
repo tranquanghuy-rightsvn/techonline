@@ -1,0 +1,72 @@
+{
+  "slug": "camera-ptz-kabevision-kx-c2007irpn3",
+  "name": "Camera PTZ KabeVision KX-C2007IRPN3",
+  "categories": [
+    "camera-ptz-kabevision",
+    "kabe-vision-camera-ptz"
+  ],
+  "brand": "KabeVision",
+  "sku": "KX-C2007IRPN3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007irpn3.png"
+  ],
+  "summary": [
+    "Camera PTZ IP ốp trần 2MP",
+    "2MP, CMOS 1/2.8″, Starlight, H.265+",
+    "Hồng ngoại 50m, Zoom quang 4x (2.8–12mm)",
+    "Hỗ trợ WDR 120dB, EIS, DEFOG, Auto Day/Night, AWB",
+    "PTZ: Preset 300 điểm, Tour 8, Pattern 5, Scan 5, Idle Motion",
+    "Góc quay: Ngang 0°–360° không điểm dừng, dọc 0°–90°",
+    "Hỗ trợ IVS, phát hiện khuôn mặt, SMD 3.0",
+    "Tích hợp Mic, Audio In/Out, Alarm In/Out",
+    "Hỗ trợ thẻ nhớ Micro SD lên đến 512GB",
+    "ONVIF, KBVISION.TV, P2P, AutoRegister 1.0",
+    "LAN, PoE 802.3af, Chống sét 6000V",
+    "Nguồn cấp 12VDC, 2A ±10% / PoE"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-C2007IRPN3"
+    ],
+    [
+      "Thương hiệu",
+      "KabeVision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>Camera PTZ IP ốp trần 2MP</p><p>2MP, CMOS 1/2.8″, Starlight, H.265+</p><p>Hồng ngoại 50m, Zoom quang 4x (2.8–12mm)</p><p>Hỗ trợ WDR 120dB, EIS, DEFOG, Auto Day/Night, AWB</p><p>PTZ: Preset 300 điểm, Tour 8, Pattern 5, Scan 5, Idle Motion</p><p>Góc quay: Ngang 0°–360° không điểm dừng, dọc 0°–90°</p><p>Hỗ trợ IVS, phát hiện khuôn mặt, SMD 3.0</p><p>Tích hợp Mic, Audio In/Out, Alarm In/Out</p><p>Hỗ trợ thẻ nhớ Micro SD lên đến 512GB</p><p>ONVIF, KBVISION.TV, P2P, AutoRegister 1.0</p><p>LAN, PoE 802.3af, Chống sét 6000V</p><p>Nguồn cấp 12VDC, 2A ±10% / PoE</p>",
+  "attrs": [
+    "KabeVision"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "Camera PTZ IP ốp trần 2MP 2MP, CMOS 1/2.8″, Starlight, H.265+ Hồng ngoại 50m, Zoom quang 4x (2.8–12mm)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "KabeVision",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

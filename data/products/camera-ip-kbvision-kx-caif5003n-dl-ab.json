@@ -1,0 +1,87 @@
+{
+  "slug": "camera-ip-kbvision-kx-caif5003n-dl-ab",
+  "name": "Camera IP KBVision KX-CAiF5003N-DL-AB 5MP ánh sáng kép thông minh",
+  "categories": [
+    "camera-ip-kbvision",
+    "kbvision-camera-ip"
+  ],
+  "brand": "KBVision",
+  "sku": "KX-CAiF5003N-DL-AB",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 890000,
+  "old_price": 1250000,
+  "vat": true,
+  "images": [
+    "assets/images/product-cat1-kbvision.png"
+  ],
+  "summary": [
+    "Camera IP ánh sáng kép thông minh 5.0MP",
+    "Cảm biến CMOS kích thước 1/2.9”",
+    "(2960 × 1668) @20 fps, và 2688×1520 @25/30 fps",
+    "Chuẩn nén hình ảnh H.265+/H.264+",
+    "Ánh sáng kép thông minh: IR + đèn Led",
+    "Tầm xa hồng ngoại 60m, tầm xa đèn led 50m"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "KX-CAiF5003N-DL-AB"
+    ],
+    [
+      "Thương hiệu",
+      "KBVISION"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ],
+    [
+      "Loại",
+      "IP Camera, hình dáng camera thân"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Đèn 50 mét, hồng ngoại 60 mét"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "IVS, SMD Plus, bảo vệ vành đai"
+    ],
+    [
+      "Chuẩn bảo vệ",
+      "IP67"
+    ],
+    [
+      "Nguồn điện",
+      "DC12V hoặc PoE (802.3af)"
+    ]
+  ],
+  "description_html": "<p>Camera IP ánh sáng kép thông minh 5.0MP</p><p>Cảm biến CMOS kích thước 1/2.9”</p><p>(2960 × 1668) @20 fps, và 2688×1520 @25/30 fps</p><p>Chuẩn nén hình ảnh H.265+/H.264+</p><p>Ánh sáng kép thông minh: IR + đèn Led</p><p>Tầm xa hồng ngoại 60m, tầm xa đèn led 50m</p><p>WDR(120dB), ICR, 3DNR, AWB, AGC, BLC</p><p>Chức năng bảo vệ vành đai: Tripwire, Intrusion (có phân biệt người, xe) và SMD Plus</p><p>Ống kính cố định 3.6mm</p><p>Tích hợp mic</p><p>Cổng alarm 1in/1out, audio 1in/1out</p><p>Tên miền miễn phí KBVISION.TV, ONVIF</p><p>Hỗ trợ khe cắm thẻ nhớ lên đến 256GB</p><p>Điện áp DC12V hoặc PoE (802.3af)</p><p>Chất liệu kim loại, IP67</p>",
+  "attrs": [
+    "5MP",
+    "KBVision"
+  ],
+  "badge": "",
+  "featured": true,
+  "seo_description": "Camera IP ánh sáng kép thông minh 5.0MP Cảm biến CMOS kích thước 1/2.9” (2960 × 1668) @20 fps, và 2688×1520 @25/30 fps",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "#"
+    ],
+    [
+      "Camera theo hãng",
+      "#"
+    ],
+    [
+      "KBVision",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}

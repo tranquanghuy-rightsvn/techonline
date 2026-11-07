@@ -1,0 +1,115 @@
+{
+  "slug": "camera-ptz-dahua-dh-sdt2a200-2f-nb-a-pv",
+  "name": "Camera PTZ Dahua DH-SDT2A200-2F-NB-A-PV 2MP",
+  "categories": [
+    "camera-ptz-dahua",
+    "dahua-camera-ptz"
+  ],
+  "brand": "Dahua",
+  "sku": "DH-SDT2A200-2F-NB-A-PV",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sdt2a200-2f-nb-a-pv.png"
+  ],
+  "summary": [
+    "2 ống kính với độ phân giải 2.0MP cho ống kính cố định và 2.0 MP cho ống kính quay quét",
+    "Chuẩn nén H.265+, 1920 × 1080@(1–25/30 fps)",
+    "Ống kính cố định và quay quét: 4mm (góc nhìn 85.7°)",
+    "Chức năng chiếu sáng kép thông minh điều chỉnh ngay trên app điện thoại.",
+    "Tầm xa hồng ngoại và LED ánh sáng ấm thu hình có màu 30m trên cả hai ống kính",
+    "Chống ggược sáng DWDR, 3DNR, BLC, HLC",
+    "Thiết lập 50 điểm (Preset) và gọi điểm nhanh",
+    "Chức năng thông minh: SMD 3.0, Phát hiện người và phương tiện",
+    "Báo động chủ động bằng đèn và còi hú. Tích hợp Micro và Loa, đàm thoại 2 chiều.",
+    "Hỗ trợ thẻ nhớ max 256GB, LAN",
+    "Hỗ trợ ONVIF. Tên miền miễn phí SmartDDNS.TV, AutoRegister 1.0",
+    "App sử dụng: DMSS, SmartPSS Lite",
+    "12 VDC/1.5 A ± 10%; PoE (802.3af), IP66",
+    "Nhiệt độ hoạt động: –20 °C to +50 °C"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DH-SDT2A200-2F-NB-A-PV"
+    ],
+    [
+      "Thương hiệu",
+      "Dahua"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Âm thanh",
+      "Tích hợp"
+    ],
+    [
+      "Báo động",
+      "Còi, Đèn"
+    ],
+    [
+      "Bảo vệ",
+      "IP 66"
+    ],
+    [
+      "Chống ngược sáng",
+      "DWDR"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Hình dáng",
+      "Camera PTZ"
+    ],
+    [
+      "Loại",
+      "IP Camera"
+    ],
+    [
+      "Tầm nhìn ban đêm",
+      "Đèn 30 mét, Hồng ngoại 30 mét"
+    ],
+    [
+      "Thương hiệu",
+      "DAHUA"
+    ],
+    [
+      "Tính năng đặc biệt",
+      "SMD"
+    ]
+  ],
+  "description_html": "<p>Camera PoE PT 2 ống kính quay quét ngoài trời 2.0 + 2.0 MP</p><p>2 ống kính với độ phân giải 2.0MP cho ống kính cố định và 2.0 MP cho ống kính quay quét</p><p>Chuẩn nén H.265+, 1920 × 1080@(1–25/30 fps)</p><p>Ống kính cố định và quay quét: 4mm (góc nhìn 85.7°)</p><p>Chức năng chiếu sáng kép thông minh điều chỉnh ngay trên app điện thoại.</p><p>Tầm xa hồng ngoại và LED ánh sáng ấm thu hình có màu 30m trên cả hai ống kính</p><p>Chống ggược sáng DWDR, 3DNR, BLC, HLC</p><p>Thiết lập 50 điểm (Preset) và gọi điểm nhanh</p><p>Chức năng thông minh: SMD 3.0, Phát hiện người và phương tiện</p><p>Báo động chủ động bằng đèn và còi hú. Tích hợp Micro và Loa, đàm thoại 2 chiều.</p><p>Hỗ trợ thẻ nhớ max 256GB, LAN</p><p>Hỗ trợ ONVIF. Tên miền miễn phí SmartDDNS.TV, AutoRegister 1.0</p><p>App sử dụng: DMSS, SmartPSS Lite</p><p>12 VDC/1.5 A ± 10%; PoE (802.3af), IP66</p><p>Nhiệt độ hoạt động: –20 °C to +50 °C</p>",
+  "attrs": [
+    "2MP",
+    "Dahua"
+  ],
+  "badge": "",
+  "featured": false,
+  "seo_description": "2 ống kính với độ phân giải 2.0MP cho ống kính cố định và 2.0 MP cho ống kính quay quét Chuẩn nén H.265+, 1920 × 1080@(1–25/30 fps) Ống kính cố định và quay quét: 4mm (góc nhìn 85.7°)",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": [
+    [
+      "Camera giám sát",
+      "/camera-giam-sat/"
+    ],
+    [
+      "Dahua",
+      "#"
+    ],
+    [
+      "Camera PTZ",
+      "#"
+    ]
+  ],
+  "created_at": "2026-11-07T00:00:00Z",
+  "updated_at": "2026-11-07T00:00:00Z"
+}
