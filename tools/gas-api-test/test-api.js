@@ -382,10 +382,10 @@ check('honeypot _hp: trả ok nhưng không lưu', () => {
 });
 check('doPost order: server tính lại tổng theo products.json, "Liên hệ" = 0, giữ mã đơn của trang', () => {
   const out = S.doPost({ postData: { contents: JSON.stringify({
-    action: 'order', id: 'AN12345678', total: 1, name: 'Bình', phone: '0987654321', address: 'Thái Nguyên', payment: 'bank',
+    action: 'order', id: 'KT47', total: 1, name: 'Bình', phone: '0987654321', address: 'Thái Nguyên', payment: 'bank',
     items: [{ id: '/camera-imou-ipc-a22', name: 'gì đó', price: 1, qty: 2 }, { slug: 'khoa-lien-he', qty: 1, price: 999 }],
   }) } });
-  assert(out.json.ok && out.json.id === 'AN12345678' && out.json.total === 1160000, JSON.stringify(out.json));
+  assert(out.json.ok && out.json.id === 'KT47' && out.json.total === 1160000, JSON.stringify(out.json));
   const sh = spreadsheet.sheets.find((s) => s.getName() === 'Orders');
   const header = sh._rows[0];
   assert(JSON.stringify(header) === JSON.stringify(constant('ORDER_HEADERS')), JSON.stringify(header));
@@ -396,16 +396,22 @@ check('doPost order: server tính lại tổng theo products.json, "Liên hệ" 
   assert(row[header.indexOf('payment')] === 'bank' && row[header.indexOf('status')] === 'Mới');
 });
 check('order: trùng mã -> DUPLICATE_CODE; giỏ trống / thiếu địa chỉ bị chặn', () => {
-  const dup = S.doPost({ postData: { contents: JSON.stringify({ action: 'order', id: 'AN12345678', name: 'C', phone: '0977777777', address: 'x', items: [{ slug: 'camera-imou-ipc-a22' }] }) } });
+  const dup = S.doPost({ postData: { contents: JSON.stringify({ action: 'order', id: 'KT47', name: 'C', phone: '0977777777', address: 'x', items: [{ slug: 'camera-imou-ipc-a22' }] }) } });
   assert(dup.json.code === 'DUPLICATE_CODE', JSON.stringify(dup.json));
   assert(/trống/.test(S.doPost({ postData: { contents: JSON.stringify({ action: 'order', name: 'C', phone: '0966666666', address: 'x', items: [] }) } }).json.error));
   assert(/địa chỉ/.test(S.doPost({ postData: { contents: JSON.stringify({ action: 'order', name: 'C', phone: '0966666666', items: [{ slug: 'a' }] }) } }).json.error));
 });
+check('mã đơn server tự sinh: 2 chữ (không I/O) + 2 số', () => {
+  for (let i = 0; i < 300; i++) {
+    const c = S.randomOrderCode_();
+    assert(/^[A-HJ-NP-Z]{2}[0-9]{2}$/.test(c), c);
+  }
+});
 check('Admin: đơn hàng đổi trạng thái/ghi chú, liên hệ đổi trạng thái', () => {
   const orders = S.listOrders(ownerToken);
   assert(orders.length === 1 && Array.isArray(orders[0].items) && !('items_text' in orders[0]));
-  S.updateOrder(ownerToken, 'AN12345678', { status: 'Đã xác nhận', admin_note: 'gọi lại' });
-  throws(() => S.updateOrder(ownerToken, 'AN12345678', { status: 'Bừa' }), /không hợp lệ/);
+  S.updateOrder(ownerToken, 'KT47', { status: 'Đã xác nhận', admin_note: 'gọi lại' });
+  throws(() => S.updateOrder(ownerToken, 'KT47', { status: 'Bừa' }), /không hợp lệ/);
   assert(S.listOrders(ownerToken)[0].status === 'Đã xác nhận');
   const c = S.listContacts(ownerToken)[0];
   S.updateContactStatus(ownerToken, c.id, 'Đã xử lý');

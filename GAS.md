@@ -218,6 +218,8 @@ Menu (`menu-data.js`) vẫn sửa tay.
   ĐỒNG BỘ từ tên miền đó → chặn cả trang, `bootApp()` không chạy. Vá: `loadTinymce_()` nạp không chặn,
   chỉ khi mở form, thử lần lượt Worker `techonline.3000vocab.workers.dev` → jsDelivr (repo GitHub) →
   tên miền site. Phải là URL tuyệt đối: client GAS chạy trong iframe origin `*.googleusercontent.com`.
+- Menu header rớt dòng, đè menu danh mục: `apply_settings.py` chèn mục thứ 5 "Liên hệ" vào hàng tiện
+  ích (`site-header__utility`) → tràn. Vá: không chèn nữa + gỡ mục đã chèn; "Liên hệ" chỉ ở chân trang.
 - `gas/` chỉ quản lý ở máy local (`.gitignore`), KHÔNG commit; đẩy bằng clasp. Test
   (`tools/gas-api-test/`, `scripts/check_gas_client.mjs`) đọc `gas/` local nên chỉ chạy được ở máy có `gas/`.
 
@@ -303,7 +305,7 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
    đang hiển thị (brand/hotline/email) từ header/footer của `html/index.html` (ghi sau cùng) rồi đổi
    sang giá trị mới trên mọi trang + `js/components/*.js`; các khối khác (logo, favicon, chân trang:
    giới thiệu/địa chỉ/MST/website/bản quyền, nút Zalo `https://zalo.me/<số>`, câu đăng ký nhận tin,
-   link "Liên hệ" ở chân trang + menu tiện ích; trang chủ: tiêu đề/mô tả, banner, 4 ô khuyến mãi)
+   link "Liên hệ" ở chân trang (KHÔNG thêm vào hàng tiện ích header — mục IX); trang chủ: tiêu đề/mô tả, banner, 4 ô khuyến mãi)
    viết lại theo cấu trúc. Nội dung bài viết/sản phẩm (dữ liệu CMS) KHÔNG bị đổi theo settings.
    Banner/ô khuyến mãi không có field alt → ảnh gốc giữ alt cũ, ảnh mới alt "Khuyến mãi N"/"Ưu đãi N";
    `link` rỗng = `href="#"`. `website` cũng là domain canonical của `seo.py`.
@@ -320,8 +322,12 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
 6. Form công khai: `html/js/cms-config.js` (`CMS_URL`, `cmsPost()`, `cmsBusy()`). Liên hệ gửi
    `{action:'contact', name, phone, email, message, page, _hp}`. Đơn hàng gửi `{action:'order', id,
    name, phone, email, address, note, payment, items:[{slug, name, price, qty}], total, page, _hp}`
-   (`slug` = đường dẫn sản phẩm trong giỏ, giá "Liên hệ" = 0). Mã đơn đổi tiền tố `TO` (dấu vết site
-   cũ) → `AN` + 8 số. Giỏ hàng chỉ xoá khi server trả `ok:true`; lỗi → hiện lỗi, giữ giỏ.
+   (`slug` = đường dẫn sản phẩm trong giỏ, giá "Liên hệ" = 0). Mã đơn = 2 chữ + 2 số ngẫu nhiên (vd
+   `KT47`, bỏ chữ I/O; khách chốt 07/11/2026 — không để dài). Trùng mã: COD tự đổi mã gửi lại (≤ 3
+   lần); chuyển khoản → đổi mã + QR, khách bấm Đặt hàng lại. Server sinh cùng kiểu khi trang không gửi
+   mã. Chuyển khoản dùng VietQR (`img.vietqr.io/image/<BIN>-<STK>-qr_only.png?amount&addInfo&accountName`,
+   BIN ở `data-vietqr-bank` của `#js-bank-transfer`, Techcombank = 970407): tự điền số tiền (= tổng
+   giỏ, bỏ khi = 0) + nội dung = mã đơn; lỗi tải → ảnh QR tĩnh cũ. Giỏ hàng chỉ xoá khi server trả `ok:true`; lỗi → hiện lỗi, giữ giỏ.
 7. Vercel: `vercel.json` ở gốc repo (Root Directory = gốc repo, `outputDirectory: html`); đã bỏ
    `html/vercel.json`. CI commit `html/` + `data/media-index.json`.
 8. `data/media-index.json`: ảnh `/assets/...` từ bài viết, sản phẩm (data) và phần nội dung (giữa

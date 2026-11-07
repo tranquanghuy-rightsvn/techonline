@@ -14,7 +14,9 @@ window.cmsPost = function cmsPost(payload) {
       let json = null;
       try { json = JSON.parse(text); } catch (e) { /* not JSON */ }
       if (json && json.ok) return json.data;
-      throw new Error((json && json.error) || `Máy chủ không phản hồi (${res.status}).`);
+      const err = new Error((json && json.error) || `Máy chủ không phản hồi (${res.status}).`);
+      if (json && json.code) err.code = json.code; // e.g. DUPLICATE_CODE (order code already used)
+      throw err;
     }),
     () => { throw new Error('Không kết nối được máy chủ. Vui lòng kiểm tra mạng và thử lại.'); },
   );

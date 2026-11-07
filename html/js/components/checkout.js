@@ -9,6 +9,10 @@
   const errorEl = document.getElementById('js-checkout-error');
   const bankContentEl = document.getElementById('js-bank-content');
   const bankConfirmEl = document.getElementById('js-bank-confirm');
+  const bankBoxEl = document.getElementById('js-bank-transfer');
+  const bankQrEl = document.getElementById('js-bank-qr');
+  const bankAmountEl = document.getElementById('js-bank-amount');
+  const bankAmountRowEl = document.getElementById('js-bank-amount-row');
   if (!form) return;
 
   function escapeHtml(str) {
@@ -51,14 +55,46 @@
     return true;
   }
 
+  // Order code = 2 random letters + 2 random digits, e.g. "KT47" (no I/O: easy to confuse with 1/0
+  // when typed as the bank-transfer content). The server keeps it if unused (GAS.md VI).
+  const CODE_LETTERS = 'ABCDEFGHJKLMNPQRSTUVWXYZ';
   function randomOrderCode() {
-    return 'AN' + Date.now().toString().slice(-8);
+    const pick = (chars) => chars[Math.floor(Math.random() * chars.length)];
+    return pick(CODE_LETTERS) + pick(CODE_LETTERS) + pick('0123456789') + pick('0123456789');
   }
 
-  // Generated once per visit so the "Nội dung CK" shown before paying
-  // matches the order code shown after the order is placed.
-  const orderCode = randomOrderCode();
-  if (bankContentEl) bankContentEl.textContent = orderCode;
+  // VietQR (img.vietqr.io quick link): banking apps scan it with the amount and the transfer
+  // content already filled in. Falls back to the static QR image if the service is unreachable.
+  const staticQrSrc = bankQrEl ? bankQrEl.getAttribute('src') : '';
+  if (bankQrEl) {
+    bankQrEl.addEventListener('error', () => {
+      if (bankQrEl.getAttribute('src') !== staticQrSrc) bankQrEl.setAttribute('src', staticQrSrc);
+    });
+  }
+  function updateBankQr() {
+    const amount = Cart.subtotal();
+    if (bankAmountEl) bankAmountEl.textContent = amount > 0 ? Cart.formatVND(amount) : '';
+    if (bankAmountRowEl) bankAmountRowEl.hidden = !(amount > 0);
+    const bank = bankBoxEl && bankBoxEl.getAttribute('data-vietqr-bank');
+    const accountEl = document.getElementById('js-bank-account');
+    const nameEl = document.getElementById('js-bank-name');
+    if (!bankQrEl || !bank || !accountEl) return;
+    const params = new URLSearchParams();
+    if (amount > 0) params.set('amount', String(Math.round(amount)));
+    params.set('addInfo', orderCode);
+    if (nameEl) params.set('accountName', nameEl.textContent.trim());
+    bankQrEl.src = `https://img.vietqr.io/image/${encodeURIComponent(bank)}-${encodeURIComponent(accountEl.textContent.trim())}-qr_only.png?${params}`;
+  }
+
+  // Generated once per visit so the "Nội dung CK" shown before paying matches the order code shown
+  // after the order is placed; only replaced when the server says the code is already taken.
+  let orderCode = '';
+  function setOrderCode(code) {
+    orderCode = code;
+    if (bankContentEl) bankContentEl.textContent = orderCode;
+    updateBankQr();
+  }
+  setOrderCode(randomOrderCode());
 
   document.querySelectorAll('.bank-transfer__copy').forEach((btn) => {
     btn.addEventListener('click', () => {
@@ -115,7 +151,6 @@
     }));
     const payload = {
       action: 'order',
-      id: orderCode,
       name,
       phone,
       email: field('js-checkout-email'),
@@ -133,7 +168,18 @@
       return;
     }
     const restore = submitBtn ? window.cmsBusy(submitBtn, 'Đang gửi đơn…') : () => {};
-    window.cmsPost(payload)
+    // Code already taken: COD -> pick a new one and resend silently (up to 3 times). Bank transfer ->
+    // show the new code + QR and let the customer re-check before resending (they may have paid).
+    const send = (tries) => window.cmsPost(Object.assign({ id: orderCode }, payload)).catch((err) => {
+      if (err.code !== 'DUPLICATE_CODE') throw err;
+      setOrderCode(randomOrderCode());
+      if (paymentMethod === 'bank' || tries >= 3) {
+        if (bankConfirmEl) bankConfirmEl.checked = false;
+        throw new Error(`mã đơn vừa được đổi thành ${orderCode}. Vui lòng chuyển khoản theo mã QR/nội dung mới ở trên rồi bấm Đặt hàng lại`);
+      }
+      return send(tries + 1);
+    });
+    send(1)
       .then(() => {
         Cart.clear();
         formWrap.hidden = true;
@@ -151,4 +197,5 @@
   });
 
   renderSummary();
+  updateBankQr();
 })();

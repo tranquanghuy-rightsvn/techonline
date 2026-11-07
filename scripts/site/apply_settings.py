@@ -77,10 +77,6 @@ ICON_TYPES = {".webp": "image/webp", ".png": "image/png", ".ico": "image/x-icon"
 FAVICON = rel(S["favicon"])
 FAVICON_TYPE = ICON_TYPES.get(os.path.splitext(FAVICON.split("?")[0])[1].lower(), "image/png")
 
-CONTACT_SVG = ('<svg viewBox="0 0 24 24" width="24" height="24" fill="none" aria-hidden="true">'
-               '<rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="1.5"/>'
-               '<path d="M3.5 6.5L12 13l8.5-6.5" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>')
-
 
 def structural(s):
     # favicon + logo
@@ -111,18 +107,9 @@ def structural(s):
         s = re.sub(r'(\n[ \t]*)(<a href="/hinh-thuc-thanh-toan/">Hình thức thanh toán</a>)',
                    lambda m: m.group(1) + m.group(2) + m.group(1) + '<a href="/lien-he/">Liên hệ</a>', s, count=1)
 
-    # header utility menu: "Liên hệ"
-    def utility(m):
-        if 'href="/lien-he/"' in m.group(0):
-            return m.group(0)
-        item_ind = re.search(r'\n([ \t]*)<a\s+class="site-header__utility-item"', m.group(1))
-        ind = item_ind.group(1) if item_ind else "        "
-        sizes = re.findall(r'<svg\b[^>]*?\bwidth="(\d+)"', m.group(1))
-        svg = CONTACT_SVG.replace('width="24" height="24"', f'width="{sizes[-1]}" height="{sizes[-1]}"') if sizes else CONTACT_SVG
-        item = (f'\n{ind}<a class="site-header__utility-item" href="/lien-he/">\n{ind}  {svg}\n'
-                f'{ind}  <span>Liên hệ</span>\n{ind}</a>')
-        return m.group(1) + item + m.group(2)
-    s = re.sub(r'(<nav\s+class="site-header__utility".*?</a>)(\s*</nav>)', utility, s, count=1, flags=re.S)
+    # header utility menu: KHÔNG thêm "Liên hệ" (thêm mục thứ 5 làm hàng tiện ích tràn, rớt dòng đè menu
+    # danh mục - GAS.md mục IX). Gỡ mục đã chèn ở bản build cũ; link "Liên hệ" vẫn có ở chân trang.
+    s = re.sub(r'\n[ \t]*<a class="site-header__utility-item" href="/lien-he/">.*?</a>', "", s, count=1, flags=re.S)
 
     # floating Zalo button (attribute order differs between page families)
     z = esc(zalo_url(S))

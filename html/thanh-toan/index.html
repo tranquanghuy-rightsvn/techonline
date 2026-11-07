@@ -164,10 +164,6 @@
               </svg>
               <span>Sản phẩm đã xem</span>
             </a>
-            <a class="site-header__utility-item" href="/lien-he/">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M3.5 6.5L12 13l8.5-6.5" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
-              <span>Liên hệ</span>
-            </a>
           </nav>
         </div>
         </div>
@@ -242,10 +238,10 @@
                 </span>
               </label>
 
-              <div class="bank-transfer" id="js-bank-transfer">
+              <div class="bank-transfer" id="js-bank-transfer" data-vietqr-bank="970407">
                 <div class="bank-transfer__card">
                   <div class="bank-transfer__qr">
-                    <img src="assets/images/bank-qr.png" alt="Mã QR chuyển khoản ngân hàng" width="160" height="160" />
+                    <img src="assets/images/bank-qr.png" alt="Mã VietQR chuyển khoản ngân hàng (đã điền sẵn số tiền và nội dung)" width="160" height="160" id="js-bank-qr" />
                   </div>
                   <div class="bank-transfer__details">
                     <div class="bank-transfer__row">
@@ -259,7 +255,11 @@
                     </div>
                     <div class="bank-transfer__row">
                       <span class="bank-transfer__label">Chủ tài khoản</span>
-                      <strong class="bank-transfer__value">HO KINH DOANH DICH VU KY THUAT TAN AN NGUYEN</strong>
+                      <strong class="bank-transfer__value" id="js-bank-name">HO KINH DOANH DICH VU KY THUAT TAN AN NGUYEN</strong>
+                    </div>
+                    <div class="bank-transfer__row" id="js-bank-amount-row">
+                      <span class="bank-transfer__label">Số tiền</span>
+                      <strong class="bank-transfer__value bank-transfer__value--accent" id="js-bank-amount"></strong>
                     </div>
                     <div class="bank-transfer__row">
                       <span class="bank-transfer__label">Nội dung CK</span>
