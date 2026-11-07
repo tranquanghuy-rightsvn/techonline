@@ -19,7 +19,7 @@ const LOCK_ICON_STRIP = [
 const LOCK_CATEGORY_GROUPS = [
   {
     title: 'Khóa cửa Ezviz',
-    viewAllHref: 'khoa-cua-van-tay-ezviz.html',
+    viewAllHref: '/khoa-cua-van-tay-ezviz/',
     products: [
       { name: 'Khóa cửa thông minh Ezviz DL03', oldPrice: '5.000.000 đ', price: '2.500.000 đ', discount: '-50%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-473-khoa-cua-ezviz-dl03--1-.jpg', isNew: false },
       { name: 'Khóa cửa Deadbolt Ezviz DL04', oldPrice: '5.100.000 đ', price: '2.720.000 đ', discount: '-47%', attrs: ['Cửa gỗ', 'Mã số', 'Thẻ từ'], image: '250-2725-khoa-cua-deadbolt-ezviz-dl04.jpg', isNew: false },
@@ -35,7 +35,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa vân tay Bosch',
-    viewAllHref: 'khoa-van-tay-bosch.html',
+    viewAllHref: '/khoa-van-tay-bosch/',
     products: [
       { name: 'Khóa cửa gỗ vân tay Bosch ID40', oldPrice: '14.590.000 đ', price: '7.900.000 đ', discount: '-46%', attrs: ['Cửa gỗ'], image: '250-4153-id40--2-.png', isNew: false },
       { name: 'Khoá điện tử Bosch ID60C', oldPrice: '15.890.000 đ', price: '8.500.000 đ', discount: '-47%', attrs: ['Cửa gỗ'], image: '250-4154-id60c--2-.png', isNew: false },
@@ -49,7 +49,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Hafele',
-    viewAllHref: 'khoa-cua-van-tay-hafele.html',
+    viewAllHref: '/khoa-cua-van-tay-hafele/',
     products: [
       { name: 'Khóa Điện Tử Hafele DL6000', oldPrice: '5.490.000 đ', price: '4.720.000 đ', discount: '-14.000000000000002%', attrs: ['Cửa khách sạn', 'Cửa gỗ', 'App'], image: '250-1172-khoa-dien-tu-hafele-dl6000.jpg', isNew: false },
       { name: 'Khóa Điện Tử Cửa Nhôm Hafele DL6600', oldPrice: '7.370.000 đ', price: '6.150.000 đ', discount: '-17%', attrs: ['Cửa nhôm', 'App', 'Mã số'], image: '250-1178-khoa-dien-tu-cua-nhom-hafele-dl6600.jpg', isNew: false },
@@ -65,7 +65,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Philips',
-    viewAllHref: 'khoa-van-tay-philips.html',
+    viewAllHref: '/khoa-van-tay-philips/',
     products: [
       { name: 'Khóa cửa thông minh DDL609-5HS tích hợp Vân tay, Mật khẩu, Thẻ từ', oldPrice: '5.750.000 đ', price: '4.600.000 đ', discount: '-20%', attrs: ['Cửa gỗ', 'Mã số', 'Thẻ từ'], image: '250-575-khoa-cua-van-tay-ddl609-5hs-.jpg', isNew: false },
       { name: 'Khóa cửa vân tay Philips DDL615-5HBS', oldPrice: '6.000.000 đ', price: '4.800.000 đ', discount: '-20%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-2358-khoa-cua-van-tay-philips-ddl615-5hbs--1-.jpg', isNew: false },
@@ -81,7 +81,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Kaadas',
-    viewAllHref: 'khoa-cua-van-tay-kaadas.html',
+    viewAllHref: '/khoa-cua-van-tay-kaadas/',
     products: [
       { name: 'Khóa cửa vân tay Kaadas M5', oldPrice: '4.600.000 đ', price: '3.490.000 đ', discount: '-24%', attrs: ['Cửa gỗ', 'Mã số', 'Thẻ từ'], image: '250-276-kh--a-c---a-v--n-tay-kaadas-m5--3-.png', isNew: false },
       { name: 'Khóa vân tay cửa gỗ Kaadas M7-W', oldPrice: '5.500.000 đ', price: '4.400.000 đ', discount: '-20%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-2176-khoa-van-tay-kaadas-m7-w--2-.jpg', isNew: false },
@@ -97,7 +97,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Hyundai',
-    viewAllHref: 'khoa-cua-van-tay-hyundai.html',
+    viewAllHref: '/khoa-cua-van-tay-hyundai/',
     products: [
       { name: 'Khóa cửa khách sạn Hyundai HY-HL01', oldPrice: '4.500.000 đ', price: '4.460.000 đ', discount: '-1%', attrs: ['Cửa khách sạn'], image: '250-2018-khoa-cua-khach-san-hyundai-hy-hl01.jpg', isNew: false },
       { name: 'Khóa Cửa Gỗ Hyundai HY-SL007', oldPrice: '5.500.000 đ', price: '4.940.000 đ', discount: '-10%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-750-khoa-cua-go-hyundai-hy-sl007.jpg', isNew: false },
@@ -113,7 +113,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Kawa',
-    viewAllHref: 'khoa-cua-van-tay-kawa.html',
+    viewAllHref: '/khoa-cua-van-tay-kawa/',
     products: [
       { name: 'Khóa cửa khách sạn Kawa KS001', oldPrice: '2.200.000 đ', price: '1.540.000 đ', discount: '-30%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-1368-kawa-ks001--5-.png', isNew: false },
       { name: 'Khóa cửa khách sạn Kawa KS105', oldPrice: '2.400.000 đ', price: '1.680.000 đ', discount: '-30%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-1369-kawa-ks105.png', isNew: false },
@@ -129,7 +129,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Kassler',
-    viewAllHref: 'khoa-cua-van-tay-kassler.html',
+    viewAllHref: '/khoa-cua-van-tay-kassler/',
     products: [
       { name: 'Khóa cửa khách sạn Kassler KL-383I', oldPrice: '2.890.000 đ', price: '2.170.000 đ', discount: '-25%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-517-khoa-cua-khach-san-kassler-kl-383i.jpg', isNew: false },
       { name: 'Khóa cửa Khách sạn Kassler KL-363', oldPrice: '3.590.000 đ', price: '2.690.000 đ', discount: '-25%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-518-khoa-cua-khach-san-kassler-kl-363---1-.jpg', isNew: false },
@@ -145,7 +145,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Solity',
-    viewAllHref: 'khoa-cua-van-tay-solity.html',
+    viewAllHref: '/khoa-cua-van-tay-solity/',
     products: [
       { name: 'Khóa cửa Solity SYNC SM-1000K', oldPrice: '4.500.000 đ', price: '3.500.000 đ', discount: '-22%', attrs: ['Cửa gỗ', 'Mã số', 'Thẻ từ'], image: '250-442-kh--a-c---a-solity-sync-sm-1000k--1-.png', isNew: false },
       { name: 'Khóa cửa vân tay Solity GA-60B', oldPrice: '5.400.000 đ', price: '4.900.000 đ', discount: '-9%', attrs: ['Cửa sắt', 'App', 'Mã số'], image: '250-444-kh--a-c---a-solity-ga-60b.png', isNew: false },
@@ -161,7 +161,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Hubert',
-    viewAllHref: 'khoa-cua-van-tay-hubert.html',
+    viewAllHref: '/khoa-cua-van-tay-hubert/',
     products: [
       { name: 'Khoá cửa khách sạn Hubert HB KSCG77', oldPrice: '2.300.000 đ', price: '2.080.000 đ', discount: '-10%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-2705-hubert-hb-kscg77--2-.jpg', isNew: false },
       { name: 'Khóa Khách Sạn Hubert HB KSCG86 Amber Gold', oldPrice: '3.500.000 đ', price: '2.870.000 đ', discount: '-18%', attrs: ['Cửa khách sạn', 'Thẻ từ'], image: '250-2703-khoa-cua-hubert-hb-kscg86-amber-gold.jpg', isNew: false },
@@ -177,7 +177,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa vân tay Kitos',
-    viewAllHref: 'khoa-van-tay-kitos.html',
+    viewAllHref: '/khoa-van-tay-kitos/',
     products: [
       { name: 'Khóa cửa gỗ Kitos KT-V2 PRO', oldPrice: '3.400.000 đ', price: '2.970.000 đ', discount: '-13%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-2592-khoa-cua-kitos-kt-v2-pro.jpg', isNew: false },
       { name: 'Khóa cửa vân tay Kitos KT-E3 PRO ĐEN', oldPrice: '3.900.000 đ', price: '3.520.000 đ', discount: '-10%', attrs: ['Cửa gỗ', 'Mã số', 'Thẻ từ'], image: '250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg', isNew: false },
@@ -193,19 +193,19 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Phụ kiện khóa vân tay',
-    viewAllHref: 'phu-kien-khoa-van-tay.html',
+    viewAllHref: '/phu-kien-khoa-van-tay/',
     products: [
       { name: 'Module dùng cho khóa điện tử Solity RX-710C', oldPrice: '', price: '700.000 đ', discount: '', attrs: [], image: '250-588-module-d--ng-cho-kh--a---i---n-t----solity-rx-710c.png', isNew: false },
       { name: 'Module dùng cho điều khiển từ xa của khóa điện tử Solity 5800', oldPrice: '', price: '800.000 đ', discount: '', attrs: [], image: '250-589-module---i---u-khi---n-t----xa-kh--a---i---n-t----solity-5800.png', isNew: false },
       { name: 'Điều khiển từ xa cho khóa cửa điện tử Solity HG-TX210', oldPrice: '', price: '1.100.000 đ', discount: '', attrs: [], image: '250-590---i---u-khi---n-t----xa-kh--a-c---a-solity-hg-tx210.png', isNew: false },
       { name: 'Thiết bị thu phát vô tuyến dùng cho khóa cửa điện tử Solity model GW-100', oldPrice: '', price: '1.600.000 đ', discount: '', attrs: [], image: '250-591-thi---t-b----thu-ph--t-v---tuy---n-kh--a-c---a-solity-model-gw-100.png', isNew: false },
       { name: 'Màn hình cảm ứng EZVIZ SD7 xem camera', oldPrice: '', price: '3.400.000 đ', discount: '', attrs: [], image: '250-2724-man-hinh-cam-ung-ezviz-sd7.jpg', isNew: false },
-      { name: 'Module mở rộng vân tay Dahua ASF7K-FQ (10.000 vân tay)', oldPrice: '', price: 'Liên hệ', discount: '', attrs: ['Vân tay', 'QR Code'], image: '250-module-van-tay-dahua-asf7k-fq.png', isNew: true, href: 'module-van-tay-dahua-asf7k-fq.html' }
+      { name: 'Module mở rộng vân tay Dahua ASF7K-FQ (10.000 vân tay)', oldPrice: '', price: 'Liên hệ', discount: '', attrs: ['Vân tay', 'QR Code'], image: '250-module-van-tay-dahua-asf7k-fq.png', isNew: true, href: '/module-van-tay-dahua-asf7k-fq/' }
     ]
   },
   {
     title: 'Khóa vân tay theo loại cửa',
-    viewAllHref: 'khoa-van-tay-theo-loai-cua.html',
+    viewAllHref: '/khoa-van-tay-theo-loai-cua/',
     products: [
       { name: 'Khóa Cửa Gỗ Hubert HB CG59 Amber Gold', oldPrice: '4.990.000 đ', price: '4.390.000 đ', discount: '-12%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-800-khoa-cua-go-hubert-hb-cg59.png', isNew: false },
       { name: 'Khóa Cửa Gỗ Hubert HB CG67 Mini', oldPrice: '6.300.000 đ', price: '5.540.000 đ', discount: '-12%', attrs: ['Cửa gỗ', 'App', 'Mã số'], image: '250-797-khoa-cua-hubert-hb-cg67-mini--2-.jpg', isNew: false },
@@ -221,7 +221,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Yale',
-    viewAllHref: 'khoa-cua-yale.html',
+    viewAllHref: '/khoa-cua-yale/',
     products: [
       { name: 'Khóa cửa vân tay YALE ZURI S (05/108110/BL)', oldPrice: '5.500.000 đ', price: '4.475.000 đ', discount: '-19%', attrs: ['App', 'Mã số', 'Thẻ từ'], image: '250-2803-yale-zuri-s.jpg', isNew: false },
       { name: 'Khóa cửa nhôm YALE YDMA 100NP', oldPrice: '7.300.000 đ', price: '5.300.000 đ', discount: '-27%', attrs: ['Cửa nhôm', 'Mã số', 'Thẻ từ'], image: '250-2807-khoa-cua-van-tay-yale-ydma-100np.jpg', isNew: false },
@@ -237,7 +237,7 @@ const LOCK_CATEGORY_GROUPS = [
   },
   {
     title: 'Khóa cửa Hexa',
-    viewAllHref: 'khoa-cua-hexa.html',
+    viewAllHref: '/khoa-cua-hexa/',
     products: [
       { name: 'Khóa cửa nhôm Hexa A100', oldPrice: '6.000.000 đ', price: '4.950.000 đ', discount: '-18%', attrs: ['Cửa nhôm', 'App'], image: '250-4180-hexa-a100.jpg', isNew: false },
       { name: 'Khóa cửa nhôm Hexa P300', oldPrice: '9.900.000 đ', price: '8.000.000 đ', discount: '-19%', attrs: ['Cửa nhôm', 'App', 'Mã số'], image: '250-4175-hexa-p300--4-.jpg', isNew: false },

@@ -20,7 +20,7 @@ def iso(d):
 def feat(a, big=False):
     cls = "news-feature news-feature--big" if big else "news-feature"
     lazy = "" if big else ' loading="lazy"'
-    return f'''      <a class="{cls}" href="{a['slug']}">
+    return f'''      <a class="{cls}" href="/{a['slug']}/">
         <img class="news-feature__img" src="assets/images/{cover(a)}" alt="{esc(a['title'])}"{lazy}>
         <span class="news-feature__text">
           <time class="news-time" datetime="{iso(a['date'])}">{a['date']}</time>
@@ -31,11 +31,11 @@ def feat(a, big=False):
 
 def card(a, tag="h3"):
     return f'''        <article class="news-card">
-          <a class="news-card__img" href="{a['slug']}">
+          <a class="news-card__img" href="/{a['slug']}/">
             <img src="assets/images/{cover(a)}" alt="{esc(a['title'])}" loading="lazy">
             <time class="news-time" datetime="{iso(a['date'])}">{a['date']}</time>
           </a>
-          <{tag} class="news-card__title"><a href="{a['slug']}">{esc(a['title'])}</a></{tag}>
+          <{tag} class="news-card__title"><a href="/{a['slug']}/">{esc(a['title'])}</a></{tag}>
         </article>'''
 
 
@@ -44,7 +44,7 @@ def chips(current=None):
     for cid, name, icon in CATEGORIES:
         cur = " is-current" if cid == current else ""
         ic = f'\n        <img class="news-cats__icon" src="assets/images/{icon}" alt="">' if icon else ""
-        out.append(f'''      <a class="news-cats__item{cur}" href="tin-tuc#{cid}">{ic}
+        out.append(f'''      <a class="news-cats__item{cur}" href="/tin-tuc/#{cid}">{ic}
         <span>{name}</span>
       </a>''')
     return "\n".join(out)
@@ -66,7 +66,7 @@ def page(template, title, desc, crumbs, main, extra_css=()):
     return s[:i] + main + s[j:]
 
 
-tpl = open(os.path.join(ROOT, "tin-tuc.html"), encoding="utf-8").read()
+tpl = open(os.path.join(ROOT, "tin-tuc", "index.html"), encoding="utf-8").read()
 
 # ---------- Listing page ----------
 boxes = []
@@ -105,9 +105,9 @@ listing = f'''<main class="news-page">
 </main>
 '''
 out = page(tpl, "Tin tức", f"Tin tức, hướng dẫn kỹ thuật, tư vấn lựa chọn camera và thiết bị an ninh từ {B}.",
-           [("tin-tuc", "Tin tức")], listing)
-open(os.path.join(ROOT, "tin-tuc.html"), "w", encoding="utf-8").write(out)
-print("tin-tuc.html")
+           [("/tin-tuc/", "Tin tức")], listing)
+open(os.path.join(ROOT, "tin-tuc", "index.html"), "w", encoding="utf-8").write(out)
+print("tin-tuc/index.html")
 
 # ---------- Detail pages ----------
 def strip_cover_fig(a):
@@ -146,7 +146,7 @@ for a in ARTICLES:
     related += [x for x in ARTICLES if x is not a and x not in related]
     related = related[:4]
     side = "\n".join(f'''          <li>
-            <a class="article-side__item" href="{x['slug']}">
+            <a class="article-side__item" href="/{x['slug']}/">
               <img src="assets/images/{cover(x)}" alt="" loading="lazy">
               <span>
                 <span class="article-side__title">{esc(x['title'])}</span>
@@ -157,7 +157,7 @@ for a in ARTICLES:
     main = f'''<main class="article-page">
   <div class="container article-page__layout">
     <article class="article-detail">
-      <a class="article-detail__cat" href="tin-tuc#{cid}">{cname}</a>
+      <a class="article-detail__cat" href="/tin-tuc/#{cid}">{cname}</a>
       <h1 class="article-detail__title">{esc(a['title'])}</h1>
       <div class="article-detail__meta">
         <time datetime="{iso(a['date'])}">{a['date']}</time>
@@ -192,15 +192,16 @@ for a in ARTICLES:
   </section>
 </main>
 '''
-    out = page(tpl, a["title"], a["summary"], [("tin-tuc", "Tin tức"), (f"tin-tuc#{cid}", cname)], main,
+    out = page(tpl, a["title"], a["summary"], [("/tin-tuc/", "Tin tức"), (f"/tin-tuc/#{cid}", cname)], main,
                extra_css=("article-page.css",))
-    open(os.path.join(ROOT, a["slug"] + ".html"), "w", encoding="utf-8").write(out)
-    print(a["slug"] + ".html")
+    os.makedirs(os.path.join(ROOT, a["slug"]), exist_ok=True)
+    open(os.path.join(ROOT, a["slug"], "index.html"), "w", encoding="utf-8").write(out)
+    print(a["slug"] + "/index.html")
 
 # ---------- Homepage news row ----------
 p = os.path.join(ROOT, "index.html")
 s = open(p, encoding="utf-8").read()
-cards = "\n".join(f'''    <a class="article-row__card" href="{a['slug']}">
+cards = "\n".join(f'''    <a class="article-row__card" href="/{a['slug']}/">
       <img class="article-row__img" src="assets/images/{cover(a)}" alt="{esc(a['title'])}" loading="lazy">
       <span class="article-row__caption">{esc(a['title'])}</span>
     </a>''' for a in ARTICLES[:4])

@@ -35,6 +35,8 @@ const Cart = (() => {
     try {
       const url = new URL(href, window.location.href);
       let path = url.pathname;
+      // /slug/index.html, /slug.html, /slug/ and /slug all map to /slug
+      path = path.replace(/\/index\.html$/, '/');
       if (path.endsWith('.html')) path = path.slice(0, -5);
       if (path !== '/' && path.endsWith('/')) path = path.slice(0, -1);
       return path;

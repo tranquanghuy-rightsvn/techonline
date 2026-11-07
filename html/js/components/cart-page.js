@@ -50,7 +50,7 @@
         <span class="cart-summary__total-value">${Cart.formatVND(subtotal)}</span>
       </div>
       ${hasContactOnly ? '<p class="cart-summary__note">Một số sản phẩm chưa có giá công khai, vui lòng liên hệ để được tư vấn giá tốt nhất.</p>' : ''}
-      <a class="cart-summary__checkout" href="/thanh-toan">Tiến hành thanh toán</a>
+      <a class="cart-summary__checkout" href="/thanh-toan/">Tiến hành thanh toán</a>
       <a class="cart-summary__continue" href="/">&larr; Tiếp tục mua hàng</a>
     `;
   }

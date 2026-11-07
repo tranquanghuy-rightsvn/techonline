@@ -59,7 +59,7 @@ ARTICLES = [
 </ul>
 
 <h2>Chuyên mục Tin tức – kiến thức hữu ích cho mọi người</h2>
-<p>Bên cạnh sản phẩm, chuyên mục <a href="tin-tuc">Tin tức</a> sẽ thường xuyên cập nhật các bài viết được biên soạn dễ hiểu, gần gũi:</p>
+<p>Bên cạnh sản phẩm, chuyên mục <a href="/tin-tuc/">Tin tức</a> sẽ thường xuyên cập nhật các bài viết được biên soạn dễ hiểu, gần gũi:</p>
 <ul>
   <li><strong>Hướng dẫn kỹ thuật:</strong> cài đặt camera trên điện thoại, xem lại video, xử lý các lỗi thường gặp.</li>
   <li><strong>Tư vấn lựa chọn:</strong> kinh nghiệm chọn camera, khóa cửa, thiết bị phù hợp cho gia đình, cửa hàng, văn phòng.</li>
