@@ -13,10 +13,8 @@ window.cmsPost = function cmsPost(payload) {
     (res) => res.text().then((text) => {
       let json = null;
       try { json = JSON.parse(text); } catch (e) { /* not JSON */ }
-      if (json && json.ok) return json.data;
-      const err = new Error((json && json.error) || `Máy chủ không phản hồi (${res.status}).`);
-      if (json && json.code) err.code = json.code; // e.g. DUPLICATE_CODE (order code already used)
-      throw err;
+      if (json && json.ok) return json.data !== undefined ? json.data : json; // forms reply {ok, id, …} at top level
+      throw new Error((json && json.error) || `Máy chủ không phản hồi (${res.status}).`);
     }),
     () => { throw new Error('Không kết nối được máy chủ. Vui lòng kiểm tra mạng và thử lại.'); },
   );

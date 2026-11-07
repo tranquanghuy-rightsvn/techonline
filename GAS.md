@@ -336,8 +336,8 @@ Ngày dạng `YYYY-MM-DD`; thời điểm dạng ISO UTC. Giá là số nguyên 
    `{action:'contact', name, phone, email, message, page, _hp}`. Đơn hàng gửi `{action:'order', id,
    name, phone, email, address, note, payment, items:[{slug, name, price, qty}], total, page, _hp}`
    (`slug` = đường dẫn sản phẩm trong giỏ, giá "Liên hệ" = 0). Mã đơn = 2 chữ + 2 số ngẫu nhiên (vd
-   `KT47`, bỏ chữ I/O; khách chốt 07/11/2026 — không để dài). Trùng mã: COD tự đổi mã gửi lại (≤ 3
-   lần); chuyển khoản → đổi mã + QR, khách bấm Đặt hàng lại. Server sinh cùng kiểu khi trang không gửi
+   `KT47`, bỏ chữ I/O; khách chốt 07/11/2026 — không để dài). Trùng mã (hiếm): server lặng lẽ đổi mã khác
+   (Admin tìm đơn theo mã nên phải duy nhất), trang hiện mã server trả về — khách chốt không cần báo trùng. Server sinh cùng kiểu khi trang không gửi
    mã. Chuyển khoản dùng VietQR (`img.vietqr.io/image/<BIN>-<STK>-qr_only.png?amount&addInfo&accountName`,
    BIN ở `data-vietqr-bank` của `#js-bank-transfer`, Techcombank = 970407): tự điền số tiền (= tổng
    giỏ, bỏ khi = 0) + nội dung = mã đơn; lỗi tải → ảnh QR tĩnh cũ. Giỏ hàng chỉ xoá khi server trả `ok:true`; lỗi → hiện lỗi, giữ giỏ.

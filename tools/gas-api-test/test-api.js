@@ -415,9 +415,10 @@ check('mail đơn hàng: mã đơn, bảng sản phẩm, tổng tiền, nhãn ch
   assert(m.htmlBody.includes('CHUYỂN KHOẢN') && m.htmlBody.includes('Liên hệ báo giá'), 'thiếu nhãn / dòng Liên hệ');
   assert(/Tạm tính: 1\.160\.000đ/.test(m.body), m.body);
 });
-check('order: trùng mã -> DUPLICATE_CODE; giỏ trống / thiếu địa chỉ bị chặn', () => {
+check('order: trùng mã -> server lặng lẽ đổi mã khác; giỏ trống / thiếu địa chỉ bị chặn', () => {
   const dup = S.doPost({ postData: { contents: JSON.stringify({ action: 'order', id: 'KT47', name: 'C', phone: '0977777777', address: 'x', items: [{ slug: 'camera-imou-ipc-a22' }] }) } });
-  assert(dup.json.code === 'DUPLICATE_CODE', JSON.stringify(dup.json));
+  assert(dup.json.ok && /^[A-HJ-NP-Z]{2}[0-9]{2}$/.test(dup.json.id) && dup.json.id !== 'KT47', JSON.stringify(dup.json));
+  S.deleteOrder(ownerToken, dup.json.id);
   assert(/trống/.test(S.doPost({ postData: { contents: JSON.stringify({ action: 'order', name: 'C', phone: '0966666666', address: 'x', items: [] }) } }).json.error));
   assert(/địa chỉ/.test(S.doPost({ postData: { contents: JSON.stringify({ action: 'order', name: 'C', phone: '0966666666', items: [{ slug: 'a' }] }) } }).json.error));
 });

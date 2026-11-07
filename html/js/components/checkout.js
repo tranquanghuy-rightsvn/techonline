@@ -87,7 +87,7 @@
   }
 
   // Generated once per visit so the "Nội dung CK" shown before paying matches the order code shown
-  // after the order is placed; only replaced when the server says the code is already taken.
+  // after the order is placed (the server only swaps it in the rare case it is already taken).
   let orderCode = '';
   function setOrderCode(code) {
     orderCode = code;
@@ -168,19 +168,9 @@
       return;
     }
     const restore = submitBtn ? window.cmsBusy(submitBtn, 'Đang gửi đơn…') : () => {};
-    // Code already taken: COD -> pick a new one and resend silently (up to 3 times). Bank transfer ->
-    // show the new code + QR and let the customer re-check before resending (they may have paid).
-    const send = (tries) => window.cmsPost(Object.assign({ id: orderCode }, payload)).catch((err) => {
-      if (err.code !== 'DUPLICATE_CODE') throw err;
-      setOrderCode(randomOrderCode());
-      if (paymentMethod === 'bank' || tries >= 3) {
-        if (bankConfirmEl) bankConfirmEl.checked = false;
-        throw new Error(`mã đơn vừa được đổi thành ${orderCode}. Vui lòng chuyển khoản theo mã QR/nội dung mới ở trên rồi bấm Đặt hàng lại`);
-      }
-      return send(tries + 1);
-    });
-    send(1)
-      .then(() => {
+    window.cmsPost(Object.assign({ id: orderCode }, payload))
+      .then((res) => {
+        if (res && res.id) orderCode = res.id;
         Cart.clear();
         formWrap.hidden = true;
         summaryEl.innerHTML = '';
