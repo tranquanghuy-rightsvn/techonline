@@ -12,7 +12,7 @@ phải rebase lên master.
 |---|---|---|
 | `worktree-agent-ac59499ecf2fdb33f` | `gas/` (CMS, Smart content, AI viết bài bằng OpenAI, API khoá `antn_`), `html/admin/`, `html/admin/api/`, `openapi.json`, `llms.txt`, `tools/gas-api-test/`, `scripts/check_gas_client.mjs` | Mới có `gas/Code.js` ~2.800 dòng (viết dở, commit force vì gas/ bị gitignore). Còn: app/js/css/index.html, smart-content-js, rank-math, trang admin, docs API, test |
 | `worktree-agent-ae1894fadb11bfc3c` | Migrate sản phẩm + danh mục sản phẩm → `data/`, `scripts/catalog/build.py`, search-index | Có `scripts/catalog/migrate.py` + `jslit.py` (dở). Thư mục `_scratch/` (chưa commit) là script phân tích tạm. Còn: chạy migrate, build.py, so diff, screenshot |
-| `worktree-agent-a3de8af3a72dad4e6` | Bài viết → `data/posts*`, `data/settings.json`, smart.css/js/scope, `/lien-he/`, form đơn hàng gửi CMS, media-index, CI workflow, `vercel.json` | Phần lớn đã viết (news/build.py đọc data/, apply_settings, contact_page, media_index, smart.py, vercel.json). Còn: chạy `bash scripts/build.sh` đầy đủ, kiểm tra diff + screenshot, workflow CI |
+| `worktree-agent-a3de8af3a72dad4e6` | Bài viết → `data/posts*`, `data/settings.json`, smart.css/js/scope, `/lien-he/`, form đơn hàng gửi CMS, media-index, CI workflow, `vercel.json` | ✅ XONG, đã gộp vào master (bafbc79). Quyết định ghi ở GAS.md mục XIII. Catalog build nên dùng `scripts/site/settings.py` + `scripts/site/smart.py` |
 
 Bước tiếp theo:
 1. Tiếp tục từng nhánh tới khi xong + test pass.
