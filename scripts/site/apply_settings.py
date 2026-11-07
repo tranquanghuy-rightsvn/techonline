@@ -142,7 +142,10 @@ def link(href):
 
 
 def home(s):
-    s = re.sub(r"<title>.*?</title>", lambda m: f"<title>{esc(S['home_title'], quote=False)}</title>", s, count=1, flags=re.S)
+    t = esc(S["home_title"], quote=False)
+    cur = re.search(r"<title>(.*?)</title>", s, re.S)
+    if not cur or (cur.group(1) != t and not cur.group(1).startswith(t + " | ")):  # seo.py may add " | brand"
+        s = re.sub(r"<title>.*?</title>", lambda m: f"<title>{t}</title>", s, count=1, flags=re.S)
     s = re.sub(r'<meta name="description" content="[^"]*">',
                lambda m: f'<meta name="description" content="{esc(S["home_description"])}">', s, count=1)
 
