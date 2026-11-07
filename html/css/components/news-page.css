@@ -3,6 +3,13 @@
    Source: .article-page (pc_style.css) — category chips, featured grid
    (1 big + 4 small), per-category boxes of 3-column article cards.
    ========================================================================== */
+/* The visually-hidden h1 must be positioned against .news-page, not the
+   initial containing block: otherwise Chrome resets the scroll position to 0
+   whenever the sticky header collapses, so the page can't be scrolled. */
+.news-page {
+  position: relative;
+}
+
 .news-page__h1 {
   position: absolute;
   width: 1px;

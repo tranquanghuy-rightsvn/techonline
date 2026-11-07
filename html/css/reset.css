@@ -1,6 +1,10 @@
 *, *::before, *::after { box-sizing: border-box; }
 * { margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+/* overflow-anchor: none — the sticky header collapses (~136px) once the page
+   is scrolled. Chrome's scroll anchoring "corrects" for that change and snaps
+   the page back to the top, which un-collapses the header again: an endless
+   loop that makes slow/trackpad scrolling impossible. */
+html { scroll-behavior: smooth; overflow-anchor: none; }
 img, video, svg { display: block; max-width: 100%; }
 input, button, textarea, select { font: inherit; color: inherit; }
 button { background: none; border: none; cursor: pointer; }
