@@ -11,7 +11,7 @@ phải rebase lên master.
 | Nhánh | Phạm vi | Trạng thái |
 |---|---|---|
 | `worktree-agent-ac59499ecf2fdb33f` | `gas/` (CMS, Smart content, AI viết bài bằng OpenAI, API khoá `antn_`), `html/admin/`, `html/admin/api/`, `openapi.json`, `llms.txt`, `tools/gas-api-test/`, `scripts/check_gas_client.mjs` | Mới có `gas/Code.js` ~2.800 dòng (viết dở, commit force vì gas/ bị gitignore). Còn: app/js/css/index.html, smart-content-js, rank-math, trang admin, docs API, test |
-| `worktree-agent-ae1894fadb11bfc3c` | Migrate sản phẩm + danh mục sản phẩm → `data/`, `scripts/catalog/build.py`, search-index | Có `scripts/catalog/migrate.py` + `jslit.py` (dở). Thư mục `_scratch/` (chưa commit) là script phân tích tạm. Còn: chạy migrate, build.py, so diff, screenshot |
+| `worktree-agent-ae1894fadb11bfc3c` | Migrate sản phẩm + danh mục sản phẩm → `data/`, `scripts/catalog/build.py`, search-index | ✅ XONG, đã gộp vào master (f5234b9): 515 sản phẩm, 118 danh mục. Field mới `featured`, `breadcrumb`, `colors`, `reviews` (GAS.md III, XII, XIV) — CMS cần hỗ trợ |
 | `worktree-agent-a3de8af3a72dad4e6` | Bài viết → `data/posts*`, `data/settings.json`, smart.css/js/scope, `/lien-he/`, form đơn hàng gửi CMS, media-index, CI workflow, `vercel.json` | ✅ XONG, đã gộp vào master (bafbc79). Quyết định ghi ở GAS.md mục XIII. Catalog build nên dùng `scripts/site/settings.py` + `scripts/site/smart.py` |
 
 Bước tiếp theo:
