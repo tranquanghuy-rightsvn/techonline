@@ -2,7 +2,7 @@
 // Loaded on every page so the cart stays in sync across listing cards,
 // product detail pages, the cart page and checkout.
 const Cart = (() => {
-  const STORAGE_KEY = 'techonline_cart';
+  const STORAGE_KEY = 'antn_cart';
 
   function read() {
     try {

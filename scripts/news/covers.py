@@ -48,13 +48,17 @@ def card(im, src, box, pad=30):
 
 
 def make(a, out):
-    im = gradient()
-    d = ImageDraw.Draw(im)
-    if a["cover_src"]:
-        card(im, os.path.join(IMG, a["cover_src"]), (330, 84, 870, 684), pad=40)
-    else:
-        card(im, os.path.join(IMG, "logo.png"), (240, 224, 960, 544), pad=50)
-    im.save(out, "JPEG", quality=86, optimize=True)
+    """Plain cover: the product photo (or logo) centred on white."""
+    im = Image.new("RGB", (W, H), "white")
+    src = os.path.join(IMG, a["cover_src"]) if a["cover_src"] else os.path.join(IMG, "logo.png")
+    p = Image.open(src).convert("RGBA")
+    box = (W - 160, H - 120) if a["cover_src"] else (W - 360, H - 360)
+    p.thumbnail(box, Image.LANCZOS)
+    if p.width < box[0] and p.height < box[1]:  # upscale small product shots
+        r = min(box[0] / p.width, box[1] / p.height)
+        p = p.resize((int(p.width * r), int(p.height * r)), Image.LANCZOS)
+    im.paste(p, ((W - p.width) // 2, (H - p.height) // 2), p)
+    im.save(out, "JPEG", quality=88, optimize=True)
 
 
 for a in ARTICLES:

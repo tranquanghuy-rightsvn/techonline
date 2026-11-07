@@ -17,13 +17,28 @@ def iso(d):
     return f"{yy}-{mm}-{dd}"
 
 
+CAL_ICON = ('<svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true">'
+            '<rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/>'
+            '<path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>')
+
+
+def show(d):
+    """08.11.2026 -> 08/11/2026"""
+    return d.replace(".", "/")
+
+
+def date_tag(a, extra=""):
+    return (f'<time class="news-date{extra}" datetime="{iso(a["date"])}">'
+            f'{CAL_ICON}<span>{show(a["date"])}</span></time>')
+
+
 def feat(a, big=False):
     cls = "news-feature news-feature--big" if big else "news-feature"
     lazy = "" if big else ' loading="lazy"'
     return f'''      <a class="{cls}" href="/{a['slug']}/">
-        <img class="news-feature__img" src="assets/images/{cover(a)}" alt="{esc(a['title'])}"{lazy}>
+        <span class="news-feature__media"><img class="news-feature__img" src="assets/images/{cover(a)}" alt="{esc(a['title'])}"{lazy}></span>
         <span class="news-feature__text">
-          <time class="news-time" datetime="{iso(a['date'])}">{a['date']}</time>
+          {date_tag(a)}
           <span class="news-feature__title">{esc(a['title'])}</span>
         </span>
       </a>'''
@@ -33,8 +48,8 @@ def card(a, tag="h3"):
     return f'''        <article class="news-card">
           <a class="news-card__img" href="/{a['slug']}/">
             <img src="assets/images/{cover(a)}" alt="{esc(a['title'])}" loading="lazy">
-            <time class="news-time" datetime="{iso(a['date'])}">{a['date']}</time>
           </a>
+          {date_tag(a)}
           <{tag} class="news-card__title"><a href="/{a['slug']}/">{esc(a['title'])}</a></{tag}>
         </article>'''
 
@@ -150,7 +165,7 @@ for a in ARTICLES:
               <img src="assets/images/{cover(x)}" alt="" loading="lazy">
               <span>
                 <span class="article-side__title">{esc(x['title'])}</span>
-                <time datetime="{iso(x['date'])}">{x['date']}</time>
+                {date_tag(x)}
               </span>
             </a>
           </li>''' for x in recent)
@@ -160,7 +175,7 @@ for a in ARTICLES:
       <a class="article-detail__cat" href="/tin-tuc/#{cid}">{cname}</a>
       <h1 class="article-detail__title">{esc(a['title'])}</h1>
       <div class="article-detail__meta">
-        <time datetime="{iso(a['date'])}">{a['date']}</time>
+        {date_tag(a)}
         <span>{B}</span>
       </div>
       <p class="article-detail__summary">{esc(a['summary'])}</p>

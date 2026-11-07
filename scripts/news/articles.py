@@ -35,7 +35,7 @@ ARTICLES = [
     {
         "slug": "an-ninh-thai-nguyen-chinh-thuc-ra-mat-website",
         "cat": "tin-tuc-cong-ty",
-        "date": "07.11.2026",
+        "date": "08.11.2026",
         "title": "An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn",
         "cover_src": None,  # logo cover
         "summary": "Website anninhthainguyen.vn chính thức đi vào hoạt động, giúp khách hàng tra cứu sản phẩm, xem giá và đặt mua thiết bị an ninh nhanh chóng, thuận tiện mọi lúc mọi nơi.",
@@ -83,7 +83,7 @@ ARTICLES = [
     {
         "slug": "cach-chon-vi-tri-lap-dat-camera-an-ninh",
         "cat": "huong-dan",
-        "date": "02.11.2026",
+        "date": "08.11.2026",
         "title": "Cách chọn vị trí lắp đặt camera an ninh cho gia đình",
         "cover_src": IMG_SOLAR,
         "summary": "Lắp camera đúng chỗ quan trọng không kém việc chọn camera tốt. Bài viết tổng hợp những vị trí nên lắp, chiều cao, góc quay và các lỗi thường gặp cần tránh.",
@@ -162,7 +162,7 @@ ARTICLES = [
     {
         "slug": "camera-ai-la-gi",
         "cat": "tin-cong-nghe",
-        "date": "28.10.2026",
+        "date": "08.11.2026",
         "title": "Camera AI là gì? Những tính năng thông minh đáng chú ý",
         "cover_src": IMG_BULLET,
         "summary": "Camera AI có thể nhận diện người, phương tiện và cảnh báo xâm nhập chính xác hơn nhiều so với camera thông thường. Cùng tìm hiểu cách hoạt động và những tính năng nổi bật.",
@@ -223,7 +223,7 @@ ARTICLES = [
     {
         "slug": "kinh-nghiem-chon-camera-cho-gia-dinh",
         "cat": "tu-van-lua-chon",
-        "date": "24.10.2026",
+        "date": "08.11.2026",
         "title": "Kinh nghiệm chọn mua camera giám sát cho gia đình",
         "cover_src": IMG_INDOOR,
         "summary": "Độ phân giải, góc nhìn, hồng ngoại, lưu trữ, ứng dụng… Đây là những tiêu chí quan trọng bạn nên xem xét trước khi mua camera cho ngôi nhà của mình.",
@@ -298,7 +298,7 @@ ARTICLES = [
     {
         "slug": "camera-ip-va-camera-analog-nen-chon-loai-nao",
         "cat": "tin-cong-nghe",
-        "date": "18.10.2026",
+        "date": "08.11.2026",
         "title": "Camera IP và camera Analog: nên chọn loại nào?",
         "cover_src": IMG_SOLAR_4G,
         "summary": "So sánh chi tiết camera IP và camera Analog (HDCVI/AHD/TVI) về chất lượng hình ảnh, chi phí, khả năng mở rộng để chọn hệ thống phù hợp với nhu cầu và ngân sách.",
@@ -382,7 +382,7 @@ ARTICLES = [
     {
         "slug": "huong-dan-xem-lai-camera-tren-dien-thoai",
         "cat": "huong-dan",
-        "date": "12.10.2026",
+        "date": "08.11.2026",
         "title": "Hướng dẫn xem lại camera trên điện thoại nhanh chóng",
         "cover_src": IMG_HDCVI,
         "summary": "Các bước xem lại, tìm kiếm và lưu video đã ghi trên điện thoại, áp dụng cho hầu hết ứng dụng camera phổ biến, kèm cách xử lý khi không xem lại được.",
@@ -447,7 +447,7 @@ ARTICLES = [
     {
         "slug": "camera-wifi-dung-pin-co-tot-khong",
         "cat": "tu-van-lua-chon",
-        "date": "05.10.2026",
+        "date": "08.11.2026",
         "title": "Camera wifi dùng pin có tốt không? Ưu nhược điểm cần biết",
         "cover_src": IMG_BATTERY,
         "summary": "Camera dùng pin không cần đi dây, lắp đặt linh hoạt và vẫn hoạt động khi mất điện. Tuy nhiên đây không phải giải pháp phù hợp cho mọi trường hợp.",
@@ -515,10 +515,9 @@ ARTICLES = [
     {
         "slug": "huong-dan-cai-dat-camera-imou-tren-dien-thoai",
         "cat": "huong-dan",
-        "date": "28.09.2026",
+        "date": "08.11.2026",
         "title": "Hướng dẫn cài đặt camera IMOU trên điện thoại",
-        "cover_src": "news-cai-dat-camera-imou.jpg",
-        "cover_ready": True,
+        "cover_src": P + "250-1019-camera-trong-nha-ranger-mini-3mp-ipc-k2mp-5h1we.jpg",
         "summary": "Hướng dẫn chi tiết từng bước cài đặt camera IMOU bằng ứng dụng Imou Life: thêm thiết bị, kết nối wifi, thiết lập thẻ nhớ, cảnh báo và chia sẻ quyền xem cho người thân.",
         "body": """
 <p>Camera IMOU được nhiều gia đình tin dùng nhờ giá thành hợp lý, hình ảnh rõ nét và ứng dụng <strong>Imou Life</strong> thân thiện, hỗ trợ tiếng Việt. Chỉ với chiếc điện thoại, bạn hoàn toàn có thể tự cài đặt camera trong khoảng 10 phút. Dưới đây là hướng dẫn chi tiết từng bước.</p>

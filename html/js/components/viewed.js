@@ -2,7 +2,7 @@
 // rendering into the PDP "Sản phẩm đã xem" tab. Loaded on every page so a
 // product view recorded on any PDP can be read back anywhere else.
 const Viewed = (() => {
-  const STORAGE_KEY = 'techonline_viewed';
+  const STORAGE_KEY = 'antn_viewed';
   const MAX_ITEMS = 20;
 
   function read() {
