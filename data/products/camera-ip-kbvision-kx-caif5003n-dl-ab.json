@@ -13,7 +13,7 @@
   "old_price": 1250000,
   "vat": true,
   "images": [
-    "assets/images/product-cat1-kbvision.png"
+    "/assets/images/product-cat1-kbvision.png"
   ],
   "summary": [
     "Camera IP ánh sáng kép thông minh 5.0MP",

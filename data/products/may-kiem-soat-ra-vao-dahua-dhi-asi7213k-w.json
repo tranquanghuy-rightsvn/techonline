@@ -12,7 +12,7 @@
   "old_price": 7900000,
   "vat": true,
   "images": [
-    "assets/images/product-cat5-access-dahua4.png"
+    "/assets/images/product-cat5-access-dahua4.png"
   ],
   "summary": [
     "Thiết bị kiểm soát ra vào và chấm công khuôn mặt",

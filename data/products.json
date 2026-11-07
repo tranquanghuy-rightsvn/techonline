@@ -823,7 +823,7 @@
    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -842,7 +842,7 @@
    "bo-phat-wifi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wa850re.jpg",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-tl-wa850re.jpg",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -862,7 +862,7 @@
    "bo-phat-wifi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-ue330c.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-ue330c.png",
   "price": null,
   "old_price": null,
   "attrs": [],
@@ -879,7 +879,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1200tqp-il-t-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1200tqp-il-t-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -899,7 +899,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1500tqp-il-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1500tqp-il-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -919,7 +919,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500rlp-il-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500rlp-il-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -939,7 +939,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500tlmp-il-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500tlmp-il-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -959,7 +959,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-t2a21p-u-il-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-t2a21p-u-il-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -979,7 +979,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500thp-il-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1500thp-il-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -999,7 +999,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-b2a51p-u-il-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-b2a51p-u-il-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1019,7 +1019,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-b2a21p-u-il-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-b2a21p-u-il-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1039,7 +1039,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1059,7 +1059,7 @@
    "dahua-camera-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1079,7 +1079,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5013-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5013-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1099,7 +1099,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5112c-a-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5112c-a-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1119,7 +1119,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5112c-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5112c-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1139,7 +1139,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2112c-a-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2112c-a-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1159,7 +1159,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2114c-t-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2114c-t-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1179,7 +1179,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2114c-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2114c-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1199,7 +1199,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2004c-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad2004c-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1219,7 +1219,7 @@
    "kabe-vision-camera-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-a2004c-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-a2004c-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1239,7 +1239,7 @@
    "kbvision-camera-analog"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-analog-kbvision-kx-af5004s-dl-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-analog-kbvision-kx-af5004s-dl-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1258,7 +1258,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/product-cat1-imou.png",
+  "image": "/assets/images/product-cat1-imou.png",
   "price": 1090000,
   "old_price": 1650000,
   "attrs": [
@@ -1277,7 +1277,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ua7e-5m0t2-eu-fsp14.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ua7e-5m0t2-eu-fsp14.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1296,7 +1296,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-sa70f-10m0t2-eu.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-sa70f-10m0t2-eu.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1314,7 +1314,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-k7f-5m1t-x.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-k7f-5m1t-x.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1333,7 +1333,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-k7f-3m1t-x.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-k7f-3m1t-x.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1352,7 +1352,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s76dp-13m0n.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s76dp-13m0n.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1370,7 +1370,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ps8e-5v0.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ps8e-5v0.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1389,7 +1389,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ps8ep-3v0.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-ps8ep-3v0.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1408,7 +1408,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s3ep-5m0we-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s3ep-5m0we-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1427,7 +1427,7 @@
    "camera-imou"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s3ep-3m0we-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s3ep-3m0we-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1447,7 +1447,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat1-dahua-ip.png",
+  "image": "/assets/images/product-cat1-dahua-ip.png",
   "price": 1250000,
   "old_price": 1780000,
   "attrs": [
@@ -1466,7 +1466,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hdw1239t1-a-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hdw1239t1-a-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1485,7 +1485,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1439tc1-a-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1439tc1-a-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1504,7 +1504,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1439m1-a-b-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1439m1-a-b-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1523,7 +1523,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1239m1-a-b-pro.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hfw1239m1-a-b-pro.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1542,7 +1542,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449dzi.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449dzi.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1561,7 +1561,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dhi-hy-ft121ldp.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dhi-hy-ft121ldp.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1581,7 +1581,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-9649zas-il.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-9649zas-il.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1601,7 +1601,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449d.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dat-n9449d.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1621,7 +1621,7 @@
    "dahua-camera-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-n42drz-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-n42drz-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1641,7 +1641,7 @@
    "kbvision-camera-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/product-cat1-kbvision.png",
+  "image": "/assets/images/product-cat1-kbvision.png",
   "price": 890000,
   "old_price": 1250000,
   "attrs": [
@@ -1661,7 +1661,7 @@
    "kbvision-camera-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-af2111n3-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-af2111n3-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1681,7 +1681,7 @@
    "kbvision-camera-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-a2012tn3-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-a2012tn3-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1701,7 +1701,7 @@
    "kbvision-camera-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-dai5005mn-eab.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-dai5005mn-eab.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1721,7 +1721,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4a225db-hny.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4a225db-hny.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1740,7 +1740,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sdt2a200-2f-nb-a-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sdt2a200-2f-nb-a-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1760,7 +1760,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d225mb-hnr.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d225mb-hnr.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1780,7 +1780,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d425mb-hnr.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d425mb-hnr.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1800,7 +1800,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d225db-hny.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4d225db-hny.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1820,7 +1820,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd5a432gb-hnr.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd5a432gb-hnr.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1840,7 +1840,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd6c3432gb-hnr-agq-pv1-la.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd6c3432gb-hnr-agq-pv1-la.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1860,7 +1860,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd5a232gb-hnr.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd5a232gb-hnr.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1880,7 +1880,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd6al245gb-hnv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd6al245gb-hnv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1900,7 +1900,7 @@
    "dahua-camera-ptz"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd29404db-gny-w.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd29404db-gny-w.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1920,7 +1920,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-eai2458lzsn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-eai2458lzsn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1939,7 +1939,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-dai4328gpn3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-dai4328gpn3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1958,7 +1958,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-dai2258pn3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-dai2258pn3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1977,7 +1977,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cd2257mpn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cd2257mpn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -1996,7 +1996,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cai2167epn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cai2167epn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2015,7 +2015,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2056cpn-al.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2056cpn-al.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2034,7 +2034,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cai2167pn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-cai2167pn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2053,7 +2053,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007irpn3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007irpn3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2072,7 +2072,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007spn3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-c2007spn3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2091,7 +2091,7 @@
    "kabe-vision-camera-ptz"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-s44p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-s44p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2110,7 +2110,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat1-dahua-wifi.png",
+  "image": "/assets/images/product-cat1-dahua-wifi.png",
   "price": 690000,
   "old_price": 980000,
   "attrs": [
@@ -2129,7 +2129,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h3as.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h3as.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2148,7 +2148,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h3ae-l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h3ae-l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2168,7 +2168,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p5i-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p5i-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2188,7 +2188,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3i-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3i-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2208,7 +2208,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3d-3f-pv-p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3d-3f-pv-p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2228,7 +2228,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p8f-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p8f-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2248,7 +2248,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p5f-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p5f-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2268,7 +2268,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3f-pv.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-p3f-pv.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2288,7 +2288,7 @@
    "dahua-camera-wifi"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-ipc-hdw1539da-saw-il.png",
+  "image": "/assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-ipc-hdw1539da-saw-il.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2308,7 +2308,7 @@
    "kabe-vision-camera-wifi"
   ],
   "brand": "Kabevision",
-  "image": "assets/images/product-cat1-kabevision.png",
+  "image": "/assets/images/product-cat1-kabevision.png",
   "price": 1450000,
   "old_price": 2050000,
   "attrs": [
@@ -2328,7 +2328,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3214a-w.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3214a-w.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2348,7 +2348,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3213a-w-e1.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3213a-w-e1.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2368,7 +2368,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-asf7k-fq.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-asf7k-fq.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2388,7 +2388,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi7213k-w.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi7213k-w.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2408,7 +2408,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s-d.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s-d.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2428,7 +2428,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s-pw.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s-pw.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2448,7 +2448,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213j-mw-v1.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213j-mw-v1.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2468,7 +2468,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6214s.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6214s.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2488,7 +2488,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6213s.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2508,7 +2508,7 @@
    "dahua-access-control"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6214j-mfw-v1.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi6214j-mfw-v1.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2547,7 +2547,7 @@
    "kabe-vision-access-control"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-fw.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-fw.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2567,7 +2567,7 @@
    "kabe-vision-access-control"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-w.png",
+  "image": "/assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-w.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2586,7 +2586,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2201f-p-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2201f-p-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2606,7 +2606,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth2421fw-p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth2421fw-p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2625,7 +2625,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth2621gw-wp.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth2621gw-wp.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2644,7 +2644,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm09r.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm09r.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2663,7 +2663,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2311r-wp.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2311r-wp.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2683,7 +2683,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm05r.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-vtm05r.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2702,7 +2702,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5441g.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5441g.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2721,7 +2721,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5221dw-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5221dw-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2740,7 +2740,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5221d-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vth5221d-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2759,7 +2759,7 @@
    "dahua-chuong-cua-man-hinh"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2211g-wp.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2211g-wp.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2779,7 +2779,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr4116hs-i-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr4116hs-i-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2798,7 +2798,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5216an-5m-i3-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5216an-5m-i3-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2817,7 +2817,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-xvr5232an-5m-i3-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-xvr5232an-5m-i3-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2836,7 +2836,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5116hs-5m-i3-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5116hs-5m-i3-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2855,7 +2855,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5108hs-5m-i3-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5108hs-5m-i3-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2874,7 +2874,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5104hs-5m-i3-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5104hs-5m-i3-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2893,7 +2893,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5216an-5m-i3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr5216an-5m-i3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2912,7 +2912,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b08-i-t-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b08-i-t-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2931,7 +2931,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b08-i-t.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b08-i-t.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2950,7 +2950,7 @@
    "dahua-dau-ghi-analog"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b04-i-t-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b04-i-t-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2969,7 +2969,7 @@
    "kabe-vision-dau-ghi-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-7108t-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-7108t-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -2988,7 +2988,7 @@
    "kabe-vision-dau-ghi-analog"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-c4k8432sn3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-c4k8432sn3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3007,7 +3007,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110w-8a0e.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110w-8a0e.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3026,7 +3026,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n118w-8a0e.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n118w-8a0e.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3045,7 +3045,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110-8a0e.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110-8a0e.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3064,7 +3064,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n118-8a0e.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n118-8a0e.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3083,7 +3083,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr1108hs-w-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr1108hs-w-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3102,7 +3102,7 @@
    "imou-dau-ghi"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr1104hs-w-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr1104hs-w-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3121,7 +3121,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5864-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5864-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3140,7 +3140,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5832-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5832-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3159,7 +3159,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5816-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5816-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3178,7 +3178,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5432-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5432-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3197,7 +3197,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5464-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5464-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3216,7 +3216,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr4432-4ks3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr4432-4ks3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3235,7 +3235,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5416-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5416-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3254,7 +3254,7 @@
    "dahua-dau-ghi-ip"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5232-ei2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5232-ei2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3273,7 +3273,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8864n4.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8864n4.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3292,7 +3292,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8864en3-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8864en3-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3311,7 +3311,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8832en3-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8832en3-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3330,7 +3330,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-328e4-nr-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-328e4-nr-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3349,7 +3349,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-d1202h-8k-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-d1202h-8k-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3368,7 +3368,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162e3-nr-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162e3-nr-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3387,7 +3387,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162s3-nr-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-162s3-nr-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3406,7 +3406,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8832n4.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8832n4.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3425,7 +3425,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8864en3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8864en3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3444,7 +3444,7 @@
    "kabe-vision-dau-ghi-ip"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8832en3.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8832en3.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -3462,7 +3462,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4180-hexa-a100.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4180-hexa-a100.jpg",
   "price": 4950000,
   "old_price": 6000000,
   "attrs": [
@@ -3481,7 +3481,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4175-hexa-p300--4-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4175-hexa-p300--4-.jpg",
   "price": 8000000,
   "old_price": 9900000,
   "attrs": [
@@ -3501,7 +3501,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4174-hexa-p300-pro--3-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4174-hexa-p300-pro--3-.jpg",
   "price": 8800000,
   "old_price": 11000000,
   "attrs": [
@@ -3521,7 +3521,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4179-hexa-hx12.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4179-hexa-hx12.jpg",
   "price": 3950000,
   "old_price": 4900000,
   "attrs": [
@@ -3541,7 +3541,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4177-hexa-l100.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4177-hexa-l100.jpg",
   "price": 5950000,
   "old_price": 7300000,
   "attrs": [
@@ -3561,7 +3561,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4178-hexa-hx12-5050.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4178-hexa-hx12-5050.jpg",
   "price": 3500000,
   "old_price": 4400000,
   "attrs": [
@@ -3581,7 +3581,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4176-hexa-l100-vang-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4176-hexa-l100-vang-.jpg",
   "price": 6400000,
   "old_price": 8000000,
   "attrs": [
@@ -3601,7 +3601,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4173-p200-pro-max.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4173-p200-pro-max.jpg",
   "price": 15500000,
   "old_price": 19400000,
   "attrs": [
@@ -3621,7 +3621,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4172-hexa-p100m-pro-max-v--ng-24k-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4172-hexa-p100m-pro-max-v--ng-24k-.jpg",
   "price": 11900000,
   "old_price": 14900000,
   "attrs": [
@@ -3641,7 +3641,7 @@
    "khoa-cua-hexa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4171-hexa-p100m-pro-max---en-x--m-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4171-hexa-p100m-pro-max---en-x--m-.jpg",
   "price": 11400000,
   "old_price": 14300000,
   "attrs": [
@@ -3661,7 +3661,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-473-khoa-cua-ezviz-dl03--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-473-khoa-cua-ezviz-dl03--1-.jpg",
   "price": 2500000,
   "old_price": 5000000,
   "attrs": [
@@ -3681,7 +3681,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2725-khoa-cua-deadbolt-ezviz-dl04.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2725-khoa-cua-deadbolt-ezviz-dl04.jpg",
   "price": 2720000,
   "old_price": 5100000,
   "attrs": [
@@ -3701,7 +3701,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-457-kh--a-c---a-v--n-tay-ezviz-dl03-pro.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-457-kh--a-c---a-v--n-tay-ezviz-dl03-pro.png",
   "price": 2800000,
   "old_price": 7000000,
   "attrs": [
@@ -3721,7 +3721,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2726-ezviz-dl04-pro--3-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2726-ezviz-dl04-pro--3-.jpg",
   "price": 3500000,
   "old_price": 6500000,
   "attrs": [
@@ -3741,7 +3741,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-483-khoa-cua-van-tay-dientu-ezviz-dl05-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-483-khoa-cua-van-tay-dientu-ezviz-dl05-.jpg",
   "price": 2400000,
   "old_price": 8000000,
   "attrs": [
@@ -3761,7 +3761,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2727-khoa-cua-nhom-thong-minh-ezviz-dl06.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2727-khoa-cua-nhom-thong-minh-ezviz-dl06.jpg",
   "price": 2500000,
   "old_price": 5200000,
   "attrs": [
@@ -3781,7 +3781,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-3581-khoa-cua-go-ezviz-y2000.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-3581-khoa-cua-go-ezviz-y2000.jpg",
   "price": 3700000,
   "old_price": 7000000,
   "attrs": [
@@ -3801,7 +3801,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1481-khoa-van-tay-dl06-pro-2.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1481-khoa-van-tay-dl06-pro-2.jpg",
   "price": 3800000,
   "old_price": 6000000,
   "attrs": [
@@ -3821,7 +3821,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-3582-khoa-cua-go-ezviz-dl20-fvs.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-3582-khoa-cua-go-ezviz-dl20-fvs.jpg",
   "price": 7400000,
   "old_price": 15000000,
   "attrs": [
@@ -3841,7 +3841,7 @@
    "khoa-cua-van-tay-ezviz"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1106-khoa-ezviz-dl50fvs-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1106-khoa-ezviz-dl50fvs-.jpg",
   "price": 7800000,
   "old_price": 14000000,
   "attrs": [
@@ -3861,7 +3861,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1172-khoa-dien-tu-hafele-dl6000.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1172-khoa-dien-tu-hafele-dl6000.jpg",
   "price": 4720000,
   "old_price": 5490000,
   "attrs": [
@@ -3881,7 +3881,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1178-khoa-dien-tu-cua-nhom-hafele-dl6600.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1178-khoa-dien-tu-cua-nhom-hafele-dl6600.jpg",
   "price": 6150000,
   "old_price": 7370000,
   "attrs": [
@@ -3901,7 +3901,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1173-khoa-dien-tu-hafele-el7500-912-05-716.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1173-khoa-dien-tu-hafele-el7500-912-05-716.jpg",
   "price": 6490000,
   "old_price": 8130000,
   "attrs": [
@@ -3921,7 +3921,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1176-khoa-dien-tu-hafele-el8000-912-05-359.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1176-khoa-dien-tu-hafele-el8000-912-05-359.jpg",
   "price": 6500000,
   "old_price": 8100000,
   "attrs": [
@@ -3941,7 +3941,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1174-khoa-dien-tu-hafele-dl7100-912-05-498.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1174-khoa-dien-tu-hafele-dl7100-912-05-498.jpg",
   "price": 6700000,
   "old_price": 8030000,
   "attrs": [
@@ -3961,7 +3961,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1175-khoa-dien-tu-hafele-dl7600-912-20-237.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1175-khoa-dien-tu-hafele-dl7600-912-20-237.jpg",
   "price": 9970000,
   "old_price": 13730000,
   "attrs": [
@@ -3981,7 +3981,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1177-khoa-dien-tu-hafele-pp8100-912-20-286.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1177-khoa-dien-tu-hafele-pp8100-912-20-286.jpg",
   "price": 11290000,
   "old_price": 14520000,
   "attrs": [
@@ -4001,7 +4001,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1171-pp9100.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1171-pp9100.png",
   "price": 15390000,
   "old_price": 19990000,
   "attrs": [
@@ -4021,7 +4021,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2985-khoa-dien-tu-hafele-horizon-pp2501w-499-21-224.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2985-khoa-dien-tu-hafele-horizon-pp2501w-499-21-224.jpg",
   "price": 15310000,
   "old_price": 20412000,
   "attrs": [
@@ -4041,7 +4041,7 @@
    "khoa-cua-van-tay-hafele"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2986-khoa-dien-tu-hafele-infinity-pp2502w-499-21-223.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2986-khoa-dien-tu-hafele-infinity-pp2502w-499-21-223.jpg",
   "price": 17000000,
   "old_price": 22669000,
   "attrs": [
@@ -4061,7 +4061,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2705-hubert-hb-kscg77--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2705-hubert-hb-kscg77--2-.jpg",
   "price": 2080000,
   "old_price": 2300000,
   "attrs": [
@@ -4080,7 +4080,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2703-khoa-cua-hubert-hb-kscg86-amber-gold.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2703-khoa-cua-hubert-hb-kscg86-amber-gold.jpg",
   "price": 2870000,
   "old_price": 3500000,
   "attrs": [
@@ -4099,7 +4099,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2694-khoa-cua-hubert-hb-cg22-black.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2694-khoa-cua-hubert-hb-cg22-black.jpg",
   "price": 2970000,
   "old_price": 3000000,
   "attrs": [
@@ -4119,7 +4119,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2706-khoa-cua-hubert-hb-kscn79-black--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2706-khoa-cua-hubert-hb-kscn79-black--1-.jpg",
   "price": 3460000,
   "old_price": 3500000,
   "attrs": [
@@ -4138,7 +4138,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2925-khoa-cua-hubert-hb-cg23--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2925-khoa-cua-hubert-hb-cg23--1-.jpg",
   "price": 3470000,
   "old_price": 3500000,
   "attrs": [
@@ -4158,7 +4158,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2695-khoa-cua-hubert-hb-cg25-black--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2695-khoa-cua-hubert-hb-cg25-black--1-.jpg",
   "price": 3960000,
   "old_price": 4000000,
   "attrs": [
@@ -4178,7 +4178,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2699-khoa-cua-hubert-hb-cn21-black--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2699-khoa-cua-hubert-hb-cn21-black--1-.jpg",
   "price": 3960000,
   "old_price": 4000000,
   "attrs": [
@@ -4198,7 +4198,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2686-khoa-cua-hubert-hb-cg39-mini.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2686-khoa-cua-hubert-hb-cg39-mini.jpg",
   "price": 4220000,
   "old_price": 4800000,
   "attrs": [
@@ -4218,7 +4218,7 @@
    "khoa-cua-van-tay-hubert"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2917-khoa-cua-hubert-hb-cg60-gold.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2917-khoa-cua-hubert-hb-cg60-gold.jpg",
   "price": 4310000,
   "old_price": 4900000,
   "attrs": [
@@ -4239,7 +4239,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-800-khoa-cua-go-hubert-hb-cg59.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-800-khoa-cua-go-hubert-hb-cg59.png",
   "price": 4390000,
   "old_price": 4990000,
   "attrs": [
@@ -4259,7 +4259,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2018-khoa-cua-khach-san-hyundai-hy-hl01.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2018-khoa-cua-khach-san-hyundai-hy-hl01.jpg",
   "price": 4460000,
   "old_price": 4500000,
   "attrs": [
@@ -4277,7 +4277,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-750-khoa-cua-go-hyundai-hy-sl007.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-750-khoa-cua-go-hyundai-hy-sl007.jpg",
   "price": 4940000,
   "old_price": 5500000,
   "attrs": [
@@ -4297,7 +4297,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-749-khoa-cua-nhom-hyundai-hy-sls003.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-749-khoa-cua-nhom-hyundai-hy-sls003.jpg",
   "price": 4940000,
   "old_price": 6550000,
   "attrs": [
@@ -4317,7 +4317,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2017-khoa-cua-khach-san-hyundai-hy-hl03.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2017-khoa-cua-khach-san-hyundai-hy-hl03.jpg",
   "price": 5450000,
   "old_price": 5500000,
   "attrs": [
@@ -4335,7 +4335,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2016-khoa-cua-khach-san-hyundai-hy-hl04.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2016-khoa-cua-khach-san-hyundai-hy-hl04.jpg",
   "price": 6440000,
   "old_price": 6500000,
   "attrs": [
@@ -4353,7 +4353,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-748-khoa-cua-cong-hyundai-hy-sln002-black.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-748-khoa-cua-cong-hyundai-hy-sln002-black.jpg",
   "price": 6920000,
   "old_price": 6990000,
   "attrs": [
@@ -4373,7 +4373,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-747-khoa-cua-go-hyundai-hy-sla808.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-747-khoa-cua-go-hyundai-hy-sla808.jpg",
   "price": 7430000,
   "old_price": 7500000,
   "attrs": [
@@ -4393,7 +4393,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-746-khoa-cua-go-hyundai-hy-sla808f.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-746-khoa-cua-go-hyundai-hy-sla808f.jpg",
   "price": 8900000,
   "old_price": 8990000,
   "attrs": [
@@ -4413,7 +4413,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-745-khoa-cua-go-hyundai-hy-sla807f-black.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-745-khoa-cua-go-hyundai-hy-sla807f-black.jpg",
   "price": 9890000,
   "old_price": 9990000,
   "attrs": [
@@ -4433,7 +4433,7 @@
    "khoa-cua-van-tay-hyundai"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-744-khoa-cua-nhom-hyundai-hy-sls005-black--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-744-khoa-cua-nhom-hyundai-hy-sls005-black--1-.jpg",
   "price": 10880000,
   "old_price": 14400000,
   "attrs": [
@@ -4453,7 +4453,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-276-kh--a-c---a-v--n-tay-kaadas-m5--3-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-276-kh--a-c---a-v--n-tay-kaadas-m5--3-.png",
   "price": 3490000,
   "old_price": 4600000,
   "attrs": [
@@ -4473,7 +4473,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2176-khoa-van-tay-kaadas-m7-w--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2176-khoa-van-tay-kaadas-m7-w--2-.jpg",
   "price": 4400000,
   "old_price": 5500000,
   "attrs": [
@@ -4493,7 +4493,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-280-khoa-cua-van-tay-kaadas-l8-5-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-280-khoa-cua-van-tay-kaadas-l8-5-.jpg",
   "price": 4900000,
   "old_price": 6500000,
   "attrs": [
@@ -4513,7 +4513,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-582-khoa-cua-nhom-kaadas-s10-5w.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-582-khoa-cua-nhom-kaadas-s10-5w.jpg",
   "price": 4950000,
   "old_price": 6000000,
   "attrs": [
@@ -4533,7 +4533,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2173-khoa-cua-go-kaadas-s500-c5---1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2173-khoa-cua-go-kaadas-s500-c5---1-.jpg",
   "price": 5200000,
   "old_price": 6500000,
   "attrs": [
@@ -4553,7 +4553,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-278-khoa-cua-go-kaadas-s500-c.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-278-khoa-cua-go-kaadas-s500-c.jpg",
   "price": 5200000,
   "old_price": 6800000,
   "attrs": [
@@ -4573,7 +4573,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-277-khoa-cua-go-kaadas-s500-5w--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-277-khoa-cua-go-kaadas-s500-5w--1-.jpg",
   "price": 5500000,
   "old_price": 7300000,
   "attrs": [
@@ -4593,7 +4593,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-583-khoa-van-tay-c---a-kinh-kaadas-r8-5gl.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-583-khoa-van-tay-c---a-kinh-kaadas-r8-5gl.jpg",
   "price": 5600000,
   "old_price": 7900000,
   "attrs": [
@@ -4613,7 +4613,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-584-khoa-kaadas-r6-5.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-584-khoa-kaadas-r6-5.jpg",
   "price": 5800000,
   "old_price": 7000000,
   "attrs": [
@@ -4633,7 +4633,7 @@
    "khoa-cua-van-tay-kaadas"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-281-khoa-cua-van-tay-kaadas-q3.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-281-khoa-cua-van-tay-kaadas-q3.jpg",
   "price": 5950000,
   "old_price": 7800000,
   "attrs": [
@@ -4653,7 +4653,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1368-kawa-ks001--5-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1368-kawa-ks001--5-.png",
   "price": 1540000,
   "old_price": 2200000,
   "attrs": [
@@ -4672,7 +4672,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1369-kawa-ks105.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1369-kawa-ks105.png",
   "price": 1680000,
   "old_price": 2400000,
   "attrs": [
@@ -4691,7 +4691,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1370-kawa-ks510--8-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1370-kawa-ks510--8-.png",
   "price": 2080000,
   "old_price": 2970000,
   "attrs": [
@@ -4710,7 +4710,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1371-kawa-ks610--9-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1371-kawa-ks610--9-.png",
   "price": 2220000,
   "old_price": 3170000,
   "attrs": [
@@ -4729,7 +4729,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1376-kawa-ks805--3-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1376-kawa-ks805--3-.png",
   "price": 2220000,
   "old_price": 3170000,
   "attrs": [
@@ -4748,7 +4748,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1372-kawa-ks626--5-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1372-kawa-ks626--5-.png",
   "price": 2420000,
   "old_price": 3460000,
   "attrs": [
@@ -4767,7 +4767,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1375-kawa-ks802--4-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1375-kawa-ks802--4-.png",
   "price": 2850000,
   "old_price": 3450000,
   "attrs": [
@@ -4786,7 +4786,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1374-kawa-ks668.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1374-kawa-ks668.png",
   "price": 2700000,
   "old_price": 3850000,
   "attrs": [
@@ -4805,7 +4805,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1367-kawa-ksal01.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1367-kawa-ksal01.png",
   "price": 3050000,
   "old_price": 4350000,
   "attrs": [
@@ -4824,7 +4824,7 @@
    "khoa-cua-van-tay-kawa"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1373-kawa-ks628--2-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1373-kawa-ks628--2-.png",
   "price": 3260000,
   "old_price": 3950000,
   "attrs": [
@@ -4843,7 +4843,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-442-kh--a-c---a-solity-sync-sm-1000k--1-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-442-kh--a-c---a-solity-sync-sm-1000k--1-.png",
   "price": 3500000,
   "old_price": 4500000,
   "attrs": [
@@ -4863,7 +4863,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-444-kh--a-c---a-solity-ga-60b.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-444-kh--a-c---a-solity-ga-60b.png",
   "price": 4900000,
   "old_price": 5400000,
   "attrs": [
@@ -4883,7 +4883,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-447-kh--a-c---a-solity-gg-33b.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-447-kh--a-c---a-solity-gg-33b.png",
   "price": 5000000,
   "old_price": 5700000,
   "attrs": [
@@ -4903,7 +4903,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-443-khoa-cua-van-tay-solity-gm-1000bk.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-443-khoa-cua-van-tay-solity-gm-1000bk.jpg",
   "price": 5500000,
   "old_price": 6100000,
   "attrs": [
@@ -4923,7 +4923,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-445-kh--a-c---a-solity-ga-60bh.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-445-kh--a-c---a-solity-ga-60bh.png",
   "price": 6100000,
   "old_price": 6700000,
   "attrs": [
@@ -4943,7 +4943,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-441-kh--a-c---a-solity-gm-6000bk.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-441-kh--a-c---a-solity-gm-6000bk.png",
   "price": 6800000,
   "old_price": 7500000,
   "attrs": [
@@ -4963,7 +4963,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-446-kh--a-c---a-solity-gd-60b.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-446-kh--a-c---a-solity-gd-60b.png",
   "price": 7590000,
   "old_price": 8400000,
   "attrs": [
@@ -4983,7 +4983,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-437-kh--a-c---a-solity-gsp-2000bk-ds.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-437-kh--a-c---a-solity-gsp-2000bk-ds.png",
   "price": 10020000,
   "old_price": 11200000,
   "attrs": [
@@ -5003,7 +5003,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-438-kh--a-c---a-solity-gsp-2000bk-bz.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-438-kh--a-c---a-solity-gsp-2000bk-bz.png",
   "price": 10200000,
   "old_price": 11200000,
   "attrs": [
@@ -5023,7 +5023,7 @@
    "khoa-cua-van-tay-solity"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-440-khoa-cua-van-tay-solity-gp-6000bk.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-440-khoa-cua-van-tay-solity-gp-6000bk.jpg",
   "price": 10800000,
   "old_price": 11900000,
   "attrs": [
@@ -5043,7 +5043,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2803-yale-zuri-s.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2803-yale-zuri-s.jpg",
   "price": 4475000,
   "old_price": 5500000,
   "attrs": [
@@ -5063,7 +5063,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2807-khoa-cua-van-tay-yale-ydma-100np.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2807-khoa-cua-van-tay-yale-ydma-100np.jpg",
   "price": 5300000,
   "old_price": 7300000,
   "attrs": [
@@ -5083,7 +5083,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2802-khoa-cua-van-tay-yale-ydm3109a-sil.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2802-khoa-cua-van-tay-yale-ydm3109a-sil.jpg",
   "price": 7840000,
   "old_price": 12210000,
   "attrs": [
@@ -5103,7 +5103,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2801-khoa-cua-van-tay-yale-ydm4109a-gold.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2801-khoa-cua-van-tay-yale-ydm4109a-gold.jpg",
   "price": 10700000,
   "old_price": 15600000,
   "attrs": [
@@ -5123,7 +5123,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2800-khoa-cua-van-tay-yale-ydm7116a-mb.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2800-khoa-cua-van-tay-yale-ydm7116a-mb.jpg",
   "price": 10800000,
   "old_price": 16000000,
   "attrs": [
@@ -5141,7 +5141,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2798-khoa-cua-van-tay-yale-ydm7116a-rb.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2798-khoa-cua-van-tay-yale-ydm7116a-rb.jpg",
   "price": 11150000,
   "old_price": 17700000,
   "attrs": [],
@@ -5157,7 +5157,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2799-khoa-cua-van-tay-yale-ydm7116a-cg.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2799-khoa-cua-van-tay-yale-ydm7116a-cg.jpg",
   "price": 10500000,
   "old_price": 16600000,
   "attrs": [
@@ -5177,7 +5177,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2797-khoa-cua-van-tay-yale-luna-pro-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2797-khoa-cua-van-tay-yale-luna-pro-.jpg",
   "price": 17200000,
   "old_price": 30000000,
   "attrs": [
@@ -5197,7 +5197,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4141-05_107100_bl.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4141-05_107100_bl.jpg",
   "price": 5600000,
   "old_price": 8000000,
   "attrs": [],
@@ -5213,7 +5213,7 @@
    "khoa-cua-yale"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4152-ydr343--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4152-ydr343--2-.jpg",
   "price": 6330000,
   "old_price": 9320000,
   "attrs": [],
@@ -5229,7 +5229,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4153-id40--2-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4153-id40--2-.png",
   "price": 7900000,
   "old_price": 14590000,
   "attrs": [
@@ -5247,7 +5247,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4154-id60c--2-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4154-id60c--2-.png",
   "price": 8500000,
   "old_price": 15890000,
   "attrs": [
@@ -5265,7 +5265,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-527-khoa-cua-van-tay-bosch-el600.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-527-khoa-cua-van-tay-bosch-el600.jpg",
   "price": 9600000,
   "old_price": 19290000,
   "attrs": [
@@ -5285,7 +5285,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1483-bosch-fu6---2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1483-bosch-fu6---2-.jpg",
   "price": 9800000,
   "old_price": 19590000,
   "attrs": [
@@ -5305,7 +5305,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-1484-khoa-cua-go-bosch-fu8---2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-1484-khoa-cua-go-bosch-fu8---2-.jpg",
   "price": 10500000,
   "old_price": 20290000,
   "attrs": [
@@ -5325,7 +5325,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-4157-khoa-bosch-el600f.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4157-khoa-bosch-el600f.jpg",
   "price": 16000000,
   "old_price": 33990000,
   "attrs": [
@@ -5345,7 +5345,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-522-el600vf.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-522-el600vf.jpg",
   "price": 17900000,
   "old_price": 35590000,
   "attrs": [
@@ -5365,7 +5365,7 @@
    "khoa-van-tay-bosch"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-521-khoa-bosch-el800vf.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-521-khoa-bosch-el800vf.jpg",
   "price": 20200000,
   "old_price": 40390000,
   "attrs": [
@@ -5385,7 +5385,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2592-khoa-cua-kitos-kt-v2-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2592-khoa-cua-kitos-kt-v2-pro.jpg",
   "price": 2970000,
   "old_price": 3400000,
   "attrs": [
@@ -5405,7 +5405,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg",
   "price": 3520000,
   "old_price": 3900000,
   "attrs": [
@@ -5425,7 +5425,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2594-khoa-cua-kitos-kt-e3-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2594-khoa-cua-kitos-kt-e3-pro.jpg",
   "price": 3740000,
   "old_price": 4200000,
   "attrs": [
@@ -5445,7 +5445,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2595-khoa-cua-kitos-kt-g302-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2595-khoa-cua-kitos-kt-g302-pro.jpg",
   "price": 4290000,
   "old_price": 4800000,
   "attrs": [
@@ -5465,7 +5465,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2604-khoa-cua-kitos-kt-alx5-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2604-khoa-cua-kitos-kt-alx5-pro.jpg",
   "price": 4290000,
   "old_price": 4800000,
   "attrs": [
@@ -5485,7 +5485,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2608-khoa-cua-kitos-kt-gl30-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2608-khoa-cua-kitos-kt-gl30-pro.jpg",
   "price": 4290000,
   "old_price": 4900000,
   "attrs": [
@@ -5505,7 +5505,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2610-khoa-cua-kitos-kt-dl03-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2610-khoa-cua-kitos-kt-dl03-pro.jpg",
   "price": 5060000,
   "old_price": 5800000,
   "attrs": [
@@ -5525,7 +5525,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2605-khoa-cua-nhom-kitos-kl-al630-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2605-khoa-cua-nhom-kitos-kl-al630-pro.jpg",
   "price": 5170000,
   "old_price": 5900000,
   "attrs": [
@@ -5545,7 +5545,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2596-khoa-cua-kitos-kt-g900-pro.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2596-khoa-cua-kitos-kt-g900-pro.jpg",
   "price": 5720000,
   "old_price": 6500000,
   "attrs": [
@@ -5565,7 +5565,7 @@
    "khoa-van-tay-kitos"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2597-khoa-cua-kitos-kt-dl072.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2597-khoa-cua-kitos-kt-dl072.jpg",
   "price": 6050000,
   "old_price": 6900000,
   "attrs": [
@@ -5585,7 +5585,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "Philips",
-  "image": "assets/images/pdp-ddl609-gallery-1.jpg",
+  "image": "/assets/images/pdp-ddl609-gallery-1.jpg",
   "price": 4400000,
   "old_price": 5750000,
   "attrs": [
@@ -5605,7 +5605,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2358-khoa-cua-van-tay-philips-ddl615-5hbs--1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2358-khoa-cua-van-tay-philips-ddl615-5hbs--1-.jpg",
   "price": 4800000,
   "old_price": 6000000,
   "attrs": [
@@ -5625,7 +5625,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-289-khoa-cua-van-tay-philips-ddl603e-5hws.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-289-khoa-cua-van-tay-philips-ddl603e-5hws.jpg",
   "price": 6600000,
   "old_price": 8250000,
   "attrs": [
@@ -5645,7 +5645,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-574-khoa-cua-van-tay-philips-ddl610-5hbs.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-574-khoa-cua-van-tay-philips-ddl610-5hbs.jpg",
   "price": 7700000,
   "old_price": 9620000,
   "attrs": [
@@ -5665,7 +5665,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2866-khoa-cua-van-tay-philips-ddl611s-5hbs.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2866-khoa-cua-van-tay-philips-ddl611s-5hbs.jpg",
   "price": 7700000,
   "old_price": 9620000,
   "attrs": [
@@ -5685,7 +5685,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-288-khoa-cua-van-tay-philips-7300-5.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-288-khoa-cua-van-tay-philips-7300-5.jpg",
   "price": 9100000,
   "old_price": 11370000,
   "attrs": [
@@ -5705,7 +5705,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-291-kh--a-c---a-v--n-tay-alpha-5.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-291-kh--a-c---a-v--n-tay-alpha-5.png",
   "price": 10400000,
   "old_price": 13000000,
   "attrs": [
@@ -5725,7 +5725,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2347-khoa-cua-van-tay-philips-ddl801-5hbs.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2347-khoa-cua-van-tay-philips-ddl801-5hbs.jpg",
   "price": 13900000,
   "old_price": 17370000,
   "attrs": [
@@ -5745,7 +5745,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-294-khoa-cua-van-tay-philips-ddl702-1hws.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-294-khoa-cua-van-tay-philips-ddl702-1hws.jpg",
   "price": 14700000,
   "old_price": 18370000,
   "attrs": [
@@ -5765,7 +5765,7 @@
    "khoa-van-tay-philips"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2348-khoa-cua-van-tay-philips-ddl720-mvp-7hws.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2348-khoa-cua-van-tay-philips-ddl720-mvp-7hws.jpg",
   "price": 15400000,
   "old_price": 19250000,
   "attrs": [
@@ -5785,7 +5785,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-797-khoa-cua-hubert-hb-cg67-mini--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-797-khoa-cua-hubert-hb-cg67-mini--2-.jpg",
   "price": 5540000,
   "old_price": 6300000,
   "attrs": [
@@ -5805,7 +5805,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-799-khoa-hubert-hb-hb-cg62--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-799-khoa-hubert-hb-hb-cg62--2-.jpg",
   "price": 5720000,
   "old_price": 6500000,
   "attrs": [
@@ -5826,7 +5826,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-517-khoa-cua-khach-san-kassler-kl-383i.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-517-khoa-cua-khach-san-kassler-kl-383i.jpg",
   "price": 2170000,
   "old_price": 2890000,
   "attrs": [
@@ -5846,7 +5846,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-518-khoa-cua-khach-san-kassler-kl-363---1-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-518-khoa-cua-khach-san-kassler-kl-363---1-.jpg",
   "price": 2690000,
   "old_price": 3590000,
   "attrs": [
@@ -5866,7 +5866,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-516-khoa-cua-khach-san-kassler-kl-393--2-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-516-khoa-cua-khach-san-kassler-kl-393--2-.jpg",
   "price": 3670000,
   "old_price": 4890000,
   "attrs": [
@@ -5886,7 +5886,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-519-khoa-cua-khach-san-kassler-kl-353.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-519-khoa-cua-khach-san-kassler-kl-353.jpg",
   "price": 3740000,
   "old_price": 4990000,
   "attrs": [
@@ -5906,7 +5906,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-503-khoa-cua-van-tay-kassler-kl-566-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-503-khoa-cua-van-tay-kassler-kl-566-.jpg",
   "price": 4040000,
   "old_price": 5390000,
   "attrs": [
@@ -5927,7 +5927,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-885-khoa-cua-nhom-kassler-kl-68-bl-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-885-khoa-cua-nhom-kassler-kl-68-bl-.jpg",
   "price": 5540000,
   "old_price": 7390000,
   "attrs": [
@@ -5948,7 +5948,7 @@
    "khoa-van-tay-theo-loai-cua"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-502-khoa-cua-van-tay-kassler-kl-79h.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-502-khoa-cua-van-tay-kassler-kl-79h.jpg",
   "price": 5240000,
   "old_price": 6990000,
   "attrs": [
@@ -5968,7 +5968,7 @@
    "khoa-cua-van-tay-kassler"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-504-khoa-cua-van-tay-kassler-kl-666-.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-504-khoa-cua-van-tay-kassler-kl-666-.jpg",
   "price": 4420000,
   "old_price": 5890000,
   "attrs": [
@@ -5988,7 +5988,7 @@
    "khoa-cua-van-tay-kassler"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-515-kh--a-c---a-v--n-tay-kassler-kl-579-bl--2-.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-515-kh--a-c---a-v--n-tay-kassler-kl-579-bl--2-.png",
   "price": 5240000,
   "old_price": 6990000,
   "attrs": [
@@ -6008,7 +6008,7 @@
    "khoa-cua-van-tay-kassler"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-501-kassler-kl-668-600x600.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-501-kassler-kl-668-600x600.jpg",
   "price": 5390000,
   "old_price": 7190000,
   "attrs": [
@@ -6238,7 +6238,7 @@
    "sandisk-ssd"
   ],
   "brand": "SanDisk",
-  "image": "assets/images/product-cat6-sandisk-ssd.png",
+  "image": "/assets/images/product-cat6-sandisk-ssd.png",
   "price": 590000,
   "old_price": 790000,
   "attrs": [
@@ -6313,7 +6313,7 @@
    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-uh9120c.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-uh9120c.png",
   "price": null,
   "old_price": null,
   "attrs": [],
@@ -6329,7 +6329,7 @@
    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6349,7 +6349,7 @@
    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-s7.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-deco-s7.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6370,7 +6370,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm22-b220n.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm22-b220n.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6389,7 +6389,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm24-b221s.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm24-b221s.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6408,7 +6408,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph75-st470-l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph75-st470-l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6427,7 +6427,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph65-st470-l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph65-st470-l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6446,7 +6446,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-5eun.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-5eun.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6465,7 +6465,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-6un1-n-cat6-305m.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-6un1-n-cat6-305m.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6484,7 +6484,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph65-mc470-p-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph65-mc470-p-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6503,7 +6503,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph75-mc470-p-s2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lph75-mc470-p-s2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6522,7 +6522,7 @@
    "dahua-phu-kien-san-pham-khac"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm320-020en.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm320-020en.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6540,7 +6540,7 @@
    "phu-kien-dahua"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-6un1-c-cat6-ong-305m.png",
+  "image": "/assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-6un1-c-cat6-ong-305m.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6558,7 +6558,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-588-module-d--ng-cho-kh--a---i---n-t----solity-rx-710c.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-588-module-d--ng-cho-kh--a---i---n-t----solity-rx-710c.png",
   "price": 700000,
   "old_price": null,
   "attrs": [],
@@ -6574,7 +6574,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-589-module---i---u-khi---n-t----xa-kh--a---i---n-t----solity-5800.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-589-module---i---u-khi---n-t----xa-kh--a---i---n-t----solity-5800.png",
   "price": 800000,
   "old_price": null,
   "attrs": [],
@@ -6590,7 +6590,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-590---i---u-khi---n-t----xa-kh--a-c---a-solity-hg-tx210.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-590---i---u-khi---n-t----xa-kh--a-c---a-solity-hg-tx210.png",
   "price": 1100000,
   "old_price": null,
   "attrs": [],
@@ -6606,7 +6606,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-591-thi---t-b----thu-ph--t-v---tuy---n-kh--a-c---a-solity-model-gw-100.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-591-thi---t-b----thu-ph--t-v---tuy---n-kh--a-c---a-solity-model-gw-100.png",
   "price": 1600000,
   "old_price": null,
   "attrs": [],
@@ -6622,7 +6622,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "",
-  "image": "assets/images/khoa-cua-van-tay/products/250-2724-man-hinh-cam-ung-ezviz-sd7.jpg",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2724-man-hinh-cam-ung-ezviz-sd7.jpg",
   "price": 3400000,
   "old_price": null,
   "attrs": [],
@@ -6638,7 +6638,7 @@
    "phu-kien-khoa-van-tay"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat5-access-dahua3.png",
+  "image": "/assets/images/product-cat5-access-dahua3.png",
   "price": 1450000,
   "old_price": 1950000,
   "attrs": [
@@ -6657,7 +6657,7 @@
    "phu-kien-mang"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-ub500-plus.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-ub500-plus.png",
   "price": null,
   "old_price": null,
   "attrs": [],
@@ -6673,7 +6673,7 @@
    "phu-kien-mang"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-ue306.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-ue306.png",
   "price": null,
   "old_price": null,
   "attrs": [],
@@ -6689,7 +6689,7 @@
    "router-modem"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wr840n.jpg",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-tl-wr840n.jpg",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6709,7 +6709,7 @@
    "router-modem"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c54.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-archer-c54.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6728,7 +6728,7 @@
    "router-modem"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png",
   "price": null,
   "old_price": null,
   "attrs": [],
@@ -6745,7 +6745,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-itc431-rw1f-l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-itc431-rw1f-l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6765,7 +6765,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-itc852.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-itc852.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6784,7 +6784,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfa150.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfa150.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6803,7 +6803,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dhi-itale-160ba-ir8-p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dhi-itale-160ba-ir8-p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6822,7 +6822,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-8019.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-8019.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6841,7 +6841,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-st965.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-st965.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6860,7 +6860,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-cs4218-16et-190.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-cs4218-16et-190.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6879,7 +6879,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfs3006-4et-36.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfs3006-4et-36.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6898,7 +6898,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-s4100-8et2gt-96-c.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-s4100-8et2gt-96-c.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6917,7 +6917,7 @@
    "dahua-san-pham-du-an"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-nvr708ai.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-nvr708ai.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6935,7 +6935,7 @@
    "san-pham-kbvision"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-kbvision-provms.jpg",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-kbvision-provms.jpg",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6954,7 +6954,7 @@
    "kbvision-chuong-cua-man-hinh"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-kbvision-kx-vdp02hwn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-kbvision-kx-vdp02hwn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6973,7 +6973,7 @@
    "kbvision-chuong-cua-man-hinh"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-kbvision-kx-vdp11gwn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-kbvision-kx-vdp11gwn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -6993,7 +6993,7 @@
    "kbvision-dau-ghi-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a8124n2-vn.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a8124n2-vn.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7012,7 +7012,7 @@
    "kbvision-dau-ghi-ip"
   ],
   "brand": "KBVision",
-  "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a4k8114n2.png",
+  "image": "/assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a4k8114n2.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7031,7 +7031,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf110p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf110p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7050,7 +7050,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf106p.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf106p.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7069,7 +7069,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-the-nho-imou.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-the-nho-imou.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7088,7 +7088,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-rv-l11-a.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-rv-l11-a.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7107,7 +7107,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-k2c.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-k2c.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7126,7 +7126,7 @@
    "imou-san-pham-khac"
   ],
   "brand": "Imou",
-  "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-cl1b-5-e27.png",
+  "image": "/assets/images/camera-giam-sat/outbox/san-pham-khac-imou-cl1b-5-e27.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7144,7 +7144,7 @@
    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7163,7 +7163,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8et2gt-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8et2gt-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7182,7 +7182,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4228-24gt-240.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4228-24gt-240.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7201,7 +7201,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4220-16gt-135.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4220-16gt-135.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7220,7 +7220,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8gt-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8gt-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7239,7 +7239,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-s3010-8et2et-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-s3010-8et2et-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7258,7 +7258,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-s3006-4et-36.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-s3006-4et-36.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7277,7 +7277,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4006-4et2et-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4006-4et2et-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7296,7 +7296,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4006-4gt-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4006-4gt-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7315,7 +7315,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1005l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1005l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7334,7 +7334,7 @@
    "dahua-switch"
   ],
   "brand": "Dahua",
-  "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1008l.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1008l.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7353,7 +7353,7 @@
    "kabe-vision-switch"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5121-8m-60-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5121-8m-60-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7372,7 +7372,7 @@
    "kabe-vision-switch"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5337-16m-135-pma.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5337-16m-135-pma.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7391,7 +7391,7 @@
    "kabe-vision-switch"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw810-60.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw810-60.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7410,7 +7410,7 @@
    "kabe-vision-switch"
   ],
   "brand": "KabeVision",
-  "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw406-36.png",
+  "image": "/assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw406-36.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -7428,7 +7428,7 @@
    "wi-fi-di-dong"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -8329,7 +8329,7 @@
    "tp-link-mesh-wi-fi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/product-cat2-tplink-mesh.png",
+  "image": "/assets/images/product-cat2-tplink-mesh.png",
   "price": 1890000,
   "old_price": 2590000,
   "attrs": [
@@ -8527,7 +8527,7 @@
    "tp-link-router-wi-fi"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/product-cat2-tplink-router.png",
+  "image": "/assets/images/product-cat2-tplink-router.png",
   "price": 1690000,
   "old_price": 2290000,
   "attrs": [
@@ -9050,7 +9050,7 @@
    "tp-link-wi-fi-di-dong"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/product-cat2-tplink-mobile.jpg",
+  "image": "/assets/images/product-cat2-tplink-mobile.jpg",
   "price": 1190000,
   "old_price": 1590000,
   "attrs": [
@@ -9069,7 +9069,7 @@
    "wi-fi-di-dong"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-e4.png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-deco-e4.png",
   "price": null,
   "old_price": null,
   "attrs": [
@@ -9683,7 +9683,7 @@
    "tp-link-thiet-bi-mo-rong-mang"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/product-cat2-tplink-extender.png",
+  "image": "/assets/images/product-cat2-tplink-extender.png",
   "price": 990000,
   "old_price": 1350000,
   "attrs": [
@@ -9702,7 +9702,7 @@
    "cham-cong-kiem-soat-ra-vao-dahua"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat5-access-dahua2.png",
+  "image": "/assets/images/product-cat5-access-dahua2.png",
   "price": 3290000,
   "old_price": 4600000,
   "attrs": [
@@ -9722,7 +9722,7 @@
    "cham-cong-kiem-soat-ra-vao-dahua"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat5-access-dahua1.png",
+  "image": "/assets/images/product-cat5-access-dahua1.png",
   "price": 3690000,
   "old_price": 5200000,
   "attrs": [
@@ -9742,7 +9742,7 @@
    "cham-cong-kiem-soat-ra-vao-dahua"
   ],
   "brand": "Dahua",
-  "image": "assets/images/product-cat5-access-dahua4.png",
+  "image": "/assets/images/product-cat5-access-dahua4.png",
   "price": 5690000,
   "old_price": 7900000,
   "attrs": [
@@ -9762,7 +9762,7 @@
    "cham-cong-kiem-soat-ra-vao-kabevision"
   ],
   "brand": "Kabevision",
-  "image": "assets/images/product-cat5-access-kabevision.png",
+  "image": "/assets/images/product-cat5-access-kabevision.png",
   "price": 2690000,
   "old_price": 3790000,
   "attrs": [
@@ -9781,7 +9781,7 @@
    "tp-link-modem-gateway"
   ],
   "brand": "TP-Link",
-  "image": "assets/images/product-cat2-tplink-modem.jpg",
+  "image": "/assets/images/product-cat2-tplink-modem.jpg",
   "price": 890000,
   "old_price": 1190000,
   "attrs": [

@@ -13,7 +13,7 @@
   "old_price": null,
   "vat": false,
   "images": [
-    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfs3006-4et-36.png"
+    "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dh-pfs3006-4et-36.png"
   ],
   "summary": [
     "· Support four 10/100M PoE power supply ports, and two 10/100M uplink ports",

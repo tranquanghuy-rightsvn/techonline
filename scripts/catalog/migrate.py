@@ -75,6 +75,11 @@ def money(s):
     return int(digits) if digits else None
 
 
+def asset(src):
+    """GAS.md XII: repo images are stored as /assets/..., external ones as absolute URLs."""
+    return src if src.startswith(("http://", "https://", "/")) else "/" + src
+
+
 def slugify(s):
     s = s.replace("đ", "d").replace("Đ", "D")
     s = unicodedata.normalize("NFKD", s)
@@ -121,8 +126,8 @@ def parse_product(slug, s):
 
     thumbs = re.findall(r'class="pdp-gallery__thumb[^"]*"\s+data-src="([^"]*)"', s)
     main_img = g(r'id="js-gallery-main-img"\s+src="([^"]*)"').group(1)
-    p["images"] = thumbs or [main_img]
-    if p["images"][0] != main_img:
+    p["images"] = [asset(x) for x in (thumbs or [main_img])]
+    if p["images"][0] != asset(main_img):
         warn(f"{slug}: main image differs from first thumb")
 
     ul = g(r'<ul class="pdp-summary__list"[^>]*>(.*?)</ul>').group(1)
@@ -153,7 +158,7 @@ def parse_product(slug, s):
     # extras found only on the hand-made DDL609 page
     sw = re.findall(r'class="pdp-color__swatch[^"]*"\s+style="background:\s*([^"]*)"\s+data-color="([^"]*)"\s+data-img="([^"]*)"', s)
     if sw:
-        p["colors"] = [{"name": H.unescape(n), "hex": hx.strip(), "image": im} for hx, n, im in sw]
+        p["colors"] = [{"name": H.unescape(n), "hex": hx.strip(), "image": asset(im)} for hx, n, im in sw]
     reviews = []
     for it in re.findall(r'<div class="pdp-reviews__item">(.*?)</div>', s, re.S):
         nm = text(re.search(r'pdp-reviews__name">(.*?)</p>', it, re.S).group(1))
@@ -249,7 +254,7 @@ for g_ in groups:
         lock_only[slug] = OrderedDict(
             slug=slug, name=nm, brand="", sku="", warranty="", stock="Còn hàng",
             price=money(c.get("price", "")), old_price=money(c.get("oldPrice") or ""), vat=False,
-            images=[c["image"]], summary=[], offers=[], specs=[], description_html="",
+            images=[asset(c["image"])], summary=[], offers=[], specs=[], description_html="",
             seo_description="", breadcrumb=None, _similar=None, _sim_attrs={},
             _discount_text=c.get("discount", ""))
 print(f"lock-only products (no page yet): {len(lock_only)}")
@@ -315,7 +320,7 @@ for page, (layout, s, gl, strip) in cat_pages.items():
         order += 1
         cats[child]["parent"] = page
         cats[child]["order"] = order
-        cats[child]["image"] = images.get(label, "")
+        cats[child]["image"] = asset(images[label]) if images.get(label) else ""
     for g_ in gl:
         if g_["title"] not in labels:
             warn(f"{page}: group {g_['title']} has no icon")

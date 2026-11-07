@@ -13,7 +13,7 @@
   "old_price": null,
   "vat": false,
   "images": [
-    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dhi-itale-160ba-ir8-p.png"
+    "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-dhi-itale-160ba-ir8-p.png"
   ],
   "summary": [
     "· O&M: Supports displaying equipment online status, fault status, working status, equipment power, equipment temperature, equipment photosensitive value and other operation and maintenance status information of the illuminator in real time through RS485 on Dahua cameras or intelligent cabinets.",

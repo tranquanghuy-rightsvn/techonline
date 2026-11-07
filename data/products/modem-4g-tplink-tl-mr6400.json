@@ -12,7 +12,7 @@
   "old_price": 1190000,
   "vat": true,
   "images": [
-    "assets/images/product-cat2-tplink-modem.jpg"
+    "/assets/images/product-cat2-tplink-modem.jpg"
   ],
   "summary": [
     "Router Wi-Fi 4G LTE Chuẩn N 300 Mbps",

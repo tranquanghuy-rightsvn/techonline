@@ -12,7 +12,7 @@
   "old_price": 1350000,
   "vat": true,
   "images": [
-    "assets/images/product-cat2-tplink-extender.png"
+    "/assets/images/product-cat2-tplink-extender.png"
   ],
   "summary": [
     "Bộ mở rộng sóng Wi-Fi 7 băng tần kép BE3600",

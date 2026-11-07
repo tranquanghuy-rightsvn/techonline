@@ -12,7 +12,7 @@
   "old_price": 1650000,
   "vat": true,
   "images": [
-    "assets/images/product-cat1-imou.png"
+    "/assets/images/product-cat1-imou.png"
   ],
   "summary": [
     "Camera wifi trong nhà quay quét 8.0MP",

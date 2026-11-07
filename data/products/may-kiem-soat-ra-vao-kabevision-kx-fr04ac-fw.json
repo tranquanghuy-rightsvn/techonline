@@ -12,7 +12,7 @@
   "old_price": 3790000,
   "vat": true,
   "images": [
-    "assets/images/product-cat5-access-kabevision.png"
+    "/assets/images/product-cat5-access-kabevision.png"
   ],
   "summary": [
     "Thiết bị kiểm soát ra vào nhận diện khuôn mặt",

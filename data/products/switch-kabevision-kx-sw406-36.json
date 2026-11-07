@@ -13,7 +13,7 @@
   "old_price": null,
   "vat": false,
   "images": [
-    "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw406-36.png"
+    "/assets/images/camera-giam-sat/outbox/switch-kabevision-kx-sw406-36.png"
   ],
   "summary": [
     "Switch PoE 4 port (Hỗ trợ 2 cổng mạng uplink)",

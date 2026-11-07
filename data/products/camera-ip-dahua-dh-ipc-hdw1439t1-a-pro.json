@@ -13,7 +13,7 @@
   "old_price": 1780000,
   "vat": true,
   "images": [
-    "assets/images/product-cat1-dahua-ip.png"
+    "/assets/images/product-cat1-dahua-ip.png"
   ],
   "summary": [
     "Camera Dome cố định 4.0MP có mic",

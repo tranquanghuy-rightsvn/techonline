@@ -13,7 +13,7 @@
   "old_price": null,
   "vat": false,
   "images": [
-    "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-nvr708ai.png"
+    "/assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-nvr708ai.png"
   ],
   "summary": [
     "· Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats.",

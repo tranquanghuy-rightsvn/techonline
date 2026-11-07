@@ -13,7 +13,7 @@
   "old_price": 980000,
   "vat": true,
   "images": [
-    "assets/images/product-cat1-dahua-wifi.png"
+    "/assets/images/product-cat1-dahua-wifi.png"
   ],
   "summary": [
     "Camera WiFi quay quét trong nhà 5MP",

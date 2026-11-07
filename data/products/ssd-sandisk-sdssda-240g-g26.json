@@ -13,7 +13,7 @@
   "old_price": 790000,
   "vat": true,
   "images": [
-    "assets/images/product-cat6-sandisk-ssd.png"
+    "/assets/images/product-cat6-sandisk-ssd.png"
   ],
   "summary": [
     "Dung lượng: 240GB",

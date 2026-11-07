@@ -12,7 +12,7 @@
   "old_price": 1950000,
   "vat": true,
   "images": [
-    "assets/images/product-cat5-access-dahua3.png"
+    "/assets/images/product-cat5-access-dahua3.png"
   ],
   "summary": [
     "Module mở rộng QR Code và vân tay dành cho thiết bị kiểm soát ra vào",

@@ -12,10 +12,10 @@
   "old_price": 5750000,
   "vat": true,
   "images": [
-    "assets/images/pdp-ddl609-gallery-1.jpg",
-    "assets/images/pdp-ddl609-gallery-2.jpg",
-    "assets/images/pdp-ddl609-gallery-3.png",
-    "assets/images/pdp-ddl609-gallery-4.png"
+    "/assets/images/pdp-ddl609-gallery-1.jpg",
+    "/assets/images/pdp-ddl609-gallery-2.jpg",
+    "/assets/images/pdp-ddl609-gallery-3.png",
+    "/assets/images/pdp-ddl609-gallery-4.png"
   ],
   "summary": [
     "Phương thức mở khóa: Vân tay, mã số, thẻ từ, chìa cơ",
@@ -105,12 +105,12 @@
     {
       "name": "Đen",
       "hex": "#333333",
-      "image": "assets/images/pdp-ddl609-gallery-1.jpg"
+      "image": "/assets/images/pdp-ddl609-gallery-1.jpg"
     },
     {
       "name": "Đồng đỏ",
       "hex": "#ffcc99",
-      "image": "assets/images/pdp-ddl609-gallery-1.jpg"
+      "image": "/assets/images/pdp-ddl609-gallery-1.jpg"
     }
   ],
   "reviews": [
