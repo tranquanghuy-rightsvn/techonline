@@ -1,74 +1,83 @@
 [
-  {
-    "slug": "an-ninh-thai-nguyen-chinh-thuc-ra-mat-website",
-    "title": "An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn",
-    "category": "tin-tuc-cong-ty",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-an-ninh-thai-nguyen-chinh-thuc-ra-mat-website.jpg",
-    "description": "Website anninhthainguyen.vn chính thức đi vào hoạt động, giúp khách hàng tra cứu sản phẩm, xem giá và đặt mua thiết bị an ninh nhanh chóng, thuận tiện mọi lúc mọi nơi.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "cach-chon-vi-tri-lap-dat-camera-an-ninh",
-    "title": "Cách chọn vị trí lắp đặt camera an ninh cho gia đình",
-    "category": "huong-dan",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-cach-chon-vi-tri-lap-dat-camera-an-ninh.jpg",
-    "description": "Lắp camera đúng chỗ quan trọng không kém việc chọn camera tốt. Bài viết tổng hợp những vị trí nên lắp, chiều cao, góc quay và các lỗi thường gặp cần tránh.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "camera-ai-la-gi",
-    "title": "Camera AI là gì? Những tính năng thông minh đáng chú ý",
-    "category": "tin-cong-nghe",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-camera-ai-la-gi.jpg",
-    "description": "Camera AI có thể nhận diện người, phương tiện và cảnh báo xâm nhập chính xác hơn nhiều so với camera thông thường. Cùng tìm hiểu cách hoạt động và những tính năng nổi bật.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "kinh-nghiem-chon-camera-cho-gia-dinh",
-    "title": "Kinh nghiệm chọn mua camera giám sát cho gia đình",
-    "category": "tu-van-lua-chon",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-kinh-nghiem-chon-camera-cho-gia-dinh.jpg",
-    "description": "Độ phân giải, góc nhìn, hồng ngoại, lưu trữ, ứng dụng… Đây là những tiêu chí quan trọng bạn nên xem xét trước khi mua camera cho ngôi nhà của mình.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "camera-ip-va-camera-analog-nen-chon-loai-nao",
-    "title": "Camera IP và camera Analog: nên chọn loại nào?",
-    "category": "tin-cong-nghe",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-camera-ip-va-camera-analog-nen-chon-loai-nao.jpg",
-    "description": "So sánh chi tiết camera IP và camera Analog (HDCVI/AHD/TVI) về chất lượng hình ảnh, chi phí, khả năng mở rộng để chọn hệ thống phù hợp với nhu cầu và ngân sách.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "huong-dan-xem-lai-camera-tren-dien-thoai",
-    "title": "Hướng dẫn xem lại camera trên điện thoại nhanh chóng",
-    "category": "huong-dan",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-huong-dan-xem-lai-camera-tren-dien-thoai.jpg",
-    "description": "Các bước xem lại, tìm kiếm và lưu video đã ghi trên điện thoại, áp dụng cho hầu hết ứng dụng camera phổ biến, kèm cách xử lý khi không xem lại được.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "camera-wifi-dung-pin-co-tot-khong",
-    "title": "Camera wifi dùng pin có tốt không? Ưu nhược điểm cần biết",
-    "category": "tu-van-lua-chon",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-camera-wifi-dung-pin-co-tot-khong.jpg",
-    "description": "Camera dùng pin không cần đi dây, lắp đặt linh hoạt và vẫn hoạt động khi mất điện. Tuy nhiên đây không phải giải pháp phù hợp cho mọi trường hợp.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  },
-  {
-    "slug": "huong-dan-cai-dat-camera-imou-tren-dien-thoai",
-    "title": "Hướng dẫn cài đặt camera IMOU trên điện thoại",
-    "category": "huong-dan",
-    "date": "2026-11-08",
-    "cover": "/assets/images/news-huong-dan-cai-dat-camera-imou-tren-dien-thoai.jpg",
-    "description": "Hướng dẫn chi tiết từng bước cài đặt camera IMOU bằng ứng dụng Imou Life: thêm thiết bị, kết nối wifi, thiết lập thẻ nhớ, cảnh báo và chia sẻ quyền xem cho người thân.",
-    "updated_at": "2026-11-07T00:00:00Z"
-  }
+ {
+  "slug": "vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh",
+  "title": "VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH",
+  "category": "tu-van-lua-chon",
+  "date": "2026-11-08",
+  "cover": "/assets/img/posts/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/cover.jpg",
+  "description": "Trong lĩnh vực bảo vệ chuyên nghiệp, bộ đàm cầm tay không đơn thuần là thiết bị liên lạc mà còn là công cụ điều hành, phối hợp và xử lý tình huống an ninh quan trọng. Đây là phương tiện giúp lực lượng bảo vệ duy trì kết nối liên tục, phản ứng nhanh và đảm bảo an toàn cho con người, tài sản cũng như hoạt động của đơn vị.",
+  "updated_at": "2026-11-08T07:12:24Z"
+ },
+ {
+  "slug": "an-ninh-thai-nguyen-chinh-thuc-ra-mat-website",
+  "title": "An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn",
+  "category": "tin-tuc-cong-ty",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-an-ninh-thai-nguyen-chinh-thuc-ra-mat-website.jpg",
+  "description": "Website anninhthainguyen.vn chính thức đi vào hoạt động, giúp khách hàng tra cứu sản phẩm, xem giá và đặt mua thiết bị an ninh nhanh chóng, thuận tiện mọi lúc mọi nơi.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "cach-chon-vi-tri-lap-dat-camera-an-ninh",
+  "title": "Cách chọn vị trí lắp đặt camera an ninh cho gia đình",
+  "category": "huong-dan",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-cach-chon-vi-tri-lap-dat-camera-an-ninh.jpg",
+  "description": "Lắp camera đúng chỗ quan trọng không kém việc chọn camera tốt. Bài viết tổng hợp những vị trí nên lắp, chiều cao, góc quay và các lỗi thường gặp cần tránh.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "camera-ai-la-gi",
+  "title": "Camera AI là gì? Những tính năng thông minh đáng chú ý",
+  "category": "tin-cong-nghe",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-camera-ai-la-gi.jpg",
+  "description": "Camera AI có thể nhận diện người, phương tiện và cảnh báo xâm nhập chính xác hơn nhiều so với camera thông thường. Cùng tìm hiểu cách hoạt động và những tính năng nổi bật.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "kinh-nghiem-chon-camera-cho-gia-dinh",
+  "title": "Kinh nghiệm chọn mua camera giám sát cho gia đình",
+  "category": "tu-van-lua-chon",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-kinh-nghiem-chon-camera-cho-gia-dinh.jpg",
+  "description": "Độ phân giải, góc nhìn, hồng ngoại, lưu trữ, ứng dụng… Đây là những tiêu chí quan trọng bạn nên xem xét trước khi mua camera cho ngôi nhà của mình.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "camera-ip-va-camera-analog-nen-chon-loai-nao",
+  "title": "Camera IP và camera Analog: nên chọn loại nào?",
+  "category": "tin-cong-nghe",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-camera-ip-va-camera-analog-nen-chon-loai-nao.jpg",
+  "description": "So sánh chi tiết camera IP và camera Analog (HDCVI/AHD/TVI) về chất lượng hình ảnh, chi phí, khả năng mở rộng để chọn hệ thống phù hợp với nhu cầu và ngân sách.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "huong-dan-xem-lai-camera-tren-dien-thoai",
+  "title": "Hướng dẫn xem lại camera trên điện thoại nhanh chóng",
+  "category": "huong-dan",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-huong-dan-xem-lai-camera-tren-dien-thoai.jpg",
+  "description": "Các bước xem lại, tìm kiếm và lưu video đã ghi trên điện thoại, áp dụng cho hầu hết ứng dụng camera phổ biến, kèm cách xử lý khi không xem lại được.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "camera-wifi-dung-pin-co-tot-khong",
+  "title": "Camera wifi dùng pin có tốt không? Ưu nhược điểm cần biết",
+  "category": "tu-van-lua-chon",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-camera-wifi-dung-pin-co-tot-khong.jpg",
+  "description": "Camera dùng pin không cần đi dây, lắp đặt linh hoạt và vẫn hoạt động khi mất điện. Tuy nhiên đây không phải giải pháp phù hợp cho mọi trường hợp.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ },
+ {
+  "slug": "huong-dan-cai-dat-camera-imou-tren-dien-thoai",
+  "title": "Hướng dẫn cài đặt camera IMOU trên điện thoại",
+  "category": "huong-dan",
+  "date": "2026-11-08",
+  "cover": "/assets/images/news-huong-dan-cai-dat-camera-imou-tren-dien-thoai.jpg",
+  "description": "Hướng dẫn chi tiết từng bước cài đặt camera IMOU bằng ứng dụng Imou Life: thêm thiết bị, kết nối wifi, thiết lập thẻ nhớ, cảnh báo và chia sẻ quyền xem cho người thân.",
+  "updated_at": "2026-11-07T00:00:00Z"
+ }
 ]
