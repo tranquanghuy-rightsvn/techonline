@@ -139,7 +139,7 @@
 .search-page__input:focus {
   border-color: var(--color-brand-blue);
   outline: none;
-  box-shadow: 0 0 0 3px rgba(0, 100, 189, 0.15);
+  box-shadow: none;
 }
 
 .search-page__btn {

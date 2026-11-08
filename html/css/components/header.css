@@ -181,6 +181,17 @@
   background: transparent;
 }
 
+.site-header__search-input:focus,
+.site-header__search-input:focus-visible {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Bỏ viền focus mặc định của ô nhập; thay bằng đổi màu viền khung tìm kiếm cho nhẹ nhàng. */
+.site-header__search:focus-within {
+  border-color: var(--color-brand-blue);
+}
+
 .site-header__search-input::placeholder {
   color: var(--color-text-muted);
 }
