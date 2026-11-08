@@ -402,6 +402,7 @@ check('mail liên hệ: mẫu email.html, logo cid, escape dữ liệu khách, k
   assert(m.htmlBody.includes('href="tel:0933111222"') && m.htmlBody.includes('href="mailto:b@y.vn"'));
   assert(m.htmlBody.includes('Dòng 1\nDòng 2') && m.htmlBody.includes('LIÊN HỆ MỚI'));
   assert(/Nội dung:\nDòng 1/.test(m.body) && !/<\?/.test(m.htmlBody), 'bản chữ thường / scriptlet sót');
+  { const hb = m.htmlBody.replace(/<!--[\s\S]*?-->/g, ''); const z = hb.search(/zautoescz|zSafehtmlz/i); assert(z < 0, 'HtmlService lọc mất link/style: ' + hb.slice(Math.max(0, z - 160), z + 12)); }
 });
 check('honeypot _hp: trả ok nhưng không lưu', () => {
   const sh = spreadsheet.sheets.find((s) => s.getName() === 'Contacts');

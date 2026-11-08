@@ -42,14 +42,17 @@ const Utilities = {
   computeDigest: () => [1, 2, 3, 4, 5, 6],
 };
 
-/** Dịch template HtmlService: <?= x ?> (escape HTML), <?!= x ?> (thô), <? code ?>. Biến = thuộc tính của template. */
+/** Dịch template HtmlService: <?= x ?> (escape HTML), <?!= x ?> (thô), <? code ?>. Biến = thuộc tính của template.
+ *  Giả lập cả việc LỌC THEO NGỮ CẢNH của <?= ?> (như GAS thật, kiểu Closure autoescape): ở ĐẦU href/src chỉ nhận
+ *  http(s)/mailto/ftp hoặc link tương đối, còn lại -> "#zautoescz" (cid:, tel: bị chặn); trong style="" chỉ nhận
+ *  1 giá trị CSS đơn (không ":" ";" khoảng trắng) -> "zSafehtmlz". */
 function renderGasTemplate(file, vars) {
   const src = fs.readFileSync(file, 'utf8');
   let js = 'let __o = "";\n';
   let last = 0;
   src.replace(/<\?(!=|=)?([\s\S]*?)\?>/g, (m, kind, code, i) => {
     js += '__o += ' + JSON.stringify(src.slice(last, i)) + ';\n';
-    if (kind === '=') js += '__o += __esc(' + code + ');\n';
+    if (kind === '=') js += '__o += __ctx(__o, ' + code + ');\n';
     else if (kind === '!=') js += '__o += String(' + code + ');\n';
     else js += code + '\n';
     last = i + m.length;
@@ -57,8 +60,20 @@ function renderGasTemplate(file, vars) {
   });
   js += '__o += ' + JSON.stringify(src.slice(last)) + ';\nreturn __o;';
   const esc = (v) => String(v == null ? '' : v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  const ctx = (out, v) => {
+    const sv = String(v == null ? '' : v);
+    const url = out.match(/\b(?:href|src)\s*=\s*"([^"]*)$/i);
+    if (url) {
+      if (url[1] === '') return /^(?:(?:https?|mailto|ftp):|[^&:\/?#]*(?:[\/?#]|$))/i.test(sv) ? esc(sv) : '#zautoescz';
+      return encodeURI(sv).replace(/'/g, '%27');
+    }
+    if (/\bstyle\s*=\s*"[^"]*$/i.test(out)) {
+      return /^(?:[.#]?-?[_a-z0-9-]+|-?(?:\d+(?:\.\d*)?|\.\d+)(?:[a-z]{1,2}|%)?|!important|)$/i.test(sv) ? sv : 'zSafehtmlz';
+    }
+    return esc(sv);
+  };
   const names = Object.keys(vars).filter((k) => k !== 'evaluate');
-  return new Function('__esc', ...names, js)(esc, ...names.map((k) => vars[k]));
+  return new Function('__ctx', ...names, js)(ctx, ...names.map((k) => vars[k]));
 }
 
 function response(code, body, contentType) {

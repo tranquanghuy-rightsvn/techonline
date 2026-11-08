@@ -201,6 +201,10 @@ Menu (`menu-data.js`) vẫn sửa tay.
   trang" chỉ khi là đường dẫn nội bộ `/...` (`sitePageUrl_`), link sản phẩm chỉ khi slug có trong
   `products.json`.
 - Kiểm thử: harness dịch `email.html` thật (`renderGasTemplate`), test-api kiểm logo/escape/link/nội dung.
+- **Bẫy HtmlService (lỗi thật 08/11/2026: logo ra `src="#zautoescz"`):** `<?= ?>` trong `href`/`src`/`style` còn lọc theo
+  ngữ cảnh — link `cid:`/`tel:` ở đầu thuộc tính bị thay bằng `#zautoescz`, giá trị CSS có `:`/`;` thành `zSafehtmlz`.
+  Quy ước: link luôn in bằng `<?!= d.url(x) ?>` (`emailUrlAttr_`: chỉ http(s)/mailto/tel/cid + escape), màu bằng
+  `<?!= d.color(x) ?>`, chuỗi style cố định bằng `<?!= ?>`. Harness giả lập việc lọc này nên test sẽ bắt lỗi tái phát.
 
 ## VIII. Kiến trúc lưu trữ (tên cố định)
 
