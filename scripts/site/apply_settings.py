@@ -33,7 +33,8 @@ def current_values():
     except OSError:
         s = ""
     m = re.search(r'class="site-header__pill" href="tel:([^"]*)">.*?<span>Hotline ([^<]*)</span>', s, re.S)
-    brand = re.search(r'<h3 class="site-footer__title">([^<]*)</h3>', s)
+    brand = (re.search(r'<h3 class="site-footer__title site-footer__brand">.*?\balt="([^"]*)"', s, re.S)
+             or re.search(r'<h3 class="site-footer__title">([^<]*)</h3>', s))
     mail = re.search(r'<a href="mailto:([^"]+)">Email:', s)
     return {
         "brand": H.unescape(brand.group(1)) if brand else DEFAULTS["brand"],
@@ -102,7 +103,16 @@ def structural(s):
     s = re.sub(r'(class="site-header__logo"[^>]*>\s*<img\b[^>]*?\bsrc=")[^"]*(")',
                lambda m: m.group(1) + esc(rel(S["logo"])) + m.group(2), s, count=1)
 
-    # footer, column 1
+    # footer, column 1: tiêu đề cột đầu = logo (khách chốt 08/11/2026). Idempotent: bản đã đổi thì chỉ cập nhật src/alt.
+    logo_h3 = (f'<h3 class="site-footer__title site-footer__brand"><a href="/" aria-label="{esc(S["brand"])} - về trang chủ">'
+               f'<img src="{esc(rel(S["logo"]))}" alt="{esc(S["brand"])}" width="164" height="48" loading="lazy"></a></h3>')
+    foot = s.find("<footer")
+    if foot != -1:
+        head, tail = s[:foot], s[foot:]
+        tail = re.sub(r'<h3 class="site-footer__title site-footer__brand">.*?</h3>|<h3 class="site-footer__title">[^<]*</h3>',
+                      lambda m: logo_h3, tail, count=1, flags=re.S)
+        s = head + tail
+
     def footer_intro(m):
         ind = m.group(3)
         extra = ""

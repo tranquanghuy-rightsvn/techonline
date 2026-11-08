@@ -256,3 +256,19 @@
     padding: var(--space-3) var(--container-pad);
   }
 }
+
+/* -- Logo thay cho tiêu đề cột 1 (apply_settings.py) ---------------------- */
+.site-footer__brand {
+  margin-bottom: var(--space-3);
+  line-height: 0;
+}
+
+.site-footer__brand a {
+  display: inline-block;
+}
+
+.site-footer__brand img {
+  display: block;
+  height: 48px;
+  width: auto;
+}
