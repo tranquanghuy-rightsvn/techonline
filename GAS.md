@@ -7,8 +7,9 @@
 > (API cho AI chạy trên máy khách — GAS.md mục XIX/XX của dự án đó).
 >
 > Chốt với khách 07/11/2026: phạm vi = tin tức + danh mục tin, sản phẩm + danh mục sản phẩm, liên
-> hệ, đơn hàng, người dùng, trang hướng dẫn API cho AI; 3 cấp quyền; AI = **OpenAI** (KHÔNG dùng
-> Claude, KHÔNG dùng Gemini) bằng key OpenAI của khách; KHÔNG có Smart content tự động ban đêm.
+> hệ, đơn hàng, người dùng, trang hướng dẫn API cho AI; 3 cấp quyền; AI = **Google Gemini** bằng key
+> Gemini API của khách (08/11/2026 khách đổi từ OpenAI sang Gemini vì đang dùng Gemini Pro; KHÔNG dùng
+> Claude, KHÔNG còn OpenAI); KHÔNG có Smart content tự động ban đêm.
 
 ## 0. Phạm vi
 
@@ -47,7 +48,7 @@ Tài liệu API cho AI: `https://anninhthainguyen.vn/admin/api/`.
    | Smart content, Viết bài bằng AI | ✔ | ✔ | ✔ |
    | Liên hệ, Đơn hàng (xem, đổi trạng thái, ghi chú, xoá) | ✘ | ✔ | ✔ |
    | Người dùng (thêm/sửa/xoá `admin`/`editor`) | ✘ | ✔ | ✔ |
-   | Thông tin website, cấu hình OpenAI, khoá kết nối AI | ✘ | ✔ | ✔ |
+   | Thông tin website, cấu hình AI (Gemini), khoá kết nối AI | ✘ | ✔ | ✔ |
 
    - `root` không cấp/sửa/xoá qua CMS. Không ai tự sửa/xoá tài khoản của chính mình.
 5. OTP sống 10 phút, cooldown 60 giây/email, sai 5 lần phải xin mã mới. Token sống 30 ngày,
@@ -95,9 +96,9 @@ sẻ mặc định, banner slide trang chủ (≤ 10: ảnh + link), 4 ô khuy�
 Thiếu field = dùng mặc định trong build (nội dung site hiện tại). Địa chỉ có giá trị → JSON-LD
 Organization chuyển thành `LocalBusiness`.
 
-## II-D. Smart content + Viết bài bằng AI (OpenAI)
+## II-D. Smart content + Viết bài bằng AI (Gemini)
 
-Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là OpenAI**.
+Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là Google Gemini** (trước 08/11/2026 là OpenAI).
 
 1. Field `smart` trong file chi tiết bài viết/sản phẩm: `{html, css, mode, instructions,
    versions[{id, time, note, html, css}]}` — giữ 5 phiên bản, tổng ≤ ~600KB. `content_html`
@@ -114,11 +115,16 @@ Port ý tưởng adzo mục II-D + dolphinehouse mục XX, **AI duy nhất là O
    hạn 6 phút) → thay nội dung ô soạn thảo, KHÔNG tự Lưu. Ảnh chỉ từ ảnh đã có trong nội dung + ≤ 14
    ảnh thư viện gần chủ đề. Link nội bộ ≤ 12 ứng viên, ≤ 1 link/mục, bài viết bắt buộc ≥ 2 link nội
    bộ. Không bịa giá/khuyến mãi/bảo hành/số liệu.
-4. Gọi OpenAI: client → hàm server → `UrlFetchApp` tới `https://api.openai.com/v1/responses`
-   (Structured Outputs `text.format: json_schema`), không stream. Ảnh gửi dạng URL công khai
-   (raw.githubusercontent.com) hoặc data URL ≤ 1,5MB. Server không lưu gì ở bước gọi AI.
-5. Chi phí: dùng THẲNG key OpenAI của khách (OpenAI tính tiền vào tài khoản khách). Admin hiện số
-   token đã dùng (cộng dồn `OPENAI_USAGE` theo tháng) để theo dõi, KHÔNG có số dư/hệ số bán.
+4. Gọi Gemini: client → hàm server (`aiJson_`) → `UrlFetchApp` tới
+   `https://generativelanguage.googleapis.com/v1beta/models/<model>:generateContent` (key ở header
+   `x-goog-api-key`, KHÔNG để trong URL), `generationConfig.responseMimeType = application/json` +
+   `responseSchema` (`geminiSchema_`: type viết HOA, object nào cũng `required` đủ key + `propertyOrdering`),
+   `systemInstruction` = prompt hệ thống, không stream. Ảnh gửi `inlineData` base64 (từ data URL ≤ 1,5MB).
+   Bỏ phần `thought` của model suy luận; `finishReason` MAX_TOKENS → báo "bị cắt", SAFETY/… hoặc
+   `promptFeedback.blockReason` → báo "từ chối". Server không lưu gì ở bước gọi AI.
+5. Chi phí: dùng THẲNG key Gemini API của khách (tạo ở aistudio.google.com/apikey; gói Gemini Pro trong
+   app Gemini KHÔNG kèm key API — key có hạn mức miễn phí, bật thanh toán ở AI Studio để dùng nhiều). Admin hiện
+   số token đã dùng (cộng dồn `AI_USAGE` theo tháng, gồm cả token suy luận) để theo dõi, KHÔNG có số dư/hệ số bán.
 6. Smart content tự động ban đêm: **KHÔNG** (khách chốt 07/11/2026).
 7. Build: có `smart.html` thì trang dùng nó thay nội dung gốc, bọc `<div class="smc-root smc-a">`,
    nạp `/css/smart.css` + `<style>` đã gắn phạm vi `.smc-a.smc-a.smc-a` + `/js/smart.js`. Hàm gắn
@@ -253,10 +259,13 @@ Menu (`menu-data.js`) vẫn sửa tay.
   (`tranquanghuy-rightsvn`), `GITHUB_REPO` (`techonline`), `GITHUB_BRANCH` (`master`) — bắt buộc.
 - `SPREADSHEET_ID` — KHÔNG điền, code tự tạo.
 - `NOTIFY_EMAIL` — nhận mail liên hệ/đơn hàng mới (tuỳ chọn).
-- `OPENAI_API_KEY` — key OpenAI của khách. Nhập ở tab "Thông tin website" → thẻ "AI (OpenAI)"
-  (gọi thử rồi mới lưu, chỉ hiện bản che). `OPENAI_MODEL` — model, chỉnh cùng thẻ đó (mặc định
-  `gpt-5` — tầm trung, khách muốn ~ Claude Sonnet; ô gõ tự do + gợi ý có ghi chú hạng + nút "Tải danh sách
-  từ OpenAI" gọi `GET /v1/models` bằng key khách, `listOpenAiModels`). `OPENAI_USAGE` — JSON số token đã dùng theo tháng (code tự ghi).
+- `GEMINI_API_KEY` — key Gemini API của khách. Nhập ở tab "Thông tin website" → thẻ "AI (Google Gemini)"
+  (gọi thử rồi mới lưu, chỉ hiện bản che). `GEMINI_MODEL` — model, chỉnh cùng thẻ đó. Để trống khi lưu =
+  giữ model đang dùng; chưa có thì tự chọn bản **Pro chính thức mới nhất** key dùng được (`pickGeminiPro_`,
+  khách dùng Gemini Pro), không lấy được danh sách thì `gemini-2.5-pro`. Ô gõ tự do + gợi ý theo tên
+  (Pro/Flash/Flash-Lite, preview) + nút "Tải danh sách từ Gemini" (`listAiModels` → `GET v1beta/models`, chỉ
+  model `gemini-*` có `generateContent`, bỏ TTS/ảnh/live/embedding/Gemma, mới nhất trước). `AI_USAGE` — JSON
+  số token đã dùng theo tháng (code tự ghi). Các property `OPENAI_*` cũ không còn dùng, xoá tay được.
 - `apikey_<khoá>` — khoá kết nối AI (mục XI), code tự ghi.
 
 ## XI. API cho AI chạy trên máy khách (khoá kết nối)

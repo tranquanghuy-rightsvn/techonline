@@ -1,5 +1,5 @@
 /* Môi trường Apps Script giả lập + kho nội dung trong bộ nhớ, để chạy gas/Code.js trên máy (GAS.md mục XI.8).
-   Không gọi mạng thật: GitHub Contents API, OpenAI Responses API, Google Sheet, Mail, Cache đều là bản giả. */
+   Không gọi mạng thật: GitHub Contents API, Gemini API, Google Sheet, Mail, Cache đều là bản giả. */
 const fs = require('fs');
 const vm = require('vm');
 const path = require('path');
@@ -10,7 +10,7 @@ const props = new Map();
 const cache = new Map();
 const mails = [];
 const OWNER = 'owner@example.com';
-const openai = { replies: [], calls: [] };
+const gemini = { replies: [], calls: [] };
 const external = { calls: [] };
 
 function uuid() {
@@ -129,15 +129,22 @@ const UrlFetchApp = {
     params = params || {};
     const gh = ghContents(url, params);
     if (gh) return gh;
-    if (url === 'https://api.openai.com/v1/responses') {
-      openai.calls.push({ url, headers: params.headers, body: JSON.parse(params.payload) });
-      const r = openai.replies.shift();
-      if (!r) throw new Error('chưa xếp sẵn câu trả lời OpenAI');
+    const gm = url.match(/^https:\/\/generativelanguage\.googleapis\.com\/v1beta\/models\/([^:?]+):generateContent$/);
+    if (gm) {
+      gemini.calls.push({ url, model: decodeURIComponent(gm[1]), headers: params.headers, body: JSON.parse(params.payload) });
+      const r = gemini.replies.shift();
+      if (!r) throw new Error('chưa xếp sẵn câu trả lời Gemini');
       return response(r.code || 200, JSON.stringify(r.body));
     }
-    if (url === 'https://api.openai.com/v1/models') {
-      const ids = ['gpt-5', 'gpt-5-mini', 'gpt-5-2025-08-07', 'gpt-5-pro', 'gpt-4o-audio-preview', 'text-embedding-3-small', 'o4-mini', 'dall-e-3', 'gpt-realtime'];
-      return response(200, JSON.stringify({ data: ids.map((id) => ({ id })) }));
+    if (url === 'https://generativelanguage.googleapis.com/v1beta/models?pageSize=1000') {
+      const gen = ['generateContent', 'countTokens'];
+      const models = [
+        ['gemini-2.5-pro', gen], ['gemini-2.5-flash', gen], ['gemini-2.5-flash-lite', gen], ['gemini-3-pro-preview', gen],
+        ['gemini-2.0-flash', gen], ['gemini-2.5-flash-preview-tts', gen], ['gemini-2.5-flash-image', gen],
+        ['text-embedding-004', ['embedContent']], ['gemma-3-27b-it', gen], ['imagen-4.0-generate-001', ['predict']],
+        ['gemini-2.5-flash-live-preview', ['bidiGenerateContent']],
+      ];
+      return response(200, JSON.stringify({ models: models.map(([id, m]) => ({ name: 'models/' + id, supportedGenerationMethods: m })) }));
     }
     if (/^https?:\/\//.test(url)) {
       external.calls.push(url);
@@ -236,4 +243,4 @@ vm.runInContext(fs.readFileSync(codePath, 'utf8'), sandbox, { filename: 'Code.js
 /** Hằng số khai báo bằng const trong Code.js (không nằm trên sandbox). */
 const constant = (name) => vm.runInContext(name, sandbox);
 
-module.exports = { sandbox, repo, commits, props, cache, mails, OWNER, openai, external, spreadsheet, constant };
+module.exports = { sandbox, repo, commits, props, cache, mails, OWNER, gemini, external, spreadsheet, constant };

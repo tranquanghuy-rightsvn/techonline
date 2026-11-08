@@ -1,5 +1,5 @@
 /* Kiểm thử gas/Code.js trong môi trường giả lập (GAS.md mục XI.8). Chạy: node tools/gas-api-test/test-api.js */
-const { sandbox: S, repo, commits, props, cache, mails, openai, external, spreadsheet, constant } = require('./harness.js');
+const { sandbox: S, repo, commits, props, cache, mails, gemini, external, spreadsheet, constant } = require('./harness.js');
 
 let failed = 0;
 let passed = 0;
@@ -19,7 +19,8 @@ const sameKeys = (obj, keys) => {
 const json = (p) => JSON.parse(repo.get(p).toString('utf8'));
 const put = (p, v) => repo.set(p, Buffer.from(JSON.stringify(v, null, 1) + '\n'));
 const api = (payload, method) => S.handleApi_(payload, method || 'POST');
-const okReply = (obj, tokens) => ({ body: { status: 'completed', output: [{ type: 'reasoning' }, { type: 'message', content: [{ type: 'output_text', text: JSON.stringify(obj) }] }], usage: { input_tokens: 100, output_tokens: (tokens || 150) - 100, total_tokens: tokens || 150 } } });
+const okReply = (obj, tokens) => ({ body: { candidates: [{ content: { role: 'model', parts: [{ text: 'đang nghĩ…', thought: true }, { text: JSON.stringify(obj) }] }, finishReason: 'STOP' }],
+  usageMetadata: { promptTokenCount: 100, candidatesTokenCount: (tokens || 150) - 100, totalTokenCount: tokens || 150 } } });
 
 // ---- cấu hình + dữ liệu mẫu ----
 props.set('GITHUB_OWNER', 'tranquanghuy-rightsvn'); props.set('GITHUB_REPO', 'techonline');
@@ -367,14 +368,14 @@ check('danh mục bài viết mới: có trang riêng /<slug>/ nên không đư�
   const someProduct = JSON.parse(repo.get('data/products.json').toString('utf8'))[0];
   if (someProduct) throws(() => S.saveCategory(ownerToken, 'post', { isNew: true, name: 'X', slug: someProduct.slug }), /đã được dùng/);
 });
-check('listOpenAiModels: chỉ model chữ, bỏ bản có ngày / -pro / âm thanh / ảnh / embedding', () => {
-  const had = props.get('OPENAI_API_KEY');
-  props.set('OPENAI_API_KEY', 'sk-test');
+check('listAiModels: chỉ model Gemini viết chữ (generateContent), mới nhất trước, bỏ TTS/ảnh/embedding/Gemma', () => {
+  const had = props.get('GEMINI_API_KEY');
+  props.set('GEMINI_API_KEY', 'AIza' + 'k'.repeat(35));
   try {
-    const ids = S.listOpenAiModels(ownerToken);
-    assert(JSON.stringify(ids) === JSON.stringify(['gpt-5', 'gpt-5-mini', 'o4-mini']), JSON.stringify(ids));
+    const ids = S.listAiModels(ownerToken);
+    assert(JSON.stringify(ids) === JSON.stringify(['gemini-3-pro-preview', 'gemini-2.5-flash', 'gemini-2.5-flash-lite', 'gemini-2.5-pro', 'gemini-2.0-flash']), JSON.stringify(ids));
   } finally {
-    if (had) props.set('OPENAI_API_KEY', had); else props.delete('OPENAI_API_KEY');
+    if (had) props.set('GEMINI_API_KEY', had); else props.delete('GEMINI_API_KEY');
   }
 });
 
@@ -472,87 +473,99 @@ check('saveSettings: đúng field schema XII, hero ≤ 10, link/ảnh được k
   throws(() => S.saveSettings(ownerToken, { hero: [{ image: 'javascript:x' }] }), /ảnh/);
 });
 
-console.log('\n— AI trong Admin (OpenAI Responses API) —');
-check('chưa có key: báo rõ, không gọi OpenAI', () => {
-  const n = openai.calls.length;
-  throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /key OpenAI/);
-  assert(openai.calls.length === n);
+console.log('\n— AI trong Admin (Google Gemini API) —');
+const GKEY = 'AIza' + 'b'.repeat(35);
+const lastCall = () => gemini.calls[gemini.calls.length - 1];
+check('chưa có key: báo rõ, không gọi Gemini', () => {
+  const n = gemini.calls.length;
+  throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /key Gemini/);
+  assert(gemini.calls.length === n);
   assert(S.getAiQuota(editorToken).has_key === false);
 });
-check('saveAiSettings: gọi thử rồi mới lưu; key sai không lưu; hiện bản che', () => {
-  openai.replies.push({ code: 401, body: { error: { message: 'Incorrect API key' } } });
-  throws(() => S.saveAiSettings(ownerToken, { key: 'sk-proj-' + 'a'.repeat(30) }), /không hợp lệ/);
-  assert(!props.has('OPENAI_API_KEY'));
-  throws(() => S.saveAiSettings(ownerToken, { key: 'abc' }), /sk-/);
-  openai.replies.push(okReply({}, 20));
-  const a = S.saveAiSettings(ownerToken, { key: 'sk-proj-' + 'b'.repeat(30), model: '' });
-  assert(props.get('OPENAI_API_KEY').startsWith('sk-proj-b') && a.key_masked === 'sk-proj…bbbb' && a.model === constant('OPENAI_DEFAULT_MODEL'), JSON.stringify(a));
-  const call = openai.calls[openai.calls.length - 1];
-  assert(call.headers.Authorization === 'Bearer sk-proj-' + 'b'.repeat(30) && call.body.model === constant('OPENAI_DEFAULT_MODEL'));
+check('saveAiSettings: gọi thử rồi mới lưu; key sai không lưu; model trống = tự chọn bản Pro chính thức mới nhất; hiện bản che', () => {
+  gemini.replies.push({ code: 400, body: { error: { code: 400, message: 'API key not valid. Please pass a valid API key.', status: 'INVALID_ARGUMENT', details: [{ reason: 'API_KEY_INVALID' }] } } });
+  throws(() => S.saveAiSettings(ownerToken, { key: 'AIza' + 'a'.repeat(35) }), /không hợp lệ/);
+  assert(!props.has('GEMINI_API_KEY') && !props.has('GEMINI_MODEL'));
+  throws(() => S.saveAiSettings(ownerToken, { key: 'abc' }), /AIza/);
+  gemini.replies.push(okReply({}, 20));
+  const a = S.saveAiSettings(ownerToken, { key: GKEY, model: '' });
+  assert(props.get('GEMINI_API_KEY') === GKEY && a.key_masked === 'AIzabb…bbbb' && a.model === 'gemini-2.5-pro' && props.get('GEMINI_MODEL') === 'gemini-2.5-pro', JSON.stringify(a));
+  const call = lastCall();
+  assert(call.headers['x-goog-api-key'] === GKEY && call.model === 'gemini-2.5-pro' && !/key=/.test(call.url), 'key phải nằm ở header');
   assert(!JSON.stringify(S.getAiSettings(ownerToken)).includes('b'.repeat(20)), 'lộ key');
 });
-check('smartGenerate: Responses API + Structured Outputs strict, lọc HTML, gỡ link bịa, cộng token theo tháng', () => {
-  const before = JSON.parse(props.get('OPENAI_USAGE') || '{}');
-  openai.replies.push(okReply({ html: '<h2>Ưu điểm</h2><p onclick="x">Xem <a href="/khong-ton-tai/">trang lạ</a> và <a href="/camera-imou-ipc-a22/">Imou</a></p><script>x</script>', css: '.smc-a{}', short_desc: 'Mô tả mới' }, 1000));
+check('smartGenerate: generateContent + JSON schema (responseSchema), lọc HTML, gỡ link bịa, cộng token theo tháng', () => {
+  const before = JSON.parse(props.get('AI_USAGE') || '{}');
+  gemini.replies.push(okReply({ html: '<h2>Ưu điểm</h2><p onclick="x">Xem <a href="/khong-ton-tai/">trang lạ</a> và <a href="/camera-imou-ipc-a22/">Imou</a></p><script>x</script>', css: '.smc-a{}', short_desc: 'Mô tả mới' }, 1000));
   const res = S.smartGenerate(editorToken, { kind: 'post', title: 'Camera Imou A22 có tốt không', keyword: 'camera imou', content_html: '<p>Gốc</p>', images: [{ src: '/assets/images/shared.jpg', w: 800, h: 600 }] });
-  const call = openai.calls[openai.calls.length - 1];
-  assert(call.url === 'https://api.openai.com/v1/responses');
-  assert(call.body.text.format.type === 'json_schema' && call.body.text.format.strict === true, JSON.stringify(call.body.text));
-  assert(call.body.text.format.schema.additionalProperties === false && call.body.text.format.schema.required.length === 3);
-  assert(call.body.reasoning && call.body.input[0].content[0].type === 'input_text' && call.body.input[0].content[0].text.includes('<material>'));
-  assert(call.body.instructions.includes('anninhthainguyen.vn') && call.body.input[0].content[0].text.includes('/camera-imou-ipc-a22/'), 'thiếu link nội bộ ứng viên');
+  const call = lastCall();
+  assert(call.url === 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent', call.url);
+  const gc = call.body.generationConfig;
+  assert(gc.responseMimeType === 'application/json' && gc.responseSchema.type === 'OBJECT' && gc.responseSchema.required.length === 3, JSON.stringify(gc).slice(0, 300));
+  assert(gc.responseSchema.properties.html.type === 'STRING' && !('additionalProperties' in gc.responseSchema));
+  assert(call.body.contents[0].role === 'user' && call.body.contents[0].parts[0].text.includes('<material>'));
+  const sys = call.body.systemInstruction.parts[0].text;
+  assert(sys.includes('anninhthainguyen.vn') && call.body.contents[0].parts[0].text.includes('/camera-imou-ipc-a22/'), 'thiếu link nội bộ ứng viên');
   assert(res.html === '<h2>Ưu điểm</h2><p>Xem trang lạ và <a href="/camera-imou-ipc-a22/">Imou</a></p>', res.html);
   assert(res.short_desc === 'Mô tả mới' && /1\.000 token/.test(res.ai_note), res.ai_note);
-  const usage = JSON.parse(props.get('OPENAI_USAGE'));
+  const usage = JSON.parse(props.get('AI_USAGE'));
   const m = Object.keys(usage).pop();
   assert(/^\d{4}-\d{2}$/.test(m) && usage[m].total === ((before[m] || {}).total || 0) + 1000, JSON.stringify(usage));
   assert(S.getAiQuota(editorToken).tokens === usage[m].total);
 });
-check('smartGenerate: lỗi 429 / bị cắt / từ chối báo tiếng Việt rõ ràng', () => {
-  openai.replies.push({ code: 429, body: { error: { message: 'quota' } } });
+check('smartGenerate: lỗi 429 / bị cắt / bị chặn báo tiếng Việt rõ ràng', () => {
+  gemini.replies.push({ code: 429, body: { error: { code: 429, message: 'Resource has been exhausted', status: 'RESOURCE_EXHAUSTED' } } });
   throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /giới hạn/);
-  openai.replies.push({ body: { status: 'incomplete', incomplete_details: { reason: 'max_output_tokens' }, output: [], usage: { input_tokens: 1, output_tokens: 1, total_tokens: 2 } } });
+  gemini.replies.push({ body: { candidates: [{ content: { parts: [{ text: '{"html":"<p>dở' }] }, finishReason: 'MAX_TOKENS' }], usageMetadata: { promptTokenCount: 1, candidatesTokenCount: 1, totalTokenCount: 2 } } });
   throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /bị cắt/);
-  openai.replies.push({ body: { status: 'completed', output: [{ type: 'message', content: [{ type: 'refusal', refusal: 'no' }] }] } });
+  gemini.replies.push({ body: { promptFeedback: { blockReason: 'SAFETY' } } });
   throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /từ chối/);
+  gemini.replies.push({ body: { candidates: [{ finishReason: 'SAFETY' }] } });
+  throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /từ chối/);
+  gemini.replies.push({ code: 503, body: { error: { code: 503, message: 'The model is overloaded.', status: 'UNAVAILABLE' } } });
+  throws(() => S.smartGenerate(editorToken, { kind: 'post', title: 'A', content_html: '<p>x</p>' }), /quá tải/);
 });
 check('smartRevise: find sai thì thử lại 1 lần rồi áp', () => {
-  openai.replies.push(okReply({ summary: 'x', edits: [{ target: 'html', find: 'KHÔNG CÓ', replace: 'y' }] }));
-  openai.replies.push(okReply({ summary: 'Đổi tiêu đề', edits: [{ target: 'html', find: 'Ưu điểm</h2>', replace: 'Ưu điểm nổi bật</h2>' }, { target: 'css', find: '', replace: '.smc-x{}' }] }));
+  gemini.replies.push(okReply({ summary: 'x', edits: [{ target: 'html', find: 'KHÔNG CÓ', replace: 'y' }] }));
+  gemini.replies.push(okReply({ summary: 'Đổi tiêu đề', edits: [{ target: 'html', find: 'Ưu điểm</h2>', replace: 'Ưu điểm nổi bật</h2>' }, { target: 'css', find: '', replace: '.smc-x{}' }] }));
   const res = S.smartRevise(editorToken, { kind: 'product', html: '<h2>Ưu điểm</h2><p>a</p>', css: '.smc-a{}', comments: [{ note: 'đổi tiêu đề' }] });
   assert(res.html.includes('Ưu điểm nổi bật') && res.css.includes('.smc-x{}') && res.summary === 'Đổi tiêu đề', JSON.stringify(res));
-  assert(openai.calls[openai.calls.length - 1].body.input[0].content[0].text.includes('previous_attempt_failed'));
+  assert(lastCall().body.contents[0].parts[0].text.includes('previous_attempt_failed'));
 });
-check('smartOutline: chỉ bài viết, ảnh gửi dạng data URL, mỗi ảnh 1 lần', () => {
+check('smartOutline: chỉ bài viết, ảnh gửi dạng inlineData base64, mỗi ảnh 1 lần', () => {
   throws(() => S.smartOutline(editorToken, { kind: 'product', title: 'x' }), /chỉ dùng cho bài viết/);
-  openai.replies.push(okReply({ angle: 'a', description: 'd', sections: [
+  gemini.replies.push(okReply({ angle: 'a', description: 'd', sections: [
     { kind: 'intro', heading: 'Mở bài', words: 80, points: ['x'], subheadings: [], images: [1, 9] },
     { kind: 'body', heading: 'Chọn camera', words: 300, points: [], subheadings: [], images: [1, 2] },
     { kind: 'conclusion', heading: 'Kết luận', words: 80, points: [], subheadings: [], images: [] }] }));
   const o = S.smartOutline(editorToken, { title: 'Chọn camera wifi', keyword: 'camera wifi', words: 1400,
     images: [{ n: 1, src: '/assets/images/shared.jpg', label: 'A' }, { n: 2, src: '/assets/images/news-camera-ai-la-gi.jpg', label: 'B' }] });
   assert(JSON.stringify(o.sections.map((s) => s.images)) === '[[1],[2],[]]', JSON.stringify(o.sections));
-  const content = openai.calls[openai.calls.length - 1].body.input[0].content;
-  assert(content.filter((p) => p.type === 'input_image' && /^data:image\/jpeg;base64,/.test(p.image_url)).length === 2, JSON.stringify(content).slice(0, 300));
-  const sch = openai.calls[openai.calls.length - 1].body.text.format.schema;
-  assert(sch.properties.sections.items.additionalProperties === false, 'schema lồng chưa strict');
+  const parts = lastCall().body.contents[0].parts;
+  assert(parts.filter((p) => p.inlineData && p.inlineData.mimeType === 'image/jpeg' && p.inlineData.data && !/^data:/.test(p.inlineData.data)).length === 2, JSON.stringify(parts).slice(0, 300));
+  const sch = lastCall().body.generationConfig.responseSchema;
+  assert(sch.properties.sections.type === 'ARRAY' && sch.properties.sections.items.type === 'OBJECT' && sch.properties.sections.items.required.includes('images'), 'schema lồng chưa đủ required');
 });
 check('smartWriteSection: H1 thành H2, chỉ link nội bộ hợp lệ', () => {
-  openai.replies.push(okReply({ html: '<h1>Chọn camera</h1><p onclick="z">t</p><img data-smc-img="2" alt="b">' }));
+  gemini.replies.push(okReply({ html: '<h1>Chọn camera</h1><p onclick="z">t</p><img data-smc-img="2" alt="b">' }));
   const r = S.smartWriteSection(editorToken, { title: 'Camera', outline: [{ kind: 'intro', words: 80 }, { kind: 'body', heading: 'Chọn camera', words: 200 }], index: 1, prev: 'abc',
     images: [], links: [{ title: 'Imou A22', url: '/camera-imou-ipc-a22/' }, { title: 'Lạ', url: 'http://evil/' }] });
   assert(r.html === '<h2>Chọn camera</h2><p>t</p><img data-smc-img="2" alt="b">', r.html);
-  const sys = openai.calls[openai.calls.length - 1].body.instructions;
+  const sys = lastCall().body.systemInstruction.parts[0].text;
   assert(sys.includes('/camera-imou-ipc-a22/') && !sys.includes('evil'));
 });
 check('ước lượng token + đổi model gọi thử lại', () => {
   const e = S.smartEstimate(editorToken, { kind: 'post', material: 6000 });
   assert(e.has_key && e.tokens > 0 && e.text, JSON.stringify(e));
   assert(S.writerEstimate(editorToken, { words: 1400 }).tokens > 0);
-  openai.replies.push({ code: 404, body: { error: { message: 'model not found' } } });
-  throws(() => S.saveAiSettings(ownerToken, { model: 'gpt-x' }), /model gpt-x/);
-  assert(!props.has('OPENAI_MODEL'));
-  throws(() => S.saveAiSettings(editorToken, { model: 'gpt-5' }), /Không đủ quyền/);
+  gemini.replies.push({ code: 404, body: { error: { code: 404, message: 'models/gemini-x is not found', status: 'NOT_FOUND' } } });
+  throws(() => S.saveAiSettings(ownerToken, { model: 'gemini-x' }), /model gemini-x/);
+  assert(props.get('GEMINI_MODEL') === 'gemini-2.5-pro');
+  gemini.replies.push(okReply({}, 10));
+  assert(S.saveAiSettings(ownerToken, { model: 'models/gemini-2.5-flash' }).model === 'gemini-2.5-flash');
+  const n = gemini.calls.length;
+  assert(S.saveAiSettings(ownerToken, { model: '' }).model === 'gemini-2.5-flash' && gemini.calls.length === n, 'model trống phải giữ model đang dùng, không gọi thử lại');
+  throws(() => S.saveAiSettings(editorToken, { model: 'gemini-2.5-pro' }), /Không đủ quyền/);
 });
 
 console.log('\n— thu hồi khoá —');
