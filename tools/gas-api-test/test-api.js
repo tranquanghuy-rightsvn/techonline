@@ -486,7 +486,9 @@ check('saveAiSettings: gọi thử rồi mới lưu; key sai không lưu; model 
   gemini.replies.push({ code: 400, body: { error: { code: 400, message: 'API key not valid. Please pass a valid API key.', status: 'INVALID_ARGUMENT', details: [{ reason: 'API_KEY_INVALID' }] } } });
   throws(() => S.saveAiSettings(ownerToken, { key: 'AIza' + 'a'.repeat(35) }), /không hợp lệ/);
   assert(!props.has('GEMINI_API_KEY') && !props.has('GEMINI_MODEL'));
-  throws(() => S.saveAiSettings(ownerToken, { key: 'abc' }), /AIza/);
+  gemini.replies.push({ code: 400, body: { error: { code: 400, message: 'API key not valid. Please pass a valid API key.', status: 'INVALID_ARGUMENT' } } });
+  throws(() => S.saveAiSettings(ownerToken, { key: 'abc' }), /không hợp lệ/);
+  assert(!props.has('GEMINI_API_KEY'), 'key kiểu bất kỳ: chỉ quyết bằng gọi thử');
   gemini.replies.push(okReply({}, 20));
   const a = S.saveAiSettings(ownerToken, { key: GKEY, model: '' });
   assert(props.get('GEMINI_API_KEY') === GKEY && a.key_masked === 'AIzabb…bbbb' && a.model === 'gemini-2.5-pro' && props.get('GEMINI_MODEL') === 'gemini-2.5-pro', JSON.stringify(a));

@@ -260,7 +260,8 @@ Menu (`menu-data.js`) vẫn sửa tay.
 - `SPREADSHEET_ID` — KHÔNG điền, code tự tạo.
 - `NOTIFY_EMAIL` — nhận mail liên hệ/đơn hàng mới (tuỳ chọn).
 - `GEMINI_API_KEY` — key Gemini API của khách. Nhập ở tab "Thông tin website" → thẻ "AI (Google Gemini)"
-  (gọi thử rồi mới lưu, chỉ hiện bản che). `GEMINI_MODEL` — model, chỉnh cùng thẻ đó. Để trống khi lưu =
+  (KHÔNG kiểm định dạng key — khách chốt 08/11/2026, key mới không bắt đầu bằng AIza; chỉ GỌI THỬ, gọi được
+  mới lưu; chỉ hiện bản che). `GEMINI_MODEL` — model, chỉnh cùng thẻ đó. Để trống khi lưu =
   giữ model đang dùng; chưa có thì tự chọn bản **Pro chính thức mới nhất** key dùng được (`pickGeminiPro_`,
   khách dùng Gemini Pro), không lấy được danh sách thì `gemini-2.5-pro`. Ô gõ tự do + gợi ý theo tên
   (Pro/Flash/Flash-Lite, preview) + nút "Tải danh sách từ Gemini" (`listAiModels` → `GET v1beta/models`, chỉ
