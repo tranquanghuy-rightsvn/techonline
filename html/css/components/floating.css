@@ -23,21 +23,22 @@
   background: linear-gradient(135deg, #00c6ff, #0068ff, #a033ff, #ff5db1);
 }
 
-.contact-stack__item--zalo {
-  background: #ffffff;
-  border: 2px solid #0068ff;
+.contact-stack__item--zalo,
+.contact-stack__item--phone {
+  /* Nền đen, chữ/biểu tượng trắng (khách chốt 08/11/2026); viền trắng để vẫn tách khỏi ảnh/nền tối. */
+  background: #111111;
+  border: 2px solid #ffffff;
 }
 
 .contact-stack__zalo-text {
-  color: #0068ff;
+  color: #ffffff;
   font-weight: 800;
   font-size: var(--text-md);
   font-style: italic;
 }
 
-.contact-stack__item--phone {
-  background: var(--color-bg-white);
-  border: 2px solid var(--color-accent-red);
+.contact-stack__item--phone svg path {
+  fill: #ffffff;
 }
 
 @keyframes contact-pulse {
