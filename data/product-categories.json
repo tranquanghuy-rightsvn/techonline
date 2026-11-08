@@ -49,7 +49,7 @@
   "name": "Bộ kích sóng wifi",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/thiet-bi-mang/icons/kich-song-re315.jpg",
   "description": "Bộ kích sóng wifi chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 8
  },
@@ -292,7 +292,7 @@
   "name": "Khóa cửa Hexa",
   "parent": "khoa-cua-van-tay",
   "layout": "subcategory",
-  "image": "/assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-4180-hexa-a100.jpg",
   "description": "Khóa cửa Hexa chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 15
  },
@@ -382,7 +382,7 @@
   "name": "Khóa cửa Yale",
   "parent": "khoa-cua-van-tay",
   "layout": "subcategory",
-  "image": "/assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2803-yale-zuri-s.jpg",
   "description": "Khóa cửa Yale chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 14
  },
@@ -400,7 +400,7 @@
   "name": "Khóa vân tay Kitos",
   "parent": "khoa-cua-van-tay",
   "layout": "subcategory",
-  "image": "/assets/images/khoa-cua-van-tay/icons/logo-placeholder.png",
+  "image": "/assets/images/khoa-cua-van-tay/products/250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg",
   "description": "Khóa vân tay Kitos chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 11
  },
@@ -472,7 +472,7 @@
   "name": "Mesh Wi-Fi",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png",
   "description": "Mesh Wi-Fi chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 5
  },
@@ -562,7 +562,7 @@
   "name": "Switch – Bộ chuyển mạch",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png",
   "description": "Switch – Bộ chuyển mạch chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 10
  },
@@ -625,7 +625,7 @@
   "name": "Wi-Fi Di Động",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg",
   "description": "Wi-Fi Di Động chính hãng 100%, giá tốt nhất thị trường, bảo hành uy tín tại An Ninh Thái Nguyên. Giao hàng toàn quốc, tư vấn và lắp đặt chuyên nghiệp.",
   "order": 9
  },
@@ -955,10 +955,10 @@
  },
  {
   "slug": "thiet-bi-mang-quan-ly-ap",
-  "name": "Quán lý AP",
+  "name": "Quản lý AP",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/logo-mark.png",
   "description": "",
   "order": 6
  },
@@ -967,7 +967,7 @@
   "name": "Gateway",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/thiet-bi-mang/icons/gateway-archer-mr202.png",
   "description": "",
   "order": 7
  },
@@ -976,7 +976,7 @@
   "name": "Module mạng",
   "parent": "thiet-bi-mang",
   "layout": "subcategory",
-  "image": "/assets/images/thiet-bi-mang/icons/logo_logo (1).png",
+  "image": "/assets/images/logo-mark.png",
   "description": "",
   "order": 11
  },

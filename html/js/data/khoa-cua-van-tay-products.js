@@ -42,7 +42,7 @@ const LOCK_ICON_STRIP = [
   },
   {
     "label": "Khóa vân tay Kitos",
-    "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png"
+    "image": "assets/images/khoa-cua-van-tay/products/250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg"
   },
   {
     "label": "Phụ kiện khóa vân tay",
@@ -54,11 +54,11 @@ const LOCK_ICON_STRIP = [
   },
   {
     "label": "Khóa cửa Yale",
-    "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png"
+    "image": "assets/images/khoa-cua-van-tay/products/250-2803-yale-zuri-s.jpg"
   },
   {
     "label": "Khóa cửa Hexa",
-    "image": "assets/images/khoa-cua-van-tay/icons/logo-placeholder.png"
+    "image": "assets/images/khoa-cua-van-tay/products/250-4180-hexa-a100.jpg"
   }
 ];
 

@@ -18,31 +18,31 @@ const NETWORK_ICON_STRIP = [
   },
   {
     "label": "Mesh Wi-Fi",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png"
   },
   {
-    "label": "Quán lý AP",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "label": "Quản lý AP",
+    "image": "assets/images/logo-mark.png"
   },
   {
     "label": "Gateway",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/thiet-bi-mang/icons/gateway-archer-mr202.png"
   },
   {
     "label": "Bộ kích sóng wifi",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/thiet-bi-mang/icons/kich-song-re315.jpg"
   },
   {
     "label": "Wi-Fi Di Động",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg"
   },
   {
     "label": "Switch – Bộ chuyển mạch",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png"
   },
   {
     "label": "Module mạng",
-    "image": "assets/images/thiet-bi-mang/icons/logo_logo (1).png"
+    "image": "assets/images/logo-mark.png"
   }
 ];
 

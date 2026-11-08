@@ -154,9 +154,8 @@
 
 .site-header__logo img {
   display: block;
-  height: 70px;
+  height: 60px;
   width: auto;
-  width: 200px;
 }
 
 .site-header__search {
