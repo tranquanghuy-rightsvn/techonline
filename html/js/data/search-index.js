@@ -4122,6 +4122,13 @@ const SEARCH_INDEX = [
 },
 {
 "type": "post",
+"name": "VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH",
+"href": "/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/",
+"image": "assets/img/posts/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/cover.jpg",
+"date": "2026-11-08"
+},
+{
+"type": "post",
 "name": "An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn",
 "href": "/an-ninh-thai-nguyen-chinh-thuc-ra-mat-website/",
 "image": "assets/images/news-an-ninh-thai-nguyen-chinh-thuc-ra-mat-website.jpg",
