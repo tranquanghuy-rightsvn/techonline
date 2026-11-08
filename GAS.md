@@ -263,8 +263,9 @@ Menu (`menu-data.js`) vẫn sửa tay.
   (KHÔNG kiểm định dạng key — khách chốt 08/11/2026, key mới không bắt đầu bằng AIza; chỉ GỌI THỬ, gọi được
   mới lưu; chỉ hiện bản che). `GEMINI_MODEL` — model, chỉnh cùng thẻ đó. Để trống khi lưu =
   giữ model đang dùng; chưa có thì tự chọn bản **Pro chính thức mới nhất** key dùng được (`pickGeminiPro_`,
-  khách dùng Gemini Pro), không lấy được danh sách thì `gemini-2.5-pro`. Ô gõ tự do + gợi ý theo tên
-  (Pro/Flash/Flash-Lite, preview) + nút "Tải danh sách từ Gemini" (`listAiModels` → `GET v1beta/models`, chỉ
+  khách dùng Gemini Pro), không lấy được danh sách thì `gemini-2.5-pro`. Ô chọn (`<select>`, luôn hiện đủ — KHÔNG dùng
+  `datalist` vì trình duyệt lọc theo chữ đang có nên chỉ còn 1 dòng) gồm 12 gợi ý sẵn có ghi chú (Pro/Flash/
+  Flash-Lite, bí danh `-latest`, preview); có key thì tự thay bằng danh sách thật của key; + ô gõ tự do + nút "Tải danh sách từ Gemini" (`listAiModels` → `GET v1beta/models`, chỉ
   model `gemini-*` có `generateContent`, bỏ TTS/ảnh/live/embedding/Gemma, mới nhất trước). `AI_USAGE` — JSON
   số token đã dùng theo tháng (code tự ghi). Các property `OPENAI_*` cũ không còn dùng, xoá tay được.
 - `apikey_<khoá>` — khoá kết nối AI (mục XI), code tự ghi.
