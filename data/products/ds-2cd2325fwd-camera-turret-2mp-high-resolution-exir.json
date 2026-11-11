@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2cd2325fwd-camera-turret-2mp-high-resolution-exir",
+  "name": "Camera Turret 2MP High Resolution Exir Hikvision DS-2CD2325FWD",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2325FWD",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg"
+  ],
+  "summary": [
+    "2MP high resolution",
+    "H.265+/H.265/H.264+/H.264",
+    "DarkFighter ultra-low light technology",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection",
+    "120dB WDR",
+    "IP67",
+    "3 streams",
+    "Hik-Connect Service",
+    "Up to 128GB on-board storage"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2325FWD"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2MP high resolution</p><p>H.265+/H.265/H.264+/H.264</p><p>DarkFighter ultra-low light technology</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection</p><p>120dB WDR</p><p>IP67</p><p>3 streams</p><p>Hik-Connect Service</p><p>Up to 128GB on-board storage</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP high resolution H.265+/H.265/H.264+/H.264 DarkFighter ultra-low light technology",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "ds-9000ai-s16-d-nvrx86-compatible-third-party-vms-worked-workstation-redundant-power-supply",
+  "name": "Đầu ghi hình IP NVR+X86 , compatible with third-party VMS and worked as a workstation, Redundant power supply Hikvision DS-9000AI-S16-D",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-9000AI-S16-D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-9000AI-S16-D.jpg"
+  ],
+  "summary": [
+    "576Mbps Bit Rate input Max(up to 128-ch IP cameras input)",
+    "Up to 20-ch decoding capacity at 1080p resolution",
+    "Redundant power supply",
+    "Support RAID 0/1/5/6/10",
+    "Server board: Intel Processor ;Ubuntu Linux installed by default , Microsoft windows is optional; up to 64GB DDR memory, 128 GB system disk; 4 x RJ45, 2 x USB2.0, 2 x USB3.0",
+    "Storage board : Up to 16 SATA ,hot swapping,1 x eSATA , 4 x RJ45, 2 x USB 3.0, 2 x USB2.0"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-9000AI-S16-D"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Server board",
+      "Intel Processor ;Ubuntu Linux installed by default , Microsoft windows is optional; up to 64GB DDR memory, 128 GB system disk; 4 x RJ45, 2 x USB2.0, 2 x USB3.0"
+    ],
+    [
+      "Storage board",
+      "Up to 16 SATA ,hot swapping,1 x eSATA , 4 x RJ45, 2 x USB 3.0, 2 x USB2.0"
+    ]
+  ],
+  "description_html": "<p>576Mbps Bit Rate input Max(up to 128-ch IP cameras input)</p><p>Up to 20-ch decoding capacity at 1080p resolution</p><p>Redundant power supply</p><p>Support RAID 0/1/5/6/10</p><p>Server board: Intel Processor ;Ubuntu Linux installed by default , Microsoft windows is optional; up to 64GB DDR memory, 128 GB system disk; 4 x RJ45, 2 x USB2.0, 2 x USB3.0</p><p>Storage board : Up to 16 SATA ,hot swapping,1 x eSATA , 4 x RJ45, 2 x USB 3.0, 2 x USB2.0</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "576Mbps Bit Rate input Max(up to 128-ch IP cameras input) Up to 20-ch decoding capacity at 1080p resolution Redundant power supply",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

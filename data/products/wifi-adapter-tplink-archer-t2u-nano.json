@@ -1,0 +1,108 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t2u-nano",
+  "name": "USB Wi-Fi Nano AC600 TP-Link Archer T2U Nano",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T2U Nano",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t2u-nano/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi Nano AC600",
+    "This nano USB adapter inserts into any USB port when you're away or at home.",
+    "For Win 8/8.1/10, just plug in the Bluetooth adapter to enjoy fast, convenient Bluetooth connections.",
+    "Giao diện: USB 2.0",
+    "Kích thước ( R x D x C ): 15*7.1*18.6mm",
+    "Ăng ten: Đẳng hướng"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T2U Nano"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "15*7.1*18.6mm"
+    ],
+    [
+      "Ăng ten",
+      "Đẳng hướng"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5<br />GHz11ac: Lên tới 433Mbps(động)11n: Lên tới 150Mbps(động)11a: Lên tới 54Mbps(động)2.4<br />GHz11n: Lên tới 200Mbps(động)11g: Lên tới 54Mbps(động)11b: Lên tới 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 6<br />Mbps: -90d<br />Bm11a 54<br />Mbps: -73d<br />Bm11n HT20 MCS0: -89d<br />Bm11n HT20 MCS7: -70d<br />Bm11n HT40 MCS0: -86d<br />Bm11n HT40 MCS7: -67d<br />Bm11ac VHT80 MCS0: -82d<br />Bm11ac VHT80 MCS9: -56d<br />Bm2.4<br />GHz:11b 1"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Ad-Hoc / Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi USB Wi-Fi Nano AC600 - Archer T2U NanoCD nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Windows 10/8.1/8/7/XP (32/64bits),Mac OS X 10.9-10.13"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐọ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi Nano AC600</p><p>This nano USB adapter inserts into any USB port when you're away or at home.</p><p>For Win 8/8.1/10, just plug in the Bluetooth adapter to enjoy fast, convenient Bluetooth connections.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi Nano AC600 This nano USB adapter inserts into any USB port when you're away or at home. For Win 8/8.1/10, just plug in the Bluetooth adapter to enjoy fast, convenient Bluetooth connections.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "ds-7604ni-e1gw-nvr-embedded-1u-4g3g",
+  "name": "Đầu ghi hình IP NVR Embedded 1U 4G/3G Hikvision DS-7604NI-E1/GW",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7604NI-E1/GW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg"
+  ],
+  "summary": [
+    "Third-party network cameras supported",
+    "Up to 5 Megapixels resolution recording",
+    "HDMI and VGA output at up to 1920×1080P resolution",
+    "4-ch network cameras can be connected with 25M incoming bandwidth",
+    "Support network detection, including network delay, packet loss, etc."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7604NI-E1/GW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Third-party network cameras supported</p><p>Up to 5 Megapixels resolution recording</p><p>HDMI and VGA output at up to 1920×1080P resolution</p><p>4-ch network cameras can be connected with 25M incoming bandwidth</p><p>Support network detection, including network delay, packet loss, etc.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Third-party network cameras supported Up to 5 Megapixels resolution recording HDMI and VGA output at up to 1920×1080P resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

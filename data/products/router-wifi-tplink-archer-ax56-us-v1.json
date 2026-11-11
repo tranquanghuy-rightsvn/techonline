@@ -1,0 +1,180 @@
+{
+  "slug": "router-wifi-tplink-archer-ax56-us-v1",
+  "name": "Router Wi-Fi 6 Gigabit AX3000 TP-Link Archer AX56 (US) V1",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX56 (US) V1",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax56-us-v1/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit AX3000",
+    "Sở hữu băng thông 160 MHz và công nghệ 1024-QAM, Archer AX56 mang đến tốc độ Gigabit thực thụ lên đến 3 Gbps.",
+    "Tận hưởng trải nghiệm truyền phát trực tuyến và chơi game mượt mà hơn bao giờ hết.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 2-3 Bedroom Houses; 6× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX56 (US) V1"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "2-3 Bedroom Houses<br />6× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Allocate devices to different bands for optimal performanceOFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN Server<br />PPTP VPN Server<br />WireGuard VPN Server"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />WireGuard VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi/WPS Button<br />Power On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer AX53 can flexibly build an EasyMesh network with EasyMesh-Compatible devices, which eliminates Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet<br />Weekly and Monthly Reports"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: <20dBm (2.4GHz); <23dBm (5.15GHz~5.35GHz); <30dBm (5.47GHz~5.725GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4<br />GHz:11ac VHT20_MCS0:-96dBm11ac VHT20_MCS8:-74dB11ac VHT40_MCS0:-94dBm11ac VHT40_MCS9:-70dB11ax HE20_MCS0:-96dBm11ax HE20_MCS11:-66dBm11ax HE40_MCS0:-93dBm11ax HE40_MCS11:-63d<br />Bm5"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 × 1.6 in (260.2 × 135 × 41.6 mm)"
+    ],
+    [
+      "Package Content",
+      "Wireless Router Archer AX56Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit AX3000</p><p>Sở hữu băng thông 160 MHz và công nghệ 1024-QAM, Archer AX56 mang đến tốc độ Gigabit thực thụ lên đến 3 Gbps.</p><p>Tận hưởng trải nghiệm truyền phát trực tuyến và chơi game mượt mà hơn bao giờ hết.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit AX3000 Sở hữu băng thông 160 MHz và công nghệ 1024-QAM, Archer AX56 mang đến tốc độ Gigabit thực thụ lên đến 3 Gbps. Tận hưởng trải nghiệm truyền phát trực tuyến và chơi game mượt mà hơn bao giờ hết.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

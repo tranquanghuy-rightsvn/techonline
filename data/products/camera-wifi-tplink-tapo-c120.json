@@ -1,0 +1,264 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c120",
+  "name": "Camera An Ninh Gia Đình Wi-Fi Trong Nhà Ngoài Trời Tapo TP-Link Tapo C120",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C120",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c120/g01.jpg"
+  ],
+  "summary": [
+    "Camera An Ninh Gia Đình Wi-Fi Trong Nhà Ngoài Trời Tapo",
+    "Camera an ninh gia đình Wi-Fi trong nhà ngoài trời TP-Link Tapo, Thiết kế nhỏ gọn và linh hoạt, Thiết lập siêu dễ dàng, Hoạt động với Alexa & Google Home, Được chứng nhận UL, Chỉ Wi-Fi 2.4G, Dây dài 9,8ft, Màu trắng",
+    "Cảm biến hình ảnh: 1/2.9” Progressive Scan CMOS Starlight Sensor",
+    "Ống kính: Focal Length: 3.17mm; Aperture: 1.65; Field of View: 120°(Diagonal), 103°(Horizontal), 55°(Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LED (30 ft / 9 m)940 nm IR LED (30 ft / 9 m)Full-Color Night Vision",
+    "Interface & Button: 1× RESET Button; 1× MicroSD Card Slot (Up to 512 GB)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C120"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.9” Progressive Scan CMOS Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 3.17mm<br />Aperture: 1.65<br />Field of View: 120°(Diagonal), 103°(Horizontal), 55°(Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED (30 ft / 9 m)940 nm IR LED (30 ft / 9 m)Full-Color Night Vision"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× MicroSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Độ phân giải",
+      "2K QHD 4MP (2560 * 1440 px)"
+    ],
+    [
+      "Độ dài tiêu cự",
+      "3.17mm"
+    ],
+    [
+      "Khẩu độ",
+      "1.65"
+    ],
+    [
+      "FOV",
+      "120°(Diagonal), 103°(Horizontal), 55°(Vertical)"
+    ],
+    [
+      "Maximum Resolution",
+      "2K QHD 4MP (2560 × 1440 px)"
+    ],
+    [
+      "Frame Rate",
+      "20 fps (Self-adaptive according brightness)"
+    ],
+    [
+      "Digital Zoom",
+      "12x"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3D DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "96dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Line-Crossing Detection<br />Baby<br />Cry Detection<br />Vehicle Detection<br />Pet Detection<br />Meow Detection<br />Bark Detection<br />Glass-Breaking Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Đàm thoại",
+      "Two-Way Audio"
+    ],
+    [
+      "Âm thanh vào & ra",
+      "Microphone and Speaker"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "Giao thức",
+      "2.4 GHz Wi-Fi, 802.11b/g/n"
+    ],
+    [
+      "Tốc Độ Wi-Fi",
+      "11 Mbps (802.11 b)54 Mbps (802.11 g)72.2Mbps (802.11n)"
+    ],
+    [
+      "Bảo Mật Không Dây",
+      "WPA, WPA2-PSK"
+    ],
+    [
+      "Bảo mật",
+      "128 Bit AES Encryption with SSL/TLS"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz Wi-Fi"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK"
+    ],
+    [
+      "Power Source",
+      "5V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "5.0 V, 1.0 A (DC Power)"
+    ],
+    [
+      "Input Trigger",
+      "Person/Pet/Vehicle/Motion Detection"
+    ],
+    [
+      "Output Notification",
+      "Push Notification"
+    ],
+    [
+      "Button",
+      "Reset Button"
+    ],
+    [
+      "Indicator LED",
+      "System LED"
+    ],
+    [
+      "Adapter Input",
+      "100-240V, AC, 50/60 Hz, 0.3 A"
+    ],
+    [
+      "Adapter Output",
+      "5.0 V / 1.0 A"
+    ],
+    [
+      "Product Dimensions (W x D x H)",
+      "2.65*2.26*1.74 in67.4*57.4*64 mm"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-20℃~45℃"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "2.65 × 2.26 × 1.74 in (67.4 × 57.4 × 44.1mm)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C120 CameraUSB Power Adapter<br />Quick Start Guide<br />Mounting Screws<br />Mounting Template<br />Metal Plate3M Adhesive<br />Mounting Anchors 3-Meter Type-C Wire<br />Cable Organizers<br />Detaching Pin"
+    ],
+    [
+      "Package Content",
+      "Tapo C120 Camera ×1Power Adapter ×13m Type-C Wire ×1Mounting Anchors ×4Mounting Screws ×4Cable Organizer ×2Mounting Template ×1Iron Camera Base ×13M Adhesive ×1Quick Start Guide ×1"
+    ],
+    [
+      "Operating Temperature",
+      "0℃~40 ℃ (32 ℉~104℉)"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60 ℃ (-4 ℉~140℉)"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90% non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Camera An Ninh Gia Đình Wi-Fi Trong Nhà Ngoài Trời Tapo</p><p>Camera an ninh gia đình Wi-Fi trong nhà ngoài trời TP-Link Tapo, Thiết kế nhỏ gọn và linh hoạt, Thiết lập siêu dễ dàng, Hoạt động với Alexa &amp; Google Home, Được chứng nhận UL, Chỉ Wi-Fi 2.4G, Dây dài 9,8ft, Màu trắng</p>",
+  "attrs": [
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera An Ninh Gia Đình Wi-Fi Trong Nhà Ngoài Trời Tapo Camera an ninh gia đình Wi-Fi trong nhà ngoài trời TP-Link Tapo, Thiết kế nhỏ gọn và linh hoạt, Thiết lập siêu dễ dàng, Hoạt động với Alexa & Google Home, Được chứng nhận UL, Chỉ Wi-Fi 2.4G, Dây dài 9,8ft, Màu trắng",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

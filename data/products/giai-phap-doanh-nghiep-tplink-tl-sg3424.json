@@ -1,0 +1,135 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-sg3424",
+  "name": "Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp TP-Link TL-SG3424",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG3424",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg3424/g01.jpg"
+  ],
+  "summary": [
+    "Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp",
+    "Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 24 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 Combo 100/1000Mbps SFP Slots1 Console Port",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable(maximum 100m)100; BASE-FX:MMF,SMF1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: Fanless"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG3424"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 Combo 100/1000Mbps SFP Slots1 Console Port"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable(maximum 100m)100<br />BASE-FX:MMF,SMF1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Maximum: 23.3W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32*8.7*1.73 in.(440*220*44 mm)"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "48Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "35.7Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Khung Jumbo",
+      "10240 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 4 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate Limiting<br />Voice VLAN"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3802.3ad LACP (Up to 8 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect<br />Loop back detection802.3x Flow Control"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)Port/ MAC/Protocol-based VLANGARP/GVRP"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address,IP address, TCP/UDP ports, 802.1p, DSCP, protocol and VLAN IDTime Range Based"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port-VID Binding<br />IEEE 802.1X Port/MAC Based authentication, Radius,Guest VLANDoS Defence<br />Dynamic ARP inspection (DAI)SSH v1/v2<br />SSL v2/v3/TLSv1Port Security"
+    ],
+    [
+      "IPv6",
+      "Dual IPv4/IPv6 stack<br />Multicast Listener Discovery (MLD) SnoopingIPv6 neighbor discovery (ND)Path maximum transmission unit (MTU) discovery"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs and TP-LINK private MIBsRMON (1, 2, 3, 9 groups)DHCP/BOOTP Client,DHCP Snooping,DHCP Option82<br />CPU Monitoring<br />Port Mirroring"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch<br />Power Cord<br />Quick Installation Guide<br />Resource CDRackmount KitRubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ or Windows 7, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉);Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp</p><p>Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp</p>",
+  "attrs": [
+    "24 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

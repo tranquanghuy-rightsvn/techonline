@@ -1,0 +1,172 @@
+{
+  "slug": "router-wifi-tplink-archer-c80",
+  "name": "Router Wi-Fi MU-MIMO AC1900 TP-Link Archer C80",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C80",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c80/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi MU-MIMO AC1900",
+    "Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi chính thống.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)",
+    "WiFi Range: 3 Bedroom Houses; 4× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance; 3×3 MU-MIMO; Simultaneously communicates with multiple MU-MIMO clients; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C80"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />4× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance<br />3×3 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường Lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× Mạng Khách 5 GHz<br />1× Mạng Khách 2.4 GHz"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "1.2 GHz CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1 cổng WAN Gigabit4 cổng LAN Gigabit"
+    ],
+    [
+      "Power",
+      "US Version12 V ⎓ 1.5 AEU Version12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "Nút WPS/Wi-FiNút Tắt/ Mở nguồn<br />Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh ™ được hỗ trợ"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm Soát Thời Gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên dịch vụ theo Thiết Bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng Cấp Firmware OTA ID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành Riêng Địa ChỉDanh Sách Máy Khách DHCP<br />Máy Chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebCheck Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, hoặc trình duyệt Java<br />Script khả dụng khác"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.25GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps:-98dBm, 11a 54<br />Mbps:-78dBm11ac VHT20_MCS0:-98dBm, 11ac VHT20_MCS8:-72dBm11ac VHT40_MCS0:-92dBm, 11ac VHT40_MCS9:-68dBm11ac VHT80_MCS0:-89dBm, 11ac VHT80_MCS9:-64d<br />Bm2.4<br />GHz:11g 6"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.5 × 4.6 × 1.26 in(215 × 117 × 32 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer C80Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi MU-MIMO AC1900</p><p>Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi chính thống.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi MU-MIMO AC1900 Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi chính thống.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t2u-v3",
+  "name": "USB Wi-Fi Băng Tần Kép AC600 TP-Link Archer T2U V3",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T2U V3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t2u-v3/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi Băng Tần Kép AC600",
+    "With 600Mbps WiFi speeds and simultaneous 5GHz and 2.4GHz bands, Archer T2U provides connections for lag-free HD video streaming and gaming.",
+    "Giao diện: USB 2.0",
+    "LED: Trạng thái",
+    "Kích thước ( R x D x C ): 0.7 × 0.41 × 1.59 in. (19.7 × 10.3 × 40.5 mm)",
+    "Chuẩn Wi-Fi: IEEE 802.11b/g/n 2.4 GHz, IEEE 802.11a/n/ac 5 GHz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T2U V3"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0"
+    ],
+    [
+      "LED",
+      "Trạng thái"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "0.7 × 0.41 × 1.59 in. (19.7 × 10.3 × 40.5 mm)"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n 2.4 GHz, IEEE 802.11a/n/ac 5 GHz"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi USB Wi-Fi Mini AC600 Archer T2UHướng dẫn cài đặt nhanh<br />Đĩa CD Tài nguyên"
+    ],
+    [
+      "System Requirements",
+      "Windows10/8.1/8/7/XP, Mac OS X 10.9-10.14"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi Băng Tần Kép AC600</p><p>With 600Mbps WiFi speeds and simultaneous 5GHz and 2.4GHz bands, Archer T2U provides connections for lag-free HD video streaming and gaming.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi Băng Tần Kép AC600 With 600Mbps WiFi speeds and simultaneous 5GHz and 2.4GHz bands, Archer T2U provides connections for lag-free HD video streaming and gaming.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "router-wifi-tplink-archer-ax50",
+  "name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link Archer AX50",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX50",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax50/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000",
+    "Được trang bị băng thông 160MHz và 1024-QAM, Archer AX50 mang đến tốc độ Gigabit lên tới 3Gbps.",
+    "Tận hưởng trò chơi trực tuyến và streaming trực tuyến nhanh hơn bao giờ hết",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 3 Bedroom Houses; 4× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX50"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />4× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Allocate devices to different bands for optimal performanceOFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeCare™ Antivirus<br />Malicious Site Checker<br />Port Intrusion Prevention<br />Infected Device Isolation<br />Notification and Log"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Dual-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports<br />Static Link Aggregation (LAG) available with 2× LAN ports"
+    ],
+    [
+      "USB Support",
+      "1× USB 3.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2 A"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi/WPS Button<br />Power On/Off ButtonLED On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeCare™"
+    ],
+    [
+      "Parental Controls",
+      "HomeCare™ Parental Controls<br />Custom Profiles<br />Content Filtering<br />App BlockURL Filtering<br />Time Limit Time Schedule (Bedtime)Log Insight"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by DeviceHomeCare™ QoSQoS by Application"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Virtual Servers<br />Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5.15GHz~5.825GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz:11a 6<br />Mbps:-97dBm, 11a 54"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 × 1.5 in(260.2 x 135.0 x 38.6 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer AX50Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000</p><p>Được trang bị băng thông 160MHz và 1024-QAM, Archer AX50 mang đến tốc độ Gigabit lên tới 3Gbps.</p><p>Tận hưởng trò chơi trực tuyến và streaming trực tuyến nhanh hơn bao giờ hết</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 Được trang bị băng thông 160MHz và 1024-QAM, Archer AX50 mang đến tốc độ Gigabit lên tới 3Gbps. Tận hưởng trò chơi trực tuyến và streaming trực tuyến nhanh hơn bao giờ hết",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

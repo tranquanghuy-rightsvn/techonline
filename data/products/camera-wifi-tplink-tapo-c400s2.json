@@ -1,0 +1,318 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c400s2",
+  "name": "Hệ Thống Camera An Ninh Thông Minh Không Dây, 2 Camera TP-Link Tapo C400S2",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C400S2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c400s2/g01.png"
+  ],
+  "summary": [
+    "Hệ Thống Camera An Ninh Thông Minh Không Dây, 2 Camera",
+    "Hệ thống camera an ninh không dây thông minh, Hệ thống 2 camera,Camera ngoài trời,Camera,chạy bằng pin,không dây,Phát hiện AI",
+    "Cảm biến hình ảnh: 1/3''",
+    "Ống kính: F/NO: 2.0±5%; Focal Length: 3.15mm±5%",
+    "Tầm nhìn đêm: 850 nm IR LED up to 49 ft/15m",
+    "Hub Compatibility: Compatible with H200 (Included)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C400S2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/3''"
+    ],
+    [
+      "Ống kính",
+      "F/NO: 2.0±5%; Focal Length: 3.15mm±5%"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED up to 49 ft/15m"
+    ],
+    [
+      "Hub Compatibility",
+      "Compatible with H200 (Included)"
+    ],
+    [
+      "Interface & Button",
+      "1× SYNC/RESET Button"
+    ],
+    [
+      "Khoảng cách nhìn",
+      "114°"
+    ],
+    [
+      "Độ phân giải",
+      "1080p Full HD (1920 × 1080 px)"
+    ],
+    [
+      "Device Compatibility",
+      "Works with Tapo smart sensors, buttons, Sub-1G switches, cameras, and video doorbells. All Supported Products>"
+    ],
+    [
+      "Connection Capacity",
+      "Up to 64 Sub-1G switches, sensors, or buttons + 4 cameras or video doorbells"
+    ],
+    [
+      "Interface & Button",
+      "1× Ethernet Port<br />1× RESET Button<br />1× SYNC Button<br />1× MicroSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Maximum Resolution",
+      "Full HD 1080P (1920 × 1080 px)"
+    ],
+    [
+      "Frame Rate",
+      "15 fps"
+    ],
+    [
+      "Digital Zoom",
+      "9×"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3D DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "Camera: 92 dB (Level measured at 4-inch/10-cm distance)<br />Hub:100 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Tốc độ khung hình",
+      "15 fps"
+    ],
+    [
+      "Truyền phát video",
+      "1080p"
+    ],
+    [
+      "Nén video",
+      "H.264"
+    ],
+    [
+      "Nén âm thanh",
+      "G.711"
+    ],
+    [
+      "Sensor",
+      "Single Motion Sensor (FOV: 110° horizontal)Single Ambient Light Sensors"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Pet Detection<br />Vehicle Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Đàm thoại",
+      "2-way audio"
+    ],
+    [
+      "Âm thanh vào & ra",
+      "Built-in microphone and speaker"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi or Ethernet"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, ICMP, DNS, HTTPS, TCP, UDP"
+    ],
+    [
+      "Ethernet Port",
+      "1× 10/100 Mbps RJ45 Port on Hub"
+    ],
+    [
+      "Bảo Mật Không Dây",
+      "WPA/WPA2-PSK"
+    ],
+    [
+      "Bảo mật",
+      "128 bit AES encryption with SSL/TLS"
+    ],
+    [
+      "Giao thức Wi-Fi",
+      "IEEE 802.11b/g/n, 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz"
+    ],
+    [
+      "Security",
+      "128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK"
+    ],
+    [
+      "Power Source",
+      "Hub：9V DC Power Adapter<br />Camera：5200 mAh Removable Rechargeable Lithium-ion Battery<br />Optional Solar Panel: Tapo A200 (Sold separately)"
+    ],
+    [
+      "Input Voltage",
+      "Camera Battery Pack Adapter Input: 100-240 V, 50/60 Hz<br />Hub Adapter Input: 100-240 V, 50/60 Hz, 0.3 A"
+    ],
+    [
+      "Output Voltage",
+      "Camera Battery Pack Adapter Output: 5.0 V, 1.0 AHub Adapter Output: 9.0 V, 0.85 A"
+    ],
+    [
+      "Input Trigger",
+      "Motion detection, Person detection, Pet detection, Vehicle detection."
+    ],
+    [
+      "Output Notification",
+      "Notification, Snapshot(Tapo care), Clips(Tapo care)."
+    ],
+    [
+      "Button",
+      "Camera Button: Reset/SYNC Button<br />Hub Button: Reset Button; SYNC Button"
+    ],
+    [
+      "Indicator LED",
+      "Camera Indicator LED: System LED<br />Hub Indicator LED: System LED"
+    ],
+    [
+      "Adapter Input",
+      "Camera Adapter Input: 100-240V, 50/60<br />Hz<br />Hub Adapter Input: 100-240V, 50/60Hz, 0.3A"
+    ],
+    [
+      "Adapter Output",
+      "Camera Adapter Output: 5.0V, 1.0<br />AHub Adapter Output: 9.0V, 0.85A"
+    ],
+    [
+      "Dimensions (W x D x H)",
+      "Camera Dimensions (Lx W x H): 4.35 x 2.52 x 2.52in. (110.6*64.2*64.2mm)Hub Dimensions (L x W x H): 2.8 x 2.8 x 1.2 in. (71.45*71.45*31.25mm)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "Camera: IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 11.0 or higher, Andriod 5.0 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Tabletop<br />Ceiling-Mounted<br />Wall-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "Camera: -20℃~45℃Hub: 0℃~40℃"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Charging Temperature",
+      "0-55℃"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "Camera Dimensions: 4.35 × 2.52 × 2.52 in (110.6 × 64.2 × 64.2 mm)<br />Hub Dimensions: 2.8 × 2.8 × 1.2 in (71.45 × 71.45 × 31.25 mm)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C400 Cameras<br />Tapo A100 Batteries<br />Tapo H200 HubUSB AdapterUSB Adapter CableDC Power Adapter<br />Mounting Anchors<br />Mounting Screws<br />Mounting Templates<br />Camera Brackets<br />Quick Start GuideRJ45 Ethernet Cable"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, RoHS, RCM"
+    ],
+    [
+      "Operating Temperature",
+      "-20℃~45℃(-4°F ~113 °F )"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃ (-4°F~140°F)"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90%RH, Non-condensing"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, RCM"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C400 Cameras (Battery Included) Tapo H200 Hub USB Adapter USB Adapter Cable DC Power Adapter<br />Mounting Screws Mounting Templates<br />Camera Brackets Quick Start Guide RJ45 Ethernet Cable"
+    ]
+  ],
+  "description_html": "<p>Hệ Thống Camera An Ninh Thông Minh Không Dây, 2 Camera</p><p>Hệ thống camera an ninh không dây thông minh, Hệ thống 2 camera,Camera ngoài trời,Camera,chạy bằng pin,không dây,Phát hiện AI</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hệ Thống Camera An Ninh Thông Minh Không Dây, 2 Camera Hệ thống camera an ninh không dây thông minh, Hệ thống 2 camera,Camera ngoài trời,Camera,chạy bằng pin,không dây,Phát hiện AI",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

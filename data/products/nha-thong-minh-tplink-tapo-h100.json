@@ -1,0 +1,77 @@
+{
+  "slug": "nha-thong-minh-tplink-tapo-h100",
+  "name": "Hub thông minh tích hợp Chuông báo TP-Link Tapo H100",
+  "categories": [
+    "tp-link-nha-thong-minh"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo H100",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/nha-thong-minh-tplink-tapo-h100/g01.jpg"
+  ],
+  "summary": [
+    "Hub thông minh tích hợp Chuông báo",
+    "90 dB, Up to 64 Devices",
+    "Giao thức: 2.4GHz Wi-Fi & Sub-1G863.35MHz, 864.35MHz, 868.35MHz (for EU/UK)920.9MHz, 921.7MHz, 922.3MHz (for US/AU).",
+    "Dạng Wi-Fi: 2.4GHz Wi-Fi",
+    "Nhiệt Độ Hoạt Động: 0~40°C",
+    "Kích thước( C X R X D ): 72 x 51 x 70.3 mm(2.8 x 2 x 2.8 inch)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo H100"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao thức",
+      "2.4GHz Wi-Fi & Sub-1G863.35MHz, 864.35MHz, 868.35MHz (for EU/UK)920.9MHz, 921.7MHz, 922.3MHz (for US/AU)."
+    ],
+    [
+      "Dạng Wi-Fi",
+      "2.4GHz Wi-Fi"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "0~40°C"
+    ],
+    [
+      "Kích thước( C X R X D )",
+      "72 x 51 x 70.3 mm(2.8 x 2 x 2.8 inch)"
+    ],
+    [
+      "Chất liệu",
+      "UL94-V0 Flame Ratardant"
+    ],
+    [
+      "Buttons",
+      "SYNC/Mute Button"
+    ],
+    [
+      "Power Requirements",
+      "AC, 100~240V, 50/60Hz"
+    ],
+    [
+      "Package Content",
+      "1 x Tapo H1001 x Quick Start Guide"
+    ]
+  ],
+  "description_html": "<p>Hub thông minh tích hợp Chuông báo</p><p>90 dB, Up to 64 Devices</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hub thông minh tích hợp Chuông báo 90 dB, Up to 64 Devices",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

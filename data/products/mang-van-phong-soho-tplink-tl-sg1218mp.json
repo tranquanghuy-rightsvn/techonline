@@ -1,0 +1,128 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1218mp",
+  "name": "18-Port Gigabit Rackmount Switch with 16 PoE+ TP-Link TL-SG1218MP",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1218MP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1218mp/g01.jpg"
+  ],
+  "summary": [
+    "18-Port Gigabit Rackmount Switch with 16 PoE+",
+    "Chuẩn và Giao thức: IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p",
+    "Giao diện: 16× PoE+ gigabit RJ45 ports; 2× gigabit non-PoE RJ45 ports; 2× combo gigabit SFP slots",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000",
+    "Số lượng quạt: 2",
+    "Khóa bảo mật vật lý: Yes"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1218MP"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "16× PoE+ gigabit RJ45 ports<br />2× gigabit non-PoE RJ45 ports<br />2× combo gigabit SFP slots"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "2"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100–240 VAC, 50/60 Hz"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliant<br />PoE Ports: Ports 1–16<br />PoE Power Budget: 250 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 × 7.1 × 1.73 in (440 × 180 × 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "21.4 W (220/50 Hz. no PD connected)<br />286.64 W (220/50 Hz. with 250 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "72.97 BTU/h (no PD connected)<br />977.44 BTU/h (with 250 W PD connected)"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "4.1 Mbit"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3af/at Compliant PDs<br />802.1p/DHCP QoS<br />Mac Address Auto-Learning And Auto-Aging<br />IEEE802.3x Flow Control For Full-Duplex Mode And Backpressure For Half-Duplex Mode"
+    ],
+    [
+      "Khung Jumbo",
+      "10 KB"
+    ],
+    [
+      "Switching Capacity",
+      "36 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "26.78 Mbps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1218MP<br />Installation Guide<br />Power Cord<br />Rackmount Kit<br />Rubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–50 °C (32–122 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>18-Port Gigabit Rackmount Switch with 16 PoE+</p>",
+  "attrs": [
+    "18 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "18-Port Gigabit Rackmount Switch with 16 PoE+",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

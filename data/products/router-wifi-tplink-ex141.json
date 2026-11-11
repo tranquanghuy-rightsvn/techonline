@@ -1,0 +1,160 @@
+{
+  "slug": "router-wifi-tplink-ex141",
+  "name": "AX1500 Dual Band Gigabit Wi-Fi 6 Router TP-Link EX141",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "EX141",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-ex141/g01.jpg"
+  ],
+  "summary": [
+    "AX1500 Dual Band Gigabit Wi-Fi 6 Router",
+    "Equipped with WiFi 6 technology, EX141 delivers faster speeds, greater capacity, and reduced network congestion.",
+    "Giao diện: 1 10/100/1000 Mbps RJ45 WAN Port3 10/100/1000 Mbps RJ45 LAN Ports",
+    "Nút: Reset Button, WPS/Wi-Fi Button",
+    "Bộ cấp nguồn bên ngoài (EU): 12V/1A",
+    "Kích thước ( R x D x C ): 7.2 × 3.7 × 1.3 in (182.7 × 94 × 33.3 mm)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EX141"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 10/100/1000 Mbps RJ45 WAN Port3 10/100/1000 Mbps RJ45 LAN Ports"
+    ],
+    [
+      "Nút",
+      "Reset Button, WPS/Wi-Fi Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/1A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "7.2 × 3.7 × 1.3 in (182.7 × 94 × 33.3 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Four External antennas"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11n/g/b 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz and 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "1201 Mbps on 5 GHz, 300 Mbps on 2.4 GHz*"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WMM, Wireless Statistics, Band Steering"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WPA/WPA2/WPA3 encryptions"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE: &lt;20dBm (2.4 GHz), &lt;23dBm (5.17 GHz–5.71 GHz)<br />FCC:&lt;30dBm (2.4 GHz &amp; 5.15 GHz–5.825 GHz)"
+    ],
+    [
+      "Lịch Wi-Fi",
+      "Support 2.4 GHz and 5 GHz Wireless Schedule"
+    ],
+    [
+      "Mesh Technology",
+      "EasyMesh Compatible, and support 802.11k/v/r"
+    ],
+    [
+      "Advanced Features",
+      "Muti-SSID, Guest Network, QoS (Quality of Service), TX Beamforming, MU-MIMO, OFDMA, Airtime Fairness"
+    ],
+    [
+      "Operating Modes",
+      "Router, Access Point"
+    ],
+    [
+      "Dạng WAN",
+      "Dynamic IP/Static IP/PPPoE/PPTP/L2TP (Multi-EWAN)"
+    ],
+    [
+      "Quản lý",
+      "Local management: WebGUI management, Aginet app management<br />Remote management: Aginet ACS, TR-069, TR-098, TR-181,TR-111, and TR-143 for service providers"
+    ],
+    [
+      "DHCP",
+      "Server, DHCP Client List, Address Reservation"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual Server, Port Triggering, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "IPSec, PPTP, L2TP"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Parental Controls, White List, Black List"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "DoS, SPI Firewall, IP and MAC Address Binding"
+    ],
+    [
+      "Giao thức",
+      "IPv4, IPv6"
+    ],
+    [
+      "VPN Server",
+      "PPTP, OpenVPN, IPSec"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AX1500 Dual Band Gigabit Wi-Fi 6 Router EX141Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "Requirements",
+      "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃–40℃ (32℉–104℉)<br />Storage Temperature: -40℃–60℃ (-40℉–140℉)<br />Operating Humidity: 10%–90% non-condensing<br />Storage Humidity: 5%–90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>AX1500 Dual Band Gigabit Wi-Fi 6 Router</p><p>Equipped with WiFi 6 technology, EX141 delivers faster speeds, greater capacity, and reduced network congestion.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1500"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AX1500 Dual Band Gigabit Wi-Fi 6 Router Equipped with WiFi 6 technology, EX141 delivers faster speeds, greater capacity, and reduced network congestion.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

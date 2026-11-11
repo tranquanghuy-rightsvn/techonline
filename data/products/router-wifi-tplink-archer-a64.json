@@ -1,0 +1,172 @@
+{
+  "slug": "router-wifi-tplink-archer-a64",
+  "name": "Router WiFi AC1200 MU-MIMO TP-Link Archer A64",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer A64",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-a64/g01.jpg"
+  ],
+  "summary": [
+    "Router WiFi AC1200 MU-MIMO",
+    "Archer A64, với 4 ăng-ten bên ngoài và cổng gigabit, cung cấp WiFi đến mọi ngóc ngách trong ngôi nhà của bạn, để bạn tận hưởng truyền phát video và chơi game mượt mà.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 400 Mbps (802.11n)",
+    "WiFi Range: Nhà 3 phòng ngủ 4 × Ăng-ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming",
+    "WiFi Capacity: Trung bình Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO; Giao tiếp đồng thời với nhiều máy khách MU-MIMO; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer A64"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 400 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 3 phòng ngủ 4 × Ăng-ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Trung bình Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO<br />Giao tiếp đồng thời với nhiều máy khách MU-MIMO<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Chế độ router<br />Chế độ điểm truy cập (access point)"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP và MAC"
+    ],
+    [
+      "Guest Network",
+      "1 x mạng khách 2.4 GHz<br />1× mạng khách 5 GHz"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "1.2 GHz CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1 cổng WAN Gigabit4 cổng LAN Gigabit"
+    ],
+    [
+      "Power",
+      "12V = 1A"
+    ],
+    [
+      "Buttons",
+      "Nút WPS/Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer A64 can flexibly build an EasyMesh network with EasyMesh-Compatible devices, which eliminates Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoE(Truy cập kép)PPTP(Truy cập kép)L2TP(Truy cập kép)"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên theo thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng Cấp Firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Chuyển tiếp cổng<br />Kích hoạt cổngUPnPDMZ"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Máy chủ<br />Danh sách máy chủ DHCP<br />Dành riêng địa chỉ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebKiểm tra giả lập web&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4 GHz), &lt;23dBm(5.15 GHz~5.25 GHz)<br />FCC:&lt;30dBm(2.4 GHz &amp; 5 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz:11a 6<br />Mbps:-95d<br />Bm11a 54<br />Mbps:-77d<br />Bm11ac VHT20 MCS8:-71d<br />Bm11ac VHT40 MCS9:-67d<br />Bm11ac VHT80 MCS9:-63d<br />Bm2.4 GHz:11g 6<br />Mbps: -96d<br />Bm11g 54<br />Mbps: -78d<br />Bm11n HT20 MCS7:-77d"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "4.7 × 4.7 × 1.1 in (120 × 120 × 27.9 mm)"
+    ],
+    [
+      "Package Content",
+      "Router WiFi Archer A64Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router WiFi AC1200 MU-MIMO</p><p>Archer A64, với 4 ăng-ten bên ngoài và cổng gigabit, cung cấp WiFi đến mọi ngóc ngách trong ngôi nhà của bạn, để bạn tận hưởng truyền phát video và chơi game mượt mà.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1200"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router WiFi AC1200 MU-MIMO Archer A64, với 4 ăng-ten bên ngoài và cổng gigabit, cung cấp WiFi đến mọi ngóc ngách trong ngôi nhà của bạn, để bạn tận hưởng truyền phát video và chơi game mượt mà.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

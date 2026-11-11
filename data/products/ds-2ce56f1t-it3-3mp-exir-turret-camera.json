@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2ce56f1t-it3-3mp-exir-turret-camera",
+  "name": "3MP EXIR Turret Camera Hikvision DS-2CE56F1T-IT3",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE56F1T-IT3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3-500x500.png"
+  ],
+  "summary": [
+    "3 Megapixel high-performance CMOS",
+    "Analog HD output, up to 3MP resolution",
+    "True Day/Night",
+    "OSD menu, DNR, Smart IR",
+    "EXIR technology, up to 20/40m IR distance",
+    "IP66 weatherproof",
+    "Up the Coax(HIKVISION-C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE56F1T-IT3"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "3MP"
+    ]
+  ],
+  "description_html": "<p>3 Megapixel high-performance CMOS</p><p>Analog HD output, up to 3MP resolution</p><p>True Day/Night</p><p>OSD menu, DNR, Smart IR</p><p>EXIR technology, up to 20/40m IR distance</p><p>IP66 weatherproof</p><p>Up the Coax(HIKVISION-C)</p>",
+  "attrs": [
+    "3MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "3 Megapixel high-performance CMOS Analog HD output, up to 3MP resolution True Day/Night",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

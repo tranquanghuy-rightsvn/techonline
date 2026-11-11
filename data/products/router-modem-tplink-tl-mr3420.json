@@ -1,0 +1,111 @@
+{
+  "slug": "router-modem-tplink-tl-mr3420",
+  "name": "Router Wi-Fi Chuẩn N 3G/4G TP-Link TL-MR3420",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-MR3420",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-tl-mr3420/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Chuẩn N 3G/4G",
+    "This 3G/4G router delivers up to 300Mbps speeds for a max of 32 online devices at the same time.",
+    "Connect a 3G/4G USB dongle to TL-MR3420 and instantly create your own WiFi hotspot.",
+    "Giao diện: 1 x cổng USB 2.0 dành cho Modem LTE/HSPA+/HSUPA/HSDPA/UMTS/EVDO 1 x cổng WAN RJ45 10/100Mbps, Hỗ trợ tự động đàm phán và tự động MDI / MDIX4 x cổng LAN RJ45 10/100Mbps,",
+    "Nút: 1 x Nút WPS/Reset1 x Nút Mở/Tắt wifi1 x Nút nguồn Mở/ Tắt",
+    "Bộ cấp nguồn bên ngoài (EU): 12; VDC/1A"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-MR3420"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng USB 2.0 dành cho Modem LTE/HSPA+/HSUPA/HSDPA/UMTS/EVDO 1 x cổng WAN RJ45 10/100Mbps, Hỗ trợ tự động đàm phán và tự động MDI / MDIX4 x cổng LAN RJ45 10/100Mbps,"
+    ],
+    [
+      "Nút",
+      "1 x Nút WPS/Reset1 x Nút Mở/Tắt wifi1 x Nút nguồn Mở/ Tắt"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12<br />VDC/1A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "8*5.4*1.7 in. (204*138*44 mm)"
+    ],
+    [
+      "Ăng ten",
+      "V1&V2 ăng ten đẳng hướng, có thể tháo rời, Reverse SMAV3&V4 ăng ten đẳng hướng, không thể tháo rời, Reverse SMA"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "2x5dBi"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b, IEEE 802.11g, IEEE 802.11n"
+    ],
+    [
+      "Băng tần",
+      "2.4-2.4835GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ bảo mật 64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA-PSK2, Lọc địa chỉ MAC Wi-Fi"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm"
+    ],
+    [
+      "Bảo mật",
+      "Tường lửa NAT, tường lửa SPI, Lọc địa chỉ MAC/IP/gói/ ứng dụng/ URLTừ chối dịch vụ(DoS), SYN Flooding, Ping of Death"
+    ],
+    [
+      "Quản lý",
+      "Cấu hình dựa trên web (HTTP), Nâng cấp firmwire dựa trên web"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Router Không Dây Chuẩn N 3G/4G TL-MR34202 Ăng ten<br />Bộ chuyển đổi điện<br />Dây cáp Ethernet CD nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ Windows 7, 8, 10, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Chuẩn N 3G/4G</p><p>This 3G/4G router delivers up to 300Mbps speeds for a max of 32 online devices at the same time.</p><p>Connect a 3G/4G USB dongle to TL-MR3420 and instantly create your own WiFi hotspot.</p>",
+  "attrs": [
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Chuẩn N 3G/4G This 3G/4G router delivers up to 300Mbps speeds for a max of 32 online devices at the same time. Connect a 3G/4G USB dongle to TL-MR3420 and instantly create your own WiFi hotspot.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

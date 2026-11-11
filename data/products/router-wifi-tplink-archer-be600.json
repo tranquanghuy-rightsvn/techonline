@@ -1,0 +1,168 @@
+{
+  "slug": "router-wifi-tplink-archer-be600",
+  "name": "Router Wi-Fi 7 Ba Băng Tần BE9700 TP-Link Archer BE600",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer BE600",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-be600/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 7 Ba Băng Tần BE9700",
+    "Được trang bị công nghệ Wi-Fi 7, Archer BE600 mang lại tốc độ Wi-Fi đáng kinh ngạc lên đến 9.7 Gbps, cho phép các thiết bị của bạn hoạt động ở tốc độ tối đa.",
+    "WiFi Speeds: BE9700; 6 GHz: 5765 Mbps (802.11be); 5 GHz: 2882 Mbps (802.11be); 2.4 GHz: 1032 Mbps (802.11be)",
+    "WiFi Range: 3 Bedroom Houses; 6× External Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: High; Tri-Band; Allocate devices to different bands for optimal performanceMU-MIMO; Simultaneously communicates with multiple MU-MIMO clientsOFDMA; Simultaneously communicates with multiple clients",
+    "Advanced Features: Multi-Link Operation (MLO); 4K-QAM; Multi-RUs; EasyMesh-Compatible; Works with Alexa and Google Assistant; IoT Network"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer BE600"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "WiFi Speeds",
+      "BE9700<br />6 GHz: 5765 Mbps (802.11be)<br />5 GHz: 2882 Mbps (802.11be)<br />2.4 GHz: 1032 Mbps (802.11be)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />6× External Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Tri-Band<br />Allocate devices to different bands for optimal performanceMU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA<br />Simultaneously communicates with multiple clients"
+    ],
+    [
+      "Advanced Features",
+      "Multi-Link Operation (MLO)<br />4K-QAM<br />Multi-RUs<br />EasyMesh-Compatible<br />Works with Alexa and Google Assistant<br />IoT Network"
+    ],
+    [
+      "Wireless Mode",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access Control<br />IP &amp; MAC Binding<br />Application Layer Gateway<br />HomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention"
+    ],
+    [
+      "Guest Network",
+      "1× 6 GHz Guest Network<br />1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN Server<br />PPTP VPN Server<br />L2TP VPN Server<br />WireGuard VPN Server"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />L2TP VPN Client<br />WireGuard VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA<br />WPA2<br />WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 10 Gbps WAN/LAN<br />1× 2.5 Gbps WAN/LAN<br />3× 2.5 Gbps LAN"
+    ],
+    [
+      "USB Support",
+      "1× USB 3.0<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:FTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 3.3 A"
+    ],
+    [
+      "Buttons",
+      "Power Button<br />Wi-Fi/LED Button<br />WPS Button<br />Reset Button"
+    ],
+    [
+      "Protocol",
+      "IPv4<br />IPv6"
+    ],
+    [
+      "Service Kit",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "EasyMesh",
+      "Compatible with EasyMesh"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet<br />Weekly and Monthly Reports"
+    ],
+    [
+      "WAN Type",
+      "Dynamic IP<br />Static IP<br />PPPoE<br />PPTP<br />L2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware Upgrade<br />TP-Link ID<br />DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port Triggering<br />DMZ<br />UPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP Proxy<br />IGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address Reservation<br />DHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-Link<br />NO-IP<br />DynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether App<br />Webpage"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "CE, FCC"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 7 Ba Băng Tần BE9700</p><p>Được trang bị công nghệ Wi-Fi 7, Archer BE600 mang lại tốc độ Wi-Fi đáng kinh ngạc lên đến 9.7 Gbps, cho phép các thiết bị của bạn hoạt động ở tốc độ tối đa.</p>",
+  "attrs": [
+    "Wi-Fi 7",
+    "BE9700"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 7 Ba Băng Tần BE9700 Được trang bị công nghệ Wi-Fi 7, Archer BE600 mang lại tốc độ Wi-Fi đáng kinh ngạc lên đến 9.7 Gbps, cho phép các thiết bị của bạn hoạt động ở tốc độ tối đa.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

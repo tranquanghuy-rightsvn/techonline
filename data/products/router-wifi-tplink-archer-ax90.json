@@ -1,0 +1,184 @@
+{
+  "slug": "router-wifi-tplink-archer-ax90",
+  "name": "Router Wi-Fi 6 Gigabit Ba Băng Tần AX6600 TP-Link Archer AX90",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX90",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax90/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit Ba Băng Tần AX6600",
+    "Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 ba băng tần Archer AX90.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 4 Bedroom Houses; 8× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Very High; Tri-Band; Allocate devices to different bands for optimal performance; 4×4 MU-MIMO; Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX90"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "4 Bedroom Houses<br />8× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Very High<br />Tri-Band<br />Allocate devices to different bands for optimal performance<br />4×4 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway lớp ứng dụng HomeShield Security Bảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập"
+    ],
+    [
+      "Guest Network",
+      "1 x Mạng khách 5 GHz-11 x Mạng khách 5 GHz-21 x Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />L2TP VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU Lõi Tứ 1.5 GHz"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x Cổng WAN / LAN 2,5 Gbps1 x Cổng WAN / LAN 1 Gbps3 x Cổng LAN 1 Gbps"
+    ],
+    [
+      "USB Support",
+      "1 x Cổng USB 3.01 x Cổng USB 2.0Các định dạng phân vùng được hỗ trợ:NTFS, exFAT, HFS +, FAT32Các chức năng được hỗ trợ:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 3.3 A"
+    ],
+    [
+      "Buttons",
+      "Nút Bật / Tắt Wi-FiNút Bật / Tắt nguồn<br />Nút Bật / Tắt đèn LED<br />Nút WPS<br />Nút reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh ™ được hỗ trợ"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Phụ Huynh HomeShieldCấu hình Tùy chỉnh<br />Thư viện Bộ lọc Nội dung Chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ tắt<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Tự động nâng cấp FirmwareID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnPVirtual Server"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang Web"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản:-40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:<20dBm{2.4GHz}<23dBm{5.15GHz~5.35GHz}<30dBm{5.47GHz~5.725GHz}FCC:<24dBm{5.47GHz~5.725GHz }<30dBm{2.4GHz &5.15GHz~5.25GHz&5.725GHz~5.825GHz }"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4<br />GHz:11n HT20 MCS0:-95d<br />Bm11ax HE20 MCS11:-64d<br />Bm11ax HE40 MCS11:-62d<br />Bm5<br />GHz-1:11ac VHT20 MCS0:-92d<br />Bm11ax HE20 MCS11:-61d<br />Bm11ax HE40 MCS11:-58d<br />Bm11ax HE80 MCS11:-55d<br />Bm5"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "12.2 × 8.1 × 6.8 in(311 × 207 × 174 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX90Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit Ba Băng Tần AX6600</p><p>Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 ba băng tần Archer AX90.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX6600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit Ba Băng Tần AX6600 Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 ba băng tần Archer AX90.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

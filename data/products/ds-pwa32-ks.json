@@ -1,0 +1,48 @@
+{
+  "slug": "ds-pwa32-ks",
+  "name": "Thiết bị báo động Hikvision DS-PWA32-KS",
+  "categories": [
+    "bao-dong-hikvision",
+    "hikvision-bao-dong"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-PWA32-KS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/01/DS-PWA32-KS.jpg"
+  ],
+  "summary": [
+    "Supports up to 32 wireless inputs, 4 wireless output expanders Offers multiple communication methods: LAN + Wi-Fi + 3G/4G Up to 2-ch.",
+    "on-board video verification Offers reliable protection utilizing two-way wireless technology Wireless connection reduces installation time Communicates up to 800 m (in open areas) Contains DS-PWA32-HS x 1 DS-PD2-P10P-W x 1 DS-PD1-MC-WWS x 1 DS-19K00-Y x 1"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-PWA32-KS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Báo động"
+    ]
+  ],
+  "description_html": "<p>Supports up to 32 wireless inputs, 4 wireless output expanders Offers multiple communication methods: LAN + Wi-Fi + 3G/4G Up to 2-ch.</p><p>on-board video verification Offers reliable protection utilizing two-way wireless technology Wireless connection reduces installation time Communicates up to 800 m (in open areas) Contains DS-PWA32-HS x 1 DS-PD2-P10P-W x 1 DS-PD1-MC-WWS x 1 DS-19K00-Y x 1</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Supports up to 32 wireless inputs, 4 wireless output expanders Offers multiple communication methods: LAN + Wi-Fi + 3G/4G Up to 2-ch. on-board video verification Offers reliable protection utilizing two-way wireless technology Wireless connection reduces installation time Communicates up to 800…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

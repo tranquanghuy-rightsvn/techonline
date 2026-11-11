@@ -1,0 +1,185 @@
+{
+  "slug": "router-wifi-tplink-archer-ax80",
+  "name": "Router Wi-Fi 6 AX6000 8 luồng với cổng 2.5G TP-Link Archer AX80",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX80",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax80/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 AX6000 8 luồng với cổng 2.5G",
+    "Với cổng WAN/LAN 2.5G, băng thông 160 MHz và 1024-QAM, Archer AX80 tận dụng tối đa tốc độ gigabit từ ISP của bạn, mang lại tốc độ gigabit thực lên tới 6 Gbps.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX6000; 5 GHz: 4804Mbps (802.11ax, HE160); 2.4 GHz: 1148 Mbps (802.11ax)",
+    "WiFi Range: Nhà có 3 phòng ngủ trở lên; 4 x Ăng-ten hiệu suất cao băng tần kép; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn hơn; Beamforming",
+    "WiFi Capacity: Cao; Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu; OFDMA; Giao tiếp đồng thời với nhiều máy khách Wi-Fi 6; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX80"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX6000<br />5 GHz: 4804Mbps (802.11ax, HE160)<br />2.4 GHz: 1148 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà có 3 phòng ngủ trở lên<br />4 x Ăng-ten hiệu suất cao băng tần kép<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn hơn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Cao<br />Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu<br />OFDMA<br />Giao tiếp đồng thời với nhiều máy khách Wi-Fi 6<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Chế độ router<br />Chế độ điểm truy cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Cổng lớp ứng dụng<br />Bảo mật HomeShieldBảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập"
+    ],
+    [
+      "Guest Network",
+      "1× mạng khách 5 GHz<br />1× mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "Không hỗ trợ"
+    ],
+    [
+      "VPN Client",
+      "Không hỗ trợ"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA3*6<br />WPA2<br />WPA<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Cổng WAN/LAN 2.5 Gigabit<br />1× Cổng Gigabit WAN/LAN<br />3× Cổng Gigabit LAN"
+    ],
+    [
+      "USB Support",
+      "1× Cổng USB 3.0Chia sẻ USB:<br />Máy chủ ftp<br />Máy chủ phương tiện<br />Máy chủ Samba"
+    ],
+    [
+      "Power",
+      "12 V/2 A"
+    ],
+    [
+      "Buttons",
+      "Nút kết hợp Bật/Tắt đèn LED và Bật/Tắt Wi-Fi<br />Nút WPS<br />Nút Bật/Tắt nguồn<br />Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4<br />IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "Hỗ trợ OneMesh™Không cần thay thế các thiết bị hiện có của bạn hoặc mua một hệ sinh thái WiFi hoàn toàn mới,"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Của Phụ Huynh HomeShield<br />Cấu hình tùy chỉnh<br />Thư viện lọc nội dung chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ nghỉ<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP Động<br />IP Tĩnh<br />PPPoE"
+    ],
+    [
+      "Quality of Service",
+      "QoS Thiết Bị"
+    ],
+    [
+      "Cloud Service",
+      "Tự động nâng cấp firmware<br />Nâng cấp firmware OTA<br />Mã TP-Link<br />DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Cổng chuyển tiếp<br />Kích hoạt cổng<br />DMZ<br />UPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP Proxy<br />IGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy Chủ"
+    ],
+    [
+      "DDNS",
+      "TP-Link<br />NO-IP<br />DynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng Dụng Tether<br />Trang WebKIểm Tra Web Giả Lập&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "CE, JPA JRF VCCI"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Độ ẩm hoạt động: 10%~90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: <23dBm (5.15GHz~5.35GHz)<30dBm (5.47GHz~5.71GHz)<20dBm (2.4GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4 GHz:11ac VHT20 MCS0: -96dBm, 11ac VHT20 MCS8: -73dBm,11ac VHT40 MCS0: -94dBm, 11ac VHT40 MCS9: -68dBm,11ax HE20 MCS0: -95dBm, 11ax HE20 MCS11: -66dBm,11ax HE40 MCS0: -93dBm,"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "7.9 × 7.4 × 2.3 in (200 × 189 × 59 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX80<br />Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45<br />Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 AX6000 8 luồng với cổng 2.5G</p><p>Với cổng WAN/LAN 2.5G, băng thông 160 MHz và 1024-QAM, Archer AX80 tận dụng tối đa tốc độ gigabit từ ISP của bạn, mang lại tốc độ gigabit thực lên tới 6 Gbps.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX6000",
+    "5G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 AX6000 8 luồng với cổng 2.5G Với cổng WAN/LAN 2.5G, băng thông 160 MHz và 1024-QAM, Archer AX80 tận dụng tối đa tốc độ gigabit từ ISP của bạn, mang lại tốc độ gigabit thực lên tới 6 Gbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

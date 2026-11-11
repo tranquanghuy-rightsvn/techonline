@@ -1,0 +1,59 @@
+{
+  "slug": "ds-3e0105p-em",
+  "name": "Switch Hikvision DS-3E0105P-E/M",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E0105P-E/M",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0105P.jpg"
+  ],
+  "summary": [
+    "Switch mạng 4 cổng PoE 100M, 1 cổng uplink 10/100M , Layer 2",
+    "Tự tương thích chuẩn 802.3af/at , Tổng công suất tối đa PoE 35W",
+    "Truyền dẫn khoảng cách xa : Tối đa 250m ở chế độ mở rộng",
+    "Chống sét : 6KV cho mỗi cổng",
+    "Nguồn 48VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E0105P-E/M"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Truyền dẫn khoảng cách xa",
+      "Tối đa 250m ở chế độ mở rộng"
+    ],
+    [
+      "Chống sét",
+      "6KV cho mỗi cổng"
+    ]
+  ],
+  "description_html": "<p>Switch mạng 4 cổng PoE 100M, 1 cổng uplink 10/100M , Layer 2</p><p>Tự tương thích chuẩn 802.3af/at , Tổng công suất tối đa PoE 35W</p><p>Truyền dẫn khoảng cách xa : Tối đa 250m ở chế độ mở rộng</p><p>Chống sét : 6KV cho mỗi cổng</p><p>Nguồn 48VDC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch mạng 4 cổng PoE 100M, 1 cổng uplink 10/100M , Layer 2 Tự tương thích chuẩn 802.3af/at , Tổng công suất tối đa PoE 35W Truyền dẫn khoảng cách xa : Tối đa 250m ở chế độ mở rộng",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

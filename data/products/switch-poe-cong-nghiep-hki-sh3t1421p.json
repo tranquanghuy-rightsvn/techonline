@@ -1,0 +1,53 @@
+{
+  "slug": "switch-poe-cong-nghiep-hki-sh3t1421p",
+  "name": "Switch POE Công Nghiệp HKI-SH3T1421P",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "HKI-SH3T1421P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/09/HKI-SH3T1421P.jpg"
+  ],
+  "summary": [
+    "– High performance industrial PoE switch.",
+    "– HKI-SH3T1421P supports IEEE 802.3AF/AT standard.",
+    "– POE port maximum output power 30W (input voltage is greater than 50V).",
+    "– Design of redundant dual power input.",
+    "– Working environment temperature of no fan -40℃to +75℃.",
+    "– The average failure time reached 400 thousand hours.",
+    "– IEEE802.3x full duplex, backpressure flow control"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HKI-SH3T1421P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>– High performance industrial PoE switch.</p><p>– HKI-SH3T1421P supports IEEE 802.3AF/AT standard.</p><p>– POE port maximum output power 30W (input voltage is greater than 50V).</p><p>– Design of redundant dual power input.</p><p>– Working environment temperature of no fan -40℃to +75℃.</p><p>– The average failure time reached 400 thousand hours.</p><p>– IEEE802.3x full duplex, backpressure flow control</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– High performance industrial PoE switch. – HKI-SH3T1421P supports IEEE 802.3AF/AT standard. – POE port maximum output power 30W (input voltage is greater than 50V).",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

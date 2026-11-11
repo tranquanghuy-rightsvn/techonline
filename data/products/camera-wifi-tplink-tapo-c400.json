@@ -1,0 +1,212 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c400",
+  "name": "Camera AI An Ninh Ngoài Trời Không Dây TP-Link Tapo C400",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C400",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c400/g01.jpg"
+  ],
+  "summary": [
+    "Camera AI An Ninh Ngoài Trời Không Dây",
+    "Trải nghiệm giải pháp an ninh ngoài trời dễ dàng với bộ camera năng lượng mặt trời Tapo C400 KIT độ phân giải Full HD 1080P.",
+    "Nhận cảnh báo thông minh, đáng tin cậy và ghi lại sự kiện rõ nét – tất cả đều hoàn toàn không cần dây.",
+    "Cảm biến hình ảnh: 1/3” Progressive Scan CMOS Sensor",
+    "Ống kính: Focal Length: 3.16mm ±5%; Aperture: F1.6±5%; Field of View: 116.7±3° (Diagonal), 99.7±3° (Horizontal), 53.8±3°(Vertical)",
+    "Tầm nhìn đêm: 2 × 850 nm IR LEDs (32.8 ft. / 10 m)Color Night Vision"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C400"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/3” Progressive Scan CMOS Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 3.16mm ±5%<br />Aperture: F1.6±5%<br />Field of View: 116.7±3° (Diagonal), 99.7±3° (Horizontal), 53.8±3°(Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "2 × 850 nm IR LEDs (32.8 ft. / 10 m)Color Night Vision"
+    ],
+    [
+      "Lighting",
+      "2x White Lights<br />Motion Activated, App-Controlled"
+    ],
+    [
+      "Hub Compatibility",
+      "Compatible with Tapo H200 & Tapo H500"
+    ],
+    [
+      "Interface & Button",
+      "1× POWER Button<br />1× RESET Button<br />1× microSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Maximum Resolution",
+      "1080P 2MP (1920×1080 px)"
+    ],
+    [
+      "Frame Rate",
+      "15fps"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "70 dBA (Level measured at 3m distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Sensor",
+      "Single Motion Sensor (FOV: 110° horizontal)Single Ambient Light Sensors"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "Ethernet Port",
+      "No"
+    ],
+    [
+      "RTSP",
+      "No"
+    ],
+    [
+      "ONVIF",
+      "No"
+    ],
+    [
+      "Security",
+      "128-bit AES Encryption with SSL/TLS WPA/WPA2-PSK"
+    ],
+    [
+      "Power Source",
+      "Built-in Rechargeable Lithium-ion Battery<br />Optional Solar Panel (Sold separately)"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz, 0.2 A (Not included)"
+    ],
+    [
+      "Output Voltage",
+      "5.0 V, 1.0 A, Type-C Power (Not included)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 11.0 or higher, Android 7.0 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Wall-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-20℃ ~ 45℃ (-4 ℉ ~ 113 ℉ )"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃ ~ 60℃ (-40 ℉ ~ 140 ℉ )"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Charging Temperature",
+      "0℃ ~ 45℃ (32 ℉ ~ 113 ℉ )"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "Camera Dimensions: 81 x 48 x 58.32 mm (3.19 x 1.89 x 2.3 in.)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C400 Camera x1Camera Bracket x1Mounting Screws x2Mounting Screw Anchors x2<br />USB Charging Cable x1Mounting Template Sticker x1Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, DOE, CEC, RCM, KC, NCC, BSMI, NTRA, IP65"
+    ]
+  ],
+  "description_html": "<p>Camera AI An Ninh Ngoài Trời Không Dây</p><p>Trải nghiệm giải pháp an ninh ngoài trời dễ dàng với bộ camera năng lượng mặt trời Tapo C400 KIT độ phân giải Full HD 1080P.</p><p>Nhận cảnh báo thông minh, đáng tin cậy và ghi lại sự kiện rõ nét – tất cả đều hoàn toàn không cần dây.</p>",
+  "attrs": [
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera AI An Ninh Ngoài Trời Không Dây Trải nghiệm giải pháp an ninh ngoài trời dễ dàng với bộ camera năng lượng mặt trời Tapo C400 KIT độ phân giải Full HD 1080P. Nhận cảnh báo thông minh, đáng tin cậy và ghi lại sự kiện rõ nét – tất cả đều hoàn toàn không cần dây.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

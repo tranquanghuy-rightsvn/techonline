@@ -1,0 +1,156 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1500g-10ps-tl-sg2210p",
+  "name": "Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP TP-Link T1500G-10PS (TL-SG2210P)",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1500G-10PS (TL-SG2210P)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1500g-10ps-tl-sg2210p/g01.jpg"
+  ],
+  "summary": [
+    "Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP",
+    "Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3af, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 8 x cổng RJ45 10/100/1000Mbps2 x khe SFP(Hỗ trợ tự động chuyển đổi MDI/MDIX)",
+    "Mạng Media: 10; BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100m)100; BASE-TX / 1000; Base-T: Cáp UTP loại 5, 5e hoặc trên (tối đa 100m)",
+    "Số lượng quạt: Không có quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1500G-10PS (TL-SG2210P)"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3af, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "8 x cổng RJ45 10/100/1000Mbps2 x khe SFP(Hỗ trợ tự động chuyển đổi MDI/MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100m)100<br />BASE-TX / 1000<br />Base-T: Cáp UTP loại 5, 5e hoặc trên (tối đa 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Không có quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "No"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60HzBộ chuyển đổi nguồn bên ngoài (đầu ra: 48<br />VDC/1.25A)"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Tiêu chuẩn: tuân theo 802.3afCổng PoE: 8 Cổng<br />Cấp nguồn: 53W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "209 * 126 * 26mm"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "9,92W (220 V / 50Hz không có kết nối PD)64,89W (110 V / 60Hz với kết nối PD 53W)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "33,85 BTU / h (không có PD được kết nối)221,40 BTU / h (với 53W PD được kết nối)"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "20Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "14.9Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Khung Jumbo",
+      "9KB"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Ưu tiên CoS / DSCP 802.1p<br />8 hàng đợi ưu tiên<br />Chế độ lịch ưu tiên - SP (Strict Priority) - WRR (Weighted Round Robin)<br />Cấu hình hàng đợi"
+    ],
+    [
+      "L2 Features",
+      "Link Aggregation - static link aggregation - Up to 8 aggregation groups and up to 8 ports per group - 802.3ad LACP"
+    ],
+    [
+      "L2 Multicast",
+      "512 IPv4,IPv6 shared multicast groups<br />IGMP Snooping - IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier - IGMP Authentication - Static Group Config"
+    ],
+    [
+      "VLAN",
+      "Nhóm VLAN - Tối đa Nhóm 4K VLAN<br />Thẻ VLAN 802.1Q<br />VLAN MAC<br />Giao thức VLAN<br />GVRP<br />VLAN thoại"
+    ],
+    [
+      "Access Control List",
+      "Hỗ trợ tới 230 mục<br />Phạm vi thời gian - Lát thời gian - Phạm vi thời gian trong tuần - Phạm vi thời gian tuyệt đối - Ngày lễ<br />ACL dựa trên thời gian"
+    ],
+    [
+      "Bảo mật",
+      "AAA"
+    ],
+    [
+      "IPv6",
+      "IPv6 Dual IPv4/IPv6<br />Multicast Listener Discovery(MLD) Snooping<br />IPv6 neighbor discovery (ND)<br />Path maximum transmission unit (MTU) discovery<br />Internet Control Message Protocol (ICMP) version 6"
+    ],
+    [
+      "Quản lý",
+      "GUI dựa trên web<br />Giao diện dòng lệnh (CLI) thông qua cổng console, telnet<br />SNMPv1 / v2c / v3<br />Bẫy SNMP / Thông báo<br />RMON (1,2,3,9 nhóm)<br />Mẫu SDM<br />Máy khách DHCP / BOOTP"
+    ],
+    [
+      "MIBs",
+      "MIB II (RFC1213)<br />Interface MIB (RFC2233)<br />Ethernet Interface MIB (RFC1643)<br />Bridge MIB (RFC1493)<br />P/Q-Bridge MIB (RFC2674)<br />RMON MIB (RFC2819)<br />RMON2 MIB (RFC2021)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1500G-10PSBộ chuyển đổi nguồn<br />Hướng dẫn cài đặtCD nguồn<br />Chân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7/8, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP</p><p>Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

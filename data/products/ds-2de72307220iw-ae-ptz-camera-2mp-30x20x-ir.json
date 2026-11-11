@@ -1,0 +1,57 @@
+{
+  "slug": "ds-2de72307220iw-ae-ptz-camera-2mp-30x20x-ir",
+  "name": "PTZ Camera 2MP 30X/20X IR Hikvision DS-2DE7230/7220IW-AE",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE7230/7220IW-AE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE7230IW-AE-2-500x500.jpg"
+  ],
+  "summary": [
+    "1920*1080P Full HD, 30X/20x Optical Zoom",
+    "3D DNR, D WDR, ICR",
+    "Alarm input/output",
+    "Privacy mask",
+    "Up to 150m IR distance",
+    "24VAC / High-PoE"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE7230/7220IW-AE"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1920*1080P Full HD, 30X/20x Optical Zoom</p><p>3D DNR, D WDR, ICR</p><p>Alarm input/output</p><p>Privacy mask</p><p>Up to 150m IR distance</p><p>24VAC / High-PoE</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1920*1080P Full HD, 30X/20x Optical Zoom 3D DNR, D WDR, ICR Alarm input/output",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

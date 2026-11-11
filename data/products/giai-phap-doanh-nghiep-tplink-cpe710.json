@@ -1,0 +1,169 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-cpe710",
+  "name": "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz TP-Link CPE710",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "CPE710",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-cpe710/g01.jpg"
+  ],
+  "summary": [
+    "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz",
+    "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz",
+    "Bộ xử lý: Qualcomm 750MHz CPU, MIPS 74Kc",
+    "Bộ nhớ: 128 MB DDR2 RAM, 16 MB Flash",
+    "Giao diện: 1 x Cổng Ethernet được che chắn 10/100/1000 Mbps (LAN / POE)1 x nút Reset",
+    "Bộ cấp nguồn: Cấp nguồn thụ động qua Ethernet qua mạng LAN (+ 4,5pins; -7,8pins)Dải điện áp: 16-27V DC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "CPE710"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Bộ xử lý",
+      "Qualcomm 750MHz CPU, MIPS 74Kc"
+    ],
+    [
+      "Bộ nhớ",
+      "128 MB DDR2 RAM, 16 MB Flash"
+    ],
+    [
+      "Giao diện",
+      "1 x Cổng Ethernet được che chắn 10/100/1000 Mbps (LAN / POE)1 x nút Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Cấp nguồn thụ động qua Ethernet qua mạng LAN (+ 4,5pins; -7,8pins)Dải điện áp: 16-27V DC"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "7.3 Watts Max<br />Note: When deployed using Passive PoE, the power drawn from the power source will be higher by some amount depending on the length of the connecting cable."
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "366 x 280 x 207 mm (14.4 x 11.0 x 8.1 in.)"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "23 dBi"
+    ],
+    [
+      "Độ rộng bước sóng Ăng ten",
+      "9° (Góc phương vị) / 7° (Độ cao)"
+    ],
+    [
+      "Bảo vệ",
+      "Bảo vệ ESD 15 KVBảo vệ chống sét 6 KV"
+    ],
+    [
+      "Enclosure",
+      "Chất liệu: Nhựa ổn định PC ngoài trời<br />Chịu thời tiết: Thiết kế chống nước và bụi IP65"
+    ],
+    [
+      "Cấu hình mạng",
+      "WAN: Tĩnh / Động / PPPoELAN: Tĩnh / Động / DHCP<br />Chuyển tiếp: ALG / UPnP / Máy chủ ảo / Kích hoạt cổng<br />Bảo mật: Tường lửa SPI / Cấm Ping / Bảo vệ DoSKiểm soát truy cập<br />Định tuyến tĩnh"
+    ],
+    [
+      "Cấu hình Wi-Fi",
+      "Chiều rộng kênh có thể lựa chọn: 20/40/80MHzLựa chọn kênh tự động<br />Điều khiển công suất truyền<br />Lựa chọn tần số động (DFS)Bật / Tắt WDS"
+    ],
+    [
+      "Quản lý",
+      "Khám phá và quản lý từ xa thông qua ứng dụng Pharos Control<br />Quản lý dựa trên web HTTP / HTTPS<br />Nhật ký hệ thốngSNMP Agent (v2c)Ping Watch DogDDNS động<br />Máy chủ SSH"
+    ],
+    [
+      "Công cụ hệ thống",
+      "Các chỉ số: Cường độ tín hiệu / Tiếng ồn / Truyền CCQ / CPU / Bộ nhớ<br />Màn hình: Thông lượng / Trạm / Giao diện / ARP / Đường / WAN / DHCP<br />Phân tích quang phổ<br />Kiểm tra tốc độPing<br />Traceroute"
+    ],
+    [
+      "System-level Optimizations",
+      "IGMP Snooping / Proxy được tối ưu hóa cho các ứng dụng phát đa hướng"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Lên đến 867 Mbps (80 MHz, Động)Lên đến 400 Mbps (40 MHz, Động)Lên đến 173,4 Mbps (20 MHz, Động)"
+    ],
+    [
+      "Băng tần",
+      "5.15–5.85 GHz"
+    ],
+    [
+      "Công suất truyền tải",
+      "Max. 27 dBm (Adjustable power by 1dBm)"
+    ],
+    [
+      "Kích thước (R x D x C)",
+      "85.8×43.9×29.7 mm"
+    ],
+    [
+      "Interfaces",
+      "1 Giắc cắm AC với Nối đất<br />1 × 10/100/1000 Mbps Cổng Ethernet được che chắn (Nguồn + Dữ liệu)<br />1 × 10/100/1000 Mbps Cổng Ethernet được che chắn (Dữ liệu)"
+    ],
+    [
+      "Button",
+      "Nút Reset từ xa"
+    ],
+    [
+      "Power Status LEDs",
+      "Xanh lá"
+    ],
+    [
+      "Input",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Output",
+      "24<br />VDC, Tối đa 0.5A+4, 5pins; -7, 8pins. (Hỗ trợ lên đến 60m Nguồn qua Ethernet)"
+    ],
+    [
+      "Efficiency",
+      ">84.29%"
+    ],
+    [
+      "Chứng chỉ",
+      "CE/FCC/UL/IC/GS/PSB/C-tick/SAA/S-Mark/KC-mark"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, IP65, IC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "CPE không dây ngoài trời<br />Bộ chuyển đổi PoE thụ động 24V 0.5ABộ dụng cụ gắn cực<br />Dây nguồn ACHướng dẫn cài đặt"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista ™ hoặc Windows 10, Windows 8, Windows 7, MAC OS, NetWare,"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: -40℃~70℃ (-40℉~158℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 95% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz</p><p>CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

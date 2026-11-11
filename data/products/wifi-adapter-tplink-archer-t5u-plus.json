@@ -1,0 +1,104 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t5u-plus",
+  "name": "USB Wi-Fi AC1300 Hai Ăng-ten Độ Lợi Cao TP-Link Archer T5U Plus",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T5U Plus",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t5u-plus/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi AC1300 Hai Ăng-ten Độ Lợi Cao",
+    "Archer T5U Plus giải phóng tốc độ cực nhanh với vùng phủ sóng vượt trội",
+    "Interface: USB 3.0",
+    "LED: Status",
+    "Kích thước ( R x D x C ): 43 × 13.5 × 78.1 mm (1.69 × 0.53 × 3.07 in)",
+    "Ăng ten: 2× External High Gain Antennas"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T5U Plus"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Interface",
+      "USB 3.0"
+    ],
+    [
+      "LED",
+      "Status"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "43 × 13.5 × 78.1 mm (1.69 × 0.53 × 3.07 in)"
+    ],
+    [
+      "Ăng ten",
+      "2× External High Gain Antennas"
+    ],
+    [
+      "Bảo mật",
+      "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n 2.4 GHz<br />IEEE 802.11a/n/ac 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5 GHz:11ac: Up to 867 Mbps(dynamic)11n: Up to 400 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz:11n: Up to 400 Mbps(dynamic)11g: Up to 54 Mbps(dynamic)11b: Up to 11 Mbps(dynamic)"
+    ],
+    [
+      "WLAN Reception Sensitivity",
+      "5 GHz:11ac VHT80: -63 d<br />Bm11ac VHT20: -69 d<br />Bm11n HT40: -71d<br />Bm11n HT20: -74d<br />Bm11a 54<br />Mbps: -76d<br />Bm2.4 GHz:11n HT40: -68d<br />Bm11n HT20: -70d<br />Bm11g 54<br />Mbps: -74d<br />Bm11b 11<br />Mbps: -86dBm"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Infrastructure mode"
+    ],
+    [
+      "Công suất truyền tải",
+      "5 GHz: 20dBm(FCC) / 18dBm(CE) (EIRP) 2.4 GHz : 19dBm(FCC) / 17dBm(CE) (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC1300 Dual Antennas High Gain Wireless USB Adapter Archer T5U Plus<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Supported operating systems include Windows 7/8/8.1/10/11"
+    ],
+    [
+      "Môi trường",
+      "Environment<br />Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi AC1300 Hai Ăng-ten Độ Lợi Cao</p><p>Archer T5U Plus giải phóng tốc độ cực nhanh với vùng phủ sóng vượt trội</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi AC1300 Hai Ăng-ten Độ Lợi Cao Archer T5U Plus giải phóng tốc độ cực nhanh với vùng phủ sóng vượt trội",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

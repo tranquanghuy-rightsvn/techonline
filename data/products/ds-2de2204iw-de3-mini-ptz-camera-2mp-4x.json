@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2de2204iw-de3-mini-ptz-camera-2mp-4x",
+  "name": "Mini PTZ Camera 2MP 4X Hikvision DS-2DE2204IW-DE3",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE2204IW-DE3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE2204IW-DE3-1-500x500.jpg"
+  ],
+  "summary": [
+    "2MP real-time",
+    "4X Optical Zoom",
+    "3D intelligent positioning",
+    "Privacy mask",
+    "PoE / 12VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE2204IW-DE3"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2MP real-time</p><p>4X Optical Zoom</p><p>3D intelligent positioning</p><p>Privacy mask</p><p>PoE / 12VDC</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP real-time 4X Optical Zoom 3D intelligent positioning",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

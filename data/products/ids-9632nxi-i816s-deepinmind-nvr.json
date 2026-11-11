@@ -1,0 +1,54 @@
+{
+  "slug": "ids-9632nxi-i816s-deepinmind-nvr",
+  "name": "DeepinMind NVR Hikvision iDS-9632NXI-I8/16S",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "iDS-9632NXI-I8/16S",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/08/iDS-9632NXI-I8-16S-500x500.jpg"
+  ],
+  "summary": [
+    "False alarm filtering for up to 16-ch behavior detection",
+    "320/256 Mbps bit rate input/output(up to 32-ch IP camera input)",
+    "Up to 12MP resolution recoding/live view",
+    "H.265+/H.265/H.264+/H.264 video formats self-adapt",
+    "12-ch 1080P decoding capability",
+    "HDMI output at up to 4K resolution",
+    "Up to 8 SATA interfaces, up to 8 TB for each HDD",
+    "HDD hot swapping with RAID 0/1/5/6/10"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "iDS-9632NXI-I8/16S"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>False alarm filtering for up to 16-ch behavior detection</p><p>320/256 Mbps bit rate input/output(up to 32-ch IP camera input)</p><p>Up to 12MP resolution recoding/live view</p><p>H.265+/H.265/H.264+/H.264 video formats self-adapt</p><p>12-ch 1080P decoding capability</p><p>HDMI output at up to 4K resolution</p><p>Up to 8 SATA interfaces, up to 8 TB for each HDD</p><p>HDD hot swapping with RAID 0/1/5/6/10</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "False alarm filtering for up to 16-ch behavior detection 320/256 Mbps bit rate input/output(up to 32-ch IP camera input) Up to 12MP resolution recoding/live view",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

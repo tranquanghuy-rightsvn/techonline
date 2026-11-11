@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2ce16u1t-it5f-8-mp-bullet-camera",
+  "name": "8 MP Bullet Camera Hikvision DS-2CE16U1T-IT5F",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE16U1T-IT5F",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE16U1T-IT5F-500x500.jpg"
+  ],
+  "summary": [
+    "8.29 Megapixel high-performance CMOS",
+    "3840 × 2160 resolution",
+    "3.6 mm, 6 mm 8mm 12mm fixed focal lens",
+    "OSD menu, 3D DNR, 120 dB true WDR",
+    "EXIR 2.0, smart IR, up to 80m IR distance",
+    "IP67",
+    "Up the Coax(HIKVISION-C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE16U1T-IT5F"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>8.29 Megapixel high-performance CMOS</p><p>3840 × 2160 resolution</p><p>3.6 mm, 6 mm 8mm 12mm fixed focal lens</p><p>OSD menu, 3D DNR, 120 dB true WDR</p><p>EXIR 2.0, smart IR, up to 80m IR distance</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8.29 Megapixel high-performance CMOS 3840 × 2160 resolution 3.6 mm, 6 mm 8mm 12mm fixed focal lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

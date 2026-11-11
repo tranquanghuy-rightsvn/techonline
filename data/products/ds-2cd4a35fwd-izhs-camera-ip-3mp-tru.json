@@ -1,0 +1,62 @@
+{
+  "slug": "ds-2cd4a35fwd-izhs-camera-ip-3mp-tru",
+  "name": "Camera IP 3MP thân trụ Hikvision DS-2CD4A35FWD-IZ(H)(S)",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD4A35FWD-IZ(H)(S)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4A25FWD-IZHS-500x500.png"
+  ],
+  "summary": [
+    "1/2.8” Progressive Scan CMOS",
+    "3MP real time",
+    "Up to 45fps frame rate",
+    "Slow shutter",
+    "120dB WDR",
+    "3D DNR",
+    "Built-in heater optional (-H)",
+    "Audio/Alarm IO optional (-S)",
+    "Support 128G on-board storage",
+    "DC12V/PoE",
+    "IP67 protection"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD4A35FWD-IZ(H)(S)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "3MP"
+    ]
+  ],
+  "description_html": "<p>1/2.8” Progressive Scan CMOS</p><p>3MP real time</p><p>Up to 45fps frame rate</p><p>Slow shutter</p><p>120dB WDR</p><p>3D DNR</p><p>Built-in heater optional (-H)</p><p>Audio/Alarm IO optional (-S)</p><p>Support 128G on-board storage</p><p>DC12V/PoE</p><p>IP67 protection</p>",
+  "attrs": [
+    "3MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.8” Progressive Scan CMOS 3MP real time Up to 45fps frame rate",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

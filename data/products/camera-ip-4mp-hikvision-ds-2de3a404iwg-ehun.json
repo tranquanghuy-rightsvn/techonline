@@ -1,0 +1,69 @@
+{
+  "slug": "camera-ip-4mp-hikvision-ds-2de3a404iwg-ehun",
+  "name": "Camera IP 4MP Hikvision DS-2DE3A404IWG-EHUN",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE3A404IWG-EHUN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE3A404IWG-EHUN.jpg"
+  ],
+  "summary": [
+    "Camera IP ColorVu PT 4 MP",
+    "Cảm biến 1/2.8″ progressive scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264",
+    "Độ nhạy sáng Color: 0.0005 Lux @ (F1.0, AGC ON); 0 Lux with white light.",
+    "Độ phân giải tối đa 4Mp, 2560×1440@25fps. Hồng ngoại 30m, Ánh sáng trắng 60m",
+    "Ống kính 2.8-12 mm, Zoom số 16x.",
+    "Tính năng ngược sáng thực WDR 120dB, Tính năng giảm nhiễu số 3D DNR, Tính năng Bù ngược sáng BLC, chống rung số EIS",
+    "Hỗ trợ 300 Presets, Nhớ vị trí trước khi mất điện.",
+    "Góc quay 0° đến 350°, Góc quét 0° đến 90°",
+    "Hỗ trợ tính năng Chụp hình khuôn mặt, Phát hiện xâm nhập, Vượt hàng rảo ảo, Phát hiện vùng đi vào, Vùng đi ra (phân biệt người và phương tiện). Phát hiện vật thể di dời, Hành lý bỏ quên. Phát hiện âm thanh ngoại lệ.",
+    "Tích hợp mic và loa. Hỗ trợ 1 cổng Audio vào, 1 Audio ra. Hỗ trợ 1 cổng báo động vào, 1 cổng báo động ra.",
+    "Hỗ trợ dịch vụ hik-connect, tên miền cameraddns.",
+    "Tiêu chuẩn chống bụi, nước IP66.",
+    "Cảnh báo còi đèn.",
+    "Nguồn cấp 12VDC, hỗ trợ POE."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE3A404IWG-EHUN"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Độ nhạy sáng Color",
+      "0.0005 Lux @ (F1.0, AGC ON); 0 Lux with white light."
+    ]
+  ],
+  "description_html": "<p>Camera IP ColorVu PT 4 MP</p><p>Cảm biến 1/2.8″ progressive scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264</p><p>Độ nhạy sáng Color: 0.0005 Lux @ (F1.0, AGC ON); 0 Lux with white light.</p><p>Độ phân giải tối đa 4Mp, 2560×1440@25fps. Hồng ngoại 30m, Ánh sáng trắng 60m</p><p>Ống kính 2.8-12 mm, Zoom số 16x.</p><p>Tính năng ngược sáng thực WDR 120dB, Tính năng giảm nhiễu số 3D DNR, Tính năng Bù ngược sáng BLC, chống rung số EIS</p><p>Hỗ trợ 300 Presets, Nhớ vị trí trước khi mất điện.</p><p>Góc quay 0° đến 350°, Góc quét 0° đến 90°</p><p>Hỗ trợ tính năng Chụp hình khuôn mặt, Phát hiện xâm nhập, Vượt hàng rảo ảo, Phát hiện vùng đi vào, Vùng đi ra (phân biệt người và phương tiện). Phát hiện vật thể di dời, Hành lý bỏ quên. Phát hiện âm thanh ngoại lệ.</p><p>Tích hợp mic và loa. Hỗ trợ 1 cổng Audio vào, 1 Audio ra. Hỗ trợ 1 cổng báo động vào, 1 cổng báo động ra.</p><p>Hỗ trợ dịch vụ hik-connect, tên miền cameraddns.</p><p>Tiêu chuẩn chống bụi, nước IP66.</p><p>Cảnh báo còi đèn.</p><p>Nguồn cấp 12VDC, hỗ trợ POE.</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera IP ColorVu PT 4 MP Cảm biến 1/2.8″ progressive scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264 Độ nhạy sáng Color: 0.0005 Lux @ (F1.0, AGC ON); 0 Lux with white light.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

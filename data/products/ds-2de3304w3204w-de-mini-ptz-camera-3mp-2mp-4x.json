@@ -1,0 +1,57 @@
+{
+  "slug": "ds-2de3304w3204w-de-mini-ptz-camera-3mp-2mp-4x",
+  "name": "Mini PTZ Camera 3MP/ 2MP 4X Hikvision DS-2DE3304W3204W-DE",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE3304W3204W-DE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE3304W3204-1-500x500.jpg"
+  ],
+  "summary": [
+    "3MP/2MP real-time",
+    "4X Optical Zoom",
+    "3D intelligent positioning",
+    "Privacy mask",
+    "PoE/12VDC",
+    "IP66 protection"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE3304W3204W-DE"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "3MP"
+    ]
+  ],
+  "description_html": "<p>3MP/2MP real-time</p><p>4X Optical Zoom</p><p>3D intelligent positioning</p><p>Privacy mask</p><p>PoE/12VDC</p><p>IP66 protection</p>",
+  "attrs": [
+    "3MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "3MP/2MP real-time 4X Optical Zoom 3D intelligent positioning",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

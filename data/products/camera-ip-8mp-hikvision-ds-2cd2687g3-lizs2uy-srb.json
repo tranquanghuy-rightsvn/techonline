@@ -1,0 +1,75 @@
+{
+  "slug": "camera-ip-8mp-hikvision-ds-2cd2687g3-lizs2uy-srb",
+  "name": "Camera IP 8MP Hikvision DS-2CD2687G3-LIZS2UY/SRB",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2687G3-LIZS2UY/SRB",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2687G3-LIZS2UY-SRB.jpg"
+  ],
+  "summary": [
+    "Camera IP AcuSense ColorVu thân trụ điều chỉnh tiêu cự 8MP",
+    "Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS",
+    "Độ phân giải 2688 × 1520@25fps",
+    "Chuẩn nén H.265+",
+    "Hỗ trợ 3 luồng dữ liệu",
+    "Độ nhạy sáng: 0.0005 lux",
+    "Ống kính 2.8-12mm @F1.6",
+    "Tầm xa đèn hồng ngoại/ Ánh sáng trắng 60m",
+    "Hỗ trợ 3D DNR, BLC,HLC, chống ngược sáng WDR 130dB",
+    "Tính năng thông minh : Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,",
+    "Ứng dụng thuật toán Trí tuệ nhân tạo, Lọc báo động giả không phải do người và phương tiện gây ra , độ chính xác có thể đạt 98.94%",
+    "Hỗ trợ thẻ nhớ tối đa 512GB, hỗ trợ tính năng ANR",
+    "Tích hợp 1 mircro kép,",
+    "Hỗ trợ đèn báo chớp xanh, đỏ",
+    "Nguồn 12VDC/POE ; Tiêu chuẩn IP67, IK10",
+    "Hỗ trợ dịch vụ HikConnect , tên miền CameraDDNS"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2687G3-LIZS2UY/SRB"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ],
+    [
+      "Độ nhạy sáng",
+      "0.0005 lux"
+    ],
+    [
+      "Tính năng thông minh",
+      "Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,"
+    ]
+  ],
+  "description_html": "<p>Camera IP AcuSense ColorVu thân trụ điều chỉnh tiêu cự 8MP</p><p>Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS</p><p>Độ phân giải 2688 × 1520@25fps</p><p>Chuẩn nén H.265+</p><p>Hỗ trợ 3 luồng dữ liệu</p><p>Độ nhạy sáng: 0.0005 lux</p><p>Ống kính 2.8-12mm @F1.6</p><p>Tầm xa đèn hồng ngoại/ Ánh sáng trắng 60m</p><p>Hỗ trợ 3D DNR, BLC,HLC, chống ngược sáng WDR 130dB</p><p>Tính năng thông minh : Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,</p><p>Ứng dụng thuật toán Trí tuệ nhân tạo, Lọc báo động giả không phải do người và phương tiện gây ra , độ chính xác có thể đạt 98.94%</p><p>Hỗ trợ thẻ nhớ tối đa 512GB, hỗ trợ tính năng ANR</p><p>Tích hợp 1 mircro kép,</p><p>Hỗ trợ đèn báo chớp xanh, đỏ</p><p>Nguồn 12VDC/POE ; Tiêu chuẩn IP67, IK10</p><p>Hỗ trợ dịch vụ HikConnect , tên miền CameraDDNS</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera IP AcuSense ColorVu thân trụ điều chỉnh tiêu cự 8MP Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS Độ phân giải 2688 × 1520@25fps",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

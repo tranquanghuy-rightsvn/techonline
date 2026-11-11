@@ -1,0 +1,51 @@
+{
+  "slug": "ds-k1a801f-fingerprint-time-attendance-terminal",
+  "name": "Thiết bị kiểm soát ra vào Fingerprint Time Attendance Terminal Hikvision DS-K1A801F",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1A801F",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1A801F.jpg"
+  ],
+  "summary": [
+    "Support Time Attendance Function, Forming Reports Automatically",
+    "Optical Fingerprint Module, 3,000 Fingerprints Capacity",
+    "2.8-inch LCD Screen",
+    "Support Wi-Fi & TCP-IP",
+    "Stand-alone Operation(Adding Person & Card & Fingerprints Locally)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1A801F"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Support Time Attendance Function, Forming Reports Automatically</p><p>Optical Fingerprint Module, 3,000 Fingerprints Capacity</p><p>2.8-inch LCD Screen</p><p>Support Wi-Fi &amp; TCP-IP</p><p>Stand-alone Operation(Adding Person &amp; Card &amp; Fingerprints Locally)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Support Time Attendance Function, Forming Reports Automatically Optical Fingerprint Module, 3,000 Fingerprints Capacity 2.8-inch LCD Screen",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

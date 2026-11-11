@@ -1,0 +1,127 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg105e",
+  "name": "Switch Easy Smart 5 cổng Gigabit TP-Link TL-SG105E",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG105E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg105e/g01.jpg"
+  ],
+  "summary": [
+    "Switch Easy Smart 5 cổng Gigabit",
+    "Switch Easy Smart 5 cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.1q, IEEE 802.1p",
+    "Giao diện: 5 x cổng RJ45 10/100/1000Mbps (Hỗ trợ tự động chuyển đổi MDI / MDIX)",
+    "Mạng Media: 10; BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100 mét)EIA/TIA-568 100Ω STP (tối đa 100 mét)100; BASE-TX: Cáp UTP loại 5, 5e (tối đa 100 mét)EIA/TIA-568 100Ω STP (tối đa 100 mét)1000",
+    "Số lượng quạt: Không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG105E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.1q, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "5 x cổng RJ45 10/100/1000Mbps (Hỗ trợ tự động chuyển đổi MDI / MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100 mét)EIA/TIA-568 100Ω STP (tối đa 100 mét)100<br />BASE-TX: Cáp UTP loại 5, 5e (tối đa 100 mét)EIA/TIA-568 100Ω STP (tối đa 100 mét)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Bộ chuyển đổi nguồn ( Đầu ra: 9<br />VDC/0.6A)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.9 * 3.9 *1.0 in. (100 * 98 *25 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "2.82 W (220 V/ 50 Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "9.62 BTU/h"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "7.4Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "2K"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "1.5Mb"
+    ],
+    [
+      "Khung Jumbo",
+      "15KB"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ chuẩn port-based / 802.1p / DSCPHỗ trợ 4 chế độ ưu tiên hàng đợi<br />Giới hạn tốc độKiểm soát bão"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3Liên kết tập hợp<br />Cổng Mirroring<br />Chẩn đoán cáp<br />Ngăn ngừa Loop"
+    ],
+    [
+      "VLAN",
+      "Hỗ trợ lên đến 32 VLAN đồng thời (trong số nhiều ID VLAN 4K)MTU/Port/Tag VLAN"
+    ],
+    [
+      "Transmission Method",
+      "Lưu trữ và chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG105EBộ chuyển đổi nguồn<br />Hướng dẫn cài đặtCD nguồn<br />Chân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® để chạy tiện ích"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Easy Smart 5 cổng Gigabit</p><p>Switch Easy Smart 5 cổng Gigabit</p>",
+  "attrs": [
+    "5 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Easy Smart 5 cổng Gigabit Switch Easy Smart 5 cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

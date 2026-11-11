@@ -1,0 +1,56 @@
+{
+  "slug": "ds-k1t803mfef-fingerprint-access-control-terminal",
+  "name": "Thiết bị kiểm soát ra vào Fingerprint Access Control Terminal Hikvision DS-K1T803MF/EF",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1T803MF/EF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T803F.jpg"
+  ],
+  "summary": [
+    "Support Access Control and Time Attendance Function",
+    "Optical Fingerprint Module, 3,000 Fingerprints Capacity",
+    "2.4-inch LCD Screen",
+    "Support Wi-Fi & TCP-IP",
+    "Stand-alone Operation",
+    "Multiple Authentication: Card(EM or Miafare-1 Card), Fingerprint, etc"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1T803MF/EF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ],
+    [
+      "Multiple Authentication",
+      "Card(EM or Miafare-1 Card), Fingerprint, etc"
+    ]
+  ],
+  "description_html": "<p>Support Access Control and Time Attendance Function</p><p>Optical Fingerprint Module, 3,000 Fingerprints Capacity</p><p>2.4-inch LCD Screen</p><p>Support Wi-Fi &amp; TCP-IP</p><p>Stand-alone Operation</p><p>Multiple Authentication: Card(EM or Miafare-1 Card), Fingerprint, etc</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Support Access Control and Time Attendance Function Optical Fingerprint Module, 3,000 Fingerprints Capacity 2.4-inch LCD Screen",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

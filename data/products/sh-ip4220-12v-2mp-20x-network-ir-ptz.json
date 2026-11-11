@@ -1,0 +1,59 @@
+{
+  "slug": "sh-ip4220-12v-2mp-20x-network-ir-ptz",
+  "name": "Camera PTZ Hikvision SH-IP4220-12V 2MP 20X Network IR PTZ",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "SH-IP4220-12V",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/09/20150828211930208.jpg"
+  ],
+  "summary": [
+    "1/2.8” Progressive Scan CMOS",
+    "1920 x 1080",
+    "20X Optical Zoom",
+    "DWDR",
+    "3D intelligent positioning function",
+    "Support Hik cloud P2P",
+    "Up to 100m IR distance",
+    "12VDC & POE(802.3at) power supply"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SH-IP4220-12V"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1/2.8” Progressive Scan CMOS</p><p>1920 x 1080</p><p>20X Optical Zoom</p><p>DWDR</p><p>3D intelligent positioning function</p><p>Support Hik cloud P2P</p><p>Up to 100m IR distance</p><p>12VDC &amp; POE(802.3at) power supply</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.8” Progressive Scan CMOS 1920 x 1080 20X Optical Zoom",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

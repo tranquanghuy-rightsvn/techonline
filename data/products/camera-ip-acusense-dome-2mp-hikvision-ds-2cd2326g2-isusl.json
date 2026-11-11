@@ -1,0 +1,58 @@
+{
+  "slug": "camera-ip-acusense-dome-2mp-hikvision-ds-2cd2326g2-isusl",
+  "name": "Camera IP AcuSense Dome 2MP Hikvision DS-2CD2326G2-ISU/SL",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2326G2-ISU/SL",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2022/06/DS-2CD2326G2-ISU_SL-500x500.jpg"
+  ],
+  "summary": [
+    "– Đầu ghi 8 kênh, chuẩn nén H.265 Pro+/H.265 Pro/H.265/ H.264+, H.264.",
+    "– Hỗ trợ camera HDTVI, HDCVI, AHD, Analog.",
+    "– Hỗ trợ truyền âm thanh qua cáp đồng trục – Gán thêm 04/08 camera IP 4MP (khi chưa tắt các kênh analog).",
+    "– Gán tối đa 8 camera IP 4MP khi tắt tất cả các kênh analog.",
+    "– 02 cổng SATA hỗ trợ ổ cứng tối đa 10TB.",
+    "– Tính năng thông minh VCA, tính năng phát hiện khuôn mặt ở kênh 1.",
+    "– Lọc báo động giả, lọc báo động người/phương tiện."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2326G2-ISU/SL"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>– Đầu ghi 8 kênh, chuẩn nén H.265 Pro+/H.265 Pro/H.265/ H.264+, H.264.</p><p>– Hỗ trợ camera HDTVI, HDCVI, AHD, Analog.</p><p>– Hỗ trợ truyền âm thanh qua cáp đồng trục – Gán thêm 04/08 camera IP 4MP (khi chưa tắt các kênh analog).</p><p>– Gán tối đa 8 camera IP 4MP khi tắt tất cả các kênh analog.</p><p>– 02 cổng SATA hỗ trợ ổ cứng tối đa 10TB.</p><p>– Tính năng thông minh VCA, tính năng phát hiện khuôn mặt ở kênh 1.</p><p>– Lọc báo động giả, lọc báo động người/phương tiện.</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Đầu ghi 8 kênh, chuẩn nén H.265 Pro+/H.265 Pro/H.265/ H.264+, H.264. – Hỗ trợ camera HDTVI, HDCVI, AHD, Analog. – Hỗ trợ truyền âm thanh qua cáp đồng trục – Gán thêm 04/08 camera IP 4MP (khi chưa tắt các kênh analog).",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

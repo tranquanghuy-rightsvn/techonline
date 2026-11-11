@@ -1,0 +1,117 @@
+{
+  "slug": "wifi-adapter-tplink-tl-wn722n",
+  "name": "USB Wi-Fi Độ Lợi Cao 150Mbps TP-Link TL-WN722N",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-WN722N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-tl-wn722n/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi Độ Lợi Cao 150Mbps",
+    "The TL-WN722N Wireless N USB Adapter allows you to connect any computer to high-speed internet.",
+    "Speeds of up to 150Mbpsare ideal for online gaming and smooth video streaming.",
+    "Giao diện: USB 2.0",
+    "Nút: Nút WPS",
+    "Kích thước ( R x D x C ): 3.7 x 1.0 x 0.4 in. (93.5 x 26 x 11mm)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-WN722N"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0"
+    ],
+    [
+      "Nút",
+      "Nút WPS"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7 x 1.0 x 0.4 in. (93.5 x 26 x 11mm)"
+    ],
+    [
+      "Ăng ten",
+      "Ăng - Ten đẳng hướng có thể tháo rồi (RP-SMA)"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "4dBi"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "2.400-2.4835GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "11n: Lên đến 150Mbps(động)11g: Lên đến 54Mbps(động)11b: Lên đến 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "130M: -68dBm@10% PER108M: -68dBm@10% PER54M: -68dBm@10% PER11M: -85dBm@8% PER6M: -88dBm@10% PER1M: -90dBm@8% PER"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Ad-Hoc / Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ 64/128 bit WEP, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM"
+    ],
+    [
+      "Tính năng nâng cao",
+      "WMM, PSP X-LINK(For Windows XP), Roaming"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi không dây<br />Một cáp USB mở rộng<br />Hướng dẫn sử dụng nhanh"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8.1/8/7/XP,Mac OS 10.15 và trước đó,Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi Độ Lợi Cao 150Mbps</p><p>The TL-WN722N Wireless N USB Adapter allows you to connect any computer to high-speed internet.</p><p>Speeds of up to 150Mbpsare ideal for online gaming and smooth video streaming.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi Độ Lợi Cao 150Mbps The TL-WN722N Wireless N USB Adapter allows you to connect any computer to high-speed internet. Speeds of up to 150Mbpsare ideal for online gaming and smooth video streaming.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1008",
+  "name": "Bộ chuyển đổi tín hiệu 8 cổng Gigabit TP-Link TL-SG1008",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1008",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1008/g01.jpg"
+  ],
+  "summary": [
+    "Bộ chuyển đổi tín hiệu 8 cổng Gigabit",
+    "Bộ chuyển đổi tín hiệu 8 cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, 802.1p",
+    "Giao diện: 8x cổng RJ45 10/100/1000 Mbps(tự động thỏa thuận/MDI tự động /MDIX)",
+    "Mạng Media: 10; BASE-T: UTP loại 3, 4, 5 cáp (tối đa100m)100; BASE-TX/1000; BASE-T: UTP loại 5, 5e hoặc cáp phía trên (tối đa 100m)",
+    "Số lượng quạt: không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1008"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, 802.1p"
+    ],
+    [
+      "Giao diện",
+      "8x cổng RJ45 10/100/1000 Mbps(tự động thỏa thuận/MDI tự động /MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP loại 3, 4, 5 cáp (tối đa100m)100<br />BASE-TX/1000<br />BASE-T: UTP loại 5, 5e hoặc cáp phía trên (tối đa 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "không quạt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 4.08W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "11.6*7.1*1.7 in. (294*180*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "4.3W(220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "14.67<br />BTU/h"
+    ],
+    [
+      "Switching Capacity",
+      "16Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "11.9Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "4K"
+    ],
+    [
+      "Khung Jumbo",
+      "16KB"
+    ],
+    [
+      "Phương thức chuyển",
+      "Lưu trữ và gửi chuyển tiếp"
+    ],
+    [
+      "Advanced Features",
+      "Địa chỉ MAC tự tìm hiểu và tự động hóa<br />Kiểm soát lưu lượng IEEE802.3x 802.1p/DSCP QoS"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch 8 cổng Gigabit desktop Dây điện<br />Hướng dẫn cài đặt<br />Bộ giá treo<br />Chân cao su"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Bộ chuyển đổi tín hiệu 8 cổng Gigabit</p><p>Bộ chuyển đổi tín hiệu 8 cổng Gigabit</p>",
+  "attrs": [
+    "8 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ chuyển đổi tín hiệu 8 cổng Gigabit Bộ chuyển đổi tín hiệu 8 cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "he-thong-wifi-mesh-tplink-deco-be65-poe",
+  "name": "BE11000 Whole Home Mesh WiFi 7 System with PoE TP-Link Deco BE65-PoE",
+  "categories": [
+    "tp-link-mesh-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Deco BE65-PoE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-poe/g01.jpg"
+  ],
+  "summary": [
+    "BE11000 Whole Home Mesh WiFi 7 System with PoE",
+    "BE11000 Whole Home Mesh WiFi 7 System with PoE",
+    "Network Services Enabled by Default: Web Server Manage and configure device through web (HTTP/HTTPS); Port: 80/443 Protocol: TCP DNS DNS; Port: 53 Protocol: TCP & UDP DHCP Server IP address assignment (DHCP)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Deco BE65-PoE"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCP DNS DNS<br />Port: 53 Protocol: TCP &amp; UDP DHCP Server IP address assignment (DHCP)"
+    ]
+  ],
+  "description_html": "<p>BE11000 Whole Home Mesh WiFi 7 System with PoE</p><p>BE11000 Whole Home Mesh WiFi 7 System with PoE</p>",
+  "attrs": [
+    "Wi-Fi 7",
+    "BE11000",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "BE11000 Whole Home Mesh WiFi 7 System with PoE BE11000 Whole Home Mesh WiFi 7 System with PoE",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

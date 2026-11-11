@@ -1,0 +1,59 @@
+{
+  "slug": "ds-8632ni-k8-dau-ghi-hinh-nvr-32-kenh",
+  "name": "Đầu ghi hình NVR 32 kênh Hikvision DS-8632NI-K8",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-8632NI-K8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/03/DS-8632NI-K8-DS-8616NI-K8-DS-8608NI-K8.png"
+  ],
+  "summary": [
+    "Độ phân giải ghi tối đa 8MP",
+    "Chuẩn nén video H.265+/H.265",
+    "Cổng ra HDMI1 4K@30Hz, HDMI2 1080P@60Hz; VGA1 2K@60Hz, VGA2 1080P@60Hz",
+    "Cổng âm thanh vào/ra 1/1; Cổng báo động vào/ra 16/4",
+    "2 USB 2.0; 1 USB 3.0; 1 RS-485, 1 RS-232. 2 RJ45 10/100/1000Mbps.",
+    "8 cổng SATA, mỗi ổ cứng 8TB; 1 cổng eSATA",
+    "Nguồn điện 100~240VAC",
+    "445 × 470 × 90 mm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-8632NI-K8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Số kênh",
+      "32 kênh"
+    ]
+  ],
+  "description_html": "<p>Độ phân giải ghi tối đa 8MP</p><p>Chuẩn nén video H.265+/H.265</p><p>Cổng ra HDMI1 4K@30Hz, HDMI2 1080P@60Hz; VGA1 2K@60Hz, VGA2 1080P@60Hz</p><p>Cổng âm thanh vào/ra 1/1; Cổng báo động vào/ra 16/4</p><p>2 USB 2.0; 1 USB 3.0; 1 RS-485, 1 RS-232. 2 RJ45 10/100/1000Mbps.</p><p>8 cổng SATA, mỗi ổ cứng 8TB; 1 cổng eSATA</p><p>Nguồn điện 100~240VAC</p><p>445 × 470 × 90 mm</p>",
+  "attrs": [
+    "32 kênh",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Độ phân giải ghi tối đa 8MP Chuẩn nén video H.265+/H.265 Cổng ra HDMI1 4K@30Hz, HDMI2 1080P@60Hz; VGA1 2K@60Hz, VGA2 1080P@60Hz",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

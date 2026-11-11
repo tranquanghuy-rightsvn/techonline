@@ -1,0 +1,143 @@
+{
+  "slug": "mang-van-phong-soho-tplink-festa-fs308g",
+  "name": "Smart Switch 8 cổng Gigabit TP-Link Festa FS308G",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "Festa FS308G",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-festa-fs308g/g01.jpg"
+  ],
+  "summary": [
+    "Smart Switch 8 cổng Gigabit",
+    "Smart Switch 8 cổng Gigabit (Festa FS308G) | Quản lý Tập trung qua Cloud Miễn phí | Dễ sử dụng | Vận hành Êm ái nhờ Thiết kế Không quạt | Ứng dụng Festa",
+    "Giao diện: 8× 10/100/1000 Mbps RJ45 Ports (Ports 8 Supports PoE input); Auto-Negotiation/Auto MDI/MDIX",
+    "Số lượng quạt: Fanless",
+    "Khóa bảo mật vật lý: √",
+    "Bộ cấp nguồn: External Power Adapter (Output: 12 VDC/ 1 A) or Obtain Power from PoE Source"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Festa FS308G"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8× 10/100/1000 Mbps RJ45 Ports (Ports 8 Supports PoE input)<br />Auto-Negotiation/Auto MDI/MDIX"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "√"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External Power Adapter (Output: 12 VDC/ 1 A) or Obtain Power from PoE Source"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "8.2×4.9×1.0 in (209×126×26 mm)"
+    ],
+    [
+      "Lắp",
+      "Desktop / Wall-Mounting"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "16 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "11.90 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "4.1 Mbit"
+    ],
+    [
+      "Khung Jumbo",
+      "9 KB"
+    ],
+    [
+      "L2 and L2+ Features",
+      "16 IP Interfaces: Support IPv4/IPv6 Interface<br />Static Routing: 32 IPv4/IPv6 Static Routes<br />DHCP Server<br />DHCP Relay<br />DHCP L2 Relay<br />Spanning Tree<br />Loopback Detection<br />Flow Control"
+    ],
+    [
+      "Advanced Features",
+      "IGMP Snooping<br />Rate Limit<br />Storm Control<br />Port Isolation"
+    ],
+    [
+      "VLAN",
+      "√"
+    ],
+    [
+      "Access Control List",
+      "Time-Range- Time Slice- Week Time-Range- Absolute Time-Range<br />Combined ACL- Source MAC(Subnet Mask)- Destination MAC(Subnet Mask)- VLAN ID- Ether"
+    ],
+    [
+      "IPv6",
+      "√"
+    ],
+    [
+      "Link Aggregation",
+      "√"
+    ],
+    [
+      "Centralized Management",
+      "Festa App<br />Festa Web Portal"
+    ],
+    [
+      "Cloud Access",
+      "Free Cloud Access"
+    ],
+    [
+      "Management Features",
+      "Zero-Touch Provisioning (ZTP)<br />Self-Organizing Network (SON)<br />Auto Topology<br />Multi-site Management<br />Remote Maintenance<br />Batch Firmware Upgrading<br />Batch Configuration"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Festa FS308G<br />Power Adapter<br />Installation Guide<br />Silicone Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ or Windows 7/8/10/11, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Smart Switch 8 cổng Gigabit</p><p>Smart Switch 8 cổng Gigabit (Festa FS308G) | Quản lý Tập trung qua Cloud Miễn phí | Dễ sử dụng | Vận hành Êm ái nhờ Thiết kế Không quạt | Ứng dụng Festa</p>",
+  "attrs": [
+    "8 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Smart Switch 8 cổng Gigabit Smart Switch 8 cổng Gigabit (Festa FS308G) | Quản lý Tập trung qua Cloud Miễn phí | Dễ sử dụng | Vận hành Êm ái nhờ Thiết kế Không quạt | Ứng dụng Festa",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

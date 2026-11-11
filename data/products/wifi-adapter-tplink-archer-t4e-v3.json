@@ -1,0 +1,112 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t4e-v3",
+  "name": "Bộ chuyển đổi PCIe Wi-Fi Bluetooth không dây AC1200 TP-Link Archer T4E V3",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T4E V3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t4e-v3/g01.jpg"
+  ],
+  "summary": [
+    "Bộ chuyển đổi PCIe Wi-Fi Bluetooth không dây AC1200",
+    "Tốc độ Wi-Fi lên đến 1200Mbps và băng tần kép AC, Archer T4E được tạo ra cho các mạng có cường độ cao.",
+    "Công nghệ Beamforming tập trung tín hiệu về phía thiết bị để kết nối ổn định và tăng phạm vi.",
+    "Giao diện: PCI Express, F_USB",
+    "Kích thước ( R x D x C ): 4.76 x 3.09 x 0.85 in (120.8*78.5*21.5 mm)",
+    "Ăng ten: 2 Dual Band Detachable Antennas"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T4E V3"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "PCI Express, F_USB"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.76 x 3.09 x 0.85 in (120.8*78.5*21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2 Dual Band Detachable Antennas"
+    ],
+    [
+      "Standards and Protocols",
+      "Bluetooth 5.0, Bluetooth 4.2, Bluetooth 4.0"
+    ],
+    [
+      "Interface",
+      "F_USB 2.0"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/g/b 2.4 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5 GHz11ac: Up to 867 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz11n: Up to 300 Mbps(dynamic)11g: Up to 54 Mbps(dynamic)11b: Up to 11 Mbps(dynamic)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5 GHz :11ac HT80 MCS9 -65dBm11ac HT80 MCS0 -90dBm11ac HT20 MCS8 -74d<br />Bm11ac HT20 MCS0 -95d<br />Bm2.4 GHz :11n HT40 MCS7 -72dBm11n HT40 MCS0 -92dBm11n HT20 MCS7 -76dBm11n HT20 MCS0 -94dBm"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WEP, WPA/WPA2/WPA3(Personal/Enterprise), WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "5 GHz: 28dBm(FCC) / 23dBm(CE) (EIRP),2.4 GHz : 24dBm(FCC) / 20dBm(CE) (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC1200 Wi-Fi Bluetooth PCIe Adapter Archer T4ETwo High Gain Dual-Band Antennas<br />Low-Profile Bracket<br />Bluetooth Header Cable<br />Quick Installation Guide<br />Resource CD"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Bộ chuyển đổi PCIe Wi-Fi Bluetooth không dây AC1200</p><p>Tốc độ Wi-Fi lên đến 1200Mbps và băng tần kép AC, Archer T4E được tạo ra cho các mạng có cường độ cao.</p><p>Công nghệ Beamforming tập trung tín hiệu về phía thiết bị để kết nối ổn định và tăng phạm vi.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1200"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ chuyển đổi PCIe Wi-Fi Bluetooth không dây AC1200 Tốc độ Wi-Fi lên đến 1200Mbps và băng tần kép AC, Archer T4E được tạo ra cho các mạng có cường độ cao. Công nghệ Beamforming tập trung tín hiệu về phía thiết bị để kết nối ổn định và tăng phạm vi.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "wifi-di-dong-tplink-m7750",
+  "name": "600 Mbps LTE-Advanced Mobile Wi-Fi TP-Link M7750",
+  "categories": [
+    "tp-link-wi-fi-di-dong"
+  ],
+  "brand": "TP-Link",
+  "sku": "M7750",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-di-dong-tplink-m7750/g01.jpg"
+  ],
+  "summary": [
+    "600 Mbps LTE-Advanced Mobile Wi-Fi",
+    "This MiFi router supports 4G LTE-Advanced Cat12 networks.",
+    "With up to 600Mbps WiFi speeds, enjoy HD movies, fast file downloads, and stable video chats.",
+    "Share your WiFi easily."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "M7750"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Network Type",
+      "4G: FDD-LTE B1/B3/B5/B7/B8/B20/B28 (2100/1800/850/2600/900/800/700MHz)<br />TDD-LTE:B38/B40/B41 (2600/2300/2500MHz)3G:DC-HSDPA/HSUPA/UMTS/WCDMA B1/B5/B8 (2100/850/900MHz)"
+    ],
+    [
+      "Speed",
+      "Download Speed up to 600Mbps<br />Upload Speed up to 150Mbps"
+    ],
+    [
+      "Giao diện",
+      "1 USB Type-C port for power supply1 Nano SIM card slot1 Micro SD card slot"
+    ],
+    [
+      "Nút",
+      "Power On/Off，Menu"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Internal 3280 mAh Rechargeable Battery"
+    ],
+    [
+      "Dạng mạng",
+      "4G: FDD-LTE B1/B3/B5/B7/B8/B20/B28 (2100/1800/850/2600/900/800/700MHz)TDD-LTE B38/B40/B41 (2600/2300/2500MHz)3G: DC-HSDPA/HSUPA/UMTS/WCDMA B1/B5/B8 (2100/850/900MHz)"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "DL: 600Mbps, UL: 150Mbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.5 × 2.5 × 0.7 in. (114 × 64 × 19mm)"
+    ],
+    [
+      "Ăng ten",
+      "Internal Antenna"
+    ],
+    [
+      "Đầu đọc thẻ Micro SD",
+      "Up to 2TB"
+    ],
+    [
+      "Màn hình hiển thị",
+      "1.44 inch TFT"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac 5GHz<br />IEEE 802.11b/g/n 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz&5GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support WPA-PSK/WPA2-PSK,Wireless MAC Filtering,Enable/Disable SSID Broadcast"
+    ],
+    [
+      "DHCP",
+      "DHCP server, DHCP Client List"
+    ],
+    [
+      "Công suất truyền tải",
+      "2.4G <20dbm, 5G <23dbm"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web or app<br />Port: 80/443 Protocol: HTTP/HTTPSDNSDNS<br />Port: 53; Protocol: UDPDHCP/DHCPv6IP address assignment<br />Port: 67/547; Protocol: UDP"
+    ],
+    [
+      "RNDIS Support",
+      "Yes<br />System Requirement: Windows XP/7/8/10/11"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "600Mbps LTE-Advanced Mobile Wi-Fi M7750<br />USB-C Cable3280mAh Battery<br />Quick Installation Guide*SIM card &amp; SD card sold separately"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8/7/vista/XP, Mac OS, Android, iOS, Windows Phone"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~35℃ (32℉ ~95℉)<br />Storage Temperature: -20℃~60℃ (4℉ ~140℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>600 Mbps LTE-Advanced Mobile Wi-Fi</p><p>This MiFi router supports 4G LTE-Advanced Cat12 networks.</p><p>With up to 600Mbps WiFi speeds, enjoy HD movies, fast file downloads, and stable video chats.</p><p>Share your WiFi easily.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "600 Mbps LTE-Advanced Mobile Wi-Fi This MiFi router supports 4G LTE-Advanced Cat12 networks. With up to 600Mbps WiFi speeds, enjoy HD movies, fast file downloads, and stable video chats.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

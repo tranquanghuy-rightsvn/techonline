@@ -1,0 +1,85 @@
+{
+  "slug": "phu-kien-tplink-tl-ps310u",
+  "name": "USB 2.0 MFP và máy chủ lưu trữ TP-Link TL-PS310U",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-PS310U",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-tl-ps310u/g01.jpg"
+  ],
+  "summary": [
+    "USB 2.0 MFP và máy chủ lưu trữ",
+    "The TP-LNK MFP and Storage Server is ideal for sharing USB connected devices across a home or office network and is compatible with the majority of printers on the market.",
+    "Giao diện: USB 2.0 Port; Fast Ethernet RJ-45 Port",
+    "Điện năng tiêu thụ: 5V DC, 2A",
+    "LED: 10Mbps, 100Mbps, USB",
+    "Kích thước ( R x D x C ): 56 x 52 x 23mm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-PS310U"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0 Port<br />Fast Ethernet RJ-45 Port"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "5V DC, 2A"
+    ],
+    [
+      "LED",
+      "10Mbps, 100Mbps, USB"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "56 x 52 x 23mm"
+    ],
+    [
+      "Advanced Features",
+      "Máy khách DHCP, POST ( tự động kiểm tra nguồn )Nâng cấp Firmware, Tiện ích chạy trên Windows"
+    ],
+    [
+      "Quản lý",
+      "Quản lý Web"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP,(Remote Virtual USB),LPR/LPD"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Máy chủ máy inDây cáp Ethernet (RJ-45)CD nguồn<br />Hướng dẫn cài đặt nhanh<br />Bộ cấp nguồn"
+    ],
+    [
+      "System Requirements",
+      "Windows 10/7/Vista/XP/2000"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~50℃ (32℉~122℉)Nhiệt độ lưu trữ: -5℃~65℃ (23℉~139℉)Độ ẩm hoạt động: 0%~70% không ngưng tụĐộ ẩm lưu trữ: 0%~80% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB 2.0 MFP và máy chủ lưu trữ</p><p>The TP-LNK MFP and Storage Server is ideal for sharing USB connected devices across a home or office network and is compatible with the majority of printers on the market.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB 2.0 MFP và máy chủ lưu trữ The TP-LNK MFP and Storage Server is ideal for sharing USB connected devices across a home or office network and is compatible with the majority of printers on the market.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

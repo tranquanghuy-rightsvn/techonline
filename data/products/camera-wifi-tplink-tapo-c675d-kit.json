@@ -1,0 +1,224 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c675d-kit",
+  "name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính TP-Link Tapo C675D KIT",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C675D KIT",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c675d-kit/g01.jpg"
+  ],
+  "summary": [
+    "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính",
+    "Bảo vệ toàn diện ngôi nhà của bạn với hệ thống camera hai ống kính độ phân giải 4K sử dụng năng lượng mặt trời, giúp loại bỏ hoàn toàn điểm mù và không bỏ lỡ bất kỳ khoảnh khắc nào nhờ thuật toán AI thông minh, theo dõi quay quét linh hoạt và hệ thống cảnh báo răn đe bằng đèn xanh đỏ.",
+    "Cảm biến hình ảnh: 1/2.7” CMOS Starlight Sensor",
+    "Ống kính: Fixed Lens; Focal Length: 2.53 mm; Aperture: F1.6; Field of View: 169.7° (Diagonal), 140.8° (Horizontal), 74.7° (Vertical); Pan-Tilt Lens; Focal Length: 6.0 mm; Aperture: F1.6",
+    "Tầm nhìn đêm: Fixed Lens; Infrared Night Vision ( 49.2 ft / 15 m) Starlight Color Night Vision ( 52.5 ft / 16 m)Pan-Tilt Lens; Infrared Night Vision (52.5+ ft / 16+ m) Starlight Color Night) ( 52.5+ ft / 16+ m)",
+    "Night Mode: IR-Mode/ Full-Color Mode"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C675D KIT"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.7” CMOS Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Fixed Lens<br />Focal Length: 2.53 mm<br />Aperture: F1.6<br />Field of View: 169.7° (Diagonal), 140.8° (Horizontal), 74.7° (Vertical)<br />Pan-Tilt Lens<br />Focal Length: 6.0 mm<br />Aperture: F1.6"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "Fixed Lens<br />Infrared Night Vision ( 49.2 ft / 15 m) Starlight Color Night Vision ( 52.5 ft / 16 m)Pan-Tilt Lens<br />Infrared Night Vision (52.5+ ft / 16+ m) Starlight Color Night) ( 52.5+ ft / 16+ m)"
+    ],
+    [
+      "Night Mode",
+      "IR-Mode/ Full-Color Mode"
+    ],
+    [
+      "Chuyển đổi Ngày/Đêm",
+      "Yes"
+    ],
+    [
+      "Lighting",
+      "4× 850 nm IR LED 4× white LED<br />2× Alarm LED ( blue &amp; red )<br />1× Indicator LED"
+    ],
+    [
+      "Interface & Button",
+      "4× 850 nm IR LED 4× white LED<br />2× Alarm LED ( blue &amp; red )<br />1× Indicator LED"
+    ],
+    [
+      "Góc Quay Quét",
+      "Pan Mechanical Range：339°（360° Pan Coverage）Tilt Mechanical Range：97°（128° Tilt Coverage"
+    ],
+    [
+      "Output",
+      "Solar Panel Max Charging Voltage: 5.1 VSolar Panel Max Charging Power: 4.5 W"
+    ],
+    [
+      "Output Port",
+      "Type-C"
+    ],
+    [
+      "Maximum Resolution",
+      "Fixed Lens: 4K (3840 × 2160px) Pan & Tilt Lens: 4K (3840 × 2160px)"
+    ],
+    [
+      "Frame Rate",
+      "15fps"
+    ],
+    [
+      "Digital Zoom",
+      "Fixed Lens: 18x<br />Pan &amp; Tilt Lens: 18x"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "87.1 dBA (Level measured at 10 cm distance)68.6 dBA (Level measured at 300 cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Sensor",
+      "Three Motion Sensors: PIR<br />One Ambient Light Sensor"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Pet Detection<br />Vehicle Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes *Only works with Motion/Person/Pet/Vehicle Detection."
+    ],
+    [
+      "Output Notification",
+      "App Notifications of Camera Event<br />App Notification of AI Detection Event with Snapshot (Subscription Required)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4GHz Wi-Fi<br />IEEE 802.11a/n, 5GHz Wi-Fi"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP"
+    ],
+    [
+      "Ethernet Port",
+      "No"
+    ],
+    [
+      "RTSP",
+      "No"
+    ],
+    [
+      "ONVIF",
+      "No"
+    ],
+    [
+      "Security",
+      "Local AI Detection128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK/WPA3-PSK"
+    ],
+    [
+      "Power Source",
+      "Built-in Rechargeable Lithium-ion Battery<br />Tapo A202 Solar Panel (Included)"
+    ],
+    [
+      "Input Voltage",
+      "5V (DC)"
+    ],
+    [
+      "Power Cord Length",
+      "Charging Cable Length:0.5 mSolar Panel Charging Cable Length: 0.48mSolar Panel Extension Charging Cable Length:11.8ft (3.6m)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa, IFTTT, Samsung Smart<br />Things"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 12.0 or higher, Andriod 7.0 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Ceiling-Mounted<br />Wall-Mounted<br />Pole-Mounted (Pole-Mounting loops required but not included)"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-20℃~45℃ (-4℉~113℉)"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃ (-40℉~140℉)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90% RH, Non-condensing"
+    ],
+    [
+      "Charging Temperature",
+      "0~45℃(32℉~113℉)"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "Camera Dimensions:102.2 × 160.3 × 132 mm<br />Solar Panel Dimensions:211.2 × 173.6 × 16.9 mm"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo Camera × 1Tapo Solar Panel × 1Tapo Solar Panel Bracket × 1<br />USB Charging Cable × 1Extension Cable× 1Mounting Screw × 9Mounting Anchor × 9Mounting Template Stickers<br />Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "FCC, DOE, CEC, WWA, IP65, CE, JRF, VCCI, RCM, KC, NTRA"
+    ]
+  ],
+  "description_html": "<p>Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính</p><p>Bảo vệ toàn diện ngôi nhà của bạn với hệ thống camera hai ống kính độ phân giải 4K sử dụng năng lượng mặt trời, giúp loại bỏ hoàn toàn điểm mù và không bỏ lỡ bất kỳ khoảnh khắc nào nhờ thuật toán AI thông minh, theo dõi quay quét linh hoạt và hệ thống cảnh báo răn đe bằng đèn xanh đỏ.</p>",
+  "attrs": [
+    "Quay quét"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính Bảo vệ toàn diện ngôi nhà của bạn với hệ thống camera hai ống kính độ phân giải 4K sử dụng năng lượng mặt trời, giúp loại bỏ hoàn toàn điểm mù và không bỏ lỡ bất kỳ khoảnh khắc nào nhờ thuật toán AI thông minh, theo dõi quay quét linh…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

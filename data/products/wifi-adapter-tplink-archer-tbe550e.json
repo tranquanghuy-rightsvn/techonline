@@ -1,0 +1,100 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tbe550e",
+  "name": "Card Mạng PCIe Wi-Fi 7 BE9300 & Bluetooth 5.4 TP-Link Archer TBE550E",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TBE550E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tbe550e/g01.jpg"
+  ],
+  "summary": [
+    "Card Mạng PCIe Wi-Fi 7 BE9300 & Bluetooth 5.4",
+    "Archer TBE550E trang bị cho máy tính của bạn công nghệ Wi-Fi 7 cùng băng tần 6 GHz hoàn toàn mới, giúp khai phóng toàn bộ tiềm năng từ router Wi-Fi 7 của bạn.",
+    "Kích thước ( R x D x C ): 3.7 × 4.8 × 0.8 in (95.2 ×120.8 ×21.5 mm)",
+    "Ăng ten: 2× High-Performance Tri-Band Antennas",
+    "Chuẩn Wi-Fi: IEEE 802.11a/b/g/n/ac/ax/be",
+    "WLAN Signal Rate: 6 GHz:11be: Up to 5760 Mbps(dynamic)11ax: Up t0 2402Mbps(dynamic)5 GHz:11be: Up to 2880 Mbps(dynamic)11ax: Up to 2402 Mbps(dynamic)11ac: Up to 1732 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up…"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TBE550E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7 × 4.8 × 0.8 in (95.2 ×120.8 ×21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2× High-Performance Tri-Band Antennas"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/b/g/n/ac/ax/be"
+    ],
+    [
+      "WLAN Signal Rate",
+      "6 GHz:11be: Up to 5760 Mbps(dynamic)11ax: Up t0 2402Mbps(dynamic)5 GHz:11be: Up to 2880 Mbps(dynamic)11ax: Up to 2402 Mbps(dynamic)11ac: Up to 1732 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up…"
+    ],
+    [
+      "WLAN Reception Sensitivity",
+      "6 GHz:11ax HE20 MCS0: -94 d<br />Bm11be EHT320 MCS13: -44d<br />Bm5 GHz:11ac VHT20 MCS0: -94 d<br />Bm11be EHT160 MCS13: -48d<br />Bm2.4 GHz:11n HT20 MSC0: -95 d<br />Bm11be EHT40 MSC13: -56dBm"
+    ],
+    [
+      "WLAN Transmit Power",
+      "2.4 GHz: 24dBm(FCC) (EIRP)/ 20dBm(CE) (EIRP)5 GHz: 24dBm(FCC) (EIRP) /20dBm(CE) (EIRP)6 GHz: 20dBm(FCC) (EIRP) /20dBm(CE) (EIRP)"
+    ],
+    [
+      "WLAN Modes",
+      "Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC/CE/IC/NCC/JRF/VCCI/BSMI"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Archer TBE550EMagnetized Antenna Base with 1m Braided RF Cable2x High-Performance Antennas<br />Low-Profile Bracket<br />Bluetooth Header Cable<br />Quick Installation Guide<br />Resource USB Drive"
+    ],
+    [
+      "System Requirements",
+      "Supported operating system: Windows 11(64-bit) only"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "Accessories Specifications",
+      "Extension Cable Length: 1 m<br />Bluetooth Header Cable Length: 0.3 m"
+    ]
+  ],
+  "description_html": "<p>Card Mạng PCIe Wi-Fi 7 BE9300 &amp; Bluetooth 5.4</p><p>Archer TBE550E trang bị cho máy tính của bạn công nghệ Wi-Fi 7 cùng băng tần 6 GHz hoàn toàn mới, giúp khai phóng toàn bộ tiềm năng từ router Wi-Fi 7 của bạn.</p>",
+  "attrs": [
+    "Wi-Fi 7",
+    "BE9300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card Mạng PCIe Wi-Fi 7 BE9300 & Bluetooth 5.4 Archer TBE550E trang bị cho máy tính của bạn công nghệ Wi-Fi 7 cùng băng tần 6 GHz hoàn toàn mới, giúp khai phóng toàn bộ tiềm năng từ router Wi-Fi 7 của bạn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tx20e",
+  "name": "Card mạng PCIe Wi-Fi 6 AX1800 & Bluetooth 5.2 TP-Link Archer TX20E",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TX20E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tx20e/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCIe Wi-Fi 6 AX1800 & Bluetooth 5.2",
+    "Sử dụng nền tảng Wi-Fi 6, Archer TX20E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+    "Kích thước ( R x D x C ): 4.76 × 3.09 × 0.82 in(120.8 × 78.5 × 20.9 mm)",
+    "Ăng ten: Two High-Gain Dual Band Antennas",
+    "Chipset: Realtek Wi-Fi 6 Chipset",
+    "Chuẩn Wi-Fi: IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/g/b 2.4 GHzBluetooth 5.2"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TX20E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.76 × 3.09 × 0.82 in(120.8 × 78.5 × 20.9 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Two High-Gain Dual Band Antennas"
+    ],
+    [
+      "Chipset",
+      "Realtek Wi-Fi 6 Chipset"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/g/b 2.4 GHzBluetooth 5.2"
+    ],
+    [
+      "WLAN Signal Rate",
+      "5 GHz11ax: Up to 1201 Mbps(dynamic)11ac: Up to 867 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz11ax: Up to 574 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11g: Up to 54…"
+    ],
+    [
+      "WLAN Reception Sensitivity",
+      "5 GHz :11ax HE80: -57.0d<br />Bm11ax HE40: -60.0d<br />Bm11ax HE20: -63.0d<br />Bm11ac VHT80: -59.5d<br />Bm11ac VHT40: -62.5d<br />Bm11ac VHT20: -67.5d<br />Bm11n HT40: -69.5d<br />Bm11n HT20: -72.5d<br />Bm11a 54<br />Mbps: -74.0d<br />Bm11a 6"
+    ],
+    [
+      "WLAN Transmit Power",
+      "5 GHz : 27dBm(FCC) / 23dBm(CE) (EIRP)2.4 GHz : 25dBm(FCC) / 20dBm(CE) (EIRP)"
+    ],
+    [
+      "WLAN Modes",
+      "Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support 64/128 bit WEP, WPA/WAP2/WPA3, WPA-PSK/WPA2-PSK, 802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM, 1024<br />QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Archer TX20ETwo High-Gain Dual Band Antennas<br />Low-Profile Bracket<br />Bluetooth Header Cable<br />Quick Installation Guide<br />Resource CD"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10(64-bit) only"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCIe Wi-Fi 6 AX1800 &amp; Bluetooth 5.2</p><p>Sử dụng nền tảng Wi-Fi 6, Archer TX20E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1800"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCIe Wi-Fi 6 AX1800 & Bluetooth 5.2 Sử dụng nền tảng Wi-Fi 6, Archer TX20E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "router-wifi-tplink-archer-air-r5",
+  "name": "Router Wi-Fi 6 AX3000 Air Mesh Băng Tần Kép (3-pack) TP-Link Archer Air R5",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer Air R5",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-air-r5/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 AX3000 Air Mesh Băng Tần Kép (3-pack)",
+    "Với băng thông 160 MHz và 1024-QAM, Archer Air R5 mang đến tốc độ gigabit thực sự lên tới 3 Gbps.",
+    "Nó cũng có vẻ ngoài siêu mỏng và tối giản.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 3 Bedroom Houses; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming; Concentrates wireless signal strength towards clients to expand WiFi range"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer Air R5"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming<br />Concentrates wireless signal strength towards clients to expand WiFi range"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Allocate devices to different bands for optimal performanceOFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router ModeAP Mode"
+    ],
+    [
+      "Network Security",
+      "HomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention<br />Home Network Scanner"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "PPTP ServerNOpenVPN ServerN"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA/WPA2WPA3<br />WPA/WPA2-PSK"
+    ],
+    [
+      "Input Power",
+      "12V/2A"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />1× Gigabit LAN Port"
+    ],
+    [
+      "Buttons",
+      "WPS Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer Air R5 can build an EasyMesh network with devices that use EasyMesh technology. Eliminate Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet<br />Weekly and Monthly Reports"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPPoE + Dynamic IP PPPoE + Static IP L2TP + Dynamic IP L2TP + Static IP PPTP + Dynamic IP PPTP + Static IP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "FOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Fowarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "Profile<br />Bridge<br />Custom<br />Allowed range of VLAN ID"
+    ],
+    [
+      "DHCP",
+      "DHCP Server<br />Address ReservationDHCP Client List"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40~60℃Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90%"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5.15GHz~5.825GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz-band1:11a 6<br />Mbps:-97d<br />Bm11a 54<br />Mbps:-78d<br />Bm11ac HT20 MCS8:-74d<br />Bm11ac HT40 MCS9:-69d<br />Bm11ac HT80 MCS9:-65d<br />Bm11ax HE20 MCS0: -97d<br />Bm11ax HE20 MCS11: -66d<br />Bm11ax HE40 MCS0: -94d"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.3 × 5.5 × 0.4 in(210 × 140 × 10.8 mm)"
+    ],
+    [
+      "Package Content",
+      "Wireless Router Archer Air R5Quick Installation Guide<br />Power Adapter<br />Plastic Bracket<br />Gigabit Network Cable<br />Installation Accessories"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 AX3000 Air Mesh Băng Tần Kép (3-pack)</p><p>Với băng thông 160 MHz và 1024-QAM, Archer Air R5 mang đến tốc độ gigabit thực sự lên tới 3 Gbps.</p><p>Nó cũng có vẻ ngoài siêu mỏng và tối giản.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 AX3000 Air Mesh Băng Tần Kép (3-pack) Với băng thông 160 MHz và 1024-QAM, Archer Air R5 mang đến tốc độ gigabit thực sự lên tới 3 Gbps. Nó cũng có vẻ ngoài siêu mỏng và tối giản.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

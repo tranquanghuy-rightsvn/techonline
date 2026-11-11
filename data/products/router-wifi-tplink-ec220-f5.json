@@ -1,0 +1,137 @@
+{
+  "slug": "router-wifi-tplink-ec220-f5",
+  "name": "TP-Link EC220-F5",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "EC220-F5",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-ec220-f5/g01.jpg"
+  ],
+  "summary": [
+    "Strong, Far-Reaching Wi-Fi AC1200 Dual Band Wi-Fi Router EC220-F5",
+    "Giao diện: 1× 10/100 Mbps WAN Port; 4× 10/100 Mbps LAN Ports",
+    "Bộ cấp nguồn bên ngoài (EU): 9 V ⎓ 0.85 A",
+    "Kích thước ( R x D x C ): 9.1 × 5.7 × 1.5 in(229.9 × 144.2 × 36.9 mm)",
+    "Ăng ten: 4 External Antennas",
+    "Chất lượng dịch vụ: QoS by Device"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EC220-F5"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1× 10/100 Mbps WAN Port<br />4× 10/100 Mbps LAN Ports"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "9 V ⎓ 0.85 A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "9.1 × 5.7 × 1.5 in(229.9 × 144.2 × 36.9 mm)"
+    ],
+    [
+      "Ăng ten",
+      "4 External Antennas"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "QoS by Device"
+    ],
+    [
+      "Dạng WAN",
+      "Dynamic IP, Static IP, PPPoE, PPTP, L2TP"
+    ],
+    [
+      "Quản lý",
+      "Local management: WebGUI, Tether app<br />Remote management: TR-069, TR-181, TR-111, TR-143, Aginet ACS"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List, Address Reservation"
+    ],
+    [
+      "Port Forwarding",
+      "Vritual Server, Port Triggering, DMZ, UPnP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Parental Controls, Local Management Control, Host List, White List, Black List"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "DoS, SPI Firewall, IP Address Filter, IP and MAC Address Binding"
+    ],
+    [
+      "Giao thức",
+      "Supports IPv4 and IPv6"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz and 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "2.4 GHz: 300 Mbps5 GHz: 867 Mbps*"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Schedule, Wireless Statistics, Access Point mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WPA/WPA2 encryptions"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE: <20 dBm(2.4 GHz), <23 dBm (5 GHz)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Wi-Fi Router EC220-F5Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "Requirements",
+      "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux<br />Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java-enabled browser"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃–40℃ (32℉–104℉)<br />Storage Temperature: -40℃–60℃ (-40℉–140℉)<br />Operating Humidity: 10%–90% non-condensing<br />Storage Humidity: 5%–90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Strong, Far-Reaching Wi-Fi AC1200 Dual Band Wi-Fi Router EC220-F5</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Strong, Far-Reaching Wi-Fi AC1200 Dual Band Wi-Fi Router EC220-F5",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

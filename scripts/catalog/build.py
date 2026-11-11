@@ -43,6 +43,9 @@ DEFAULT_OFFERS = S["default_offers"]
 # How many rows are shown before "Xem thêm" (the rest get the collapsed class).
 SUMMARY_VISIBLE, DESC_VISIBLE, SPECS_VISIBLE = 6, 6, 4
 SIMILAR_COUNT = 4
+# Overview pages (category / brand / lock / network layouts) show at most this many cards per band;
+# the band's "Xem tất cả" opens the subcategory page with all of them.
+BAND_LIMIT = 20
 HOME_LIMIT = 10
 SHELL_PREF = "camera-analog-dahua-dh-hac-b2a21p-u-il-a"
 
@@ -53,7 +56,7 @@ HOME_SECTIONS = [
      "tabs": [{"label": "Camera Imou", "href": "#"}, {"label": "Camera Dahua", "href": "#"},
               {"label": "Camera KBVision", "href": "#"}],
      "viewAllText": "Xem tất cả ›", "viewAllHref": "/camera-giam-sat/",
-     "roots": ["camera-giam-sat", "dahua", "imou", "kbvision", "kabe-vision"], "claim": 4},
+     "roots": ["camera-giam-sat", "dahua", "imou", "kbvision", "kabe-vision", "hikvision"], "claim": 4},
     {"id": "cat2", "type": "category", "title": "Thiết bị mạng",
      "tabs": [{"label": "Router TP-Link", "href": "#"}, {"label": "Mesh Wi-Fi", "href": "#"},
               {"label": "Modem – Gateway", "href": "#"}],
@@ -515,7 +518,8 @@ def groups_for(cat):
     for k in kids:
         ms = members(k["slug"])
         if ms or layout == "brand":
-            out.append({"title": k["name"], "viewAllHref": f"/{k['slug']}/", "products": [card(PROD[s]) for s in ms]})
+            out.append({"title": k["name"], "viewAllHref": f"/{k['slug']}/",
+                        "products": [card(PROD[s]) for s in ms[:BAND_LIMIT]]})
     return strip, out
 
 

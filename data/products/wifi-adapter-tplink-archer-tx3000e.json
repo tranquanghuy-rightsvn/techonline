@@ -1,0 +1,108 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tx3000e",
+  "name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.3 TP-Link Archer TX3000E",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TX3000E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tx3000e/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.3",
+    "Sử dụng nền tảng Wi-Fi 6, Archer TX3000E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+    "Giao diện: PCI Express x1/x4/x8/x16",
+    "Kích thước ( R x D x C ): 3.7 x 4.8 x 0.8 in(95.2 x 120.8 x 21.5 mm)",
+    "Ăng ten: Two High-Gain Dual Band Antennas; Magnetized Antenna Base",
+    "Interface: F_USB 2.0"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TX3000E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "PCI Express x1/x4/x8/x16"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7 x 4.8 x 0.8 in(95.2 x 120.8 x 21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Two High-Gain Dual Band Antennas<br />Magnetized Antenna Base"
+    ],
+    [
+      "Interface",
+      "F_USB 2.0"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/g/b 2.4 GHzBluetooth 5.3"
+    ],
+    [
+      "WLAN Signal Rate",
+      "5 GHz11ax: Up to 2402 Mbps(dynamic)11ac: Up to 1733 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz11ax: Up to 574 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11g: Up to 54…"
+    ],
+    [
+      "WLAN Reception Sensitivity",
+      "5 GHz :11ax HT160：-56.25d<br />Bm11ax HT80: -59d<br />Bm11ax HT40: -62.25d<br />Bm11ax HT20: -65dBm11ac HT160：-62d<br />Bm11ac HT80: -65.5d<br />Bm11ac HT40: -69.75d<br />Bm11ac HT20: -73.75d<br />Bm11n HT40: -74.5d"
+    ],
+    [
+      "WLAN Transmit Power",
+      "5 GHz: 28dBm(FCC) / 23dBm(CE) (EIRP),2.4 GHz : 24dBm(FCC) / 20dBm(CE) (EIRP)"
+    ],
+    [
+      "WLAN Modes",
+      "Client Mode<br />Hotspot Mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support 64/128 bit WEP, WPA/WAP2/WPA3,WPA-PSK/WPA2-PSK, 802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM,256-QAM, 1024<br />QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Archer TX3000EMagnetized Antenna Base with 1m RF Cable<br />Two High Gain Antennas<br />Low-Profile Bracket<br />Bluetooth Header Cable<br />Quick Installation Guide<br />Resource CD"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10(64-bit) only"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCIe Wi-Fi 6 AX3000 &amp; Bluetooth 5.3</p><p>Sử dụng nền tảng Wi-Fi 6, Archer TX3000E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.3 Sử dụng nền tảng Wi-Fi 6, Archer TX3000E, được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "ds-2ts03-35umw-camera-thermal-handheld-observational-2",
+  "name": "Camera Thermal Handheld Observational Hikvision DS-2TS03-35UM/W",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TS03-35UM/W",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TS0325UMW.jpg"
+  ],
+  "summary": [
+    "Thermal: 384×288 17μm",
+    "25mm (15°) or 35mm(10°)thermal lens optional",
+    "0.39” OLED, 1024×768",
+    "64G Micro SD/SDHC/SDXC Card",
+    "Laser positioning, Smart ranging.",
+    "Hot spot tracking",
+    "Support Wi-Fi",
+    "Support Hik-Connect",
+    ">5 hours operating time, battery capacity display",
+    "IP67",
+    "2m fall down protection"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TS03-35UM/W"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Thermal",
+      "384×288 17μm"
+    ]
+  ],
+  "description_html": "<p>Thermal: 384×288 17μm</p><p>25mm (15°) or 35mm(10°)thermal lens optional</p><p>0.39” OLED, 1024×768</p><p>64G Micro SD/SDHC/SDXC Card</p><p>Laser positioning, Smart ranging.</p><p>Hot spot tracking</p><p>Support Wi-Fi</p><p>Support Hik-Connect</p><p>&gt;5 hours operating time, battery capacity display</p><p>IP67</p><p>2m fall down protection</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thermal: 384×288 17μm 25mm (15°) or 35mm(10°)thermal lens optional 0.39” OLED, 1024×768",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

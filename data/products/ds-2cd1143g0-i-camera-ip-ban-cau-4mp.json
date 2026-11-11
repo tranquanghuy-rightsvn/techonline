@@ -1,0 +1,77 @@
+{
+  "slug": "ds-2cd1143g0-i-camera-ip-ban-cau-4mp",
+  "name": "Camera IP bán cầu 4MP Hikvision DS-2CD1143G0-I",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD1143G0-I",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CD1143G0-I-500x500.jpg"
+  ],
+  "summary": [
+    "Cảm biến hình ảnh 1/3″ Progressive CMOS",
+    "Hỗ trợ tính năng ICR",
+    "Độ phân giải 2560×1440:20fps(P)/(N), 2304×1296:25fps(P)/30fps(N),",
+    "Chuẩn nén hình ảnh H.265+/H265/H.264+&H.264",
+    "Tăng cường hình ảnh với 3D DNR, BLC",
+    "Tầm xa hồng ngoại : đến 30m",
+    "Nguồn DC12V & PoE * Không bao gồm nguồn cấp",
+    "Hỗ trợ dịch vụ Hik-Connect",
+    "Đế: Kim loại",
+    "Vỏ: Plastic"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD1143G0-I"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Độ phân giải 2560×1440",
+      "20fps(P)/(N), 2304×1296:25fps(P)/30fps(N),"
+    ],
+    [
+      "Tầm xa hồng ngoại",
+      "đến 30m"
+    ],
+    [
+      "Đế",
+      "Kim loại"
+    ],
+    [
+      "Vỏ",
+      "Plastic"
+    ]
+  ],
+  "description_html": "<p>Cảm biến hình ảnh 1/3″ Progressive CMOS</p><p>Hỗ trợ tính năng ICR</p><p>Độ phân giải 2560×1440:20fps(P)/(N), 2304×1296:25fps(P)/30fps(N),</p><p>Chuẩn nén hình ảnh H.265+/H265/H.264+&amp;H.264</p><p>Tăng cường hình ảnh với 3D DNR, BLC</p><p>Tầm xa hồng ngoại : đến 30m</p><p>Nguồn DC12V &amp; PoE * Không bao gồm nguồn cấp</p><p>Hỗ trợ dịch vụ Hik-Connect</p><p>Đế: Kim loại</p><p>Vỏ: Plastic</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Cảm biến hình ảnh 1/3″ Progressive CMOS Hỗ trợ tính năng ICR Độ phân giải 2560×1440:20fps(P)/(N), 2304×1296:25fps(P)/30fps(N),",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

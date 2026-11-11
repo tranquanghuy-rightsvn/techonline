@@ -1,0 +1,221 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c545d",
+  "name": "Camera An Ninh Quay Quét Hai Ống Kính Ngoài Trời TP-Link Tapo C545D",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C545D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c545d/g01.jpg"
+  ],
+  "summary": [
+    "Camera An Ninh Quay Quét Hai Ống Kính Ngoài Trời",
+    "2K 3MP + 2K 3MP, Quan Sát Đêm Có Màu, Nhận Diện Và Thông Báo Người / Thú Cưng / Phương Tiện Miễn Phí, Chống Thời Tiết Chuẩn IP66, Lưu Trữ Cục Bộ Và Đám Mây",
+    "Cảm biến hình ảnh: 1/2.8“ Progressive Scan CMOS Sensor",
+    "Ống kính: Focal Length: 6 mm ± 5%, 2.53 mm±5%; Aperture: F1.6 ± 10%, F1.6 ± 10%; Field of View: 66.5° (Diagonal), 57.3° (Horizontal), 31.7° (Vertical); 165.1° (Diagonal), 137.6° (Horizontal), 73.0° (Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LED (99 ft / 29.9 m), Color Night Vision",
+    "Chuyển đổi Ngày/Đêm: IR-Cut Filter with Auto-Switching"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C545D"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.8“ Progressive Scan CMOS Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 6 mm ± 5%, 2.53 mm±5%<br />Aperture: F1.6 ± 10%, F1.6 ± 10%<br />Field of View: 66.5° (Diagonal), 57.3° (Horizontal), 31.7° (Vertical); 165.1° (Diagonal), 137.6° (Horizontal), 73.0° (Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED (99 ft / 29.9 m), Color Night Vision"
+    ],
+    [
+      "Chuyển đổi Ngày/Đêm",
+      "IR-Cut Filter with Auto-Switching"
+    ],
+    [
+      "Interface & Button",
+      "1× RJ45 (10M/100M) Ethernet Port<br />1× RESET Button<br />1× microSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Maximum Resolution",
+      "2K 3MP (2304 x 1296 px) + 2K 3MP (2304 x 1296 px)"
+    ],
+    [
+      "Frame Rate",
+      "15 fps"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "99 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "microSD Card Slot on Camera (Up to 512 GB)"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Pet Detection<br />Vehicle Detection<br />Line-Crossing Detection<br />Camera Tampering"
+    ],
+    [
+      "Activity Zones",
+      "Yes*Only works with Motion/Person/Pet/Vehicle Detection."
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi or Ethernet"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11 b/g/n/ax, 2.4 GHz"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP"
+    ],
+    [
+      "Ethernet Port",
+      "Yes"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Transmission Rate",
+      "11b: 11 Mbps11g: 54 Mbps11n: 72.2 Mbps11ax: 143.4 Mbps"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK/WPA3"
+    ],
+    [
+      "Power Source",
+      "12 V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "12 V, 1 A (DC Power)"
+    ],
+    [
+      "DC Power Connector Size",
+      "Inside Ø: 2.1 mmOutside Ø: 5.5 mm"
+    ],
+    [
+      "Power Cord Length",
+      "3 m"
+    ],
+    [
+      "Typical Power Consumption",
+      "5.3 W"
+    ],
+    [
+      "Maximum Power Consumption",
+      "11.2 W"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa, Samsung Smart<br />Things"
+    ],
+    [
+      "Weather Resistance",
+      "IP66"
+    ],
+    [
+      "Mounting Options",
+      "Wall-Mounted<br />Eave-Mounted<br />Pole-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-30 ºC ~ 60 ºC (-22 °F ~ 140 °F )"
+    ],
+    [
+      "Storage Temperature",
+      "-40 ºC ~ 60 ºC (-40 °F ~ 140 °F)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10% ~ 90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0 ~ 90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "4.51 × 6.28 × 5.99 in (114.57 × 159.55 × 152.1 mm)"
+    ],
+    [
+      "Trọng lượng",
+      "17.32 oz / 491 g"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C545D Camera ×1Mounting Bracket ×1Mounting Template Sticker ×1Mounting Screws ×4Mounting Anchors ×4Waterproof Seal ×1Waterproof Cable Attachments ×1 Power Adapter ×1Quick Start Guide"
+    ]
+  ],
+  "description_html": "<p>Camera An Ninh Quay Quét Hai Ống Kính Ngoài Trời</p><p>2K 3MP + 2K 3MP, Quan Sát Đêm Có Màu, Nhận Diện Và Thông Báo Người / Thú Cưng / Phương Tiện Miễn Phí, Chống Thời Tiết Chuẩn IP66, Lưu Trữ Cục Bộ Và Đám Mây</p>",
+  "attrs": [
+    "Quay quét",
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera An Ninh Quay Quét Hai Ống Kính Ngoài Trời 2K 3MP + 2K 3MP, Quan Sát Đêm Có Màu, Nhận Diện Và Thông Báo Người / Thú Cưng / Phương Tiện Miễn Phí, Chống Thời Tiết Chuẩn IP66, Lưu Trữ Cục Bộ Và Đám Mây",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

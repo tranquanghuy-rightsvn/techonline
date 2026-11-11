@@ -1,0 +1,56 @@
+{
+  "slug": "switch-poe-8-cong-hikvision-ds-3e1309p-ei",
+  "name": "Switch POE 8 cổng Hikvision DS-3E1309P-EI",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E1309P-EI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1309P-EI-500x500.jpg"
+  ],
+  "summary": [
+    "– Switch mạng thông minh 8 cổng PoE.",
+    "– Hỗ trợ tính năng cấu hình quản lý bằng phần mềm.",
+    "– Tự tương thích chuẩn IEEE 802.3af/at – Công suất PoE 110W",
+    "Công suất tối đa 30W mỗi cổng – Truyền dẫn khoảng cách xa: Tối đa 300m ở chế độ mở rộng ( cổng 1 – 8 ).",
+    "– Bảng địa chỉ MAC: 16K, khả năng chuyển mạch 3.6 Gbps, tốc độ chuyển tiếp gói tin: 2.6784 Mpps.",
+    "– Vỏ kim loại, thiết kế không quạt."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E1309P-EI"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "– Bảng địa chỉ MAC",
+      "16K, khả năng chuyển mạch 3.6 Gbps, tốc độ chuyển tiếp gói tin: 2.6784 Mpps."
+    ]
+  ],
+  "description_html": "<p>– Switch mạng thông minh 8 cổng PoE.</p><p>– Hỗ trợ tính năng cấu hình quản lý bằng phần mềm.</p><p>– Tự tương thích chuẩn IEEE 802.3af/at – Công suất PoE 110W</p><p>Công suất tối đa 30W mỗi cổng – Truyền dẫn khoảng cách xa: Tối đa 300m ở chế độ mở rộng ( cổng 1 – 8 ).</p><p>– Bảng địa chỉ MAC: 16K, khả năng chuyển mạch 3.6 Gbps, tốc độ chuyển tiếp gói tin: 2.6784 Mpps.</p><p>– Vỏ kim loại, thiết kế không quạt.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Switch mạng thông minh 8 cổng PoE. – Hỗ trợ tính năng cấu hình quản lý bằng phần mềm. – Tự tương thích chuẩn IEEE 802.3af/at – Công suất PoE 110W",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

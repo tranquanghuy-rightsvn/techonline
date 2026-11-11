@@ -1,0 +1,52 @@
+{
+  "slug": "hki-2cd3326kl-sir-4mp-vf-bullet-network-camera",
+  "name": "4MP VF Bullet Network Camera Hikvision HKI-2CD3326KL-SIR",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "HKI-2CD3326KL-SIR",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/09/DS-2CD2655FWD-IZS2.8-500x500.jpg"
+  ],
+  "summary": [
+    "1.8” Progressive Scan CMOS 2560 × 1440 @ 30fps Color: 0.002 Lux @ (F1.2, AGC ON) H.265, H.265+, H.264+, H.264 140dB WDR 3D DNR 6 behavior analyses, 3 exception detections, face detection 5 defined streams and up to 5 custom streams supported On-board storage up to 256 GB IP67,IK10"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HKI-2CD3326KL-SIR"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ]
+  ],
+  "description_html": "<p>1.8” Progressive Scan CMOS 2560 × 1440 @ 30fps Color: 0.002 Lux @ (F1.2, AGC ON) H.265, H.265+, H.264+, H.264 140dB WDR 3D DNR 6 behavior analyses, 3 exception detections, face detection 5 defined streams and up to 5 custom streams supported On-board storage up to 256 GB IP67,IK10</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1.8” Progressive Scan CMOS 2560 × 1440 @ 30fps Color: 0.002 Lux @ (F1.2, AGC ON) H.265, H.265+, H.264+, H.264 140dB WDR 3D DNR 6 behavior analyses, 3 exception detections, face detection 5 defined streams and up to 5 custom streams supported On-board storage up to 256 GB IP67,IK10",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "router-wifi-tplink-archer-ax55-pro",
+  "name": "Router Wi-Fi 6 AX3000 Multi-Gigabit với hai cổng 2.5G TP-Link Archer AX55 Pro",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX55 Pro",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax55-pro/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 AX3000 Multi-Gigabit với hai cổng 2.5G",
+    "Với 2 cổng WAN và LAN 2.5G, băng thông 160 MHz và công nghệ 1024-QAM, Archer AX55 Pro tận dụng tối đa tốc độ gigabit từ nhà cung cấp dịch vụ internet (ISP), mang đến tốc độ thực lên đến 3 Gbps.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX3000; 5 GHz: 2402 Mbps (802.11ax, HE160); 2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 3 Bedroom Houses; 4× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: High; Dual-Band; Allocate devices to different bands for optimal performance; OFDMA; Simultaneously communicates with multiple Wi-Fi 6 clients; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX55 Pro"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX3000<br />5 GHz: 2402 Mbps (802.11ax, HE160)<br />2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />4× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Allocate devices to different bands for optimal performance<br />OFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN<br />PPTP<br />L2TP<br />WireGuard"
+    ],
+    [
+      "VPN Client",
+      "OpenVPN<br />PPTP<br />L2TP<br />WireGuard"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA3*<br />WPA2<br />WPA<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 2.5 Gigabit WAN Port<br />1× 2.5 Gigabit LAN Port<br />3× Gigabit LAN Ports"
+    ],
+    [
+      "USB Support",
+      "1× USB 2.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V/ 2 A (US Version)<br />12 V/ 1.5 A (EU Version)"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi/WPS Button<br />Power On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4<br />IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IP<br />Static IP<br />PPPoE<br />PPTP<br />L2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware Upgrade<br />OTA Firmware Upgrade<br />TP-Link ID<br />DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port Triggering<br />DMZ<br />UPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP Proxy<br />IGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address Reservation<br />DHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-Link<br />NO-IP<br />DynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether App<br />Webpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "请提供Datasheet以校验<br />CE: &lt;20dBm(2.4GHz)&lt;23dBm (5.15GHz~5.25GHz &amp; 5.25GHz~5.35GHz)&lt;30dBm (5.47GHz~5.725GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "请提供Datasheet以校验"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 × 1.5 in(261 × 134.5 × 41.0 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer AX55 Pro<br />Power Adapter<br />RJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 AX3000 Multi-Gigabit với hai cổng 2.5G</p><p>Với 2 cổng WAN và LAN 2.5G, băng thông 160 MHz và công nghệ 1024-QAM, Archer AX55 Pro tận dụng tối đa tốc độ gigabit từ nhà cung cấp dịch vụ internet (ISP), mang đến tốc độ thực lên đến 3 Gbps.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000",
+    "5G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 AX3000 Multi-Gigabit với hai cổng 2.5G Với 2 cổng WAN và LAN 2.5G, băng thông 160 MHz và công nghệ 1024-QAM, Archer AX55 Pro tận dụng tối đa tốc độ gigabit từ nhà cung cấp dịch vụ internet (ISP), mang đến tốc độ thực lên đến 3 Gbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

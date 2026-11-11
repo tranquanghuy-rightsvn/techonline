@@ -1,0 +1,52 @@
+{
+  "slug": "ds-2td2637b-10p",
+  "name": "Camera IP Hikvision DS-2TD2637B-10/P",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TD2637B-10/P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD2637B-10.P-500x500.jpg"
+  ],
+  "summary": [
+    "High sensitivity thermal module with 384 x 288 resolution NETD is less than 40 mk (@25° C, F#=1.0) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Reliable fever detection alarm High quality optical module with 4 MP resolution Bi-spectrum image fusion, picture-in-picture preview"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TD2637B-10/P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ]
+  ],
+  "description_html": "<p>High sensitivity thermal module with 384 x 288 resolution NETD is less than 40 mk (@25° C, F#=1.0) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Reliable fever detection alarm High quality optical module with 4 MP resolution Bi-spectrum image fusion, picture-in-picture preview</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "High sensitivity thermal module with 384 x 288 resolution NETD is less than 40 mk (@25° C, F#=1.0) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Reliable fever detection alarm High quality optical module with 4 MP resolution Bi-spectrum image fusion, picture-in-picture…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-ls108gp",
+  "name": "Switch Để Bàn Gigabit 8 Cổng với 8 Cổng PoE+ TP-Link LS108GP",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "LS108GP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-ls108gp/g01.jpg"
+  ],
+  "summary": [
+    "Switch Để Bàn Gigabit 8 Cổng với 8 Cổng PoE+",
+    "8-Port Gigabit Desktop Switch with 8-Port PoE+.",
+    "The total 62 W PoE power budget for the 8× PoE ports opens up a wide range of applications, such as surveillance for offices, dormitories, and small businesses.",
+    "Giao diện: 8× 10/100/1000Mbps RJ45 Ports (Ports 1–8 supports 802.3af/at PoE+); AUTO Negotiation; AUTO MDI/MDIX",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000",
+    "Số lượng quạt: Fanless"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "LS108GP"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8× 10/100/1000Mbps RJ45 Ports (Ports 1–8 supports 802.3af/at PoE+)<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Cài đặt",
+      "Desktop<br />Wall Mounting"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External Power Adapter (Output: 53.5 VDC / 1.31 A)"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3 af/at compliant<br />PoE Ports: Ports 1–8, up to 30 W PoE output per port<br />PoE Budget: 62 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.2×3.9×1.0 in (158×99×25 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "5.53 W (220 V/50 Hz. no PD connected)<br />71.61 W (220 V/50 Hz. with 62 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "18.81 BTU/h (220 V/50 Hz. no PD connected)<br />243.47 BTU/h (220 V/50 Hz. with 62 W PD connected)"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Switching Capacity",
+      "16 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "11.9 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "4K"
+    ],
+    [
+      "Advanced Features",
+      "Extend Mode Button (Ports 1–2, Up to 250 m PoE power supply and data transmission)<br />PoE Auto Recovery Button (Ports 1-8)<br />Mac Address Auto-Learning and Auto-Aging<br />IEEE 802.3x Flow Control"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "LS108GP<br />Power Adapter<br />Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch Để Bàn Gigabit 8 Cổng với 8 Cổng PoE+</p><p>8-Port Gigabit Desktop Switch with 8-Port PoE+.</p><p>The total 62 W PoE power budget for the 8× PoE ports opens up a wide range of applications, such as surveillance for offices, dormitories, and small businesses.</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Để Bàn Gigabit 8 Cổng với 8 Cổng PoE+ 8-Port Gigabit Desktop Switch with 8-Port PoE+. The total 62 W PoE power budget for the 8× PoE ports opens up a wide range of applications, such as surveillance for offices, dormitories, and small businesses.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

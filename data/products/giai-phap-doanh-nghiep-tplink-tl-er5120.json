@@ -1,0 +1,185 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-er5120",
+  "name": "Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit TP-Link TL-ER5120",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-ER5120",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-er5120/g01.jpg"
+  ],
+  "summary": [
+    "Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit",
+    "Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit",
+    "Access Control: Kiểm soát quyền truy cập dựa trên nguồn/IP đích",
+    "Bộ lọc: Lọc địa chỉ MAC URL/Lọc từ khóa",
+    "Attack Defense: TCP/UDP/ICMP Flood Defense; Block TCP Scan (Stealth FIN/Xmas/Null)Block Ping from WAN",
+    "ARP Inspection: Gửi gói tin GARPARP quét qua WAN/LAN; Liên kết IP-MAC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-ER5120"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Access Control",
+      "Kiểm soát quyền truy cập dựa trên nguồn/IP đích"
+    ],
+    [
+      "Bộ lọc",
+      "Lọc địa chỉ MAC URL/Lọc từ khóa"
+    ],
+    [
+      "Attack Defense",
+      "TCP/UDP/ICMP Flood Defense<br />Block TCP Scan (Stealth FIN/Xmas/Null)Block Ping from WAN"
+    ],
+    [
+      "ARP Inspection",
+      "Gửi gói tin GARPARP quét qua WAN/LAN<br />Liên kết IP-MAC"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE802.3u, IEEE802.3abTCP/IP, DHCP, ICMP, NAT, PPPoE, SNTP, HTTP, DNS, PPTP, L2TP"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng WAN Gigabit3 x cổng WAN/LAN Gigabit1 x cổng LAN Gigabit"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: loại UTP cáp 3, 4, 5 (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)100<br />BASE-TX: loại UTP cáp 5, 5e (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)1000"
+    ],
+    [
+      "Nút",
+      "Nút Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Cung cấp nguồn điện nội bộ phổ dụng Cổng vào AC100-240V~ 50/60Hz"
+    ],
+    [
+      "Flash",
+      "32MB"
+    ],
+    [
+      "DRAM",
+      "DDRIII 256MB"
+    ],
+    [
+      "LED",
+      "PWR, SYS, Link/Act, Speed, WAN"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3x7.1x1.7 in.(440x180x44 mm)"
+    ],
+    [
+      "Concurrent Session",
+      "150000"
+    ],
+    [
+      "NAT(DHCP)",
+      "934Mbps"
+    ],
+    [
+      "NAT(PPPoE)",
+      "868Mbps"
+    ],
+    [
+      "NAT(iMIX)",
+      "703Mbps"
+    ],
+    [
+      "Dịch vụ",
+      "Dynamic DNS (Dyndns, No-IP, Peanuthull, Comexe)"
+    ],
+    [
+      "Maintenance",
+      "Quản lý giao diện WebQuản lý từ xaCấu hình xuất và nhậpSNMP<br />Chẩn đoán (Ping và Traceroute)Đồng bộ NTPHỗ trợ nhật ký hệ thống"
+    ],
+    [
+      "Dạng kết nối WAN",
+      "IP động/ IP tĩnhPPPoE/Russian PPPoE,PPTP/Russian PPTP,L2TP/Russian L2TP, Cáp BigPond"
+    ],
+    [
+      "MAC Clone",
+      "Chỉnh sửa địa chỉ MAC WAN"
+    ],
+    [
+      "DHCP",
+      "DHCP máy chủ/máy kháchDHCP dành riêng"
+    ],
+    [
+      "IPv6",
+      "Hỗ trợ IPv6"
+    ],
+    [
+      "VLAN",
+      "802.1Q VLAN, Cổng VLAN"
+    ],
+    [
+      "IPTV",
+      "Cầu nối, Tùy chỉnh"
+    ],
+    [
+      "Load Balance",
+      "Cân bằng tải thông minh<br />Liên kết sao lưu (thời gian, chuyển đổi dự phòng)Phát hiện trực tuyến"
+    ],
+    [
+      "NAT",
+      "One-to-One NAT<br />Multi-nets NAT<br />Virtual Server<br />Port TriggeringFTP/H.323/SIP/IPsec/PPTP ALGUPnP"
+    ],
+    [
+      "Routing",
+      "Static Routing<br />Policy Routing"
+    ],
+    [
+      "Session Limit",
+      "Giới hạn phiên dựa trên IP"
+    ],
+    [
+      "Bandwidth Control",
+      "Kiểm soát băng thông dựa trên IP"
+    ],
+    [
+      "Web Authentication",
+      "Xác thực người dùng nội bộXác thực Máy chủ Radius,Onekey trực tuyến"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-ER5120Dây điện Bộ dụng cụ lắp ráp<br />Hướng dẫn cài đặt"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ hoặc Windows 7/8/8.1/10<br />MAC OS, NetWare, UNIX hoặc Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit</p><p>Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

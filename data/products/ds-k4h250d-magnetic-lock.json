@@ -1,0 +1,53 @@
+{
+  "slug": "ds-k4h250d-magnetic-lock",
+  "name": "Thiết bị kiểm soát ra vào Magnetic Lock Hikvision DS-K4H250D",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K4H250D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K4H250D-500x321.jpg"
+  ],
+  "summary": [
+    "Double-door Control",
+    "Supports static linear thrust of 2x300kg",
+    "Working Current: 12V/500mA × 2 24V/250mA × 2"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K4H250D"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ],
+    [
+      "Working Current",
+      "12V/500mA × 2 24V/250mA × 2"
+    ]
+  ],
+  "description_html": "<p>Double-door Control</p><p>Supports static linear thrust of 2x300kg</p><p>Working Current: 12V/500mA × 2 24V/250mA × 2</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Double-door Control Supports static linear thrust of 2x300kg Working Current: 12V/500mA × 2 24V/250mA × 2",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

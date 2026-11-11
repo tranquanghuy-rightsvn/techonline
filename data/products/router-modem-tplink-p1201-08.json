@@ -1,0 +1,127 @@
+{
+  "slug": "router-modem-tplink-p1201-08",
+  "name": "8-port GPON OLT TP-Link P1201-08",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "P1201-08",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-p1201-08/g01.jpg"
+  ],
+  "summary": [
+    "8-port GPON OLT",
+    "Service Port: 8*PON port (SFP Slot)",
+    "Management Port: 1*RJ45 Console port1*USB Type-C console port1*100/1000; BASE-TX out-band management port",
+    "Redundancy Design: Dual power supply SupportAC, DC, AC+DC power input",
+    "Khoảng cách truyền: 20km",
+    "Số lượng quạt: 4"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "P1201-08"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Service Port",
+      "8*PON port (SFP Slot)"
+    ],
+    [
+      "Management Port",
+      "1*RJ45 Console port1*USB Type-C console port1*100/1000<br />BASE-TX out-band management port"
+    ],
+    [
+      "Redundancy Design",
+      "Dual power supply SupportAC, DC, AC+DC power input"
+    ],
+    [
+      "Khoảng cách truyền",
+      "20km"
+    ],
+    [
+      "Số lượng quạt",
+      "4"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "AC: 90V~240V, 50/60<br />Hz<br />DC: -36V~-72V"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Max. 70W"
+    ],
+    [
+      "Công suất truyền",
+      "Class B+: 1.5dBm~5dBmClass C+: 3dBm~7dBm"
+    ],
+    [
+      "Khối lượng",
+      "4kg"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "Downstream: 2.5<br />Gbps<br />Upstream: 1.25Gbps"
+    ],
+    [
+      "Wave Length",
+      "Tx: 1490nm<br />Rx: 1310nm"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "440mm(L)*391mm(W)*44mm(H)"
+    ],
+    [
+      "PON Features",
+      "Compatible with ITU-T G.984.x, G.988 standards<br />Standard OMCI management function<br />Support 1:128 splitting ratio for each PON port"
+    ],
+    [
+      "Multicast",
+      "IGMP v1/v2 snoopingIGMP fast leaveIGMP snooping querier<br />Multicast VLAN"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p QoS4 priority queues<br />Priority schedule mode: SP, WRR<br />Support basic ACL, advance ACL and link ACL"
+    ],
+    [
+      "VLAN",
+      "VLAN ID: 1~4094Support 802.1q VLAN<br />The ports support Access, Trunk and Hybrid mode<br />Support PVID configuration<br />Support QinQSupport VLAN translation"
+    ],
+    [
+      "Quản lý",
+      "Support CLI management<br />Support dual image<br />Support EMS management based on SNMP<br />Console port, Management port<br />Inbound and outbound management<br />Operation Status monitor2 levels account management"
+    ],
+    [
+      "DHCP",
+      "DHCP Client, DHCP Snooping"
+    ],
+    [
+      "Spanning Tree",
+      "RSTP"
+    ],
+    [
+      "Môi trường",
+      "Operating temperature: 0℃~50℃Storage temperature: -40℃~85℃Operating Humidity: 5%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>8-port GPON OLT</p>",
+  "attrs": [
+    "8 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8-port GPON OLT",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

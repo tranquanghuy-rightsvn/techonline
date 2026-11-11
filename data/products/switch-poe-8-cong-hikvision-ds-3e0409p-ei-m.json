@@ -1,0 +1,60 @@
+{
+  "slug": "switch-poe-8-cong-hikvision-ds-3e0409p-ei-m",
+  "name": "Switch POE 8 cổng Hikvision DS-3E0409P-EI/M",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E0409P-EI/M",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/05/DS-3E0409P-EI-M-01-scaled-1.jpg"
+  ],
+  "summary": [
+    "Switch mạng thông minh 8 cổng PoE",
+    "Hỗ trợ tính năng cấu hình quản lý bằng phần mềm : bật tắt PoE , quản lý băng thông , nhật ký, upgrade firmware …",
+    "Hỗ trợ tính năng hiển thị sơ đồ mạng",
+    "8 cổng PoE RJ45 100Mbps , 1 cổng RJ45 Gigabit",
+    "Tự tương thích chuẩn IEEE 802.3af/at",
+    "Công suất PoE 60W ; Công suất tối đa 30W mỗi cổng",
+    "Chống sét 6KV cho các cổng PoE",
+    "Truyền dẫn khoảng cách xa : Tối đa 300m ở chế độ mở rộng ( cổng 1 – 8 )",
+    "Vỏ kim loại, thiết kế ko quạt",
+    "Nguồn 54VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E0409P-EI/M"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Truyền dẫn khoảng cách xa",
+      "Tối đa 300m ở chế độ mở rộng ( cổng 1 – 8 )"
+    ]
+  ],
+  "description_html": "<p>Switch mạng thông minh 8 cổng PoE</p><p>Hỗ trợ tính năng cấu hình quản lý bằng phần mềm : bật tắt PoE , quản lý băng thông , nhật ký, upgrade firmware …</p><p>Hỗ trợ tính năng hiển thị sơ đồ mạng</p><p>8 cổng PoE RJ45 100Mbps , 1 cổng RJ45 Gigabit</p><p>Tự tương thích chuẩn IEEE 802.3af/at</p><p>Công suất PoE 60W ; Công suất tối đa 30W mỗi cổng</p><p>Chống sét 6KV cho các cổng PoE</p><p>Truyền dẫn khoảng cách xa : Tối đa 300m ở chế độ mở rộng ( cổng 1 – 8 )</p><p>Vỏ kim loại, thiết kế ko quạt</p><p>Nguồn 54VDC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch mạng thông minh 8 cổng PoE Hỗ trợ tính năng cấu hình quản lý bằng phần mềm : bật tắt PoE , quản lý băng thông , nhật ký, upgrade firmware … Hỗ trợ tính năng hiển thị sơ đồ mạng",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "ds-2tp03-15vmw-handheld-thermometric-thermal-camera",
+  "name": "Camera Thermal Handheld Thermometric Hikvision DS-2TP03-15VM/W",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TP03-15VM/W",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TP0315VMW.jpg"
+  ],
+  "summary": [
+    "Thermal: 384×288 17μm, Visible: 8MP",
+    "15mm (25°)thermal lens, 7.5mm/30mm/50mm lens optional",
+    "3.6” 320 x 240 touch screen",
+    "20℃～ 650℃ (-4°F to 1202°F) temperature measuring range",
+    "Max(±2℃ , ±2%) temperature accuracy",
+    "Optical detail on thermal image,",
+    "64G Micro SD/SDHC/SDXC Card",
+    ">4 hours operating time, battery capacity display",
+    "IP66"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TP03-15VM/W"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ],
+    [
+      "Thermal",
+      "384×288 17μm, Visible: 8MP"
+    ]
+  ],
+  "description_html": "<p>Thermal: 384×288 17μm, Visible: 8MP</p><p>15mm (25°)thermal lens, 7.5mm/30mm/50mm lens optional</p><p>3.6” 320 x 240 touch screen</p><p>20℃～ 650℃ (-4°F to 1202°F) temperature measuring range</p><p>Max(±2℃ , ±2%) temperature accuracy</p><p>Optical detail on thermal image,</p><p>64G Micro SD/SDHC/SDXC Card</p><p>&gt;4 hours operating time, battery capacity display</p><p>IP66</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thermal: 384×288 17μm, Visible: 8MP 15mm (25°)thermal lens, 7.5mm/30mm/50mm lens optional 3.6” 320 x 240 touch screen",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

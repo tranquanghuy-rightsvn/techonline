@@ -1,0 +1,313 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c520ws",
+  "name": "Camera Wi-Fi An Ninh Quay Quét Ngoài trời TP-Link Tapo C520WS",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C520WS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c520ws/g01.jpg"
+  ],
+  "summary": [
+    "Camera Wi-Fi An Ninh Quay Quét Ngoài trời",
+    "pan/tilt camera, motion tracking, AI Detection, 2K QHD, color night vision, starlight sensor",
+    "Cảm biến hình ảnh: 1/3‘’ CMOS",
+    "Ống kính: F/NO: 1.61±10%; Focal Length: 3.18mm±5%",
+    "Tầm nhìn đêm: 850 nm IR LED (up to 98 ft), Starlight Color Night Vision",
+    "Lighting: 2× Built-in Spotlights"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C520WS"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/3‘’ CMOS"
+    ],
+    [
+      "Ống kính",
+      "F/NO: 1.61±10%; Focal Length: 3.18mm±5%"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED (up to 98 ft), Starlight Color Night Vision"
+    ],
+    [
+      "Lighting",
+      "2× Built-in Spotlights"
+    ],
+    [
+      "Interface & Button",
+      "1× Ethernet Port<br />1× RESET Button<br />1× MicroSD Card Slot (Up to 512GB)"
+    ],
+    [
+      "Chuẩn chống nước",
+      "IP66"
+    ],
+    [
+      "Góc Quay Quét",
+      "Pan Mechanical Range: 340° (360° Pan Coverage) Tilt Mechanical Range: 90°(145.2° Tilt Coverage)"
+    ],
+    [
+      "Khoảng cách nhìn",
+      "360° horizontal and 130° vertical"
+    ],
+    [
+      "Độ phân giải",
+      "2K QHD 4MP (2560 × 1440 px)"
+    ],
+    [
+      "Maximum Resolution",
+      "2K QHD 4MP (2560 × 1440 px)"
+    ],
+    [
+      "Frame Rate",
+      "15/20/25/30 fps (Default 15 fps)"
+    ],
+    [
+      "Digital Zoom",
+      "12x"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "93 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Tốc độ khung hình",
+      "Up to 25/30fps"
+    ],
+    [
+      "Truyền phát video",
+      "2K QHD"
+    ],
+    [
+      "Nén video",
+      "H.264"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Pet Detection<br />Vehicle Detection<br />Line-Crossing Detection<br />Tamper Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Đàm thoại",
+      "Two-Way"
+    ],
+    [
+      "Âm thanh vào & ra",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi or Ethernet"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-FiBluetooth (for setup only)"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, ICMP, DNS, HTTPS, TCP, UDP"
+    ],
+    [
+      "Ethernet Port",
+      "1× 10/100 Mbps RJ45 Port on Camera"
+    ],
+    [
+      "Bảo Mật Không Dây",
+      "WPA/WPA2-PSK"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.11b/g/n"
+    ],
+    [
+      "Bảo mật",
+      "128 bit AES encryption with SSL/TLS"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK"
+    ],
+    [
+      "Power Source",
+      "9V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "9 V, 0.85 A (DC Power)"
+    ],
+    [
+      "Input Trigger",
+      "Motion detection, Person detection, Pet detection, Vehicle detection, Line-Crossing detection"
+    ],
+    [
+      "Output Notification",
+      "Snapshot(Tapo care), Clips(Tapo care)"
+    ],
+    [
+      "Button",
+      "RESET Button"
+    ],
+    [
+      "Indicator LED",
+      "System LED"
+    ],
+    [
+      "Adapter Input",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Adapter Output",
+      "9V, 0.85A (DC Power)"
+    ],
+    [
+      "Product Dimensions (W x D x H)",
+      "4.9 x 4.8 x 3.5 in. (123.8 x 123 x 90 mm)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "IP66"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 9.0 or higher, Andriod 4.4 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Ceiling-Mounted<br />Wall-Mounted<br />Pole-Mounted (Pole-Mounting loops required but not included)"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-30℃~60℃"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "4.9 × 4.8 × 3.5 in (123.8 × 123 × 90 mm)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C520WS Camera<br />Power Adapter<br />Mounting Anchors<br />Mounting Screws<br />Bracket Screws<br />Mounting Template<br />Mounting Bracket<br />Waterproof Seal<br />Waterproof Cable Attachments<br />Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, RoHS, RCM"
+    ],
+    [
+      "Operating Temperature",
+      "-30 ℃ ~ 60 ℃ (-22 °F ~ 140 °F)"
+    ],
+    [
+      "Storage Temperature",
+      "-40 ℃ ~ 60 ℃ (-40 °F ~ 140 °F)"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90%RH, Non-condensing"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RCM"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C520WS Camera<br />Power Adapter (3.0m)Mounting Anchors<br />Mounting Screws<br />Bracket Screws<br />Mounting Template<br />Mounting Bracket<br />Waterproof Seal<br />Waterproof Cable Attachments<br />Quick Start Guide"
+    ]
+  ],
+  "description_html": "<p>Camera Wi-Fi An Ninh Quay Quét Ngoài trời</p><p>pan/tilt camera, motion tracking, AI Detection, 2K QHD, color night vision, starlight sensor</p>",
+  "attrs": [
+    "Quay quét",
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera Wi-Fi An Ninh Quay Quét Ngoài trời pan/tilt camera, motion tracking, AI Detection, 2K QHD, color night vision, starlight sensor",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

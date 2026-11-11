@@ -1,0 +1,61 @@
+{
+  "slug": "ds-2df6223-ael-ptz-smart-camera-ultra-low-light-2mp",
+  "name": "PTZ Smart Camera Ultra-low Light 2MP Hikvision DS-2DF6223-AEL",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DF6223-AEL",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF6223-AEL-1-500x500.jpg"
+  ],
+  "summary": [
+    "1/1.9” HD CMOS sensor",
+    "2MP(1920*1080) Full HD",
+    "23X Optical Zoom",
+    "Ultra-low illumination",
+    "120db True WDR",
+    "Smart Tracking",
+    "Smart Detection",
+    "EIS (Electronic Image Stabilization)",
+    "Defog",
+    "Hi-PoE / 24VAC power supply"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DF6223-AEL"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1/1.9” HD CMOS sensor</p><p>2MP(1920*1080) Full HD</p><p>23X Optical Zoom</p><p>Ultra-low illumination</p><p>120db True WDR</p><p>Smart Tracking</p><p>Smart Detection</p><p>EIS (Electronic Image Stabilization)</p><p>Defog</p><p>Hi-PoE / 24VAC power supply</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/1.9” HD CMOS sensor 2MP(1920*1080) Full HD 23X Optical Zoom",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

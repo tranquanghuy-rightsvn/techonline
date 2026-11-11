@@ -1,0 +1,53 @@
+{
+  "slug": "ptz-analog-dome-camera-turbohd-720p",
+  "name": "PTZ Analog Dome Camera TurboHD 720P",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE52305220W-AE3-500x500.jpg"
+  ],
+  "summary": [
+    "1.3MP CMOS Image Sensor",
+    "720P Video Output",
+    "23X optical zoom, 16X digital zoom",
+    "Up the Coax function",
+    "Privacy Masking, 3D DNR",
+    "3D intelligent positioning"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "1.3MP"
+    ]
+  ],
+  "description_html": "<p>1.3MP CMOS Image Sensor</p><p>720P Video Output</p><p>23X optical zoom, 16X digital zoom</p><p>Up the Coax function</p><p>Privacy Masking, 3D DNR</p><p>3D intelligent positioning</p>",
+  "attrs": [
+    "1.3MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1.3MP CMOS Image Sensor 720P Video Output 23X optical zoom, 16X digital zoom",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

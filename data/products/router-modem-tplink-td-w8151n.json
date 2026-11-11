@@ -1,0 +1,133 @@
+{
+  "slug": "router-modem-tplink-td-w8151n",
+  "name": "Router không dây chuẩn N ADSL2+ tốc độ 150Mbps TP-Link TD-W8151N",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TD-W8151N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-td-w8151n/g01.jpg"
+  ],
+  "summary": [
+    "Router không dây chuẩn N ADSL2+ tốc độ 150Mbps",
+    "Router không dây chuẩn N ADSL2+ tốc độ 150Mbps",
+    "Giao diện: 1 x cổng DSL RJ11 1 x cổng 10/100/Mbps RJ45",
+    "Nút: Nút Mở/Tắt nguồn; Nút WPS; Nút Reset; Nút Mở/Tắt Wi-Fi",
+    "Bộ cấp nguồn bên ngoài (EU): 9; VDC/0.6A",
+    "Chuẩn IEEE: IEEE 802.3, 802.3u"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TD-W8151N"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng DSL RJ11 1 x cổng 10/100/Mbps RJ45"
+    ],
+    [
+      "Nút",
+      "Nút Mở/Tắt nguồn<br />Nút WPS<br />Nút Reset<br />Nút Mở/Tắt Wi-Fi"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "9<br />VDC/0.6A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u"
+    ],
+    [
+      "ADSL Standards",
+      "Full-rate ANSI T1.413 Issue 2, ITU-T G.992.1(G.DMT) Annex A, ITU-T G.992.2(G.Lite) Annex A,ITU-T G.994.1 (G.hs)"
+    ],
+    [
+      "Chuẩn ADSL2",
+      "ITU-T G.992.3 (G.dmt.bis) Annex A/L/M, ITU-T G.992.4 (G.lite.bis) Annex A"
+    ],
+    [
+      "Chuẩn ADSL2+",
+      "ITU-T G.992.5 Annex A/L/M"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "Tốc độ tải xuống: lên tới 24Mbps<br />Tốc độ tải lên: lên tới 3.5Mbps(Đã bật Annex M)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "7.1×4.9×1.4 in.(181×125×36mm)"
+    ],
+    [
+      "Ăng ten",
+      "Định hướng đẳng hướng, cố định"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Qos ghi chú dựa trên IPP/ToS,DSCP và 802.1p"
+    ],
+    [
+      "Advanced Features",
+      "DHCP(giao thức cấu hinh chủ động),DHCP relayNAT( sự chuyển dịch địa chỉ mạng)Bộ định tuyến tĩnh,RIP v1/v2<br />VPN(PPTP, L2TP, IPSec) Pass-throughPVC/Cổng ánh xạ EthernetVLAN, 802.1"
+    ],
+    [
+      "Bảo mật",
+      "NAT và Tường lửa SPI MAC/IP/Ứng dụng/Lọc URL<br />Denial of Service (DoS),SYN Flooding,Ping of Death"
+    ],
+    [
+      "Quản lý",
+      "Cấu hình dựa trên web (HTTP),quản lý từ xa,quản lý Telnet<br />Giao diện dòng lệnhSSL for TR-069, SNMP v1/2c, SNMP qua EOC,Nâng cấp phần mềm dựa trên web,CWMP(TR-069), Công cụ chuẩn đoán"
+    ],
+    [
+      "Giao thức ATM/PPP",
+      "ATM Forum UNI3.1/4.0 PVC (lên tới 8PVCs)ATM tích ứng loại 5(AAL5)ATM QoS (Điều hướng lưu lượng)Quá trình đóng gói cầu nối và bộ định tuyến Ethernet"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11g, 802.11b, với vài tính năng n"
+    ],
+    [
+      "Băng tần",
+      "2.400-2.4835GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "11N: Lên đến 150Mbps (dynamic)"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Cung cấp bảo mật 64/128-bit WEP và danh sách quản lý truy cập LAN không dây,xác thực WPA-PSK/WPA2-PSK và bảo mật mã hoá TKIP/AES"
+    ],
+    [
+      "Công suất truyền tải",
+      "20dBm (max.EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router không dây chuẩn N ADSL2+ tốc độ 150Mbps</p><p>Router không dây chuẩn N ADSL2+ tốc độ 150Mbps</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router không dây chuẩn N ADSL2+ tốc độ 150Mbps Router không dây chuẩn N ADSL2+ tốc độ 150Mbps",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

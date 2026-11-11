@@ -1,0 +1,192 @@
+{
+  "slug": "router-wifi-tplink-archer-ax55",
+  "name": "Router Wi-Fi 6 Băng Tần Kép AX3000 TP-Link Archer AX55",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX55",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax55/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Băng Tần Kép AX3000",
+    "Với băng thông 160 MHz và 1024-QAM, Archer AX55 mang đến tốc độ gigabit thực lên đến 3 Gbps.",
+    "Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Nhà 3 phòng ngủ4×Ăng-ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX55"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 3 phòng ngủ4×Ăng-ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Cao Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuOFDMA<br />Giao tiếp đồng thời với nhiều máy khách Wi-Fi 6Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Access Point"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Cổng lớp ứng dụngHomeShield Security Bảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập"
+    ],
+    [
+      "Guest Network",
+      "1 x mạng khách 5 GHz<br />1× mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "Không hỗ trợ"
+    ],
+    [
+      "VPN Client",
+      "Không hỗ trợ"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU lõi kép"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x cổng WAN Gigabit4 x cổng LAN Gigabit"
+    ],
+    [
+      "USB Support",
+      "1 x Cổng USB 3.0Các định dạng phân vùng được hỗ trợ:NTFS, exFAT, HFS +, FAT32Các tính năng được hỗ trợ:Apple Time Machine<br />Máy chủ FPT<br />Máy chủ Media<br />Máy chủ Samba"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2 A"
+    ],
+    [
+      "Buttons",
+      "Nút Wi-Fi/WPS<br />Nút nguồn Bật/TắtNút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "Hỗ trợ OneMesh™Không cần thay thế các thiết bị hiện có của bạn hoặc mua một hệ sinh thái WiFi hoàn toàn mới,"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer AX55 can flexibly build an EasyMesh network with EasyMesh-Compatible devices, which eliminates Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Của Phụ Huynh HomeShield Cấu hình Tùy chỉnh<br />Thư viện bộ lọc nội dung chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ tắt<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoE"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Tự động nâng cấp Firmware<br />Nâng cấp Firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Máy chủ ảoCổng chuyển tiếp<br />Cổng kích hoạt DMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Đặt trước địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebKiểm tra giả lập Web&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0 ℃ ~ 40 ℃ (32 ℉ ~ 104 ℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5.15GHz~5.825GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 × 1.5 in(261.1 × 134.5 × 41.0 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX55Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Băng Tần Kép AX3000</p><p>Với băng thông 160 MHz và 1024-QAM, Archer AX55 mang đến tốc độ gigabit thực lên đến 3 Gbps.</p><p>Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Băng Tần Kép AX3000 Với băng thông 160 MHz và 1024-QAM, Archer AX55 mang đến tốc độ gigabit thực lên đến 3 Gbps. Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

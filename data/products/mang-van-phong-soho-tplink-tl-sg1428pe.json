@@ -1,0 +1,144 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1428pe",
+  "name": "Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+) TP-Link TL-SG1428PE",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1428PE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1428pe/g01.jpg"
+  ],
+  "summary": [
+    "Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+)",
+    "Switch PoE/PoE+ chuyên dụng dành cho Hệ thống giám sát và Doanh nghiệp SMB",
+    "Chuẩn và Giao thức: IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x; IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p",
+    "Giao diện: 26 10/100/1000 Mbps RJ45 Ports2 Gigabit SFP Ports",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000",
+    "Số lượng quạt: 2 Fans"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1428PE"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x<br />IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "26 10/100/1000 Mbps RJ45 Ports2 Gigabit SFP Ports"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "2 Fans"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240V AC, 50/60 Hz"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliantPoE+ Ports: 24 Ports<br />Power Supply: 250 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 × 8.7 × 1.73 in (440 × 220 × 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "27 W (220/50Hz. no PD connected)304.7 W (220/50Hz. with 250 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "92.07 BTU/h (no PD connected)1039.03 BTU/h (with 250 W PD connected)"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "4.1 Mbit"
+    ],
+    [
+      "Khung Jumbo",
+      "9 KB"
+    ],
+    [
+      "Switching Capacity",
+      "56 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "41.7 Mbps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support Port-based 802.1p/DSCP priority<br />Support 4 priority queues<br />Rate Limit<br />Storm Control"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3Static Link Aggregation<br />Port Mirroring<br />Cable Diagnostics<br />Loop PreventionPoE Auto Recovery"
+    ],
+    [
+      "VLAN",
+      "Support up to 32 VLANs simultaneously (out of 4K VLAN IDs)MTU/Port/Tag VLAN"
+    ],
+    [
+      "Quản lý",
+      "Web-Based GUI<br />Easy Smart Configuration Utility"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1428PEPower Cord<br />Installation Guide<br />Rackmount KitRubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~50°C (32°F~122°F)<br />Storage Temperature: -40°C~70°C (-40°F~158°F)<br />Operating Humidity: 10% ~ 90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+)</p><p>Switch PoE/PoE+ chuyên dụng dành cho Hệ thống giám sát và Doanh nghiệp SMB</p>",
+  "attrs": [
+    "28 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+) Switch PoE/PoE+ chuyên dụng dành cho Hệ thống giám sát và Doanh nghiệp SMB",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "router-wifi-tplink-archer-ax53",
+  "name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link Archer AX53",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX53",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax53/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000",
+    "Được trang bị băng thông 160 MHz và 1024-QAM, Archer AX50 mang đến tốc độ gigabit đích thực lên đến 3 Gbps.",
+    "Tận hưởng trải nghiệm phát trực tuyến và chơi game nhanh chưa từng có.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Ngôi nhà 3 phòng ngủ 4 × Ăng-ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX53"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX30005 GHz: 2402 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Ngôi nhà 3 phòng ngủ 4 × Ăng-ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Cao Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Cổng lớp ứng dụng<br />Bảo mật HomeShieldBảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập"
+    ],
+    [
+      "Guest Network",
+      "1 x Mạng khách 5 GHz1 x Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "Không hỗ trợ"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Doanh nghiệp"
+    ],
+    [
+      "Processor",
+      "CPU Lõi kép"
+    ],
+    [
+      "Ethernet Ports",
+      "1 cổng WAN Gigabit 4 cổng LAN Gigabit"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2 A"
+    ],
+    [
+      "Buttons",
+      "Nút Wi-Fi / WPS<br />Nút Bật / Tắt nguồn<br />Nút reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "Hỗ trợ OneMesh™Không cần thay thế các thiết bị hiện có của bạn hoặc mua một hệ sinh thái WiFi hoàn toàn mới,"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer AX53 can flexibly build an EasyMesh network with EasyMesh-Compatible devices, which eliminates Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Của Phụ Huynh HomeShieldHồ Sơ Tùy Chỉnh<br />Thư viện bộ lọc nội dung chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ tắt<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoE"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Tự động nâng cấp firmware<br />Nâng cấp firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebKiểm tra giả lập Web&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: <20dBm (2.4GHz); <23dBm (5.15GHz~5.35GHz); <30dBm (5.47GHz~5.725GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4<br />GHz:11ac VHT20_MCS0:-96dBm11ac VHT20_MCS8:-74dB11ac VHT40_MCS0:-94dBm11ac VHT40_MCS9:-70dB11ax HE20_MCS0:-96dBm11ax HE20_MCS11:-66dBm11ax HE40_MCS0:-93dBm11ax HE40_MCS11:-63d<br />Bm5"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 × 1.6 in (260.2 × 135 × 41.6 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX53Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000</p><p>Được trang bị băng thông 160 MHz và 1024-QAM, Archer AX50 mang đến tốc độ gigabit đích thực lên đến 3 Gbps.</p><p>Tận hưởng trải nghiệm phát trực tuyến và chơi game nhanh chưa từng có.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 Được trang bị băng thông 160 MHz và 1024-QAM, Archer AX50 mang đến tốc độ gigabit đích thực lên đến 3 Gbps. Tận hưởng trải nghiệm phát trực tuyến và chơi game nhanh chưa từng có.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

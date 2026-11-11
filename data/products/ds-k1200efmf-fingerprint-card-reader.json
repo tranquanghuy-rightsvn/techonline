@@ -1,0 +1,50 @@
+{
+  "slug": "ds-k1200efmf-fingerprint-card-reader",
+  "name": "Thiết bị kiểm soát ra vào Fingerprint Card Reader Hikvision DS-K1200EF/MF",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1200EF/MF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1200EFMF.jpg"
+  ],
+  "summary": [
+    "Support fingerprint Mifare 1/EMcard",
+    "Supports RS485 protocol,",
+    "IP65 Standard",
+    "9500 Fingerprints Capacity"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1200EF/MF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Support fingerprint Mifare 1/EMcard</p><p>Supports RS485 protocol,</p><p>IP65 Standard</p><p>9500 Fingerprints Capacity</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Support fingerprint Mifare 1/EMcard Supports RS485 protocol, IP65 Standard",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

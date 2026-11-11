@@ -1,0 +1,188 @@
+{
+  "slug": "router-wifi-tplink-archer-ax11000",
+  "name": "Gaming Router Wi-Fi 6 AX11000 Ba Băng Tần TP-Link Archer AX11000",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX11000",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax11000/g01.jpg"
+  ],
+  "summary": [
+    "Gaming Router Wi-Fi 6 AX11000 Ba Băng Tần",
+    "Archer AX11000 là cỗ máy Wi-Fi 6 tốc độ đỉnh cao, mang đến tốc độ Wi-Fi lên đến 10.756 Mbps và phạm vi phủ sóng mở rộng.",
+    "Game Accelerator cung cấp sức mạnh vượt trội để bạn làm chủ mọi trận đấu.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX110005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 1148 Mbps (802.11ax)",
+    "WiFi Range: 4-6 Bedroom Houses; 8× Detachable High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX11000"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX110005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 1148 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "4-6 Bedroom Houses<br />8× Detachable High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Very High<br />Tri-Band<br />Allocate devices to different bands for optimal performance<br />4×4 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeCare™ Antivirus<br />Malicious Site Checker<br />Port Intrusion Prevention<br />Infected Device Isolation<br />Notification and Log"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "VPN Client",
+      "OpenVPNPPTPL2TP"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "1.8 GHz 64 Bit Quad-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 2.5 Gbps WAN Port<br />8× Gigabit LAN Ports<br />Static Link Aggregation (LAG) available with 2× LAN ports"
+    ],
+    [
+      "USB Support",
+      "1× USB-C 3.0 Port<br />1× USB-A 3.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 5 A"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi On/Off Button<br />Power On/Off ButtonLED On/Off ButtonWPS Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Game Center",
+      "Game Accelerator<br />Detects and optimizes gaming streams to keep latency as low as possible<br />Game Statistics"
+    ],
+    [
+      "Service Kits",
+      "HomeCare™"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "HomeCare™ Parental Controls<br />Custom Profiles<br />Content Filtering<br />App BlockURL Filtering<br />Time Limit Time Schedule (Bedtime)Log Insight"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Game Accelerator QoSQoS by DeviceHomeCare™ QoSQoS by Application"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC: &lt;30dBm(2.4GHz &amp; 5.15GHz~5.25GHz &amp; 5.725GHz~5.825GHz)&lt;24dBm(5.25GHz-5.35GHz &amp; 5.47GHz-5.725 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz_1:11a 6Mbps：-96dBm, 11a 54"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "11.3 × 11.3 × 7.2 in(288 × 288 × 184 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer AX11000Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Gaming Router Wi-Fi 6 AX11000 Ba Băng Tần</p><p>Archer AX11000 là cỗ máy Wi-Fi 6 tốc độ đỉnh cao, mang đến tốc độ Wi-Fi lên đến 10.756 Mbps và phạm vi phủ sóng mở rộng.</p><p>Game Accelerator cung cấp sức mạnh vượt trội để bạn làm chủ mọi trận đấu.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX11000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Gaming Router Wi-Fi 6 AX11000 Ba Băng Tần Archer AX11000 là cỗ máy Wi-Fi 6 tốc độ đỉnh cao, mang đến tốc độ Wi-Fi lên đến 10.756 Mbps và phạm vi phủ sóng mở rộng. Game Accelerator cung cấp sức mạnh vượt trội để bạn làm chủ mọi trận đấu.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

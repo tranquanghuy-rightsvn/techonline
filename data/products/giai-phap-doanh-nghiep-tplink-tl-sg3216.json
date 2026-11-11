@@ -1,0 +1,143 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-sg3216",
+  "name": "Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP TP-Link TL-SG3216",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG3216",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg3216/g01.jpg"
+  ],
+  "summary": [
+    "Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP",
+    "Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP",
+    "Chuẩn và Giao thức: IEEE 802.3i,IEEE 802.3u,IEEE 802.3ab,IEEE802.3z,IEEE 802.3ad,IEEE 802.3x,IEEE 802.1d,IEEE 802.1s,IEEE 802.1w,IEEE 802.1q,IEEE 802.1x,IEEE 802.1p",
+    "Giao diện: 16 x cổng 10/100/1000Mbps RJ45 (Auto Negotiation/Auto MDI/MDIX)2 x cổng 100/1000Mbps SFP 1 x cổng điều khiển",
+    "Mạng Media: 10; BASE-T: cáp 3, 4, 5 dạng UTP (tối đa 100m)100; BASE-TX/1000; Base-T: cáp 5, 5e dạng hoặc cáp phía trên (tối đa 100m)100; BASE-FX:MMF,SMF1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: Không có quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG3216"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i,IEEE 802.3u,IEEE 802.3ab,IEEE802.3z,IEEE 802.3ad,IEEE 802.3x,IEEE 802.1d,IEEE 802.1s,IEEE 802.1w,IEEE 802.1q,IEEE 802.1x,IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "16 x cổng 10/100/1000Mbps RJ45 (Auto Negotiation/Auto MDI/MDIX)2 x cổng 100/1000Mbps SFP 1 x cổng điều khiển"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: cáp 3, 4, 5 dạng UTP (tối đa 100m)100<br />BASE-TX/1000<br />Base-T: cáp 5, 5e dạng hoặc cáp phía trên (tối đa 100m)100<br />BASE-FX:MMF,SMF1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "Không có quạt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 14.7W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*8.7*1.7 in.(440*220*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "32Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "23.8Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "512KB"
+    ],
+    [
+      "Khung Jumbo",
+      "10240 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ chuẩn 802.1p CoS / DSCPHỗ trợ 4 mức ưu tiên hàng đợi<br />Thiết lập các chế độ hàng đợi: SP, WRR, SP+WRRHỗ trợ kiểm soát Cổng/Lưu lượng dựa trên giới hạn tốc độVoice VLAN"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3Hỗ trợ giao thức LACP theo chuẩn 802.3ad (Hỗ trợ 8 nhóm, mỗi nhóm 8 cổng)Spanning Tree STP/RSTP/MSTP<br />Lọc / Bảo vệ BPDUTC / Bảo vệ gốc<br />Hỗ trợ phát hiện Loop back"
+    ],
+    [
+      "VLAN",
+      "Hỗ trợ tối đa 4 VLAN cùng một lúc (trong số 4K VLAN IDs)Port / MAC / Giao thức dựa trên VLANGARP/GVRP"
+    ],
+    [
+      "Access Control List",
+      "L2 ~ L4 gói lọc dựa trên nguồn và điểm đến<br />Địa chỉ MAC, địa chỉ IP, cổng TCP / UDP, 802.1p,DSCP, giao thức và ID VLAN<br />Dựa trên Dãy Thời gian"
+    ],
+    [
+      "Bảo mật",
+      "Kết nối IP-MAC-Port-VID<br />Xác thực dựa trên Port / MAC IEEE 802.1X, Radius, Mang khách VLANDoS Defense<br />Kiểm tra ARP động (DAI)SSH v1/v2<br />SSL v2/v3/TLSv1An toàn cổng"
+    ],
+    [
+      "IPv6",
+      "DHCPv6 Client<br />Ping6Tracert6 Telnet(v6) IPv6 SNMP IPv6 SSH IPv6 SSL Http/Https IPv6 TFTP"
+    ],
+    [
+      "Quản lý",
+      "Quản lý GUI dựa trên Web và quản lý CLISNMP v1 / v2c / v3, tương thích với MIBs công cộng và MIB riêng tư TP-LINKRMON (1, 2, 3, 9 nhóm)DHCP/BOOTP Client,DHCP Snooping,DHCP Option82Giám sát CPU"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch;Dây nguồn;Hướng dẫn cài đặt nhanh;CD nguồn lực;Bộ đế gắn tủ Rack;Đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP</p><p>Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP</p>",
+  "attrs": [
+    "16 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

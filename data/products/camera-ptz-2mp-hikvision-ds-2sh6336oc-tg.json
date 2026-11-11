@@ -1,0 +1,57 @@
+{
+  "slug": "camera-ptz-2mp-hikvision-ds-2sh6336oc-tg",
+  "name": "Camera PTZ 2MP Hikvision DS-2SH6336OC-TG",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2SH6336OC-TG",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 87000000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2024/08/DS-2SH6336OC-TG.png"
+  ],
+  "summary": [
+    " 1/1.8″ progressive scan CMOS  Up to 1920 × 1080 @ 30 fps resolution  0.001 Lux @(F1.5, AGC ON), 0 Lux with IR  25 × optical zoom, 16 × digital zoom  Low bit rate, true WDR, Defog, Smart IR  Power-off memory, proportional zoom  Min.",
+    "illumination: Color: 0.0001 Lux @ (F1.5, AGC ON), B/W: Up to 300 m IR distance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2SH6336OC-TG"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "illumination",
+      "Color: 0.0001 Lux @ (F1.5, AGC ON), B/W: Up to 300 m IR distance"
+    ]
+  ],
+  "description_html": "<p> 1/1.8″ progressive scan CMOS  Up to 1920 × 1080 @ 30 fps resolution  0.001 Lux @(F1.5, AGC ON), 0 Lux with IR  25 × optical zoom, 16 × digital zoom  Low bit rate, true WDR, Defog, Smart IR  Power-off memory, proportional zoom  Min.</p><p>illumination: Color: 0.0001 Lux @ (F1.5, AGC ON), B/W: Up to 300 m IR distance</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": " 1/1.8″ progressive scan CMOS  Up to 1920 × 1080 @ 30 fps resolution  0.001 Lux @(F1.5, AGC ON), 0 Lux with IR  25 × optical zoom, 16 × digital zoom  Low bit rate, true WDR, Defog, Smart IR  Power-off memory, proportional zoom  Min. illumination: Color: 0.0001 Lux @ (F1.5, AGC ON), B/W:…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

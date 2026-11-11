@@ -1,0 +1,51 @@
+{
+  "slug": "ds-43084316hfvi-e-compression-card",
+  "name": "Phụ kiện Compression Card Hikvision DS-4308/4316HFVI-E",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-4308/4316HFVI-E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-43084316HFVI-E.jpg"
+  ],
+  "summary": [
+    "H.264 real-time video compression",
+    "4CIF resolution real-time recording",
+    "Dual-stream",
+    "PCI-Ex1 2.0 standard",
+    "OSD,LOGO and MASK overlay"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-4308/4316HFVI-E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>H.264 real-time video compression</p><p>4CIF resolution real-time recording</p><p>Dual-stream</p><p>PCI-Ex1 2.0 standard</p><p>OSD,LOGO and MASK overlay</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264 real-time video compression 4CIF resolution real-time recording Dual-stream",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

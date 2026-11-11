@@ -1,0 +1,117 @@
+{
+  "slug": "bo-mo-rong-wifi-tplink-tl-wa854re",
+  "name": "TP-Link TL-WA854RE",
+  "categories": [
+    "tp-link-thiet-bi-mo-rong-mang"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-WA854RE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/bo-mo-rong-wifi-tplink-tl-wa854re/g01.jpg"
+  ],
+  "summary": [
+    "The TL-WA854RE boosts the coverage and signal strength of your network.",
+    "300Mbps wireless N speeds, a Range Extender button, and small size make extending WiFi easier than ever.",
+    "Nút: Nút WPS, nút Reset",
+    "Input Power: 100-240V~50/60Hz",
+    "Điện năng tiêu thụ: 3.3W",
+    "Kích thước ( R x D x C ): 65.8 × 75.2 × 110mm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-WA854RE"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Nút",
+      "Nút WPS, nút Reset"
+    ],
+    [
+      "Input Power",
+      "100-240V~50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "3.3W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "65.8 × 75.2 × 110mm"
+    ],
+    [
+      "Ăng ten",
+      "2 ăng ten ngầm"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "11n: Lên đến 300Mbps (động)11g: Lên đến 54Mbps (động)11b: Lên đến 11Mbps (động)"
+    ],
+    [
+      "Working Modes",
+      "Range Extender"
+    ],
+    [
+      "Reception Sensitivity",
+      "2.4<br />GHz:11g 54<br />Mbps: -80dBm, 11n HT20 MCS7: -79d<br />Bm11n HT40 MCS7: -76dBm"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Bật / Tắt sóng không dây<br />Kiểm soát truy cập<br />Điều khiển đèn LED<br />Lịch nguồn<br />Vùng phủ sóng Wi-Fi"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, mã hóa WPA/WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE: <15dBm"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP<br />App management"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ mở rộng sóng Wi-Fi tốc độ 300Mbps TL-WA854REHướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ hoặc<br />Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX hoặc Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>The TL-WA854RE boosts the coverage and signal strength of your network.</p><p>300Mbps wireless N speeds, a Range Extender button, and small size make extending WiFi easier than ever.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "The TL-WA854RE boosts the coverage and signal strength of your network. 300Mbps wireless N speeds, a Range Extender button, and small size make extending WiFi easier than ever.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

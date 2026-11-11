@@ -1,0 +1,50 @@
+{
+  "slug": "module-ket-noi-mang-3g-4g-hikvision-ds-pma-s2",
+  "name": "Module kết nối mạng 3G/4G Hikvision DS-PMA-S2",
+  "categories": [
+    "bao-dong-hikvision",
+    "hikvision-bao-dong"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-PMA-S2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2023/08/DS-PMA-S2.jpg"
+  ],
+  "summary": [
+    "‘- Kết nối mạng 3G/4G Tần số hỗ trợ:",
+    "FDD-LTE B1/B3/B7/B8/B20",
+    "Dual-Band UMTS/HSDPA/HSPA+ B1/B8",
+    "GSM/GPRS/EDGE 900/1800 MHz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-PMA-S2"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Báo động"
+    ]
+  ],
+  "description_html": "<p>‘- Kết nối mạng 3G/4G Tần số hỗ trợ:</p><p>FDD-LTE B1/B3/B7/B8/B20</p><p>Dual-Band UMTS/HSDPA/HSPA+ B1/B8</p><p>GSM/GPRS/EDGE 900/1800 MHz</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "‘- Kết nối mạng 3G/4G Tần số hỗ trợ: FDD-LTE B1/B3/B7/B8/B20 Dual-Band UMTS/HSDPA/HSPA+ B1/B8",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

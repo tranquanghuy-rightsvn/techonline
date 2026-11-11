@@ -1,0 +1,164 @@
+{
+  "slug": "router-wifi-tplink-archer-c58hp",
+  "name": "Router Wi-Fi Băng Tần Kép Công Suất Cao AC1350 TP-Link Archer C58HP",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C58HP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c58hp/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Băng Tần Kép Công Suất Cao AC1350",
+    "High power amplifiers and high-gain antennas provide enhanced wireless range up to 10,000 sq ft.",
+    "Enhanced WiFi signal cuts through walls and obstacles, eliminating dead zones.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC13505 GHz: 867 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)",
+    "WiFi Range: Căn hộ 4 phòng ngủ3× Ăng ten độ lợi cao 9dBi tháo rời được; Nhiều ăng ten cho vùng phủ rộng lớnFEM Công suất cao; Cải thiện công suất truyền tải và tăng cường vùng phủ"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C58HP"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC13505 GHz: 867 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "Căn hộ 4 phòng ngủ3× Ăng ten độ lợi cao 9dBi tháo rời được<br />Nhiều ăng ten cho vùng phủ rộng lớnFEM Công suất cao<br />Cải thiện công suất truyền tải và tăng cường vùng phủ"
+    ],
+    [
+      "WiFi Capacity",
+      "VừaBăng tần kép<br />Phân bổ thiết bị đến các băng tần khác nhau để tối ưu hóa hiệu suất"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm truy cập<br />Chế độ Mơ rộng sóng"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết UP &amp; MAC<br />Gateway lớp ứng dụng"
+    ],
+    [
+      "Guest Network",
+      "1 x Mạng khách 5GHz1 x Mạng khách 2.4GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU lõi đơn"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x cổng WAN 10/100 Mbps4 x cổng LAN 10/100 Mbps"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1.5 A"
+    ],
+    [
+      "Buttons",
+      "Nút Mở/Tắt Wi-FiNút Mở/Tắt Nguồn<br />Nút WPS<br />Nủt Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS theo thiết bị"
+    ],
+    [
+      "NAT Forwarding",
+      "Máy chủ ảoCổng chuyển tiếp<br />Cổng kích hoạtDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "NO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang web<br />Kiểm tra giả lập&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, hoặc các trình duyệt hỗ trợ Java<br />Script khác"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tu·Độ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20d<br />Bm<br />FCC:&lt;30dBm"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "867M： -61dBm@10% PER450M: -71dBm@10% PER54M: -77dBm@10% PER11M: -89dBm@8% PER6M: -89dBm@10% PER1M: -97dBm@8% PER"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.8 × 8.5 × 2.1 in(249 × 217 × 54 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer C58HPBộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Băng Tần Kép Công Suất Cao AC1350</p><p>High power amplifiers and high-gain antennas provide enhanced wireless range up to 10,000 sq ft.</p><p>Enhanced WiFi signal cuts through walls and obstacles, eliminating dead zones.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1350"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Băng Tần Kép Công Suất Cao AC1350 High power amplifiers and high-gain antennas provide enhanced wireless range up to 10,000 sq ft. Enhanced WiFi signal cuts through walls and obstacles, eliminating dead zones.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1500g-8t",
+  "name": "Switch Smart JetStream 8 cổng Gigabit TP-Link T1500G-8T",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1500G-8T",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1500g-8t/g01.jpg"
+  ],
+  "summary": [
+    "Switch Smart JetStream 8 cổng Gigabit",
+    "Switch Smart JetStream 8 cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3af, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 8 x cổng RJ45 10/100/1000Mbps; Cổng 8 lấy nguồn từ nguồn PoE(Tự động đàm phán/MDI tự động/MDIX)",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (tối đa 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e hoặc cáp trên (tối đa 100m)",
+    "Số lượng quạt: Không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1500G-8T"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3af, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "8 x cổng RJ45 10/100/1000Mbps<br />Cổng 8 lấy nguồn từ nguồn PoE(Tự động đàm phán/MDI tự động/MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (tối đa 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e hoặc cáp trên (tối đa 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "No"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60HzBộ chuyển đổi nguồn (Đầu ra: 12<br />VDC/1A)Cấp nguồn từ PoE"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 5.75W (220V/50Hz)"
+    ],
+    [
+      "PD Port (RJ45)",
+      "Cổng 8 IEEE802.3af/at"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "209 * 126 * 26mm"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "5.75W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "19.62 BTU/h"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "16Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "11.9Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Khung Jumbo",
+      "9216 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Ưu tiên CoS / DSCP 802.1p<br />8 hàng đợi ưu tiên<br />Chế độ lịch ưu tiên - SP (Strict Priority) - WRR (Weighted Round Robin)<br />Cấu hình hàng đợi"
+    ],
+    [
+      "L2 Features",
+      "Cộng gộp liên kết - tập hợp liên kết tĩnh - Tối đa 8 nhóm cộng gộp và tối đa 8 cổng mỗi nhóm - LACP 802.3ad"
+    ],
+    [
+      "L2 Multicast",
+      "512 IPv4,IPv6 shared multicast groups<br />IGMP Snooping - IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier - IGMP Authentication - Static Group Config"
+    ],
+    [
+      "VLAN",
+      "Nhóm VLAN - Tối đa Nhóm 4K VLAN<br />VLAN thẻ 802.1Q<br />VLAN MAC<br />Giao thức VLAN<br />GVRP<br />VLAN thoại"
+    ],
+    [
+      "Access Control List",
+      "Hỗ trợ tới 230 mục<br />Phạm vi thời gian - Lát thời gian - Phạm vi thời gian trong tuần - Phạm vi thời gian tuyệt đối - Ngày lễ<br />ACL dựa trên thời gian"
+    ],
+    [
+      "Bảo mật",
+      "AAA"
+    ],
+    [
+      "IPv6",
+      "IPv6 Dual IPv4/IPv6<br />Multicast Listener Discovery(MLD) Snooping<br />IPv6 neighbor discovery (ND)<br />Path maximum transmission unit (MTU) discovery<br />Internet Control Message Protocol (ICMP) version 6"
+    ],
+    [
+      "Quản lý",
+      "GUI dựa trên web<br />Giao diện dòng lệnh (CLI) thông qua cổng console, telnet<br />SNMPv1 / v2c / v3<br />Bẫy SNMP / Thông báo<br />RMON (nhóm 1,2,3,9)<br />Mẫu SDM<br />Máy khách DHCP / BOOTP"
+    ],
+    [
+      "MIBs",
+      "MIB II (RFC1213)<br />Interface MIB (RFC2233)<br />Ethernet Interface MIB (RFC1643)<br />Bridge MIB (RFC1493)<br />P/Q-Bridge MIB (RFC2674)<br />RMON MIB (RFC2819)<br />RMON2 MIB (RFC2021)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1500G-8TBộ chuyển đổi nguồn<br />Hướng dẫn cài đặtCD nguồn<br />Chân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7/8, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉);Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Smart JetStream 8 cổng Gigabit</p><p>Switch Smart JetStream 8 cổng Gigabit</p>",
+  "attrs": [
+    "8 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Smart JetStream 8 cổng Gigabit Switch Smart JetStream 8 cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

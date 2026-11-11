@@ -1,0 +1,155 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t2500-28tc-tl-sl5428e",
+  "name": "JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch TP-Link T2500-28TC (TL-SL5428E)",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T2500-28TC (TL-SL5428E)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t2500-28tc-tl-sl5428e/g01.jpg"
+  ],
+  "summary": [
+    "JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch",
+    "JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 24 10/100Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 Combo Gigabit SFP Ports1 Console Port",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000",
+    "Số lượng quạt: Fanless"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T2500-28TC (TL-SL5428E)"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 10/100Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 Combo Gigabit SFP Ports1 Console Port"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "No"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Maximum: 15W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*7.1*1.7 in.(440*180*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "15W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "51.18 BTU/h"
+    ],
+    [
+      "Stacking",
+      "32 Units Virtual Stacking"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "12.8Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "9.5Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Khung Jumbo",
+      "2048 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "4 Queues/Port 802.1p/IP DSCP based COS,TOS"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping: V1/V2/V3802.3ad with LACPSTP/RSTP/MSTPBPDU Filtering/Guard<br />Port Mirroring<br />Flow Control"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)Port/ Tag-based/Private/Protocol-based VLAN/QinQ, GVRP"
+    ],
+    [
+      "Access Control List",
+      "Packet Flow Filter; Packet Flow Redirection;Time Range Based; Flow-based QoS"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port-VID Binding<br />IEEE 802.1x (Radius):Port/MAC Based, VLAN assignment, Guest VLAN, QoS assignment,Supplicant Support<br />DoS Defend<br />Dynamic ARP inspection (DAI)<br />SSH: V1/V2<br />SSL:V1.5/V2Port Security"
+    ],
+    [
+      "IPv6",
+      "Dual IPv4/IPv6 stack<br />Multicast Listener Discovery (MLD) SnoopingIPv6 neighbor discovery (ND)Path maximum transmission unit (MTU) discovery"
+    ],
+    [
+      "Quản lý",
+      "System Diagnose: VCTDDMs<br />Flow<br />SNMP: V1/V2/V3<br />RMON: Group 1, 2, 3, 9<br />Command Line Interface: Telnet/Console<br />Time Setting: SNTP<br />Firmware Upgrade: TFTP &amp; WebDGCO Client &amp; BOOTP ClientSYSLOG &amp; Public MIBS"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch; Power Cord; Quick Installation Guide;Resource CD; Rackmount Kit; Rubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™, 7, 8, 10, MAC® OS, NetWare®, UNIX® or Linux"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉);Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch</p><p>JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch</p>",
+  "attrs": [
+    "24 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

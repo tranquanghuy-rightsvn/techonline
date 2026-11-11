@@ -1,0 +1,267 @@
+{
+  "slug": "router-wifi-tplink-archer-c5",
+  "name": "Archer C5 TP-Link Archer C5",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C5",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c5/g01.jpg"
+  ],
+  "summary": [
+    "Archer C5",
+    "Router Gigabit băng tần kép không dây AC1200 - Archer C5",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 300 Mbps (802.11n)",
+    "WiFi Range: 2 Bedroom Houses; 2× Fixed Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas.",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C5"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 300 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "2 Bedroom Houses<br />2× Fixed Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas."
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Giao diện",
+      "4 x cổng LAN 10/100/1000Mbps1 x cổng WAN 10/100/1000Mbps2 x cổng USB 2.0"
+    ],
+    [
+      "Nút",
+      "Nút WPS/Reset<br />Nút Mở/Tắt Wi-FiNút Mở/Tắt nguồn"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12<br />VDC / 2.5A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "9.6x6.4x1.3 in. (243x160.6x32.5mm)"
+    ],
+    [
+      "Ăng ten",
+      "2x ăng ten băng tần kép có thể tháo rời (RP-SMA)"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "WMM, Kiểm soát băng thông"
+    ],
+    [
+      "Dạng WAN",
+      "IP động/IP tĩnh/PPPoE/L2TP(Truy cập kép)/PPTP(Truy cập kép)"
+    ],
+    [
+      "Quản lý",
+      "Kiểm soát truy cập<br />Quản lý nội bộQuản lý từ xa"
+    ],
+    [
+      "DHCP",
+      "Máy chủ, Máy khách, Danh sách DHCP máy khách<br />Dành riêng địa chỉ"
+    ],
+    [
+      "Port Forwarding",
+      "Máy chủ ảo, Cổng kích hoạt, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, Comexe, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Quyền kiểm soát của phụ huynh Kiểm soát quản lý nội bộ Danh sách máy chủ<br />Thời gian biểu truy cập Quản lý điều luật"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "Tường lửa DoS, SPI<br />Lọc địa chỉ MAC<br />Lọc tên miền liên kết địa chỉ MAC và IP"
+    ],
+    [
+      "Giao thức",
+      "IPv4 IPv6"
+    ],
+    [
+      "USB Sharing",
+      "Hỗ trợ Samba(lưu trữ)Máy chủ FTP<br />Máy chủ media<br />Máy chủ máy in"
+    ],
+    [
+      "Mạng khách",
+      "Mạng khách 2.4GHzMạng khách 5GHz"
+    ],
+    [
+      "Processor",
+      "Single-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "USB Support",
+      "1× USB 2.0 Port<br />Supported Partition Formats:NTFS, FAT32<br />Supported Functions:FTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2.5 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Reset Button<br />Wireless On/Off Switch<br />Power On/Off Button"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac/n/a 5GHz<br />IEEE 802.11n/g/b 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "5GHz và 2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "867Mbps (5GHz)450Mbps (2.4GHz)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5<br />GHz:11a 54<br />Mbps: -74d<br />Bm11ac HT20: -67d<br />Bm11ac HT40: -63d<br />Bm11ac HT80: -59d<br />Bm11n HT20: -71d<br />Bm11n HT40: -69d<br />Bm2.4<br />GHz:11g 54M: -76d<br />Bm11n HT20: -73d<br />Bm11n HT40: -71dBm"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Mở/Tắt sóng Wi-Fi, WMM, thống kê Wi-Fi"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ bảo mật 64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC:&lt;30dBm"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "NO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Webpage"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~60℃ (-40℉ ~140℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE EIRP:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC: &lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps:-93dBm；11a 54<br />Mbps:-78dBm；11ac HT20 mcs8:69dBm;11ac HT40 mcs9:-66dBm;11ac HT80 mcs9:-62dBm;2.4<br />GHz:11g 54<br />Mbps:-78dBm;11n HT20 mcs7:-74dBm;11n HT40 mcs7:-71dbm；"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.6 × 6.4 × 1.3 in(243 × 160 × 32.5 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer C5Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Router gigabit băng tần kép Wi-Fi AC1200 Acher C52 x ăng ten tháo rời<br />Bộ cấp nguồn<br />Dây cáp Ethernet<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, Windows 8, MAC OS, NetWare, UNIX or Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Archer C5</p><p>Router Gigabit băng tần kép không dây AC1200 - Archer C5</p>",
+  "attrs": [
+    "Wi-Fi 5"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Archer C5 Router Gigabit băng tần kép không dây AC1200 - Archer C5",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

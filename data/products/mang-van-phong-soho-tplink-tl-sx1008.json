@@ -1,0 +1,115 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sx1008",
+  "name": "8-Port 10G Desktop/Rackmount Switch TP-Link TL-SX1008",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SX1008",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sx1008/g01.jpg"
+  ],
+  "summary": [
+    "8-Port 10G Desktop/Rackmount Switch",
+    "Chuẩn và Giao thức: IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1p, 802.3an, 802.3bz",
+    "Giao diện: 8× 100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps Ports, Auto-Negotiation, Auto-MDI/MDIX",
+    "Số lượng quạt: 1 (Intelligent fan speed adjustment)",
+    "Bộ cấp nguồn bên ngoài (EU): 100–240 VAC, 50/60 Hz, 0.8A",
+    "LED: System Power: 1; Link/Act Indicators: 8, 1 indicator per port built into each RJ-45 port"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SX1008"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1p, 802.3an, 802.3bz"
+    ],
+    [
+      "Giao diện",
+      "8× 100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps Ports, Auto-Negotiation, Auto-MDI/MDIX"
+    ],
+    [
+      "Số lượng quạt",
+      "1 (Intelligent fan speed adjustment)"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "100–240 VAC, 50/60 Hz, 0.8A"
+    ],
+    [
+      "LED",
+      "System Power: 1<br />Link/Act Indicators: 8, 1 indicator per port built into each RJ-45 port"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "11.6×7.1×1.7 in (294×180×44 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "31.2 W"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "2 Mb"
+    ],
+    [
+      "Khung Jumbo",
+      "10 KB"
+    ],
+    [
+      "Switching Capacity",
+      "160 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "119.0 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "32 K"
+    ],
+    [
+      "Advanced Features",
+      "802.3X Flow Control<br />802.1p/DSCP QoS"
+    ],
+    [
+      "Transmission Method",
+      "Store and Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "8-Port 10G Multi-Gigabit Desktop/Rackmount Switch TL-SX1008<br />Power Cord<br />Installation Guide<br />Rackmount Kit<br />Rubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–50 °C (32–122 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>8-Port 10G Desktop/Rackmount Switch</p>",
+  "attrs": [
+    "8 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8-Port 10G Desktop/Rackmount Switch",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

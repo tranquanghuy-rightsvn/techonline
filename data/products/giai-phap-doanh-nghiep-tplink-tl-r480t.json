@@ -1,0 +1,157 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-r480t",
+  "name": "Router Cân Bằng Tải Băng Thông Rộng TP-Link TL-R480T+",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-R480T+",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-r480t/g01.jpg"
+  ],
+  "summary": [
+    "Router Cân Bằng Tải Băng Thông Rộng",
+    "Router Cân Bằng Tải Băng Thông Rộng",
+    "Chuẩn và Giao thức: IEEE 802.3, 802.3u, 802.3x, TCP/IP, DHCP, ICMP, NAT, PPPoE, SNTP, HTTP, DDNS",
+    "Giao diện: 1 x cổng WAN Ethernet cố định1 x cổng LAN Ethernet cố định3 x cổng thay đổi giữa WAN/LAN",
+    "Mạng Media: 10; BASE-T: cáp UTP category 3, 4, 5 (tối đa 100m)100; BASE-TX: cáp UTP category 5, 5e (tối đa 100m)",
+    "Nút: Nút Reset"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-R480T+"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, 802.3u, 802.3x, TCP/IP, DHCP, ICMP, NAT, PPPoE, SNTP, HTTP, DDNS"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng WAN Ethernet cố định1 x cổng LAN Ethernet cố định3 x cổng thay đổi giữa WAN/LAN"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: cáp UTP category 3, 4, 5 (tối đa 100m)100<br />BASE-TX: cáp UTP category 5, 5e (tối đa 100m)"
+    ],
+    [
+      "Nút",
+      "Nút Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Bộ nguồn phổ cập bên trong<br />Ngõ vào AC100 - 240V~50/60 Hz"
+    ],
+    [
+      "Flash",
+      "16MB"
+    ],
+    [
+      "DRAM",
+      "128MB"
+    ],
+    [
+      "LED",
+      "PWR, SYS, WAN, LAN, WAN/LAN"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "11.6*7.1*1.7in. (294*180*44mm)"
+    ],
+    [
+      "Concurrent Session",
+      "30000"
+    ],
+    [
+      "Dạng kết nối WAN",
+      "IP tĩnh/ động, PPPoE, PPTP, L2TP, truy cập kép, cáp Bigpond"
+    ],
+    [
+      "MAC Clone",
+      "Sửa đổi WAN / LAN địa chỉ MAC"
+    ],
+    [
+      "DHCP",
+      "Máy chủ/Máy khách DHCP, Dành riêng địa chỉ DHCP"
+    ],
+    [
+      "Switch Setting",
+      "Kiểm soát tốc độ, Cấu hình Cổng, Cổng VLAN."
+    ],
+    [
+      "Access Control",
+      "IP/MAC/URL/lọc WEB"
+    ],
+    [
+      "IGMP",
+      "IGMP Proxy/IGMP Snooping"
+    ],
+    [
+      "Forwarding",
+      "Máy chủ ảo, Kích hoạt Cổng, DMZ"
+    ],
+    [
+      "Load Balance",
+      "Định tuyến chính sách, Sao lưu đường dẫn"
+    ],
+    [
+      "NAT",
+      "One-to-One NAT, Multi-Nets NAT"
+    ],
+    [
+      "Routing",
+      "Định tuyến tĩnh"
+    ],
+    [
+      "Bảo mật",
+      "FTP / SIP / PPTP / IPsec / H.323 ALG, tường lửa DoS, Ping of Death, liên kết địa chỉ IP /MAC"
+    ],
+    [
+      "Kiểm soát lưu lượng",
+      "Kiểm soát băng thông, giới hạn truy cập"
+    ],
+    [
+      "Dịch vụ",
+      "DNS động, UPnP"
+    ],
+    [
+      "Maintenance",
+      "Cài đặt thời gian, Thời gian tiết kiệm ánh sáng ban ngày, SNMP, Chẩn đoán sự cố, Nâng cấp Firmware, Mặc định gốc / Khởi động lại, Dự phòng / Khôi phục lại, Hệ thống Ghi nhận, Quản lý từ xa,"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-R480T+Dây nguồn<br />Dây cáp Ethernet (RJ-45)Hướng dẫn sử dụng<br />Bộ đế gắn tủ Rack"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7, MAC® OS, NetWare®, UNIX® hoặc Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router Cân Bằng Tải Băng Thông Rộng</p><p>Router Cân Bằng Tải Băng Thông Rộng</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Cân Bằng Tải Băng Thông Rộng Router Cân Bằng Tải Băng Thông Rộng",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

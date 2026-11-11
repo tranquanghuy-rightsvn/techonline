@@ -1,0 +1,297 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c500",
+  "name": "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời TP-Link Tapo C500",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C500",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c500/g01.png"
+  ],
+  "summary": [
+    "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời",
+    "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời, Quay Quét, WiFi, An ninh, Theo dõi chuyển động, Vùng phủ 360°",
+    "Cảm biến hình ảnh: 1/3''",
+    "Ống kính: Focal Length: 3.89 mm; Aperture: F2.0; Field of View: 85.5°(Diagonal), 73.5°(Horizontal), 41°(Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LED lên tới 98 ft/30m",
+    "Interface & Button: 1× RESET Button; 1× MicroSD Card Slot"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C500"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/3''"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 3.89 mm<br />Aperture: F2.0<br />Field of View: 85.5°(Diagonal), 73.5°(Horizontal), 41°(Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED lên tới 98 ft/30m"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× MicroSD Card Slot"
+    ],
+    [
+      "Góc Quay Quét",
+      "Pan Mechanical Range: 340° (360° Pan Coverage) Tilt Mechanical Range: 90°(131° Tilt Coverage)"
+    ],
+    [
+      "Khoảng cách nhìn",
+      "chiều ngang 360° và 130° chiều dọc"
+    ],
+    [
+      "Độ phân giải",
+      "1080p Full HD(1920 x 1080 px)"
+    ],
+    [
+      "Maximum Resolution",
+      "1920 × 1080 px"
+    ],
+    [
+      "Frame Rate",
+      "15 fps"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "90 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Tốc độ khung hình",
+      "15 fps"
+    ],
+    [
+      "Truyền phát video",
+      "1080p"
+    ],
+    [
+      "Nén video",
+      "H.264"
+    ],
+    [
+      "AI Detection",
+      "Motion detection<br />Person detection<br />Tamper detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Đàm thoại",
+      "âm thanh 2 chiều"
+    ],
+    [
+      "Âm thanh vào & ra",
+      "tích hợp micro và loa"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, ICMP, DNS, HTTPS, TCP, UDP"
+    ],
+    [
+      "Bảo Mật Không Dây",
+      "WPA/WPA2-PSK"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.11b/g/n, 2.4 GHz"
+    ],
+    [
+      "Bảo mật",
+      "Mã hóa AES 128 bit với SSL/TLS"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK"
+    ],
+    [
+      "Power Source",
+      "12V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "12V, 1 A (DC Power)"
+    ],
+    [
+      "Input Trigger",
+      "Phát hiện chuyển động, phát hiện người"
+    ],
+    [
+      "Output Notification",
+      "Thông báo, Ảnh chụp nhanh (Tapo Care), Clips (Tapo Care)."
+    ],
+    [
+      "Button",
+      "nút RESET"
+    ],
+    [
+      "Indicator LED",
+      "LED hệ thống"
+    ],
+    [
+      "Adapter Input",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Adapter Output",
+      "12.0V/1.0A"
+    ],
+    [
+      "Dimensions (W x D x H)",
+      "4.9 x 4.8 x 3.5 in. (123.8 x 123 x 90 mm)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 9.0 or higher, Andriod 4.4 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Ceiling-Mounted<br />Wall-Mounted<br />Pole-Mounted (Pole-Mounting loops required but not included)"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-30℃~60℃"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "4.9 × 4.8 × 3.5 in (123.8 × 123 × 90 mm)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C500 Camera<br />Power Adapter<br />Mounting Anchors<br />Mounting Screws<br />Bracket Screws<br />Mounting Template<br />Mounting Bracket<br />Waterproof Seal<br />Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, RoHS, RCM"
+    ],
+    [
+      "Package Content",
+      "Camera Tapo C500Bộ đổi nguồn DCNeo và vít<br />Gắn mẫu<br />Seal chống thấm nước<br />Hướng dẫn nhanh"
+    ],
+    [
+      "Operating Temperature",
+      "-30℃~60℃(-22°F ~140 °F )"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃ (-40°F~140°F)"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90%RH, không ngưng tụ"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90%RH, không ngưng tụ"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RCM"
+    ]
+  ],
+  "description_html": "<p>Camera Wi-Fi An Ninh Quay Quét Ngoài Trời</p><p>Camera Wi-Fi An Ninh Quay Quét Ngoài Trời, Quay Quét, WiFi, An ninh, Theo dõi chuyển động, Vùng phủ 360°</p>",
+  "attrs": [
+    "Quay quét",
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời Camera Wi-Fi An Ninh Quay Quét Ngoài Trời, Quay Quét, WiFi, An ninh, Theo dõi chuyển động, Vùng phủ 360°",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

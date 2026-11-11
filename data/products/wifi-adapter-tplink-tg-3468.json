@@ -1,0 +1,85 @@
+{
+  "slug": "wifi-adapter-tplink-tg-3468",
+  "name": "Card mạng PCI Express Gigabit TP-Link TG-3468",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "TG-3468",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-tg-3468/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express Gigabit",
+    "TG-3468 thiết lập kết nối không dây nhanh và ổn định.",
+    "Bộ chuyển đổi mạng này mở ra tốc độ mạng 10/100/1000Mbps cho các luồng video, trò chơi trực tuyến và trò chuyện video mượt mà.",
+    "Chuẩn và Giao thức: IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1q, 802.1p, CSMA/CD, TCP/IP",
+    "Giao diện: 1 x PCI Express 32-bit1 x cổng RJ45 10/100/1000Mbps",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TG-3468"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1q, 802.1p, CSMA/CD, TCP/IP"
+    ],
+    [
+      "Giao diện",
+      "1 x PCI Express 32-bit1 x cổng RJ45 10/100/1000Mbps"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "LED",
+      "1000Mbps Link/Act, 100Mbps Link/Act, 10Mbps Link/Act"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "10/100/1000Mbps cho chế độ Half-Duplex20/200/2000Mbps cho chế độ Full-Duplex"
+    ],
+    [
+      "Kiểm soát lưu lượng",
+      "IEEE 802.3x kiểm soát lưu lượng (Full-Duplex)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi mạng Gigabit PCI Express TG-3468CD nguồn<br />Hướng dẫn cài đặt nhanh<br />Khung low-profile"
+    ],
+    [
+      "System Requirements",
+      "Windows 11(32/64bits), Windows 10(32/64bits), Windows 8.1(32/64bits), Windows 8(32/64bits), Windows 7(32/64bits), Windows Vista(32/64bits), Windows XP"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express Gigabit</p><p>TG-3468 thiết lập kết nối không dây nhanh và ổn định.</p><p>Bộ chuyển đổi mạng này mở ra tốc độ mạng 10/100/1000Mbps cho các luồng video, trò chơi trực tuyến và trò chuyện video mượt mà.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCI Express Gigabit TG-3468 thiết lập kết nối không dây nhanh và ổn định. Bộ chuyển đổi mạng này mở ra tốc độ mạng 10/100/1000Mbps cho các luồng video, trò chơi trực tuyến và trò chuyện video mượt mà.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

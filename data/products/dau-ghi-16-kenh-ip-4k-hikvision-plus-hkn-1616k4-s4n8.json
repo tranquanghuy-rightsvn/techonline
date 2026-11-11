@@ -1,0 +1,59 @@
+{
+  "slug": "dau-ghi-16-kenh-ip-4k-hikvision-plus-hkn-1616k4-s4n8",
+  "name": "Đầu ghi 16 kênh IP 4K Hikvision Plus HKN-1616K4-S4N8",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "HKN-1616K4-S4N8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/07/HKN-1616K4-S4N8-500x500.jpg"
+  ],
+  "summary": [
+    "Third-party network cameras supported",
+    "Up to 8 Megapixels resolution recording",
+    "Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+    "16/32-ch network cameras can be connected with 160M/256M incoming bandwidth",
+    "Up to 4 SATA interfaces",
+    "Support dual-os to ensure high reliablility of system running",
+    "Support various VCA detection alarm and VCA search",
+    "Support H.265/H.264/MPEG4 video formats"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HKN-1616K4-S4N8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Số kênh",
+      "16 kênh"
+    ]
+  ],
+  "description_html": "<p>Third-party network cameras supported</p><p>Up to 8 Megapixels resolution recording</p><p>Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution</p><p>16/32-ch network cameras can be connected with 160M/256M incoming bandwidth</p><p>Up to 4 SATA interfaces</p><p>Support dual-os to ensure high reliablility of system running</p><p>Support various VCA detection alarm and VCA search</p><p>Support H.265/H.264/MPEG4 video formats</p>",
+  "attrs": [
+    "16 kênh",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Third-party network cameras supported Up to 8 Megapixels resolution recording Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

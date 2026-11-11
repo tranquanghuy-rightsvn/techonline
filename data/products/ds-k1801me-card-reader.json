@@ -1,0 +1,50 @@
+{
+  "slug": "ds-k1801me-card-reader",
+  "name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1801M/E",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1801M/E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1801ME.jpg"
+  ],
+  "summary": [
+    "Support Mifare 1/EM card",
+    "PC+ABS material shell",
+    "Supports Wiegand protocol",
+    "IP65 Standard"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1801M/E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Support Mifare 1/EM card</p><p>PC+ABS material shell</p><p>Supports Wiegand protocol</p><p>IP65 Standard</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Support Mifare 1/EM card PC+ABS material shell Supports Wiegand protocol",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2td2336-5075100-camera-bullet-thermal-network-single-len",
+  "name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2336-50/75/100",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TD2336-50/75/100",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD23365075100.jpg"
+  ],
+  "summary": [
+    "Thermal: 384×288",
+    "50mm (7.47°)/ 75mm (4.98°)/100mm (3.73°) thermal lens optional",
+    "Support line crossing and intrusion detection",
+    "Support temperature exception alarm",
+    "Support fire detection",
+    "IP66"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TD2336-50/75/100"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Thermal",
+      "384×288"
+    ]
+  ],
+  "description_html": "<p>Thermal: 384×288</p><p>50mm (7.47°)/ 75mm (4.98°)/100mm (3.73°) thermal lens optional</p><p>Support line crossing and intrusion detection</p><p>Support temperature exception alarm</p><p>Support fire detection</p><p>IP66</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thermal: 384×288 50mm (7.47°)/ 75mm (4.98°)/100mm (3.73°) thermal lens optional Support line crossing and intrusion detection",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

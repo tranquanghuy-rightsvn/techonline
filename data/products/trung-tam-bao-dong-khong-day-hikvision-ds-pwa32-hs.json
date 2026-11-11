@@ -1,0 +1,54 @@
+{
+  "slug": "trung-tam-bao-dong-khong-day-hikvision-ds-pwa32-hs",
+  "name": "Trung tâm báo động không dây Hikvision DS-PWA32-HS",
+  "categories": [
+    "bao-dong-hikvision",
+    "hikvision-bao-dong"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-PWA32-HS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2023/08/DS-PWA32-HS.jpg"
+  ],
+  "summary": [
+    "Trung tâm báo động không dây",
+    "Hỗ trợ tầm xa tín hiệu đến 800m ở không gian trống",
+    "Hỗ trợ 1 cổng LAN , kết nối Wifi , khe cắm SIM để kết nối 3G/4G và gọi điện/Gửi SMS",
+    "Báo động qua tin nhắn hoặc cuộc gọi ( tối đa 6 số điện thoại )",
+    "Điều khiển từ xa và quản lý qua ứng dụng HikConnect và phần mềm iVMS-4200/HikCentral",
+    "Hỗ trợ tối đa 32 cảm biến không dây",
+    "Hỗ trợ tối đa 8 tay điều khiển từ xa",
+    "Hỗ trợ pin dự phòng 4520mAh, hoạt động đến 12h sau khi mất điện (Giá áp dụng cho hàng có sẵn, Nếu đặt hàng thì phải check kinh doanh)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-PWA32-HS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Báo động"
+    ]
+  ],
+  "description_html": "<p>Trung tâm báo động không dây</p><p>Hỗ trợ tầm xa tín hiệu đến 800m ở không gian trống</p><p>Hỗ trợ 1 cổng LAN , kết nối Wifi , khe cắm SIM để kết nối 3G/4G và gọi điện/Gửi SMS</p><p>Báo động qua tin nhắn hoặc cuộc gọi ( tối đa 6 số điện thoại )</p><p>Điều khiển từ xa và quản lý qua ứng dụng HikConnect và phần mềm iVMS-4200/HikCentral</p><p>Hỗ trợ tối đa 32 cảm biến không dây</p><p>Hỗ trợ tối đa 8 tay điều khiển từ xa</p><p>Hỗ trợ pin dự phòng 4520mAh, hoạt động đến 12h sau khi mất điện (Giá áp dụng cho hàng có sẵn, Nếu đặt hàng thì phải check kinh doanh)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Trung tâm báo động không dây Hỗ trợ tầm xa tín hiệu đến 800m ở không gian trống Hỗ trợ 1 cổng LAN , kết nối Wifi , khe cắm SIM để kết nối 3G/4G và gọi điện/Gửi SMS",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t2600g-18ts-tl-sg3216",
+  "name": "JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots TP-Link T2600G-18TS (TL-SG3216)",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T2600G-18TS (TL-SG3216)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-18ts-tl-sg3216/g01.jpg"
+  ],
+  "summary": [
+    "JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots",
+    "JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 16 10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX)2 100/1000Mbps SFP Slots1 RJ45 Console Port1 Micro-USB Console Port",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable (maximum 100m)100; BASE-FX: MMF, SMF1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: 0"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T2600G-18TS (TL-SG3216)"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "16 10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX)2 100/1000Mbps SFP Slots1 RJ45 Console Port1 Micro-USB Console Port"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable (maximum 100m)100<br />BASE-FX: MMF, SMF1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "0"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Maximum : 11.47W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*8.7*1.7 in.(440*220*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "11.47W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "39.14 BTU/h"
+    ],
+    [
+      "Switching Capacity",
+      "36Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "26.78Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Khung Jumbo",
+      "9216 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 8 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate Limiting<br />Voice VLAN"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP RelayIGMP Snooping V1/V2/V3802.3ad LACP (Up to 8 aggregation groups, containing 8 ports per group)STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)802.1Q/MAC/Protocol-based VLAN GARP/GVRP"
+    ],
+    [
+      "Access Control List",
+      "L2~L4 package filtering based on source and destination MAC address, IP address, TCP/UDP ports, 802.1p,DSCP, protocol and VLAN IDTime Range Based ACL"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port BindingAAA802.1x and Radius Authentication<br />DoS Defend<br />Dynamic ARP Inspection (DAI)SSH v1/v2<br />SSL v3/TLSv1Port Security<br />Broadcast/Multicast/Unknown-unicast Storm Control"
+    ],
+    [
+      "IPv6",
+      "DHCPv6 Client<br />Ping6Tracert6 Telnet(v6) IPv6 SNMP IPv6 SSH IPv6 SSL Http/Https IPv6 TFTPIPv6 ACLIPv6 InterfaceIPv6 RoutingDHCPv6 RelayDHCPv6 Snooping"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs and TP-Link private MIBsRMON (1, 2, 3, 9 groups)PPPoE Circuit IDDHCP RelayDHCP ServerDHCP/BOOTP Client, DHCP Snooping,"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch<br />Power Cord<br />Quick Installation Guide<br />Resource CDRackmount KitRubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™, 7, 8, 10, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉);Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots</p><p>JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots</p>",
+  "attrs": [
+    "16 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

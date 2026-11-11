@@ -1,0 +1,58 @@
+{
+  "slug": "ds-3e0326p-emb",
+  "name": "Switch Hikvision DS-3E0326P-E/M(B)",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E0326P-E/M(B)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 16000000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0326P-E-MB.jpg"
+  ],
+  "summary": [
+    "24 × 100 Mbps PoE ports, 1 × 1000 Mbps RJ45 port, and 1 × 1000 Mbps SFP fiber optical port.",
+    "IEEE 802.3at/af standard.",
+    "IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standard.",
+    "High priority ports.",
+    "8-core power supply.",
+    "Up to 250 m transmission distance.",
+    "6 KV surge protection for PoE ports.",
+    "PoE power management.",
+    "1000 Mbps network access.",
+    "Wire-speed forwarding and non-blocking design.",
+    "Store-and-forward switching.",
+    "Solid high-strength metal shell."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E0326P-E/M(B)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>24 × 100 Mbps PoE ports, 1 × 1000 Mbps RJ45 port, and 1 × 1000 Mbps SFP fiber optical port.</p><p>IEEE 802.3at/af standard.</p><p>IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standard.</p><p>High priority ports.</p><p>8-core power supply.</p><p>Up to 250 m transmission distance.</p><p>6 KV surge protection for PoE ports.</p><p>PoE power management.</p><p>1000 Mbps network access.</p><p>Wire-speed forwarding and non-blocking design.</p><p>Store-and-forward switching.</p><p>Solid high-strength metal shell.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "24 × 100 Mbps PoE ports, 1 × 1000 Mbps RJ45 port, and 1 × 1000 Mbps SFP fiber optical port. IEEE 802.3at/af standard. IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standard.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

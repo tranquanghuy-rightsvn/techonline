@@ -1,0 +1,48 @@
+{
+  "slug": "sh-k2801mk-dau-doc-mifare",
+  "name": "DS-K1801MK Đầu đọc thẻ Mifare",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1801MK",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/07/SH-K2801MK-EK-500x500.png"
+  ],
+  "summary": [
+    "Đọc thẻ Mifare 1, có bàn phím, hỗ trợ giao thức Wiegand(W27/W35)",
+    "Chuẩn chống bụi IP 65"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1801MK"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Đọc thẻ Mifare 1, có bàn phím, hỗ trợ giao thức Wiegand(W27/W35)</p><p>Chuẩn chống bụi IP 65</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Đọc thẻ Mifare 1, có bàn phím, hỗ trợ giao thức Wiegand(W27/W35) Chuẩn chống bụi IP 65",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

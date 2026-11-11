@@ -1,0 +1,122 @@
+{
+  "slug": "mang-van-phong-soho-tplink-ls105lp-v2-ls105lp-v1-ls105lp-v2-moi-ra-mat",
+  "name": "Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE TP-Link LS105LP V2 LS105LP V1 LS105LP V2 Mới ra mắt",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "LS105LP V2 LS105LP V1 LS105LP V2 Mới ra mắt",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-ls105lp-v2-ls105lp-v1-ls105lp-v2-moi-ra-mat/g01.jpg"
+  ],
+  "summary": [
+    "Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE",
+    "5-Port 10/100Mbps Desktop Switch with 4-Port PoE+.",
+    "Just plug and play with PoE Transmission for Surveillance up to 250 m.",
+    "The total 41 W PoE power budget for the 4× PoE+ ports opens up an economical PoE solution."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "LS105LP V2 LS105LP V1 LS105LP V2 Mới ra mắt"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "5× 10/100 Mbps RJ45 Ports (4× 10/100 Mbps 802.3af PoE Ports)<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Cài đặt",
+      "Desktop<br />Wall Mounting"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External Power Adapter (Output: 53.5<br />VDC / 0.81A)"
+    ],
+    [
+      "LED",
+      "Power<br />Link/Act<br />PoE Status<br />PoE MAX"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3 af compliant<br />PoE Ports: Ports 1–4, up to 15.4 W PoE output per port<br />Power Supply: 41 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.9×3.9×1.0 in (100×98×25 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "2.40 W (220 V/50 Hz no PD connected)<br />46.45 W (220 V/50 Hz with 41 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "8.15 BTU/h (220 V/50 Hz no PD connected)<br />157.93 BTU/h (220 V/50 Hz with 41 W PD connected)"
+    ],
+    [
+      "Khung Jumbo",
+      "2 KB"
+    ],
+    [
+      "Switching Capacity",
+      "1 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "0.744 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "2K"
+    ],
+    [
+      "Advanced Features",
+      "Extend Mode: Ports 1–4<br />PoE Auto Recovery: Ports 1-4<br />Compatible With IEEE 802.3af/at Compliant PDs<br />Mac Address Auto-Learning and Auto-Aging<br />IEEE 802.3x Flow Control<br />Green Technology"
+    ],
+    [
+      "Transmission Method",
+      "Store and Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "LS105LP<br />Power Adapter<br />Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE</p><p>5-Port 10/100Mbps Desktop Switch with 4-Port PoE+.</p><p>Just plug and play with PoE Transmission for Surveillance up to 250 m.</p><p>The total 41 W PoE power budget for the 4× PoE+ ports opens up an economical PoE solution.</p>",
+  "attrs": [
+    "5 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE 5-Port 10/100Mbps Desktop Switch with 4-Port PoE+. Just plug and play with PoE Transmission for Surveillance up to 250 m.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

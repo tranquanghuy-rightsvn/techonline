@@ -1,0 +1,172 @@
+{
+  "slug": "router-wifi-tplink-archer-c86",
+  "name": "Router Wi-Fi MU-MIMO AC1900 TP-Link Archer C86",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C86",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c86/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi MU-MIMO AC1900",
+    "Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi phổ thông.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)",
+    "WiFi Range: Nhà 3 phòng ngủ6× Ăng ten cố định hiệu suất cao; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn hơn; Beamforming",
+    "WiFi Capacity: Trung bình; Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO 3×3Giao tiếp đồng thời với nhiều máy khách MU-MIMO; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C86"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 3 phòng ngủ6× Ăng ten cố định hiệu suất cao<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn hơn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Trung bình<br />Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO 3×3Giao tiếp đồng thời với nhiều máy khách MU-MIMO<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập (AP)"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway lớp ứng dụng"
+    ],
+    [
+      "Guest Network",
+      "1 x Mạng khách 5 GHz1 x Mạng khách 2.4 GHz"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Doanh nghiệp (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Cổng WAN Gigabit4 x Cổng LAN Gigabit"
+    ],
+    [
+      "Power",
+      "Phiên bản US12 V ⎓ 1.5 APhiên bản EU12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "Nút WPS/Wi-FiNút Bật/Tắt nguồn<br />Nút reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "OneMesh™",
+      "Hỗ trợ OneMesh™Không cần thay thế các thiết bị hiện có của bạn hoặc mua một hệ sinh thái WiFi hoàn toàn mới,"
+    ],
+    [
+      "EasyMesh",
+      "Mạng mesh giúp chuyển vùng mượt mà, nhanh chóng, ổn định. ArcherAX3000 có thể xây dựng mạng EasyMesh với các thiết bị sử dụng công nghệ EasyMesh."
+    ],
+    [
+      "Parental Controls",
+      "Bộ lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP độngIP tĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng cấp Firmware OTATP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Cổng chuyển tiếp<br />Kích hoạt cổngDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Địa chỉ địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Webpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.25GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps:-98dBm, 11a 54<br />Mbps:-78dBm11ac VHT20_MCS0:-98dBm, 11ac VHT20_MCS8:-72dBm11ac VHT40_MCS0:-92dBm, 11ac VHT40_MCS9:-68dBm11ac VHT80_MCS0:-89dBm, 11ac VHT80_MCS9:-64d<br />Bm2.4<br />GHz:11g 6"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.1 × 5.1 × 1.5 in(229.9 × 144.2 × 37.2 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer C86Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi MU-MIMO AC1900</p><p>Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi phổ thông.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi MU-MIMO AC1900 Archer C80 truyền và nhận dữ liệu trên ba luồng để ghép nối hoàn hảo với các máy khách 3x3 của bạn, tận dụng tối đa tiềm năng của các thiết bị WiFi phổ thông.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "ds-9600ni-h8-x86-open-platform-software-developers-integrators",
+  "name": "Đầu ghi hình IP NVR X86 open platform for software developers and integrators Hikvision DS-9600NI-H8",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-9600NI-H8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-9600NI-H8.jpg"
+  ],
+  "summary": [
+    "Intel Xeon Processor(8M Cache, 3.20GHz)",
+    "768 Mbps Bit Rate input Max",
+    "2 HDMI, output resolution at up to 8MP, VGA output resolution at up to 2MP",
+    "8 hot-swappable SATA & 1 eSATA interface",
+    "8GB memory",
+    "2 USB 2.0 & 2 USB 3.0",
+    "Alarm in/out : 16/4(8 optional)",
+    "2 RJ-45 10/100/1000 Mbps self-adaptive interfaces"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-9600NI-H8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Alarm in/out",
+      "16/4(8 optional)"
+    ]
+  ],
+  "description_html": "<p>Intel Xeon Processor(8M Cache, 3.20GHz)</p><p>768 Mbps Bit Rate input Max</p><p>2 HDMI, output resolution at up to 8MP, VGA output resolution at up to 2MP</p><p>8 hot-swappable SATA &amp; 1 eSATA interface</p><p>8GB memory</p><p>2 USB 2.0 &amp; 2 USB 3.0</p><p>Alarm in/out : 16/4(8 optional)</p><p>2 RJ-45 10/100/1000 Mbps self-adaptive interfaces</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Intel Xeon Processor(8M Cache, 3.20GHz) 768 Mbps Bit Rate input Max 2 HDMI, output resolution at up to 8MP, VGA output resolution at up to 2MP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

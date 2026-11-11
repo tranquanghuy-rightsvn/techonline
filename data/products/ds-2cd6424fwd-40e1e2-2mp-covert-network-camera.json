@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2cd6424fwd-40e1e2-2mp-covert-network-camera",
+  "name": "2MP Covert Network Camera Hikvision DS-2CD6424FWD-40/E1(E2)",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD6424FWD-40/E1(E2)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6424FWD.jpg"
+  ],
+  "summary": [
+    "2MP real-time resolution",
+    "120dB WDR",
+    "Up to 128GB on-board storage",
+    "Mini ball lens (-40/E1)",
+    "Embedded lens (-40/E2"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD6424FWD-40/E1(E2)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2MP real-time resolution</p><p>120dB WDR</p><p>Up to 128GB on-board storage</p><p>Mini ball lens (-40/E1)</p><p>Embedded lens (-40/E2</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP real-time resolution 120dB WDR Up to 128GB on-board storage",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

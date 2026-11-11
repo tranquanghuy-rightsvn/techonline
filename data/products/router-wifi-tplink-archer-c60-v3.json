@@ -1,0 +1,168 @@
+{
+  "slug": "router-wifi-tplink-archer-c60-v3",
+  "name": "Router Wi-Fi Băng tần kép AC1350 TP-Link Archer C60 V3",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C60 V3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c60-v3/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Băng tần kép AC1350",
+    "AC WiFi nâng cao giải phóng toàn bộ tiềm năng của tất cả các thiết bị không dây của bạn, mang lại hiệu suất tốt cho việc sử dụng hàng ngày và phát trực tuyến video.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC13505 GHz: 867 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)",
+    "WiFi Range: Nhà 3 Phòng Ngủ5 × Ăng ten hiệu suất cao cố định; Nhiều ăng-ten giúp tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming",
+    "WiFi Capacity: Trung Bình; Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO; Giao tiếp đồng thời với nhiều máy khách MU-MIMO"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C60 V3"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC13505 GHz: 867 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 3 Phòng Ngủ5 × Ăng ten hiệu suất cao cố định<br />Nhiều ăng-ten giúp tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Trung Bình<br />Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuMU-MIMO<br />Giao tiếp đồng thời với nhiều máy khách MU-MIMO"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Acess Point"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway lớp ứng dụng"
+    ],
+    [
+      "Guest Network",
+      "1 mạng khách 5 GHz1mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Qualcomm CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1 cổng WAN 10/100 Mbps4 cổng LAN 10/100 Mbps"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "Nút Bật/Tắt Wi-FiNút Bật/Tắt nguồn<br />Nút WPS/Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS theo thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "OTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebCheck Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, hoặc các trình duyệt Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)đăng ký với nhà cung cấp mạng internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE EIRP:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC: &lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps:-93dBm；11a 54<br />Mbps:-78dBm；11ac HT20 mcs8:69dBm;11ac HT40 mcs9:-65dBm;11ac HT80 mcs9:-62dBm;2.4<br />GHz:11g 54<br />Mbps:-78dBm;11n HT20 mcs7:-74dBm;11n HT40 mcs7:-71dbm；"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.1 × 5.7 × 1.5 in(230 × 144 × 37 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer C60Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Băng tần kép AC1350</p><p>AC WiFi nâng cao giải phóng toàn bộ tiềm năng của tất cả các thiết bị không dây của bạn, mang lại hiệu suất tốt cho việc sử dụng hàng ngày và phát trực tuyến video.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1350"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Băng tần kép AC1350 AC WiFi nâng cao giải phóng toàn bộ tiềm năng của tất cả các thiết bị không dây của bạn, mang lại hiệu suất tốt cho việc sử dụng hàng ngày và phát trực tuyến video.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

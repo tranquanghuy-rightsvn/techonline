@@ -1,0 +1,65 @@
+{
+  "slug": "ds-2cd2125fhwd-camera-dome-2mp-exir-50fps60fps1920x1080",
+  "name": "Camera dome 2MP EXIR 50fps/60fps(1920×1080)",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "50fps/60fps",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD2185FWD-IS-.jpg"
+  ],
+  "summary": [
+    "2MP high resolution",
+    "H.265+/H.265/H.264+/H.264",
+    "DarkFighter ultra-low light technology",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection",
+    "120dB WDR",
+    "IP67; IK10",
+    "3 streams",
+    "Hik-Connect Service",
+    "Up to 128GB on-board storage",
+    "Model FHWD: 50fps/60fps(1920×1080)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "50fps/60fps"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Model FHWD",
+      "50fps/60fps(1920×1080)"
+    ]
+  ],
+  "description_html": "<p>2MP high resolution</p><p>H.265+/H.265/H.264+/H.264</p><p>DarkFighter ultra-low light technology</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection</p><p>120dB WDR</p><p>IP67; IK10</p><p>3 streams</p><p>Hik-Connect Service</p><p>Up to 128GB on-board storage</p><p>Model FHWD: 50fps/60fps(1920×1080)</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP high resolution H.265+/H.265/H.264+/H.264 DarkFighter ultra-low light technology",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

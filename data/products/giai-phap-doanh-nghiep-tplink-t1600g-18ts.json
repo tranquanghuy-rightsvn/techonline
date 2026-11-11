@@ -1,0 +1,151 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1600g-18ts",
+  "name": "Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP TP-Link T1600G-18TS",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1600G-18TS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-18ts/g01.jpg"
+  ],
+  "summary": [
+    "Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP",
+    "Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1p, IEEE 802.1x",
+    "Giao diện: 16 x Cổng RJ45 10/100 / 1000Mbps(Đàm phán tự động / MDI tự động / MDIX)Khe cắm SFP 2 Gigabit",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable(maximum 100m)1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: Không Quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1600G-18TS"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1p, IEEE 802.1x"
+    ],
+    [
+      "Giao diện",
+      "16 x Cổng RJ45 10/100 / 1000Mbps(Đàm phán tự động / MDI tự động / MDIX)Khe cắm SFP 2 Gigabit"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable(maximum 100m)1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "Không Quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "12.3W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*7.1*1.7 in. (440*180*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "12.3W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "41.97 BTU/h"
+    ],
+    [
+      "Khung Jumbo",
+      "9KB"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "36Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "26.8Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ ưu tiên CoS / DSCP theo chuẩn 802.1pHỗ trợ 8 hàng đợi ưu tiên<br />Lập lịch xếp hàng: SP, WRR, SP + WRR<br />Giới hạn tốc độ dựa trên cổng/luồngQoS IPv6VLAN thoại"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP RelayIGMP Snooping V1/V2/V3802.3ad LACP (Up to 8 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Hỗ trợ đồng thời lên đến 4K VLAN (trong số các ID VLAN 4K)MAC / Giao thức dựa trên giao thức MAC"
+    ],
+    [
+      "Access Control List",
+      "Lọc gói L2 ～ L4 dựa trên địa chỉ MAC nguồn và đích, địa chỉ IP, cổng TCP / UDPIPv6 ACL"
+    ],
+    [
+      "Bảo mật",
+      "AAA<br />Port SecurityDHCP SnoopingIP-MAC-Port BindingARP Inspection802.1x and Radius AuthenticationSSH v1/v2<br />SSL v3/TLSv1Broadcast/Multicast/Unknown-unicast Storm Control<br />Dos Defend"
+    ],
+    [
+      "IPv6",
+      "DHCPv6 Client<br />Ping6Tracert6Telnet (v6)IPv6 SNMPIPv6 SSHIPv6 SSL<br />Http/HttpsIPv6 TFTP"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs andTP-LINK private MIBsRMON (1, 2, 3, 9 groups)CPU Monitoring<br />Port Mirroring<br />Firmware Upgrade: TFTP &amp; Web"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1600G-18TSDây điện<br />Hướng dẫn cài đặtCD nguồn<br />Bộ giá đỡChân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7/8, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉);Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP</p><p>Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP</p>",
+  "attrs": [
+    "16 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

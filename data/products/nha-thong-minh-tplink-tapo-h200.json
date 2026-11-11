@@ -1,0 +1,81 @@
+{
+  "slug": "nha-thong-minh-tplink-tapo-h200",
+  "name": "Hub Thông Minh Tapo TP-Link Tapo H200",
+  "categories": [
+    "tp-link-nha-thong-minh"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo H200",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/nha-thong-minh-tplink-tapo-h200/g01.jpg"
+  ],
+  "summary": [
+    "Hub Thông Minh Tapo",
+    "Hub Thông Minh Tapo",
+    "Băng tần: 2.4GHz Wi-Fi & Sub-1G 863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU).",
+    "Button: RESET Button",
+    "Indicator LED: System LED",
+    "Adapter Input: 100-240V, 50/60Hz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo H200"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz Wi-Fi & Sub-1G 863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU)."
+    ],
+    [
+      "Button",
+      "RESET Button"
+    ],
+    [
+      "Indicator LED",
+      "System LED"
+    ],
+    [
+      "Adapter Input",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Adapter Output",
+      "9V, 0.85A"
+    ],
+    [
+      "Dimensions (W x D x H)",
+      "71.45*71.45*31.25 mm(2.8*2.8*1.2 inch)"
+    ],
+    [
+      "Package Content",
+      "Tapo H200RJ45 Ethernet Cable Power Adapter<br />Quick Start Guide"
+    ],
+    [
+      "Operating Temperature",
+      "0-40℃"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RCM"
+    ]
+  ],
+  "description_html": "<p>Hub Thông Minh Tapo</p><p>Hub Thông Minh Tapo</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hub Thông Minh Tapo Hub Thông Minh Tapo",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

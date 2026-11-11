@@ -1,0 +1,96 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t6e",
+  "name": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1300 TP-Link Archer T6E",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T6E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t6e/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1300",
+    "Archer T6E offers up to 3x faster data transfers than wireless N speeds.",
+    "Its Beamforming technology focuses WiFi signals towards devices for stable connections and boosted range.",
+    "Giao diện: PCI Express",
+    "Kích thước ( R x D x C ): 4.8 x 4.5 x 0.85 in. (120.8 x 115.2 x 21.5 mm)",
+    "Ăng ten: 2 ăng ten rời băng tần kép"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T6E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "PCI Express"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.8 x 4.5 x 0.85 in. (120.8 x 115.2 x 21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2 ăng ten rời băng tần kép"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac/n/a 5GHz, IEEE 802.11b/g/n 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz hoặc 5GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "867Mbps ở 5GHz, 400Mbps ở 2.4GHz"
+    ],
+    [
+      "Reception Sensitivity",
+      "5<br />GHz :�11a: -68d<br />Bm11n HT20: -64d<br />Bm11n HT40: -61d<br />Bm11ac HT20: -59d<br />Bm11ac HT40: -54d<br />Bm11ac HT80: -51d<br />Bm2.4<br />GHz :11b: -76d<br />Bm11g: -68d<br />Bm11n HT20: -64d<br />Bm11n HT40: -61dBm"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Ad-Hoc / Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ chuẩn bảo mật 64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "5<br />GHz :� &lt;23dBm (EIRP), 2.4<br />GHz :� &lt;20dBm (EIRP)"
+    ],
+    [
+      "System Requirements",
+      "Windows 10 (32/64bits), Windows 8.1 (32/64bits), Windows 8 (32/64bits), Windows 7 (32/64bits), Windows XP(32/64bits)"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express Wi-Fi Băng Tần Kép AC1300</p><p>Archer T6E offers up to 3x faster data transfers than wireless N speeds.</p><p>Its Beamforming technology focuses WiFi signals towards devices for stable connections and boosted range.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1300 Archer T6E offers up to 3x faster data transfers than wireless N speeds. Its Beamforming technology focuses WiFi signals towards devices for stable connections and boosted range.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ds-1200ki-network-keyboard",
+  "name": "Phụ kiện Hikvision DS-1200KI Network Keyboard",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-1200KI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-1200KI-500x500.jpg"
+  ],
+  "summary": [
+    "128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC), Matrix Access Gateway (VAG), Video Wall Controller, Decoder, etc.",
+    "and shortcut operation of camera/camera groups switch on video wall Connectable to dome and realize PTZ control and picture capture by joystick operation Connectable to DVR via network or serial port, and operation of front panel buttons 16 user accounts management: 1 admin and 15 operators System upgrade and import / export of configuration files by USB-flash disk Captured pictures(FAT32) can be stored in U-flash disk Network access and configuration by Web browser support",
+    "and up to 1000 devices can be managed in the keyboard operation mode"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-1200KI"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC), Matrix Access Gateway (VAG), Video Wall Controller, Decoder, etc.</p><p>and shortcut operation of camera/camera groups switch on video wall Connectable to dome and realize PTZ control and picture capture by joystick operation Connectable to DVR via network or serial port, and operation of front panel buttons 16 user accounts management: 1 admin and 15 operators System upgrade and import / export of configuration files by USB-flash disk Captured pictures(FAT32) can be stored in U-flash disk Network access and configuration by Web browser support</p><p>and up to 1000 devices can be managed in the keyboard operation mode</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC), Matrix Access Gateway (VAG), Video Wall Controller, Decoder, etc. and shortcut operation of camera/camera groups switch on video wall Connectable to dome and realize PTZ control and picture capture by…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

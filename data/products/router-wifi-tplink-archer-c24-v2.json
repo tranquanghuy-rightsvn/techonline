@@ -1,0 +1,158 @@
+{
+  "slug": "router-wifi-tplink-archer-c24-v2",
+  "name": "AC750 Dual-Band Wi-Fi Router TP-Link Archer C24 V2",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C24 V2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c24-v2/g01.jpg"
+  ],
+  "summary": [
+    "AC750 Dual-Band Wi-Fi Router",
+    "Archer C24 is a compact-designed Wi-Fi router for apartment / small home Wi-Fi user.",
+    "Its dual-band design brings high-speed anti-interference Wi-Fi to your home.",
+    "The minimalist design fits it easily into any kinds of decor."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C24 V2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC7505 GHz: 433 Mbps (802.11ac)2.4 GHz: 300 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "2 Bedroom Houses<br />4× Fixed Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode<br />Range Extender Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA WPA2<br />WPA-PSKWPA2-PSKWPA3-Personal encryption"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 10/100 Mbps WAN Port<br />4× 10/100 Mbps LAN Ports"
+    ],
+    [
+      "Power",
+      "9 V ⎓ 0.6 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "NO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP<br />App management"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~60℃ (-40℉ ~140℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:<20dBm(2.4GHz)<23dBm(5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 54M: -76dBm;11ac VHT20 MCS8: -70d<br />Bm11ac VHT40 MCS9: -65.5d<br />Bm11ac VHT80 MCS9: -61.5d<br />Bm2.4<br />GHz:11g 54M: -76dBm11n; HT20 MCS7: -74dBm;11n HT40 MCS7: -71dBm"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "4.5 × 4.2 × 1.0 in (115 × 106.7 × 24.3 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer C24Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>AC750 Dual-Band Wi-Fi Router</p><p>Archer C24 is a compact-designed Wi-Fi router for apartment / small home Wi-Fi user.</p><p>Its dual-band design brings high-speed anti-interference Wi-Fi to your home.</p><p>The minimalist design fits it easily into any kinds of decor.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC750"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AC750 Dual-Band Wi-Fi Router Archer C24 is a compact-designed Wi-Fi router for apartment / small home Wi-Fi user. Its dual-band design brings high-speed anti-interference Wi-Fi to your home.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

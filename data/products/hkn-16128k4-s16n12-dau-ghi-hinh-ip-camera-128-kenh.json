@@ -1,0 +1,61 @@
+{
+  "slug": "hkn-16128k4-s16n12-dau-ghi-hinh-ip-camera-128-kenh",
+  "name": "Đầu ghi hình IP camera 128 kênh Hikvision HKN-16128K4-S16N12",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "HKN-16128K4-S16N12",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png"
+  ],
+  "summary": [
+    "Third-party network cameras supported",
+    "Up to 12 Megapixels resolution recording",
+    "Video outputs at up to 4K (4096*2160) resolution",
+    "Supports decoding up to 20 channels at 1080P resolution",
+    "Up to 128/256 IP cameras can be connected with 512M/768M incoming bandwidth",
+    "Up to 24 SATA interfaces",
+    "Supports H.264+,H.264,MPEG4,H.265,MJPEG video format",
+    "Support redundant power supply to improve the system stability",
+    "Support HDD hot swap with RAID0,1,5,6,10 storage scheme configurable",
+    "Support various VCA detection alarm and VCA search"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HKN-16128K4-S16N12"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Số kênh",
+      "128 kênh"
+    ]
+  ],
+  "description_html": "<p>Third-party network cameras supported</p><p>Up to 12 Megapixels resolution recording</p><p>Video outputs at up to 4K (4096*2160) resolution</p><p>Supports decoding up to 20 channels at 1080P resolution</p><p>Up to 128/256 IP cameras can be connected with 512M/768M incoming bandwidth</p><p>Up to 24 SATA interfaces</p><p>Supports H.264+,H.264,MPEG4,H.265,MJPEG video format</p><p>Support redundant power supply to improve the system stability</p><p>Support HDD hot swap with RAID0,1,5,6,10 storage scheme configurable</p><p>Support various VCA detection alarm and VCA search</p>",
+  "attrs": [
+    "128 kênh",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Third-party network cameras supported Up to 12 Megapixels resolution recording Video outputs at up to 4K (4096*2160) resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

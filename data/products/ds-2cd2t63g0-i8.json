@@ -1,0 +1,65 @@
+{
+  "slug": "ds-2cd2t63g0-i8",
+  "name": "Camera IP thân trụ 6MP Hikvision DS-2CD2T63G0-I8",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2T63G0-I8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2T63G0-I5I8-500x500.jpg"
+  ],
+  "summary": [
+    "1/2.9″ Progressive Scan CMOS",
+    "3072 × 2048@20fps",
+    "2.8/4/6/8mm fixed lens",
+    "Color: 0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR",
+    "H.265+, H.265, H.264+, H.264",
+    "120dB WDR",
+    "2 Behavior analyses",
+    "BLC/3D DNR/ROI/HLC",
+    "IP67",
+    "Built-in micro SD/SDHC/SDXC card slot, up to 128 GB"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2T63G0-I8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "6MP"
+    ],
+    [
+      "Color",
+      "0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR"
+    ]
+  ],
+  "description_html": "<p>1/2.9″ Progressive Scan CMOS</p><p>3072 × 2048@20fps</p><p>2.8/4/6/8mm fixed lens</p><p>Color: 0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR</p><p>H.265+, H.265, H.264+, H.264</p><p>120dB WDR</p><p>2 Behavior analyses</p><p>BLC/3D DNR/ROI/HLC</p><p>IP67</p><p>Built-in micro SD/SDHC/SDXC card slot, up to 128 GB</p>",
+  "attrs": [
+    "6MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.9″ Progressive Scan CMOS 3072 × 2048@20fps 2.8/4/6/8mm fixed lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

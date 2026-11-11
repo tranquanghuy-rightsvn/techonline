@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1210mp-v2",
+  "name": "10-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SG1210MP V2",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1210MP V2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1210mp-v2/g01.jpg"
+  ],
+  "summary": [
+    "10-Port Gigabit Desktop Switch with 8-Port PoE+",
+    "As a 10-port gigabit desktop switch with 8 PoE+ ports, TL-SG1210MP is ideal for a wide range of applications, such as surveillance for offices, dormitories, and small businesses.",
+    "Giao diện: 9× 10/100/1000 Mbps RJ45 Ports; 1× 1000 Mbps Combo SFP/RJ45 Port; AUTO Negotiation; AUTO MDI/MDIX",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000",
+    "Số lượng quạt: Fanless",
+    "Khóa bảo mật vật lý: Yes"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1210MP V2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "9× 10/100/1000 Mbps RJ45 Ports<br />1× 1000 Mbps Combo SFP/RJ45 Port<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "External Power Adapter (Output: 53.5<br />VDC / 2.43A)"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "14.88 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3 af/at compliant<br />PoE Ports: Ports 1–8<br />Power Supply: 123 W"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "4K"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "20 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "8.2 × 4.9 × 1.0 in (209 × 126 × 26 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "7.93 W (220V / 50Hz with no PD connected)<br />141.40 W (220V / 50Hz with 123 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "27.04 BTU/h (220V / 50Hz with no PD connected)<br />482.17 BTU/h (220V / 50Hz with 123 W PD connected)"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3af/at Compliant PDs<br />Extend Mode Button (Ports 1–4, Up to 250 m PoE power supply and data transmission)<br />Priority Mode Button (Ports 1–2)"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1210MP<br />Power Adapter<br />Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>10-Port Gigabit Desktop Switch with 8-Port PoE+</p><p>As a 10-port gigabit desktop switch with 8 PoE+ ports, TL-SG1210MP is ideal for a wide range of applications, such as surveillance for offices, dormitories, and small businesses.</p>",
+  "attrs": [
+    "10 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "10-Port Gigabit Desktop Switch with 8-Port PoE+ As a 10-port gigabit desktop switch with 8 PoE+ ports, TL-SG1210MP is ideal for a wide range of applications, such as surveillance for offices, dormitories, and small businesses.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

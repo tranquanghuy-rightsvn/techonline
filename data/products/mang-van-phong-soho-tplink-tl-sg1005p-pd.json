@@ -1,0 +1,116 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1005p-pd",
+  "name": "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out TP-Link TL-SG1005P-PD",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1005P-PD",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1005p-pd/g01.jpg"
+  ],
+  "summary": [
+    "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out",
+    "TL-SG1005P-PD is a standard PoE switch.",
+    "It has 1-Port Gigabit PoE++ In and 4-Port PoE+ Out, supporting up to 66 W PoE budget.",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt, IEEE 802.3x, IEEE 802.1p",
+    "Giao diện: 5× 10/100/1000Mbps RJ45 Ports; 1× 10/100/1000 Mbps RJ45 PoE In Ports (compliance with 802.3af/at/bt Type3/bt Type4); 4× 10/100/1000 Mbps RJ45 PoE Out Ports (compliance with 802.3af/at)",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1005P-PD"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt, IEEE 802.3x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "5× 10/100/1000Mbps RJ45 Ports<br />1× 10/100/1000 Mbps RJ45 PoE In Ports (compliance with 802.3af/at/bt Type3/bt Type4)<br />4× 10/100/1000 Mbps RJ45 PoE Out Ports (compliance with 802.3af/at)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Only Powered by PoE Device"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "PoE In Port: Port 5, Compliance with 802.3af/at/bt Type3/bt Type4<br />PoE Out Ports: Ports 1-4, compliance with 802.3af/at"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.2 × 4.0 × 1.0 in (158 × 101 × 25 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "2.68 W (90W PoE In, with no PD connected)<br />68.59 W (90W PoE In, with 66 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "9.112 BTU/h (90W PoE In, with no PD connected)<br />233.206 BTU/h (90W PoE In, with 66 W PD connected)"
+    ],
+    [
+      "Switching Capacity",
+      "10 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "7.44 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "2k"
+    ],
+    [
+      "Advanced Features",
+      "Extend Mode Button (Ports 1–2, Up to 250 m PoE power supply and data transmission)<br />PoE Auto Recovery (Ports 1-4)<br />Mac Address Auto-Learning and Auto-Aging<br />IEEE 802.3x Flow Control"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1005P-PD<br />Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: -30–70 ℃ (-22–158 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out</p><p>TL-SG1005P-PD is a standard PoE switch.</p><p>It has 1-Port Gigabit PoE++ In and 4-Port PoE+ Out, supporting up to 66 W PoE budget.</p>",
+  "attrs": [
+    "5 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out TL-SG1005P-PD is a standard PoE switch. It has 1-Port Gigabit PoE++ In and 4-Port PoE+ Out, supporting up to 66 W PoE budget.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

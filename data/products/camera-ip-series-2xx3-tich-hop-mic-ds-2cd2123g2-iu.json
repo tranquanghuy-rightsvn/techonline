@@ -1,0 +1,58 @@
+{
+  "slug": "camera-ip-series-2xx3-tich-hop-mic-ds-2cd2123g2-iu",
+  "name": "Camera IP Series 2xx3 tích hợp MIC DS-2CD2123G2-IU",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2123G2-IU",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2143G2-IU-500x500.jpg"
+  ],
+  "summary": [
+    "Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu",
+    "Độ phân giải 1920 x 1080 @25fps, H265+",
+    "Ống kính 2.8/4mm, @F1.6",
+    "Tầm xa hồng ngoại 30m",
+    "Hỗ trợ 3D DNR, WDR 120dB, HLC",
+    "Nguồn: 12VDC&PoE; Tiêu chuẩn IP67",
+    "Hỗ trợ thẻ nhớ tối đa 256GB, hỗ trợ ANR",
+    "Chụp ảnh khuôn mặt; Phát hiện chuyển động người/ phương tiện; 2 tính năng VCA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2123G2-IU"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Nguồn",
+      "12VDC&PoE; Tiêu chuẩn IP67"
+    ]
+  ],
+  "description_html": "<p>Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu</p><p>Độ phân giải 1920 x 1080 @25fps, H265+</p><p>Ống kính 2.8/4mm, @F1.6</p><p>Tầm xa hồng ngoại 30m</p><p>Hỗ trợ 3D DNR, WDR 120dB, HLC</p><p>Nguồn: 12VDC&amp;PoE; Tiêu chuẩn IP67</p><p>Hỗ trợ thẻ nhớ tối đa 256GB, hỗ trợ ANR</p><p>Chụp ảnh khuôn mặt; Phát hiện chuyển động người/ phương tiện; 2 tính năng VCA</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu Độ phân giải 1920 x 1080 @25fps, H265+ Ống kính 2.8/4mm, @F1.6",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "ds-7104hqhi-k1-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-7104HQHI-K1(S) Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7104HQHI-K1(S)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/09/DS-7104-7108-7116HQHI-K1-500x500.png"
+  ],
+  "summary": [
+    "DS-7104HQHI-K1(S)",
+    "H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras",
+    "Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input",
+    "Up to 3 MP resolution for recording of channel 1 of DS-7104HQHI-K1, channel 1/2 of DS-7108HQHI-K1, and channel 1/2/3/4 of DS-7116HQHI-K1",
+    "Supports real-time 1080p lite and when enabled, the image effect is similar with 1080p",
+    "Up to 2-ch 4 MP IP cameras input",
+    "Long distance transmission over UTP and coaxial cable: max. 800m for 1080p and 1200m for 720p HDTVI signal",
+    "4/8/16-ch synchronous playback"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7104HQHI-K1(S)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>DS-7104HQHI-K1(S)</p><p>H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras</p><p>Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input</p><p>Up to 3 MP resolution for recording of channel 1 of DS-7104HQHI-K1, channel 1/2 of DS-7108HQHI-K1, and channel 1/2/3/4 of DS-7116HQHI-K1</p><p>Supports real-time 1080p lite and when enabled, the image effect is similar with 1080p</p><p>Up to 2-ch 4 MP IP cameras input</p><p>Long distance transmission over UTP and coaxial cable: max. 800m for 1080p and 1200m for 720p HDTVI signal</p><p>4/8/16-ch synchronous playback</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "DS-7104HQHI-K1(S) H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

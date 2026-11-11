@@ -1,0 +1,55 @@
+{
+  "slug": "sh-822xk-i6-series-nvr",
+  "name": "Đầu ghi hình IP Hikvision SH-822xK-I6 SERIES NVR",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "SH-822xK-I6",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/03/nvr2-500x500.jpg"
+  ],
+  "summary": [
+    "Features and Functions Professional and Reliable Dual-OS design to ensure high reliability of system running.",
+    "The system has Linux embedded with the Pentaplex function The system has language: Portuguese and English HDD hot swap with RAID0, RAID1, RAID5, RAID6 and RAID10 storage scheme conﬁgurable Support diﬀerent levels of the user with the possibility of the lock cameras for the user.",
+    "Support 10 user connection in the same ti Support, remote conﬁguration of the system, playback, download, log of the system, update of the device and cameras.",
+    "Update of the ﬁrmware by local system and remote system.",
+    "Backup of the conﬁguration ﬁle.",
+    "Video Input and Transmission Up to 32-ch 12 MP IP cameras can be connected with control of the bit rate per channel.",
+    "Network interface control Real time live view and playback.",
+    "Web Server with remote access .",
+    "Format of the video AVI, ASF."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SH-822xK-I6"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Features and Functions Professional and Reliable Dual-OS design to ensure high reliability of system running.</p><p>The system has Linux embedded with the Pentaplex function The system has language: Portuguese and English HDD hot swap with RAID0, RAID1, RAID5, RAID6 and RAID10 storage scheme conﬁgurable Support diﬀerent levels of the user with the possibility of the lock cameras for the user.</p><p>Support 10 user connection in the same ti Support, remote conﬁguration of the system, playback, download, log of the system, update of the device and cameras.</p><p>Update of the ﬁrmware by local system and remote system.</p><p>Backup of the conﬁguration ﬁle.</p><p>Video Input and Transmission Up to 32-ch 12 MP IP cameras can be connected with control of the bit rate per channel.</p><p>Network interface control Real time live view and playback.</p><p>Web Server with remote access .</p><p>Format of the video AVI, ASF.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Features and Functions Professional and Reliable Dual-OS design to ensure high reliability of system running. The system has Linux embedded with the Pentaplex function The system has language: Portuguese and English HDD hot swap with RAID0, RAID1, RAID5, RAID6 and RAID10 storage scheme…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

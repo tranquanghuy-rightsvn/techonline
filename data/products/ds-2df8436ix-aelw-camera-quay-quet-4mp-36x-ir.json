@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2df8436ix-aelw-camera-quay-quet-4mp-36x-ir",
+  "name": "PTZ Camera 4MP 36X IR Hikvision DS-2DF8436IX-AEL(W)",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DF8436IX-AEL(W)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8436IX-AELW-500x500.jpg"
+  ],
+  "summary": [
+    "H.265+/H.265/H.264+/H.264",
+    "4MP HD resolution, 36X Optical Zoom",
+    "DarkFighter ultra-low light technology",
+    "Smart features (smart tracking, etc)",
+    "200m IR distance",
+    "Wiper for self-cleaning",
+    "Vandal-proof (IK10)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DF8436IX-AEL(W)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ]
+  ],
+  "description_html": "<p>H.265+/H.265/H.264+/H.264</p><p>4MP HD resolution, 36X Optical Zoom</p><p>DarkFighter ultra-low light technology</p><p>Smart features (smart tracking, etc)</p><p>200m IR distance</p><p>Wiper for self-cleaning</p><p>Vandal-proof (IK10)</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.265+/H.265/H.264+/H.264 4MP HD resolution, 36X Optical Zoom DarkFighter ultra-low light technology",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

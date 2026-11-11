@@ -1,0 +1,132 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1008p",
+  "name": "Switch Desktop 8 cổng Gigabit với 4 cổng PoE TP-Link TL-SG1008P",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1008P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg1008p/g01.jpg"
+  ],
+  "summary": [
+    "Switch Desktop 8 cổng Gigabit với 4 cổng PoE",
+    "Switch Desktop 8 cổng Gigabit với 4 cổng PoE",
+    "Giao diện: 8x cổng RJ45 10/100/1000 MbpsAUTO Negotiation/AUTO MDI/MDIX",
+    "Mạng Media: 10; BASE-T: loại UTP cáp 3, 4, 5 (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)100; BASE-TX: loại UTP cáp 5, 5e (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)1000",
+    "Số lượng quạt: Không quạt",
+    "Khóa bảo mật vật lý: Yes"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1008P"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8x cổng RJ45 10/100/1000 MbpsAUTO Negotiation/AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: loại UTP cáp 3, 4, 5 (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)100<br />BASE-TX: loại UTP cáp 5, 5e (tối đa 100m)EIA/TIA-568 100Ω STP (tối đa 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "65.2W (max. with 55w PoE device connected)5.5W (max. no PoE device connected)"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "Bộ chuyển đổi nguồn iĐầu ra:48<br />VDC/1.25A)"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "11.904 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Tiêu chuẩn: Phù hợp với 802.3 afCổng PoE: Cổng 1-cổng 4Cấp nguồn :55W"
+    ],
+    [
+      "Backbound Bandwidth",
+      "16Gbps"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "4K"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "16 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.7*3.9*1.1 in. (171*98*27 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "5.39 W (220/50 Hz no PD connected)<br />75 W (220/50 Hz with 64 W PD connected)"
+    ],
+    [
+      "Max Heat Dissipation",
+      "18.38 BTU/h (no PD connected)<br />225.75 BTU/h (with 64 W PD connected)"
+    ],
+    [
+      "Transmission Method",
+      "Lưu trữ và chuyển tiếp"
+    ],
+    [
+      "Tính năng nâng cao",
+      "Tương thích với các thiết bị theo chuẩn IEEE 802.3af Chức năng ưu tiên<br />Mac Address Auto-Learning And Auto-Aging EEE802.3x Flow Control802.1p/DSCP QoS"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1008PBộ chuyển đổi nguồn<br />Hướng dẫn cài đặt"
+    ],
+    [
+      "Consumption",
+      "65.2W (max. with 55w PoE device connected)5.5W (max. no PoE device connected)"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Desktop 8 cổng Gigabit với 4 cổng PoE</p><p>Switch Desktop 8 cổng Gigabit với 4 cổng PoE</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Desktop 8 cổng Gigabit với 4 cổng PoE Switch Desktop 8 cổng Gigabit với 4 cổng PoE",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

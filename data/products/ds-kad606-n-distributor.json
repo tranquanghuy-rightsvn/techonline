@@ -1,0 +1,48 @@
+{
+  "slug": "ds-kad606-n-distributor",
+  "name": "Chuông cửa màn hình Distributor Hikvision DS-KAD606-N",
+  "categories": [
+    "chuong-cua-man-hinh-hikvision",
+    "hikvision-chuong-cua-man-hinh"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-KAD606-N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAD606-N-500x460.jpg"
+  ],
+  "summary": [
+    "Built-in 24 VDC voltage-stabilized switching mode power supply",
+    "8 interfaces of RJ-45, including six adaptive 10/100 Mbps LAN interfaces"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-KAD606-N"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Chuông cửa màn hình"
+    ]
+  ],
+  "description_html": "<p>Built-in 24 VDC voltage-stabilized switching mode power supply</p><p>8 interfaces of RJ-45, including six adaptive 10/100 Mbps LAN interfaces</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Built-in 24 VDC voltage-stabilized switching mode power supply 8 interfaces of RJ-45, including six adaptive 10/100 Mbps LAN interfaces",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

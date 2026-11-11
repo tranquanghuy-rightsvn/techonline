@@ -1,0 +1,89 @@
+{
+  "slug": "wifi-adapter-tplink-tx401",
+  "name": "Card mạng PCI Express 10 Gigabit TP-Link TX401",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "TX401",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-tx401/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express 10 Gigabit",
+    "TX401 thiết lập kết nối mạng 10 Gbps cực nhanh để chơi game mượt mà và truyền dữ liệu nội bộ chỉ trong vài giây.",
+    "Chuẩn và Giao thức: IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE802.3an,IEEE802.3az, IEEE 802.3x",
+    "Giao diện: 1 × PCI Express 3.0 x4, 1 × Cổng Gigabit / Megabit RJ45",
+    "Mạng Media: 10; GBASE-T/5; GBASE-T/2.5; GBASE-T/1000; BASE-T/100; BASE-TX",
+    "LED: 10 Gbps Link/Act, 5 / 2.5 / 1 Gbps and 100 Mbps Link/Act"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TX401"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE802.3an,IEEE802.3az, IEEE 802.3x"
+    ],
+    [
+      "Giao diện",
+      "1 × PCI Express 3.0 x4, 1 × Cổng Gigabit / Megabit RJ45"
+    ],
+    [
+      "Mạng Media",
+      "10<br />GBASE-T/5<br />GBASE-T/2.5<br />GBASE-T/1000<br />BASE-T/100<br />BASE-TX"
+    ],
+    [
+      "LED",
+      "10 Gbps Link/Act, 5 / 2.5 / 1 Gbps and 100 Mbps Link/Act"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "100 Mbps, 1 Gbps, 2.5 Gbps, 5 Gbps, 10 Gbps for Half-Duplex mode,200 Mbps, 2 Gbps, 5 Gbps, 10 Gbps, 20 Gbps for Full-Duplex mode"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "120.8 × 98.2 × 21.5 mm (4.8 × 3.9 × 0.8 in)"
+    ],
+    [
+      "Kiểm soát lưu lượng",
+      "802.3x"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi mạng PCIe 10 Gigabit (TX401)Chân đế tiêu chuẩn / cấu hình thấp<br />Hướng dẫn cài đặt nhanhCD nguồn<br />Cáp Ethernet 1.5 m CAT6A"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8.1/8/7, Windows Servers 2019/2016/2012 R2, Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express 10 Gigabit</p><p>TX401 thiết lập kết nối mạng 10 Gbps cực nhanh để chơi game mượt mà và truyền dữ liệu nội bộ chỉ trong vài giây.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCI Express 10 Gigabit TX401 thiết lập kết nối mạng 10 Gbps cực nhanh để chơi game mượt mà và truyền dữ liệu nội bộ chỉ trong vài giây.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

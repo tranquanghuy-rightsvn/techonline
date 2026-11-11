@@ -1,0 +1,108 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t9e",
+  "name": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1900 TP-Link Archer T9E",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T9E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t9e/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1900",
+    "Bộ chuyển đổi Wi-Fi Băng Tần Kép PCI Express AC1900",
+    "Giao diện: PCI Express",
+    "Kích thước ( R x D x C ): 4.5 × 4.8 × 0.8 in. (115.2 × 120.8 × 21.5 mm)",
+    "Ăng ten: ăng ten đẳng hướng",
+    "Chuẩn Wi-Fi: IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T9E"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "PCI Express"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.5 × 4.8 × 0.8 in. (115.2 × 120.8 × 21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "ăng ten đẳng hướng"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5<br />GHz:11ac: lên đến 1300Mbps(động)11n: lên đến 150Mbps(động)11a: lên đến 54Mbps(động)2.4<br />GHz11n: lên đến 600Mbps(động)11g: lên đến 54Mbps(động)11b: lên đến 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 6<br />Mbps: -85d<br />Bm11a 54<br />Mbps: -68d<br />Bm11ac HT20: -59d<br />Bm11ac HT40: -54d<br />Bm11ac HT80: -51d<br />Bm2.4<br />GHz:11b 11<br />Mbps: -80d<br />Bm11g 54<br />Mbps: -68d<br />Bm11n HT20: -64d<br />Bm11n HT40: -61dBm"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Ad-Hoc / Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ bảo mật 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi Wi-Fi Archer T9EBộ cấp nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Windows 8.1 (32/64bits), Windows 8 (32/64bits), Windows 7 (32/64bits), Windows XP(32/64bits)"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express Wi-Fi Băng Tần Kép AC1900</p><p>Bộ chuyển đổi Wi-Fi Băng Tần Kép PCI Express AC1900</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1900 Bộ chuyển đổi Wi-Fi Băng Tần Kép PCI Express AC1900",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

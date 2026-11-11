@@ -1,0 +1,188 @@
+{
+  "slug": "router-modem-tplink-archer-xr500v",
+  "name": "AC1200 Wireless Dual Band Gigabit VoIP GPON Router TP-Link Archer XR500v",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer XR500v",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-archer-xr500v/g01.jpg"
+  ],
+  "summary": [
+    "AC1200 Wireless Dual Band Gigabit VoIP GPON Router",
+    "Khoảng cách truyền: 0 ~ 20Km Max",
+    "Giao diện: 1 SC/UPC GPON Port 4 10/100/1000Mbps RJ45 LAN Ports 2 RJ11 Ports 1 USB 2.0",
+    "Nút: 1 Power On/Off?Button 1 Wi-Fi On/Off?Button 1 WPS Button 1 Reset Button",
+    "Bộ cấp nguồn bên ngoài (EU): 12; VDC/1.5A",
+    "Chuẩn IEEE: IEEE 802.3, 802.3u.802.3ab"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer XR500v"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Khoảng cách truyền",
+      "0 ~ 20Km Max"
+    ],
+    [
+      "Giao diện",
+      "1 SC/UPC GPON Port 4 10/100/1000Mbps RJ45 LAN Ports 2 RJ11 Ports 1 USB 2.0"
+    ],
+    [
+      "Nút",
+      "1 Power On/Off?Button 1 Wi-Fi On/Off?Button 1 WPS Button 1 Reset Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12<br />VDC/1.5A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u.802.3ab"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "217.7*155.5*36.8mm"
+    ],
+    [
+      "Ăng ten",
+      "Omni directional"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "2X2，2.4G 3dBi/5G 4dBi"
+    ],
+    [
+      "Chuẩn GPON",
+      "ITU G.984.1 ITU G.984.2 ITU G.984.3 ITU G.984.4"
+    ],
+    [
+      "Module Quang",
+      "Class B+"
+    ],
+    [
+      "Bước sóng Quang",
+      "Transmit at 1310nm Receive at 1490nm"
+    ],
+    [
+      "Băng tần",
+      "Downstream up to 2.488Gbps Upstream up to 1.244Gbps Max"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "16 T-CONTs, 256 GEM Ports Distinguishes priority using Application classifier Different Transmission Queues"
+    ],
+    [
+      "Advanced Features",
+      "Parental Control, Network Address Translation(NAT), Port Mapping, Static Routing, DNS Relay,DDNS, IGMP V1/V2/V3"
+    ],
+    [
+      "Bảo mật",
+      "SPI Firewall DoS Protection Access Control MAC / IP/ URL Filtering"
+    ],
+    [
+      "IPv6",
+      "IPv6 and IPv4 dual stack"
+    ],
+    [
+      "Quản lý",
+      "Web based configuration(HTTP) OMCI CWMP(TR-069)"
+    ],
+    [
+      "Dạng kết nối WAN",
+      "PPPoE, Dynamic IP, Static IP, Bridge"
+    ],
+    [
+      "DHCP",
+      "Virtual Server Port Trigger DMZ UPnP"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual server, Port Triggering, DMZ, ALG, UPnP"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec Pass-through"
+    ],
+    [
+      "USB Sharing",
+      "Support Samba(Storage)/FTP Server/Media Server"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Up to 1200Mbps (dynamic)"
+    ],
+    [
+      "Băng tần",
+      "\"2.4<br />GHz: 1~13<br />Channel 5<br />GHz: Band 1, Band4\""
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP,WPA / WPA2,WPA-PSK/ WPA2-PSK encryption, Wireless MAC Filtering"
+    ],
+    [
+      "Công suất truyền tải",
+      "\"2.4G: <20dBm（EIRP） 5G: < 23dBm(EIRP)\""
+    ],
+    [
+      "VoIP Standards",
+      "\"SIP (RFC3261)/RTP(RFC1889/3550) ITU-T G.711A/u, G.722, G.729AB, G.726 T.38 pass-through\""
+    ],
+    [
+      "VoIP Function",
+      "\"Call hold, Call transfer, Call forward, Warm call, Do not disturb, Anonymous call, Call restriction, Speed dial, etc. USB Voicemail, Caller ID, 3-party conference SIP account – Up to 8 accounts\""
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Archer XR500v RJ-45 Ethernet Cable Quick Installation Guide Power Adapter"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™, Windows 7, Windows 8, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉) Storage Temperature: -40℃~70℃ (-40℉~158℉) Operating Humidity: 10%~90% non-condensing Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>AC1200 Wireless Dual Band Gigabit VoIP GPON Router</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1200"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AC1200 Wireless Dual Band Gigabit VoIP GPON Router",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

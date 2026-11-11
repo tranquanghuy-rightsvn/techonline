@@ -1,0 +1,47 @@
+{
+  "slug": "ds-2td1217b-3pa",
+  "name": "Camera IP Hikvision DS-2TD1217B-3/PA",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TD1217B-3/PA",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD1217B-6PA-500x500.jpg"
+  ],
+  "summary": [
+    "High sensitivity thermal module with 160 x 120 resolution NETD is less than 40 mk (@25° C, F#=1.1) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Support fever screening Support audio alarm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TD1217B-3/PA"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>High sensitivity thermal module with 160 x 120 resolution NETD is less than 40 mk (@25° C, F#=1.1) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Support fever screening Support audio alarm</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "High sensitivity thermal module with 160 x 120 resolution NETD is less than 40 mk (@25° C, F#=1.1) Leading thermal image processing technology: Adaptive AGC, DDE, 3D DNR Support fever screening Support audio alarm",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

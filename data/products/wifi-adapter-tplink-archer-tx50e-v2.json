@@ -1,0 +1,112 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tx50e-v2",
+  "name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2 TP-Link Archer TX50E V2",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TX50E V2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tx50e-v2/g01.png"
+  ],
+  "summary": [
+    "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2",
+    "Bằng cách sử dụng nền tảng Wi-Fi 6, Archer TX50E được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+    "Kích thước ( R x D x C ): 3.7 x 4.8 x 0.8 in(95.2 x 120.8 x 21.5 mm)",
+    "Ăng ten: Hai Ăng Ten Băng Tần Kép Độ Lợi Cao",
+    "Chipset: Intel Wi-Fi 6 Chipset",
+    "Standards and Protocols: Bluetooth 5.2, Bluetooth 5.0, Bluetooth 4.2, Bluetooth 4.0"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TX50E V2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7 x 4.8 x 0.8 in(95.2 x 120.8 x 21.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Hai Ăng Ten Băng Tần Kép Độ Lợi Cao"
+    ],
+    [
+      "Chipset",
+      "Intel Wi-Fi 6 Chipset"
+    ],
+    [
+      "Standards and Protocols",
+      "Bluetooth 5.2, Bluetooth 5.0, Bluetooth 4.2, Bluetooth 4.0"
+    ],
+    [
+      "Interface",
+      "F_USB 2.0"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/g/b 2.4 GHzBluetooth 5.2/5.0/4.2/4.0"
+    ],
+    [
+      "WLAN Signal Rate",
+      "5 GHz11ax: Up to 2402 Mbps(dynamic)11ac: Up to 1733 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz11ax: Up to 574 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11g: Up to 54…"
+    ],
+    [
+      "WLAN Reception Sensitivity",
+      "5 GHz :11ax HT160：-56.25d<br />Bm11ax HT80: -59d<br />Bm11ax HT40: -62.25d<br />Bm11ax HT20: -65dBm11ac HT160：-62d<br />Bm11ac HT80: -65.5d<br />Bm11ac HT40: -69.75d<br />Bm11ac HT20: -73.75d<br />Bm11n HT40: -74.5d"
+    ],
+    [
+      "WLAN Transmit Power",
+      "5 GHz : 27dBm(FCC) / 23dBm(CE) (EIRP)2.4 GHz : 26dBm(FCC) / 20dBm(CE) (EIRP)"
+    ],
+    [
+      "WLAN Modes",
+      "Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ 64/128 bit WEP, WPA/WAP2/WPA3, WPA-PSK/WPA2-PSK, 802.1x"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM, 1024<br />QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Archer TX50EHai ăng-ten độ lợi cao 5 dBiGiá đỡ thấp<br />Cáp nối Bluetooth<br />Hướng dẫn cài đặt nhanhCD nguồn"
+    ],
+    [
+      "System Requirements",
+      "Chỉ Windows 11/10(64-bit)"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCIe Wi-Fi 6 AX3000 &amp; Bluetooth 5.2</p><p>Bằng cách sử dụng nền tảng Wi-Fi 6, Archer TX50E được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2 Bằng cách sử dụng nền tảng Wi-Fi 6, Archer TX50E được thiết kế để giải phóng việc chơi game của bạn khỏi dây cáp và tối ưu hóa hoàn toàn lối chơi của bạn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

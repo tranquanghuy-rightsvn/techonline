@@ -1,0 +1,131 @@
+{
+  "slug": "router-modem-tplink-xz000-g3",
+  "name": "1-Port Gigabit GPON Terminal TP-Link XZ000-G3",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "XZ000-G3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-xz000-g3/g01.jpg"
+  ],
+  "summary": [
+    "1-Port Gigabit GPON Terminal",
+    "Giao diện: 1 10/100/1000Mbps RJ45 Port, 1 SC/APC Port",
+    "Nút: 1 RESET Button",
+    "Bộ cấp nguồn bên ngoài (EU): 9; VDC/0.6A",
+    "Chuẩn IEEE: IEEE 802.3, 802.3u, 802.1p, 802.1Q",
+    "Tốc độ dữ liệu: Upstream: 1.244Gbps, Downstream: 2.488Gbps"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "XZ000-G3"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 10/100/1000Mbps RJ45 Port, 1 SC/APC Port"
+    ],
+    [
+      "Nút",
+      "1 RESET Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "9<br />VDC/0.6A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u, 802.1p, 802.1Q"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "Upstream: 1.244Gbps, Downstream: 2.488Gbps"
+    ],
+    [
+      "Wave Length",
+      "Upstream: 1310nm, Downstream: 1490nm"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7 x 3.0 x 1.2 in. (95.0 x 75.0 x 29.3 mm)"
+    ],
+    [
+      "Khoảng cách",
+      "0 ~ 20Km Max"
+    ],
+    [
+      "Chuẩn GPON",
+      "ITU-T G.988, G.984.1, G.984.2, G.984.3, G.984.4"
+    ],
+    [
+      "Module Quang",
+      "Class B+"
+    ],
+    [
+      "Receiver",
+      "Super-TIA"
+    ],
+    [
+      "Transmitter",
+      "DFB Laser"
+    ],
+    [
+      "Advanced Features",
+      "Upstream and Downstream FEC, Dynamic Bandwidth Allocation(DBA) support NSR/SR, Up to 16 T-CONTs and 256 GEM Ports, Optical power detection, Dying Gasp, Terminal Silent mechanism"
+    ],
+    [
+      "VLAN",
+      "802.1Q tag VLAN, VLAN transparent mode/VLAN translation mode/VLAN trunk mode, Authentication based on SN and Password, VLAN Auto Detect"
+    ],
+    [
+      "Bảo mật",
+      "AES Encryption, Packet Filter based on VLAN"
+    ],
+    [
+      "Quản lý",
+      "Managed by Web, OMCI and Telnet, Specifed the management IP, Reset to Factory default by Reset button or Web UI, Real-time statistics, Optical Diagnostic"
+    ],
+    [
+      "IGMP",
+      "IGMP v1/v2/v3"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "XZ000-G3, RJ-45 Ethernet Cable, Quick Installation Guide, Power Adapter"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows 8/7/Vista/XP, MAC® OS, NetWare®, UNIX® or Linux"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃(32℉~104℉); Storage Temperature: -40℃~70℃(-40℉~158℉); Operating Humidity: 10%~90% non-condensing; Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>1-Port Gigabit GPON Terminal</p>",
+  "attrs": [
+    "1 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1-Port Gigabit GPON Terminal",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "router-wifi-tplink-ec220-g5",
+  "name": "TP-Link EC220-G5",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "EC220-G5",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-ec220-g5/g01.jpg"
+  ],
+  "summary": [
+    "Giao diện: 3 10/100/1000Mbps LAN Ports & 1 10/100/1000Mbps WAN port",
+    "Bộ cấp nguồn bên ngoài (EU): 12V/1.0A",
+    "Kích thước ( R x D x C ): 9.1 × 5.7 × 1.5 in (230.0 x 144.0 x 37.0mm)",
+    "Ăng ten: 4 External Antennas",
+    "Chất lượng dịch vụ: WMM, Bandwidth Control",
+    "Dạng WAN: Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EC220-G5"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "3 10/100/1000Mbps LAN Ports & 1 10/100/1000Mbps WAN port"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/1.0A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "9.1 × 5.7 × 1.5 in (230.0 x 144.0 x 37.0mm)"
+    ],
+    [
+      "Ăng ten",
+      "4 External Antennas"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "WMM, Bandwidth Control"
+    ],
+    [
+      "Dạng WAN",
+      "Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)"
+    ],
+    [
+      "Quản lý",
+      "Access Control, Local Management, Remote Management, TR-069, TR-098, TR-111"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List, Address Reservation"
+    ],
+    [
+      "Port Forwarding",
+      "Vritual Server, Port Triggering, DMZ, UPnP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Parental Control, Local Management Control, Host List, Access Schedule, Rule Management"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "DoS, SPI Firewall, IP Address Filter, IP and MAC Address Binding"
+    ],
+    [
+      "Giao thức",
+      "Supports IPv4 and IPv6"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac 5GHz, IEEE 802.11b/g/n 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz and 5GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "300Mbps at 2.4GHz, 867Mbps at 5GHz"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE: <20dBm(2.4GHz), <23dBm(5GHz)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC1200 Wireless Dual Band Gigabit Router EC220-G5Power Supply UnitRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1,10, MAC OS, NetWare, UNIX or Linux Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 browers or higher."
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃–40℃ (32℉–104℉)<br />Storage Temperature: -40℃–60℃ (-40℉–140℉)<br />Operating Humidity: 10%–90% non-condensing<br />Storage Humidity: 5%–90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>TP-Link EC220-G5 chính hãng, bảo hành 24 tháng.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "TP-Link EC220-G5 chính hãng, bảo hành 24 tháng.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "router-modem-tplink-archer-mr200-v5",
+  "name": "Router Wi-Fi Băng Tần Kép 4G LTE AC750 TP-Link Archer MR200 V5",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer MR200 V5",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-archer-mr200-v5/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Băng Tần Kép 4G LTE AC750",
+    "Router 4G LTE này cho phép bạn chia sẻ mạng di động của mình với tối đa 64 thiết bị.",
+    "Thưởng thức các bộ phim HD không bị gián đoạn và tải tập tin nhanh chóng.",
+    "Routern đi kèm với 4 cổng Ethernet nhanh"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer MR200 V5"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "3 cổng LAN 10/100Mbps, 1 cổng LAN/WAN 10/100Mbps, 1 khe cắm sim Micro"
+    ],
+    [
+      "Nút",
+      "Nút WPS/Reset, Nút Mở/Tắt Wi-Fi, Nút Mở/Tắt nguồn"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/1A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.85 × 4.9 × 1.32 in (174 × 124.5 × 33.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2 ăng ten 4G LTE ngoài rời"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Ưu tiên lưu lượng mạng theo thiết bị hoặc ứng dụng"
+    ],
+    [
+      "Operating Modes",
+      "3G/4G Router, Wireless Router"
+    ],
+    [
+      "Dạng WAN",
+      "IP động/IP tĩnh/PPPoE/PPTP(Truy cập kép)/L2TP(Truy cập kép)"
+    ],
+    [
+      "Quản lý",
+      "Kiểm soát truy cập, Quản lý nội bộ, Quản lý từ xa, lịch khởi động lại"
+    ],
+    [
+      "DHCP",
+      "Máy chủ, Máy khách, Danh sách DHCP máy khách, Dành riêng địa chỉ"
+    ],
+    [
+      "Port Forwarding",
+      "Máy chủ ảo, Cổng kích hoạt, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP, TP-Link DDNS"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "Tường lửa DoS, SPI, Lọc địa chỉ MAC<br />Lọc tên miền liên kết địa chỉ MAC và IP"
+    ],
+    [
+      "Giao thức",
+      "Hỗ trợ IPv4 và IPv6"
+    ],
+    [
+      "Mạng khách",
+      "1 x mạng khách 2.4GHz, 1 x mạng khách 5GHz"
+    ],
+    [
+      "VPN Server",
+      "PPTP VPN, OpenVPN"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac 5 GHz, IEEE 802.11b/g/n 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz và 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "2.4GHz - 300Mbps, 5<br />GHZ - 433Mbps"
+    ],
+    [
+      "Reception Sensitivity",
+      "5 GHz:11a 54M: -78 d<br />Bm11ac VHT20 MCS0: -92 d<br />Bm 11ac VHT20 MCS8: -72 d<br />Bm11ac VHT40 MCS0: -90 d<br />Bm 11ac VHT40 MCS9: -67 d<br />Bm11ac VHT80 MCS0: -87 d<br />Bm 11ac VHT80 MCS9: -64 d"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Mở/Tắt sóng Wi-Fi, Cầu nối WDS, WMM, thống kê Wi-Fi"
+    ],
+    [
+      "WAN Failover",
+      "Có"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "mã hóa 64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE: ≤20dBm (2.4Ghz);≤23dBm (5GHz)"
+    ],
+    [
+      "Dạng mạng",
+      "4G: FDD-LTE B1/B3/B7/B8/B20 (2100/1800/2600/900/800 MHz)TDD-LTE B38/B40/B41 (2600/2300/2500 MHz)3G: DC-HSPA+/HSPA+/HSPA/UMTS B1/B8 (2100/900 MHz)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Router 4G LTE Băng tần kép Wi-Fi AC750, Archer MR200Cáp Ethernet RJ45Bộ cấp nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser<br />Micro SIM Card"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động thông thường: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ hoạt động cực cao: -10℃~55℃(14℉~131℉) (Đã được kiểm nghiệm bởi phòng thí nghiệm xác thực của chính phủ Việt Nam)Nhiệt độ lưu trữ: -40℃~70…"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Băng Tần Kép 4G LTE AC750</p><p>Router 4G LTE này cho phép bạn chia sẻ mạng di động của mình với tối đa 64 thiết bị.</p><p>Thưởng thức các bộ phim HD không bị gián đoạn và tải tập tin nhanh chóng.</p><p>Routern đi kèm với 4 cổng Ethernet nhanh</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC750",
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Băng Tần Kép 4G LTE AC750 Router 4G LTE này cho phép bạn chia sẻ mạng di động của mình với tối đa 64 thiết bị. Thưởng thức các bộ phim HD không bị gián đoạn và tải tập tin nhanh chóng.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

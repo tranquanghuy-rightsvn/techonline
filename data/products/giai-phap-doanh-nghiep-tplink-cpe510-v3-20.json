@@ -1,0 +1,165 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-cpe510-v3-20",
+  "name": "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz TP-Link CPE510 V3.20",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "CPE510 V3.20",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-cpe510-v3-20/g01.jpg"
+  ],
+  "summary": [
+    "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz",
+    "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz",
+    "Bộ xử lý: CPU Qualcomm Atheros Enterprise 560MHz, MIPS 74Kc",
+    "Bộ nhớ: 64MB DDR2 RAM, 8MB Flash",
+    "Giao diện: 1 x Cổng Ethernet được che chắn 10 / 100Mbps (LAN0, cổng PoE thụ động)1 x đầu nối đất1 x nút Reset",
+    "Bộ cấp nguồn: Cấp nguồn thụ động qua Ethernet qua LAN0 (+ 4,5pins; -7,8pins)Dải điện áp: 16-27; VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "CPE510 V3.20"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Bộ xử lý",
+      "CPU Qualcomm Atheros Enterprise 560MHz, MIPS 74Kc"
+    ],
+    [
+      "Bộ nhớ",
+      "64MB DDR2 RAM, 8MB Flash"
+    ],
+    [
+      "Giao diện",
+      "1 x Cổng Ethernet được che chắn 10 / 100Mbps (LAN0, cổng PoE thụ động)1 x đầu nối đất1 x nút Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Cấp nguồn thụ động qua Ethernet qua LAN0 (+ 4,5pins; -7,8pins)Dải điện áp: 16-27<br />VDC"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa 9.8 Watts<br />Lưu ý: Khi triển khai bằng Passive PoE, công suất lấy từ nguồn điện sẽ cao hơn một số lượng tùy thuộc vào độ dài của cáp kết nối."
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "224 x 79 x 60 mm"
+    ],
+    [
+      "Ăng ten",
+      "Tích hợp ăng ten định hướng phân cực kép 13dBi 2x2 Chiều rộng chùm tia: 45 ° (H-Plane) / 45 ° (E-Plane)Lưu ý: Để biết thêm chi tiết, vui lòng tham khảo datasheet"
+    ],
+    [
+      "Bảo vệ",
+      "Bảo vệ ESD 15KVBảo vệ chống sét 6KV"
+    ],
+    [
+      "Enclosure",
+      "Vật liệu nhựa ổn định ASA ngoài trời<br />Chứng nhận chống nước IPX5"
+    ],
+    [
+      "Cấu hình Wi-Fi",
+      "Công nghệ TDMA MAXtream Pharos Chế độ 802.11a/nChiều rộng kênh có thể lựa chọn: 5/10/20/40MHzLựa chọn kênh tự động<br />Kiểm soát công suất truyền<br />Lựa chọn tần số động (DFS)Bật / Tắt WDS"
+    ],
+    [
+      "Quản lý",
+      "Khám phá và quản lý từ xa thông qua ứng dụng Pharos Control<br />Quản lý dựa trên web HTTP / HTTPS<br />Nhật ký hệ thốngSNMP Agent (v2c)Ping Watch DogDDNS động<br />Máy chủ SSH"
+    ],
+    [
+      "Công cụ hệ thống",
+      "Chỉ báo chất lượng tín hiệu không dây:Cường độ tín hiệu / Tiếng ồn / Truyền CCQ / CPU / Bộ nhớ<br />Giám sát: Thông lượng / Trạm / Giao diện / ARP / Đường / WAN / DHCP<br />Phân tích quang phổ"
+    ],
+    [
+      "System-level Optimizations",
+      "IGMP Snooping / Proxy được tối ưu hóa cho các ứng dụng phát đa hướng<br />Hardware watch dog"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a / n (với Pharos MAXtream bị vô hiệu hóa)"
+    ],
+    [
+      "Proprietary Protocol",
+      "Chế độ TDMA (có bật Pharos MAXtream)"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Lên đến 300Mbps (40MHz, Động)Lên đến 144.4Mbps (20MHz, Động)Lên đến 72.2Mbps (10MHz, Động)Lên đến 36.1Mbps (5MHz, Động)"
+    ],
+    [
+      "Băng tần",
+      "5.15 ~ 5.85 GHzLưu ý: Tần suất hoạt động khả dụng có thể khác nhau tùy thuộc vào giới hạn của các quốc gia hoặc khu vực mà thiết bị được sử dụng."
+    ],
+    [
+      "Công suất truyền tải",
+      "26dBm / 398mw (Công suất điều chỉnh 1dBm)Lưu ý: Công suất truyền tối đa có thể thay đổi trên các kênh khác nhau tùy thuộc vào giới hạn của quốc gia hoặc khu vực mà thiết bị được sử dụng."
+    ],
+    [
+      "Kích thước (R x D x C)",
+      "85.8×43.9×29.7 mm"
+    ],
+    [
+      "Interfaces",
+      "1 AC Jack with Earth Ground1 10/100Mbps Shielded Ethernet Port (Power + Data)1 10/100Mbps Shielded Ethernet Port (Data)"
+    ],
+    [
+      "Button",
+      "Nút Reset Từ Xa"
+    ],
+    [
+      "Power Status LEDs",
+      "Xanh lá"
+    ],
+    [
+      "Input",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Output",
+      "24<br />VDC, 0.5A Max+4, 5pins; -7, 8pins. (Hỗ trợ lên tới 60m Cấp nguồn qua Ethernet)"
+    ],
+    [
+      "Efficiency",
+      ">80%"
+    ],
+    [
+      "Chứng chỉ",
+      "CE/FCC/UL/IC/GS/PSB/C-tick/SAA/S-Mark/KC-mark"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, IPX5"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "CPE không dây ngoài trời<br />Bộ chuyển đổi PoE thụ động 24V 0.5ACực gắn dây đai<br />Dây nguồn ACHướng dẫn cài đặt"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista ™ hoặc Windows 10, Windows 8, Windows 7, MAC OS, NetWare,"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: -40℃~70℃ (-40℉~158℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 95% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz</p><p>CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

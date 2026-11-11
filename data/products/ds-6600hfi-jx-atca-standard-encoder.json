@@ -1,0 +1,53 @@
+{
+  "slug": "ds-6600hfi-jx-atca-standard-encoder",
+  "name": "Phụ kiện ATCA Standard Encoder Hikvision DS-6600HFI-JX",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-6600HFI-JX",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS6600HFIJX.jpg"
+  ],
+  "summary": [
+    "Up to 64-ch video&audio input",
+    "H.264/MPEG4/MPEG2/MJPEG & dual-stream video encoding",
+    "16 slots available for audio/video output modules (DS-6604HFI-B)",
+    "Each DS-6604HFI-B module provides 4-ch audio/ video inputs",
+    "Full channel@4CIF resolution real-time recording",
+    "Standard rack-mounted chassis structure (6U 19″)",
+    "Pluggable modular design provides high flexibility"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-6600HFI-JX"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>Up to 64-ch video&amp;audio input</p><p>H.264/MPEG4/MPEG2/MJPEG &amp; dual-stream video encoding</p><p>16 slots available for audio/video output modules (DS-6604HFI-B)</p><p>Each DS-6604HFI-B module provides 4-ch audio/ video inputs</p><p>Full channel@4CIF resolution real-time recording</p><p>Standard rack-mounted chassis structure (6U 19″)</p><p>Pluggable modular design provides high flexibility</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Up to 64-ch video&audio input H.264/MPEG4/MPEG2/MJPEG & dual-stream video encoding 16 slots available for audio/video output modules (DS-6604HFI-B)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "ds-2ce56d8t-it3ze-2mp-ultra-low-light-vf-poc-exir-turret-camera",
+  "name": "Camera bán cầu cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE56D8T-IT3ZE",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE56D8T-IT3ZE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-IT3ZE-500x500.png"
+  ],
+  "summary": [
+    "2 Megapixel high-performance CMOS",
+    "Analog HD output, up to 1080P resolution",
+    "2.8-12mm motorized vari-focal lens",
+    "True Day/Night",
+    "OSD menu, DNR, Smart IR",
+    "True WDR, up to 120dB",
+    "EXIR 2.0, up to 40m IR distance",
+    "IP67",
+    "Up the Coax(HIKVISION-C)",
+    "PoC.at"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE56D8T-IT3ZE"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2 Megapixel high-performance CMOS</p><p>Analog HD output, up to 1080P resolution</p><p>2.8-12mm motorized vari-focal lens</p><p>True Day/Night</p><p>OSD menu, DNR, Smart IR</p><p>True WDR, up to 120dB</p><p>EXIR 2.0, up to 40m IR distance</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p><p>PoC.at</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2 Megapixel high-performance CMOS Analog HD output, up to 1080P resolution 2.8-12mm motorized vari-focal lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

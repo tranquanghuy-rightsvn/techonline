@@ -1,0 +1,58 @@
+{
+  "slug": "ds-d6400hdi-t-series-high-definition-decoder",
+  "name": "Phụ kiện High Definition Decoder Hikvision DS-D6400HDI-T Series",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-D6400HDI-T Series",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/hikvision_ds_6404hdi_t_high_definition_video_1163533-500x407.jpg"
+  ],
+  "summary": [
+    "Max. 8-ch 8MP or 32-ch 1080P decoding",
+    "PC signal input via VGA/DVI input interface(except DS-6401HDI-T)",
+    "Decoding output via DVI and BNC interface(DS- 6401HDI HDMI/VGA/BNC output)",
+    "1/4/6/8/9/12/16 division",
+    "H.264/MPEG4 /MPEG2/MJPEG format",
+    "Max. 4×4 video wall control",
+    "Window division, large screen splicing, cross-window video roaming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-D6400HDI-T Series"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>Max. 8-ch 8MP or 32-ch 1080P decoding</p><p>PC signal input via VGA/DVI input interface(except DS-6401HDI-T)</p><p>Decoding output via DVI and BNC interface(DS- 6401HDI HDMI/VGA/BNC output)</p><p>1/4/6/8/9/12/16 division</p><p>H.264/MPEG4 /MPEG2/MJPEG format</p><p>Max. 4×4 video wall control</p><p>Window division, large screen splicing, cross-window video roaming</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Max. 8-ch 8MP or 32-ch 1080P decoding PC signal input via VGA/DVI input interface(except DS-6401HDI-T) Decoding output via DVI and BNC interface(DS- 6401HDI HDMI/VGA/BNC output)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

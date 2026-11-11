@@ -1,0 +1,188 @@
+{
+  "slug": "router-modem-tplink-archer-vr900",
+  "name": "AC1900 Wireless Gigabit VDSL/ADSL Modem Router TP-Link Archer VR900",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer VR900",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-archer-vr900/g01.jpg"
+  ],
+  "summary": [
+    "AC1900 Wireless Gigabit VDSL/ADSL Modem Router",
+    "Replace your old modem and router with Archer VR900, a two-in-one solution.",
+    "With VDSL2 tech, it delivers up to 100Mbps broadband speeds with dual-band WiFi reaching up to 1.9Gbps.",
+    "Giao diện: 1 10/100/1000Mbps RJ45 WAN/LAN Port3 10/100/1000Mbps RJ45 LAN Ports1 RJ11 Port2 USB 3.0 Port",
+    "Nút: WPS Button, Reset Button, LED On/Off Button, Wireless On/Off Button, Power On/Off Button",
+    "Bộ cấp nguồn bên ngoài (EU): 12V/2.5A"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer VR900"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 10/100/1000Mbps RJ45 WAN/LAN Port3 10/100/1000Mbps RJ45 LAN Ports1 RJ11 Port2 USB 3.0 Port"
+    ],
+    [
+      "Nút",
+      "WPS Button, Reset Button, LED On/Off Button, Wireless On/Off Button, Power On/Off Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/2.5A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, IEEE 802.3u, 802.3ab"
+    ],
+    [
+      "Chuẩn VDSL2",
+      "ITU-T G.993.2, Up to 17a profile (POTS)ITU-T G.993.5 (G.vector)ITU-T G.998.4 (G.INP）"
+    ],
+    [
+      "ADSL Standards",
+      "Full-rate ANSI T1.413 Issue 2,ITU-T G.992.1(G.DMT),ITU-T G.992.2(G.Lite),ITU-T G.994.1 (G.hs),ITU-T G.995.1"
+    ],
+    [
+      "Chuẩn ADSL2",
+      "ITU-T G.992.3 (G.DMT.bis),ITU-T G.992.4 (G.lite.bis)"
+    ],
+    [
+      "Chuẩn ADSL2+",
+      "ITU-T G.992.5"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "216 x 164 x 36.8mm"
+    ],
+    [
+      "Ăng ten",
+      "3 external detachable dual band antennas (RP-SMA)"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "3 x 2dBi for 2.4GHz and 3 x 3dBi for 5GHz"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac 5GHz, IEEE 802.11b/g/n 2.4GHz"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "1300Mbps at 5GHz, 600Mbps at 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz and 5GHz"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics<br />Support 2.4GHz and 5GHz Wireless Schedule"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA-PSK2encryptions, Wireless MAC Filtering"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm(EIRP)"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "ATM QoS, Traffic Control(IP QoS)"
+    ],
+    [
+      "Advanced Features",
+      "Parental Control, Network Address Translation(NAT),Port Mapping(Grouping), Static Routing, RIP v1/v2(optional), DNS Relay,DDNS, IGMP V1/V2/V3"
+    ],
+    [
+      "Bảo mật",
+      "NAT Firewall, Access Control, MAC / IP / URL Filtering, Denial ofService (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding"
+    ],
+    [
+      "Operating Modes",
+      "VDSL/ADSL Modem Router, Wireless Router, 3G/4G Router"
+    ],
+    [
+      "Quản lý",
+      "Web Based Configuration(HTTP), Remote management,command Line Interface, SSL for TR-069, SNMP v1/2c, Web Based<br />Firmware Upgrade, Diagnostic Tools, Free Online Firmware Update"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List, Address Reservation, DHCP Relay"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual Server, Port Triggering, DMZ, ALG, UPnP"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec Passthrough"
+    ],
+    [
+      "Giao thức",
+      "Supports IPv4 and IPv6"
+    ],
+    [
+      "Giao thức ATM/PPP",
+      "ATM Forum UNI3.1/4.0, PPP over ATM (RFC 2364),PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483Routed), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs"
+    ],
+    [
+      "USB Sharing",
+      "Support Samba(Storage)/FTP Server/Media Server/Printer Server, 3G/4G Modem"
+    ],
+    [
+      "Mạng khách",
+      "2.4GHz guest network x 1, 5GHz guest network x 1"
+    ],
+    [
+      "IPSec VPN",
+      "Supports up to 10 IPSec VPN tunnels"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, RCM, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC1900 Wireless Dual Band Gigabit VDSL/ADSL Modem Router Archer VR900External SplitterRJ11 DSL CableRJ45 Ethernet Cable<br />Power Adapter<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS,NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other<br />Java-enabled browser"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>AC1900 Wireless Gigabit VDSL/ADSL Modem Router</p><p>Replace your old modem and router with Archer VR900, a two-in-one solution.</p><p>With VDSL2 tech, it delivers up to 100Mbps broadband speeds with dual-band WiFi reaching up to 1.9Gbps.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AC1900 Wireless Gigabit VDSL/ADSL Modem Router Replace your old modem and router with Archer VR900, a two-in-one solution. With VDSL2 tech, it delivers up to 100Mbps broadband speeds with dual-band WiFi reaching up to 1.9Gbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

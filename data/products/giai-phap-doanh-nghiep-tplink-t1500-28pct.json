@@ -1,0 +1,168 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1500-28pct",
+  "name": "24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch TP-Link T1500-28PCT",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1500-28PCT",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1500-28pct/g01.jpg"
+  ],
+  "summary": [
+    "24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch",
+    "24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q,IEEE 802.1p",
+    "Giao diện: 24 10/100Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)2 Combo Gigabit SFP Slots",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable(maximum 100m)1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: 2"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1500-28PCT"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q,IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 10/100Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)2 Combo Gigabit SFP Slots"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable(maximum 100m)1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "2"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Maximum(PoE on): 222.15W (220V/50Hz)"
+    ],
+    [
+      "PoE Budget",
+      "192W"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/af compliantPoE+ Ports: 24 Ports<br />Power Supply: 180W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*8.7*1.7 in.(440*220*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "21.7W (220V/50Hz with no PD connected)229.73W (110V/60Hz with 192W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "74.04 BTU/h (with no PD connected)783.84 BTU/h (with 192W PD connected)"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "12.8Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "9.5Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Khung Jumbo",
+      "9216 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 4 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow-based Rate Limiting<br />Voice VLAN"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3802.3ad LACP (Up to 6 aggregation groups,containing 4 ports per group)Spanning Tree STP/RSTP/MSTPLLDP, LLDP-MEDBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "L2 Multicast",
+      "512 IPv4,IPv6 shared multicast groups<br />IGMP Snooping - IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier - IGMP Authentication - Static Group Config"
+    ],
+    [
+      "VLAN",
+      "Supports up to 512 VLANs simultaneously (out of 4K VLAN IDs)"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP ports"
+    ],
+    [
+      "Bảo mật",
+      "SSH v1/v2<br />SSL v2/v3/TLSv1Port Security<br />Broadcast/Multicast/Unknown-unicast Storm Control"
+    ],
+    [
+      "IPv6",
+      "IPv6 Dual IPv4/IPv6<br />Multicast Listener Discovery(MLD) Snooping<br />IPv6 neighbor discovery (ND)<br />Path maximum transmission unit (MTU) discovery<br />Internet Control Message Protocol (ICMP) version 6"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3, compatible with public MIBs and TP-LINK private MIBsRMON (1, 2, 3, 9 groups)CPU Monitoring<br />Port Mirroring<br />Time Setting: SNTP"
+    ],
+    [
+      "MIBs",
+      "MIB II (RFC1213)<br />Interface MIB (RFC2233)<br />Ethernet Interface MIB (RFC1643)<br />Bridge MIB (RFC1493)<br />P/Q-Bridge MIB (RFC2674)<br />RMON MIB (RFC2819)<br />RMON2 MIB (RFC2021)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1500-28<br />PCT<br />Power Cord<br />Installation Guide<br />Resource CDRackmount KitRubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™ Windows 7 or Windows 8, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉);Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch</p><p>24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch</p>",
+  "attrs": [
+    "24 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch 24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

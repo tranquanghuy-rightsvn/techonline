@@ -1,0 +1,54 @@
+{
+  "slug": "ds-7208huhi-k2p-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-7208HUHI-K2/P Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7208HUHI-K2/P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/06/ds-7204-08-16huhi-k-p-500x500.png"
+  ],
+  "summary": [
+    "Self-adaptive normal camera and Hikvision PoC camera connection",
+    "H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras",
+    "Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input",
+    "Connectable to H.265+/H.265/H.264+/H.264 IP cameras",
+    "Up to 5 MP resolution for recording",
+    "Automatic power supply management for PoC camera to guarantee safety",
+    "Long distance transmission over UTP and coaxial cable",
+    "4/8/16-ch synchronous playback"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7208HUHI-K2/P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>Self-adaptive normal camera and Hikvision PoC camera connection</p><p>H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras</p><p>Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input</p><p>Connectable to H.265+/H.265/H.264+/H.264 IP cameras</p><p>Up to 5 MP resolution for recording</p><p>Automatic power supply management for PoC camera to guarantee safety</p><p>Long distance transmission over UTP and coaxial cable</p><p>4/8/16-ch synchronous playback</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Self-adaptive normal camera and Hikvision PoC camera connection H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

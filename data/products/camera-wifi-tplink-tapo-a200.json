@@ -1,0 +1,108 @@
+{
+  "slug": "camera-wifi-tplink-tapo-a200",
+  "name": "Solar Panel TP-Link Tapo A200",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo A200",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-a200/g01.png"
+  ],
+  "summary": [
+    "Solar Panel",
+    "solar power, battery camera, high-efficiency solar cells",
+    "Device Compatibility: Works with Tapo C400 v1.0, Tapo C420 v1.0/1.20, Tapo C425 v1.0/1.20.Check all supported models >>",
+    "Connection Capacity: A solar panel can only connect to one camera.",
+    "Output Port: Micro USB",
+    "Power Source: Sunlight"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo A200"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Device Compatibility",
+      "Works with Tapo C400 v1.0, Tapo C420 v1.0/1.20, Tapo C425 v1.0/1.20.Check all supported models >>"
+    ],
+    [
+      "Connection Capacity",
+      "A solar panel can only connect to one camera."
+    ],
+    [
+      "Output Port",
+      "Micro USB"
+    ],
+    [
+      "Power Source",
+      "Sunlight"
+    ],
+    [
+      "Output Voltage",
+      "Solar Panel Max Charging Voltage: 5.2 V Solar Panel Max Charging Power: 4.5 W"
+    ],
+    [
+      "Power Cord Length",
+      "Solar Panel Charging Cable Length: 4 m"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "Mounting Options",
+      "Wall-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-20°C~45°C (-4°F~113°F)*The suitable temperature for Tapo A200 is -20℃~45℃. The working temperature range for battery charging should be maintained at 0℃~45℃."
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃ (-40°F~140°F)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "237.96 × 174.85 × 17.5mm(9.37 × 6.88 × 0.69 in)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo A200 Solar Panel ×1Adjustable Mounting Bracket ×1Mounting Screws ×3Mounting Anchors ×3Mounting Template ×1Slide Waterproof Gaskets ×2Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, RCM"
+    ]
+  ],
+  "description_html": "<p>Solar Panel</p><p>solar power, battery camera, high-efficiency solar cells</p>",
+  "attrs": [
+    "Quay quét"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Solar Panel solar power, battery camera, high-efficiency solar cells",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

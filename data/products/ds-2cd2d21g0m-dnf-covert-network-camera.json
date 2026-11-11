@@ -1,0 +1,52 @@
+{
+  "slug": "ds-2cd2d21g0m-dnf-covert-network-camera",
+  "name": "Covert Network Camera Hikvision DS-2CD2D21G0/M-D/NF",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2D21G0/M-D/NF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2D11G0_M-D_NF-500x500.jpg"
+  ],
+  "summary": [
+    "High quality imaging with 2 MP resolution Efficient H.265+ compression technology Clear imaging against strong back light due to 120 dB true WDR technology Mini size suitable for covert installations"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2D21G0/M-D/NF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>High quality imaging with 2 MP resolution Efficient H.265+ compression technology Clear imaging against strong back light due to 120 dB true WDR technology Mini size suitable for covert installations</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "High quality imaging with 2 MP resolution Efficient H.265+ compression technology Clear imaging against strong back light due to 120 dB true WDR technology Mini size suitable for covert installations",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

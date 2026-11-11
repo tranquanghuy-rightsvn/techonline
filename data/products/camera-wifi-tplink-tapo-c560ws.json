@@ -1,0 +1,210 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c560ws",
+  "name": "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời TP-Link Tapo C560WS",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C560WS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c560ws/g01.jpg"
+  ],
+  "summary": [
+    "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời",
+    "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời Tapo, Chuẩn 4K Siêu Nét, Nhận Diện Khuôn Mặt, Phát Hiện Người/Phương Tiện/Thú Cưng Bằng AI Miễn Phí, Theo Dõi AI 360°, Quan Sát Màu Ban Đêm Công Nghệ Starlight, Giám Sát Liên Tục 24/7, Kết Nối Wi-Fi 6 Hai Băng Tần 2.4/5 GHz, Chống Nước Chuẩn IP66, Lưu Trữ Cục Bộ Và Trên Đám Mây, Tương Thích Với Alexa và Google.",
+    "Cảm biến hình ảnh: 1/2.7” Progressive Scan CMOS Starlight Sensor",
+    "Ống kính: Focal Length: 4 mm ± 5%; Aperture: F1.6 ± 5%; Field of View: 105° (Diagonal), 88°(Horizontal), 45°(Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LED; Starlight Color Night Vision",
+    "Lighting: 2× Built-in Spotlights"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C560WS"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.7” Progressive Scan CMOS Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 4 mm ± 5%<br />Aperture: F1.6 ± 5%<br />Field of View: 105° (Diagonal), 88°(Horizontal), 45°(Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED<br />Starlight Color Night Vision"
+    ],
+    [
+      "Lighting",
+      "2× Built-in Spotlights"
+    ],
+    [
+      "Interface & Button",
+      "1× Ethernet Port<br />1× RESET Button<br />1× MicroSD Card Slot (Up to 512GB)"
+    ],
+    [
+      "Góc Quay Quét",
+      "Pan Mechanical Range: 326° (360° Pan Coverage)<br />Tilt Mechanical Range: 53° (98° Tilt Coverage)"
+    ],
+    [
+      "Maximum Resolution",
+      "4K 8MP (3840 × 2160 px)"
+    ],
+    [
+      "Frame Rate",
+      "25 fps"
+    ],
+    [
+      "Digital Zoom",
+      "18x"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "99 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Pet Detection<br />Vehicle Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi or Ethernet"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11a/b/g/n/ac/ax, 2.4 GHz /5 GHzBluetooth (for setup only)"
+    ],
+    [
+      "Ethernet Port",
+      "Yes"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Security",
+      "SSL/TLS,AES"
+    ],
+    [
+      "Power Source",
+      "12V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "12 V, 1 A (DC Power)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "IP66"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 12.0+ and Android 5.0+ operating systems."
+    ],
+    [
+      "Mounting Options",
+      "Ceiling-Mounted<br />Wall-Mounted<br />Pole-Mounted (Pole-Mounting loops required but not included)"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-30℃~60℃ (-22°F~140°F)"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃ (-40°F~140°F)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "147.4 × 74.7 × 165.4mm（Mounting Bracket Included）147.4 × 74.7 × 157.4mm（Mounting Bracket Excluded)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C560WS Camera×1DC Power Adapter×1Mounting Template Sticker×1Mounting Bracket×1Mounting Anchors and Screws<br />Bracket Screws×2Waterproof Seal×1Waterproof Cable Attachments×1Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "FCC, RCM"
+    ]
+  ],
+  "description_html": "<p>Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời</p><p>Camera Wi-Fi An Ninh Quay Quét Ngoài Trời Tapo, Chuẩn 4K Siêu Nét, Nhận Diện Khuôn Mặt, Phát Hiện Người/Phương Tiện/Thú Cưng Bằng AI Miễn Phí, Theo Dõi AI 360°, Quan Sát Màu Ban Đêm Công Nghệ Starlight, Giám Sát Liên Tục 24/7, Kết Nối Wi-Fi 6 Hai Băng Tần 2.4/5 GHz, Chống Nước Chuẩn IP66, Lưu Trữ Cục Bộ Và Trên Đám Mây, Tương Thích Với Alexa và Google.</p>",
+  "attrs": [
+    "8MP",
+    "Quay quét",
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời Camera Wi-Fi An Ninh Quay Quét Ngoài Trời Tapo, Chuẩn 4K Siêu Nét, Nhận Diện Khuôn Mặt, Phát Hiện Người/Phương Tiện/Thú Cưng Bằng AI Miễn Phí, Theo Dõi AI 360°, Quan Sát Màu Ban Đêm Công Nghệ Starlight, Giám Sát Liên Tục 24/7, Kết Nối Wi-Fi 6 Hai Băng…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

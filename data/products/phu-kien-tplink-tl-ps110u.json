@@ -1,0 +1,85 @@
+{
+  "slug": "phu-kien-tplink-tl-ps110u",
+  "name": "USB 2.0 Print Server Fast Ethernet TP-Link TL-PS110U",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-PS110U",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-tl-ps110u/g01.jpg"
+  ],
+  "summary": [
+    "USB 2.0 Print Server Fast Ethernet",
+    "This print server is equipped with a high-speed microprocessor and USB 2.0 port to ensure printing jobs are processed as rapidly and effectively as possible.",
+    "Giao diện: 1 x cổng USB 2.01 x cổng nhanh Ethernet RJ-45",
+    "Điện năng tiêu thụ: 5V DC, 2A",
+    "LED: Trạng thái, 10Mbps, 100Mbps, USB",
+    "Kích thước ( R x D x C ): 73×65×30"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-PS110U"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng USB 2.01 x cổng nhanh Ethernet RJ-45"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "5V DC, 2A"
+    ],
+    [
+      "LED",
+      "Trạng thái, 10Mbps, 100Mbps, USB"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "73×65×30"
+    ],
+    [
+      "Advanced Features",
+      "Máy khách, POST (Tự động Kiểm tra Nguồn)Nâng cấp Firmware, Tiện ích Windows-Based"
+    ],
+    [
+      "Quản lý",
+      "Quản lý Web, Cấu hình Telnet, HP Web JetAdmin"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP,IPX/SPX,NetBEUI,Apple<br />Talk,LPR/LPD,IPP,SMB"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Máy chủ inCáp Ethernet (RJ45)CD nguồn<br />Hướng dẫn cài đặt nhanh<br />Bộ cấp nguồn"
+    ],
+    [
+      "System Requirements",
+      "Windows 9x/ME, Windows NT/2000/XP/Vista/7/10, Mac OS 8.1 hoặc Later, UNIX/Linux, Netware 3.12 hoặc Later"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~50℃ (32℉~122℉)Nhiệt độ lưu trữ: -5℃~65℃ (23℉~139℉)Độ ẩm hoạt động: 0%~70% không ngưng tụĐộ ẩm lưu trữ: 0%~80% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB 2.0 Print Server Fast Ethernet</p><p>This print server is equipped with a high-speed microprocessor and USB 2.0 port to ensure printing jobs are processed as rapidly and effectively as possible.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB 2.0 Print Server Fast Ethernet This print server is equipped with a high-speed microprocessor and USB 2.0 port to ensure printing jobs are processed as rapidly and effectively as possible.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

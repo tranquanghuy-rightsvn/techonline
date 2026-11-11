@@ -1,0 +1,55 @@
+{
+  "slug": "ds-77167732ni-k416p-nvr-embedded-plug-play-4k",
+  "name": "Đầu ghi hình IP NVR Embedded Plug & Play 4K Hikvision DS-7716/7732NI-K4/16P",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7716/7732NI-K4/16P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-7732NIK416P-500x500.jpg"
+  ],
+  "summary": [
+    "Third-party network cameras supported",
+    "Up to 8 Megapixels resolution recording",
+    "Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+    "16/32-ch network cameras can be connected with 160M/256M incoming bandwidth",
+    "Up to 4 SATA interfaces",
+    "Plug & Play with up to 16 independent PoE network interfaces",
+    "Support dual-os to ensure high reliablility of system running",
+    "Support various VCA detection alarm and VCA search",
+    "Support H.265/H.264/MPEG4 video formats"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7716/7732NI-K4/16P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Third-party network cameras supported</p><p>Up to 8 Megapixels resolution recording</p><p>Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution</p><p>16/32-ch network cameras can be connected with 160M/256M incoming bandwidth</p><p>Up to 4 SATA interfaces</p><p>Plug &amp; Play with up to 16 independent PoE network interfaces</p><p>Support dual-os to ensure high reliablility of system running</p><p>Support various VCA detection alarm and VCA search</p><p>Support H.265/H.264/MPEG4 video formats</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Third-party network cameras supported Up to 8 Megapixels resolution recording Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

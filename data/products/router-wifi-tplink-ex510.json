@@ -1,0 +1,164 @@
+{
+  "slug": "router-wifi-tplink-ex510",
+  "name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link EX510",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "EX510",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-ex510/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000",
+    "Với băng thông 160 MHz và 1024-QAM, EX510 mang lại tốc độ gigabit thực lên đến 3 Gbps.",
+    "Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.",
+    "Giao diện: 4 cổng LAN RJ45 10/100/1000 Mbps, 1 cổng WAN RJ45 10/100/1000 Mbps, 1 cổng USB 3.0",
+    "Nút: Nút Bật / Tắt nguồn, Nút Reset, Nút Wi-Fi / WPS, Nút LED",
+    "Bộ cấp nguồn bên ngoài (EU): 12V/1.5A"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EX510"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "4 cổng LAN RJ45 10/100/1000 Mbps, 1 cổng WAN RJ45 10/100/1000 Mbps, 1 cổng USB 3.0"
+    ],
+    [
+      "Nút",
+      "Nút Bật / Tắt nguồn, Nút Reset, Nút Wi-Fi / WPS, Nút LED"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/1.5A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "10.2 × 5.3 × 1.5 in (260.2 × 135.0 × 38.6 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Bốn ăng-ten bên ngoài hiệu suất cao"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11ax/n/g/b 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz và 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "2402 Mbps trên băng tần 5 GHz, 574 Mbps trên băng tần 2.4 GHz"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Bật / Tắt Sóng không dây, WMM, Thống kê không dây"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Mã hóa WPA/WPA2/WPA3"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE:<20dBm (2.4GHz); <23dBm (5.15GHz–5.35GHz); <30dBm (5.47GHz–5.725GHz)"
+    ],
+    [
+      "Lịch Wi-Fi",
+      "Hỗ trợ lịch trình không dây 2.4 GHz và 5 GHz"
+    ],
+    [
+      "Mesh Technology",
+      "EasyMesh, Chuyển vùng liền mạch, Tự phục hồi, Hỗ trợ 802.11k/v/r"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hardware QoS, Flow Classification"
+    ],
+    [
+      "Advanced Features",
+      "Muti-SSID, TX Beamforming, MU-MIMO, DL/UL OFDMA, Airtime Fairness"
+    ],
+    [
+      "Operating Modes",
+      "Router, Điểm truy cập"
+    ],
+    [
+      "Dạng WAN",
+      "IP động / IP tĩnh / PPPoE / PPTP / L2TP (Multi-EWAN)"
+    ],
+    [
+      "Quản lý",
+      "Kiểm soát truy cập, Quản lý nội bộ, Quản lý từ xa, TR-069 (TR-098 / TR-181), TR-111, TR-143Ứng dụng Aginet"
+    ],
+    [
+      "DHCP",
+      "Máy chủ, Danh sách máy khách DHCP, Địa chỉ dành riêng"
+    ],
+    [
+      "Port Forwarding",
+      "Máy chủ ảo, kích hoạt cổng, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "IPSec, PPTP, L2TP"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Quyền kiểm soát của phụ huynh, Quản lý nội bộ, Danh sách máy chủ lưu trữ, Danh sách trắng, Danh sách đen"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "DoS, SPI Firewall, Liên kết địa chỉ MAC và IP"
+    ],
+    [
+      "Giao thức",
+      "IPv4, IPv6"
+    ],
+    [
+      "VPN Server",
+      "PPTP, OpenVPN, IPSec"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Router Wi-Fi 6 băng tần kép AX3000 EX510Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "Requirements",
+      "Microsoft Windows 98SE / NT / 2000 / XP / Vista ™ / 7/8 / 8.1 / 10, MAC OS, NetWare, UNIX hoặc Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 hoặc trình duyệt hỗ trợ Java khác"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃–40℃ (32℉–104℉)Nhiệt độ bảo quản: -40℃–60℃ (-40℉–140℉)Độ ẩm hoạt động: 10% –90% không ngưng tụĐộ ẩm lưu trữ: 5% –90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000</p><p>Với băng thông 160 MHz và 1024-QAM, EX510 mang lại tốc độ gigabit thực lên đến 3 Gbps.</p><p>Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 Với băng thông 160 MHz và 1024-QAM, EX510 mang lại tốc độ gigabit thực lên đến 3 Gbps. Tận hưởng phát trực tuyến và chơi game nhanh hơn bao giờ hết.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

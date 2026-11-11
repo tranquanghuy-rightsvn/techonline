@@ -1,0 +1,49 @@
+{
+  "slug": "ds-k1f180-d8e-card-issuer",
+  "name": "Thiết bị kiểm soát ra vào Card Issuer Hikvision DS-K1F180-D8E",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1F180-D8E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1F180-D8E.jpg"
+  ],
+  "summary": [
+    "Plug-and-play USB with no-driver technology",
+    "Supports various card types (Mifare card and EM card)",
+    "Supports on-line upgrade"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1F180-D8E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Plug-and-play USB with no-driver technology</p><p>Supports various card types (Mifare card and EM card)</p><p>Supports on-line upgrade</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Plug-and-play USB with no-driver technology Supports various card types (Mifare card and EM card) Supports on-line upgrade",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

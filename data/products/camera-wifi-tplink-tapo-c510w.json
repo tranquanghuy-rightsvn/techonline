@@ -1,0 +1,217 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c510w",
+  "name": "Camera WiFi Quay Quét Ngoài Trời TP-Link Tapo C510W",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C510W",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c510w/g01.jpg"
+  ],
+  "summary": [
+    "Camera WiFi Quay Quét Ngoài Trời",
+    "2K resolution, 360° visual coverage, motion tracking, person detection, full-color night vision, IP65 weatherproof",
+    "Cảm biến hình ảnh: 1/2.8“ CMOS Sensor",
+    "Ống kính: Focal Length: 4.0mm; Aperture: F2.2; Field of View: 100.3° (Diagonal), 84.3° (Horizontal), 45.2° (Vertical)",
+    "Tầm nhìn đêm: Color Night Vision(65 ft / 20 m)Infrared Night Vision (98 ft / 29.9 m)",
+    "Lighting: 2× 850nm IR LED 2× Spotlights"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C510W"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.8“ CMOS Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 4.0mm<br />Aperture: F2.2<br />Field of View: 100.3° (Diagonal), 84.3° (Horizontal), 45.2° (Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "Color Night Vision(65 ft / 20 m)Infrared Night Vision (98 ft / 29.9 m)"
+    ],
+    [
+      "Lighting",
+      "2× 850nm IR LED 2× Spotlights"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× MicroSD Card Slot"
+    ],
+    [
+      "Góc Quay Quét",
+      "Pan Mechanical Range: 350°(360° Pan Coverage)<br />Tilt Mechanical Range: 90°(130° Tilt Coverage)"
+    ],
+    [
+      "Maximum Resolution",
+      "2K (2304 × 1296 px)"
+    ],
+    [
+      "Frame Rate",
+      "up to 30 fps"
+    ],
+    [
+      "Digital Zoom",
+      "10×"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "WDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "94 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Motion detection<br />Person detection<br />Tamper detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes *Only works with Motion/Person Detection."
+    ],
+    [
+      "Output Notification",
+      "App Notifications of Camera Event<br />App Notification of AI Detection Event with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes（Profile S）"
+    ],
+    [
+      "Security",
+      "128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK/WPA3-PSK"
+    ],
+    [
+      "Power Source",
+      "9V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "9.0 V, 0.85A, DC jack Power"
+    ],
+    [
+      "Typical Power Consumption",
+      "2.30W"
+    ],
+    [
+      "Maximum Power Consumption",
+      "7.20W"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa, Samsung Smart<br />Things"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 9.0 or higher, Andriod 4.4 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Ceiling-Mounted<br />Wall-Mounted<br />Pole-Mounted (Pole-Mounting loops required but not included)"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-30℃~60℃ (-22℉~140℉)"
+    ],
+    [
+      "Storage Temperature",
+      "-40℃~60℃ (-40℉~140℉)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "0~90%RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "4.88 x 4.77 x 3.54 in（123.9 x 121.2 x 90 mm)"
+    ],
+    [
+      "Trọng lượng",
+      "Camera Weight:11.15 oz / 316g"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C510W Camera x 1Power Adapter x 1Mounting Template Sticker x 1Mounting Bracket x 1Mounting Anchors x 4Mounting Screws x 4Bracket Screws x 2Waterproof Seal x 1Quick Start Guide"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE,IP65,ONVIF ,NTRA,JRF,VCCI,KC,RCM"
+    ]
+  ],
+  "description_html": "<p>Camera WiFi Quay Quét Ngoài Trời</p><p>2K resolution, 360° visual coverage, motion tracking, person detection, full-color night vision, IP65 weatherproof</p>",
+  "attrs": [
+    "Quay quét",
+    "Ngoài trời"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera WiFi Quay Quét Ngoài Trời 2K resolution, 360° visual coverage, motion tracking, person detection, full-color night vision, IP65 weatherproof",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

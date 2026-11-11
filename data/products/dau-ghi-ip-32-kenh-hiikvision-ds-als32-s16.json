@@ -1,0 +1,61 @@
+{
+  "slug": "dau-ghi-ip-32-kenh-hiikvision-ds-als32-s16",
+  "name": "Đầu ghi IP 32 kênh Hikvision DS-ALS32-S16",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-ALS32-S16",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 67000000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/11/DS-ALS32-S16.jpg"
+  ],
+  "summary": [
+    "– Chuẩn nén H.265, H265+, H.264, H264+.",
+    "– Độ phân giải ghi rất cao lên tới 32 MP.",
+    "– Băng thông đầu vào tối đa: 320Mbps – Băng thông đầu ra tối đa: 400Mbps – Hỗ trợ 16 ổ HDD dung lượng tối đa mỗi ổ 16TB.",
+    "Cho phép tháo lắp ổ cứng khi đầu ghi đang chạy , ko cần ngắt nguồn.",
+    "– Hỗ trợ RAID 0,1,5,6, 10.",
+    "– Hỗ trợ 1 cổng eSATA sử dụng cho ghi hình hoặc xuất dữ liệu."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-ALS32-S16"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Số kênh",
+      "32 kênh"
+    ],
+    [
+      "– Băng thông đầu vào tối đa",
+      "320Mbps – Băng thông đầu ra tối đa: 400Mbps – Hỗ trợ 16 ổ HDD dung lượng tối đa mỗi ổ 16TB."
+    ]
+  ],
+  "description_html": "<p>– Chuẩn nén H.265, H265+, H.264, H264+.</p><p>– Độ phân giải ghi rất cao lên tới 32 MP.</p><p>– Băng thông đầu vào tối đa: 320Mbps – Băng thông đầu ra tối đa: 400Mbps – Hỗ trợ 16 ổ HDD dung lượng tối đa mỗi ổ 16TB.</p><p>Cho phép tháo lắp ổ cứng khi đầu ghi đang chạy , ko cần ngắt nguồn.</p><p>– Hỗ trợ RAID 0,1,5,6, 10.</p><p>– Hỗ trợ 1 cổng eSATA sử dụng cho ghi hình hoặc xuất dữ liệu.</p>",
+  "attrs": [
+    "32 kênh",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Chuẩn nén H.265, H265+, H.264, H264+. – Độ phân giải ghi rất cao lên tới 32 MP. – Băng thông đầu vào tối đa: 320Mbps – Băng thông đầu ra tối đa: 400Mbps – Hỗ trợ 16 ổ HDD dung lượng tối đa mỗi ổ 16TB.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "he-thong-wifi-mesh-tplink-deco-x60-v3-20",
+  "name": "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình TP-Link Deco X60 V3.20",
+  "categories": [
+    "tp-link-mesh-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Deco X60 V3.20",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/he-thong-wifi-mesh-tplink-deco-x60-v3-20/g01.jpg"
+  ],
+  "summary": [
+    "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình",
+    "Hệ thống WiFi 6 Mesh Cho Gia Đình AX5400 tăng tốc độ WiFi của bạn lên đến 5400 Mbps.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX54005 GHz: 4804 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Nhà 1-3 phòng ngủ (3 thiết bị)Công nghệ Mesh TP-Link; Tùy chọn Ethernet backhaul hoạt động cùng nhau để liên kết các thiết bị Deco nhằm cung cấp vùng phủ sóng liền mạch",
+    "WiFi Capacity: High; Dual-Band; Distribute devices to different bands for optimal performanceMU-MIMO; Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Deco X60 V3.20"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX54005 GHz: 4804 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 1-3 phòng ngủ (3 thiết bị)Công nghệ Mesh TP-Link<br />Tùy chọn Ethernet backhaul hoạt động cùng nhau để liên kết các thiết bị Deco nhằm cung cấp vùng phủ sóng liền mạch"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Distribute devices to different bands for optimal performanceMU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Bảo mật HomeShieldBảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập<br />Phòng chống tấn công DDoSMáy quét mạng gia đình"
+    ],
+    [
+      "Guest Network",
+      "Mạng khách 5 GHzMạng khách 2.4 GHz"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA-PersonalWPA2-PersonalWPA3-Personal"
+    ],
+    [
+      "Ethernet Ports",
+      "2 cổng Gigabit*Mỗi thiết bị Deco<br />Hỗ trợ tự động cảm biến mạng WAN/LAN"
+    ],
+    [
+      "Buttons",
+      "Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4 IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Control<br />Cấu hình tùy chỉnh<br />Thư viện bộ lọc nội dung chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Thời gian nghỉ<br />Phần thưởng thời gian<br />Xếp hạng thời gian trực tuyến của gia đình"
+    ],
+    [
+      "WAN Types",
+      "IP độngIP tĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "HomeShield QoSƯu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng cấp firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Cổng chuyển tiếpUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-Link"
+    ],
+    [
+      "Management Features",
+      "Deco App"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCP DNS DNS<br />Port: 53 Protocol: TCP &amp; UDP DHCP Server IP address assignment (DHCP)"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:<20 dBm (2.4 GHz)<23 dBm (5 GHz)"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "4.33 × 4.33 × 4.49 in (110 × 110 × 114 mm)"
+    ],
+    [
+      "Package Content",
+      "Deco X60 (3 thiết bị)3 Thiết bị Deco X601 Cáp Ethernet RJ453 Bộ chuyển đổi nguồn<br />Hướng dẫn cài đặt nhanh<br />Deco X60 (2 thiết bị)2 Thiết bị Deco X601 Cáp Ethernet RJ452 Bộ chuyển đổi nguồn"
+    ],
+    [
+      "System Requirements",
+      "Android 5.0 or later iOS 9.0 or later *Note: The minimum system requirements will be updated alongside updates to the app, subject to official website information."
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ lưu trữ: -40℃~60℃ (-40℉ ~140℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình</p><p>Hệ thống WiFi 6 Mesh Cho Gia Đình AX5400 tăng tốc độ WiFi của bạn lên đến 5400 Mbps.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX5400"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình Hệ thống WiFi 6 Mesh Cho Gia Đình AX5400 tăng tốc độ WiFi của bạn lên đến 5400 Mbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

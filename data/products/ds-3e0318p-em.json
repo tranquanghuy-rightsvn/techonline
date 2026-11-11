@@ -1,0 +1,78 @@
+{
+  "slug": "ds-3e0318p-em",
+  "name": "Switch Hikvision DS-3E0318P-E/M",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E0318P-E/M",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0318P-E-M.jpg"
+  ],
+  "summary": [
+    "Switch mạng 16 cổng PoE 100M, 1 cổng uplink 1000M, 1 cổng SFP độc lập 10/100/1000M , Layer 2",
+    "Tự tương thích chuẩn 802.3af/at , Tổng công suất PoE 135W",
+    "Bốn chế độ hoạt động a.",
+    "Chế độ mở rộng : cổng 9-16, khoảng cách tối đa PoE tối đa 250m với dây mạng CAT5e",
+    "b.",
+    "Chế độ cách ly: Mỗi cổng 100M có 1 VLAN riêng, cách ly với các cổng khác và ngăn ngừa tấn công mạng.",
+    "c.",
+    "Chế độ tiêu chuẩn : mặc định, hoạt động bình thường d.",
+    "Chế độ ưu tiên : Cổng ưu tiên , port1-8, Ưu tiên chất lượng dịch vụ",
+    "Chống sét : 4KV cho mỗi cổng",
+    "Vỏ kim loại",
+    "Nguồn 100-240VAC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E0318P-E/M"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "Chế độ mở rộng",
+      "cổng 9-16, khoảng cách tối đa PoE tối đa 250m với dây mạng CAT5e"
+    ],
+    [
+      "Chế độ cách ly",
+      "Mỗi cổng 100M có 1 VLAN riêng, cách ly với các cổng khác và ngăn ngừa tấn công mạng."
+    ],
+    [
+      "Chế độ tiêu chuẩn",
+      "mặc định, hoạt động bình thường d."
+    ],
+    [
+      "Chế độ ưu tiên",
+      "Cổng ưu tiên , port1-8, Ưu tiên chất lượng dịch vụ"
+    ],
+    [
+      "Chống sét",
+      "4KV cho mỗi cổng"
+    ]
+  ],
+  "description_html": "<p>Switch mạng 16 cổng PoE 100M, 1 cổng uplink 1000M, 1 cổng SFP độc lập 10/100/1000M , Layer 2</p><p>Tự tương thích chuẩn 802.3af/at , Tổng công suất PoE 135W</p><p>Bốn chế độ hoạt động a.</p><p>Chế độ mở rộng : cổng 9-16, khoảng cách tối đa PoE tối đa 250m với dây mạng CAT5e</p><p>b.</p><p>Chế độ cách ly: Mỗi cổng 100M có 1 VLAN riêng, cách ly với các cổng khác và ngăn ngừa tấn công mạng.</p><p>c.</p><p>Chế độ tiêu chuẩn : mặc định, hoạt động bình thường d.</p><p>Chế độ ưu tiên : Cổng ưu tiên , port1-8, Ưu tiên chất lượng dịch vụ</p><p>Chống sét : 4KV cho mỗi cổng</p><p>Vỏ kim loại</p><p>Nguồn 100-240VAC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch mạng 16 cổng PoE 100M, 1 cổng uplink 1000M, 1 cổng SFP độc lập 10/100/1000M , Layer 2 Tự tương thích chuẩn 802.3af/at , Tổng công suất PoE 135W Bốn chế độ hoạt động a.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

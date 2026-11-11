@@ -1,0 +1,216 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c260",
+  "name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C260",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C260",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c260/g01.jpg"
+  ],
+  "summary": [
+    "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét",
+    "Độ phân giải 4K 8MP siêu nét, nhận diện khuôn mặt người, phát hiện và thông báo miễn phí cho người/thú cưng/xe cộ, phát hiện và theo dõi chuyển động, chế độ riêng tư vật lý, quan sát ban đêm lên đến 12 mét.",
+    "Cảm biến hình ảnh: 1/2.7“ Progressive Scan CMOS Starlight Sensor",
+    "Ống kính: Focal Length: 4.3 mm; Aperture: F1.6; Field of View: 109.6° (Diagonal), 91.5° (Horizontal), 46.1° (Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LEDs (40 ft / 12 m)",
+    "Cơ chế Ngày/Đêm: IR-Cut Filter with Auto-Switching"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C260"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.7“ Progressive Scan CMOS Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 4.3 mm<br />Aperture: F1.6<br />Field of View: 109.6° (Diagonal), 91.5° (Horizontal), 46.1° (Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LEDs (40 ft / 12 m)"
+    ],
+    [
+      "Cơ chế Ngày/Đêm",
+      "IR-Cut Filter with Auto-Switching"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× microSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Maximum Resolution",
+      "4K 8MP (3840 × 2160 px)"
+    ],
+    [
+      "Frame Rate",
+      "15/20/25 fps (Default 20 fps)"
+    ],
+    [
+      "Digital Zoom",
+      "18x"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3<br />DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in microphone and speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "90 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Facial Recognition<br />Motion detection<br />Person detection<br />Vehicle Detection<br />Pet Detection<br />Line-crossing Detection<br />Tamper detection<br />Baby Cry Detection<br />Cat Meow Detection<br />Dog Bark Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes*Only works with Motion Detection."
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11a/b/g/n, 2.4 & 5 GHz Wi-FiBluetooth (for setup only)"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Transmission Rate",
+      "11b: 11 Mbps11a/g: 54<br />Mbps11n: 72.2 Mbps"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLS WPA/WPA2-PSK/WPA3-personal"
+    ],
+    [
+      "Power Source",
+      "5V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "5 V, 2 A (Type-A Port)"
+    ],
+    [
+      "Power Cord Length",
+      "3m Type-A to Type-C Cable"
+    ],
+    [
+      "Typical Power Consumption",
+      "2.5 W"
+    ],
+    [
+      "Maximum Power Consumption",
+      "8.65 W"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa, Samsung Smart<br />Things"
+    ],
+    [
+      "Mounting Options",
+      "Tabletop<br />Ceiling-Mounted<br />Wall-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "0 ℃ ~ 40 ℃ (32 °F ~ 104 °F )"
+    ],
+    [
+      "Storage Temperature",
+      "-20 ℃ ~ 60 ℃ (-4 °F ~ 140 °F)"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Trọng lượng",
+      "7.4 oz / 210.6 g"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C260 Camera × 1Power Adapter ×13m / 9.84ft USB-Type C Power Cord ×1Mounting Anchors × 2Mounting Screws × 2L-Shaped Mounting Bracket ×1Mounting Template Sticker× 1Quick Start Guide"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "2.94 × 3.49 × 4.70 in (74.59*88.74*118.87 mm)"
+    ]
+  ],
+  "description_html": "<p>Camera AI Wi-Fi An Ninh Gia Đình Quay Quét</p><p>Độ phân giải 4K 8MP siêu nét, nhận diện khuôn mặt người, phát hiện và thông báo miễn phí cho người/thú cưng/xe cộ, phát hiện và theo dõi chuyển động, chế độ riêng tư vật lý, quan sát ban đêm lên đến 12 mét.</p>",
+  "attrs": [
+    "Quay quét"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét Độ phân giải 4K 8MP siêu nét, nhận diện khuôn mặt người, phát hiện và thông báo miễn phí cho người/thú cưng/xe cộ, phát hiện và theo dõi chuyển động, chế độ riêng tư vật lý, quan sát ban đêm lên đến 12 mét.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

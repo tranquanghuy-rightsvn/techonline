@@ -1,0 +1,52 @@
+{
+  "slug": "ds-2ae4215t-d",
+  "name": "Camera PTZ Hikvision DS-2AE4215T-D(D)",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2AE4215T-D(D)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D-500x500.jpg"
+  ],
+  "summary": [
+    "DS-2AE4215T-D(D) 4-inch 2 MP 15X Powered by DarkFighter Analog Speed Dome"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2AE4215T-D(D)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>DS-2AE4215T-D(D) 4-inch 2 MP 15X Powered by DarkFighter Analog Speed Dome</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "DS-2AE4215T-D(D) 4-inch 2 MP 15X Powered by DarkFighter Analog Speed Dome",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

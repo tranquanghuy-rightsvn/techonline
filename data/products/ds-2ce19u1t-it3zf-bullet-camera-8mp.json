@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2ce19u1t-it3zf-bullet-camera-8mp",
+  "name": "Bullet Camera 8MP Hikvision DS-2CE19U1T-IT3ZF",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE19U1T-IT3ZF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/12/camera_hikvision_ds_2ce19u1t_it3zf-nha-an-toan-500x500.jpg"
+  ],
+  "summary": [
+    "8.29 Megapixel high-performance CMOS",
+    "Auto focus",
+    "3840 × 2160 resolution",
+    "2.7 mm to 13.5 mm motorized vari-focal lens",
+    "EXIR 2.0, smart IR, up to 80m IR distance",
+    "OSD menu, DNR",
+    "4 in 1 video output (switchable TVI/AHD/CVI/CVBS)",
+    "IP67",
+    "Up the Coax(HIKVISION-C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE19U1T-IT3ZF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>8.29 Megapixel high-performance CMOS</p><p>Auto focus</p><p>3840 × 2160 resolution</p><p>2.7 mm to 13.5 mm motorized vari-focal lens</p><p>EXIR 2.0, smart IR, up to 80m IR distance</p><p>OSD menu, DNR</p><p>4 in 1 video output (switchable TVI/AHD/CVI/CVBS)</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8.29 Megapixel high-performance CMOS Auto focus 3840 × 2160 resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

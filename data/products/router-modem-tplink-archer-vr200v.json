@@ -1,0 +1,200 @@
+{
+  "slug": "router-modem-tplink-archer-vr200v",
+  "name": "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router TP-Link Archer VR200v",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer VR200v",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-archer-vr200v/g01.jpg"
+  ],
+  "summary": [
+    "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router",
+    "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router",
+    "Giao diện: 1 10/100/1000Mbps RJ45 LAN/WAN Port3 10/100/1000Mbps RJ45 LAN Ports3 RJ11 Ports(DSL+Phone1/2)2 USB 2.0 Ports",
+    "Nút: 1 Power On/Off Button1 Wi-Fi On/Off Button1 WPS Button1 RESET Button1 DECT Button",
+    "Bộ cấp nguồn bên ngoài (EU): 12; VDC/2.5A",
+    "Chuẩn IEEE: IEEE 802.3, 802.3u, 802.3ab"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer VR200v"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 10/100/1000Mbps RJ45 LAN/WAN Port3 10/100/1000Mbps RJ45 LAN Ports3 RJ11 Ports(DSL+Phone1/2)2 USB 2.0 Ports"
+    ],
+    [
+      "Nút",
+      "1 Power On/Off Button1 Wi-Fi On/Off Button1 WPS Button1 RESET Button1 DECT Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12<br />VDC/2.5A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u, 802.3ab"
+    ],
+    [
+      "Chuẩn VDSL2",
+      "ITU-T G.993.2, support G.vector"
+    ],
+    [
+      "ADSL Standards",
+      "Full-rate ANSI T1.413 Issue 2<br />ITU-T G.992.1(G.DMT), ITU-T G.992.2(G.Lite)ITU-T G.994.1 (G.hs), ITU-T G.995.1"
+    ],
+    [
+      "Chuẩn ADSL2",
+      "ITU-T G.992.3 (G.DMT.bis),ITU-T G.992.4 (G.lite.bis)"
+    ],
+    [
+      "Chuẩn ADSL2+",
+      "ITU-T G.992.5"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "245 × 181 × 90 mm (9.6 × 7.1 × 3.5 in.)"
+    ],
+    [
+      "Ăng ten",
+      "Three detachable dual band external antennas"
+    ],
+    [
+      "Chuẩn VOIP",
+      "SIP (RFC3261), ITU-T G.729/G.722/G.711a/G.711"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac/n/a 5GHz<br />IEEE 802.11n/g/b 2.4GHz"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "5<br />GHz: Up to 433<br />Mbps2.4<br />GHz: Up to 300Mbps"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz and 5GHz"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WDS, WMM, Wireless Statistics"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryption, Wireless MAC Filtering"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm(EIRP)"
+    ],
+    [
+      "Lịch Wi-Fi",
+      "Support 2.4GHz and 5GHz Wireless Schedule"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "ATM QoS, Traffic Control(IP QoS)"
+    ],
+    [
+      "Advanced Features",
+      "Guest Network, Parental Control<br />Network Address Translation (NAT);Port Mapping (Grouping), Static Routing, RIP v1/v2 (optional);DNS Relay, DDNS, IGMP V1/V2/V3"
+    ],
+    [
+      "Bảo mật",
+      "NAT Firewall, Manage Control, MAC / IP / URL Filtering,IP and MAC Address Binding"
+    ],
+    [
+      "IPv6",
+      "IPv6 and IPv4 dual stack"
+    ],
+    [
+      "Operating Modes",
+      "DSL Modem Router, 3G/4G Router,Wireless Router"
+    ],
+    [
+      "Quản lý",
+      "Web Based Configuration(HTTP), Remote management,Command Line Interface,SSL for TR-069, SNMP v1/2c, Web Based Firmware Upgrade, Diagnostic Tools"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List,Address Reservation, DHCP relay"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual server, Port Triggering, DMZ, ALG, UPnP"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec Passthrough"
+    ],
+    [
+      "Giao thức ATM/PPP",
+      "ATM Forum UNI3.1/4.0,PPP over ATM (RFC 2364),PPP over Ethernet (RFC2516),IPoA (RFC1577/2225),MER\\IPoE (RFC 1483 Routed)Bridge (RFC1483 Bridge)PVC – Up to 8 PVCs"
+    ],
+    [
+      "VOIP Features",
+      "Two RJ-11 FXS ports for connecting to analog telephones<br />Call forwarding, Call waiting, Call block, 3-way conference call, etc.USB Voicemail"
+    ],
+    [
+      "USB Sharing",
+      "Support Samba(Storage)/FTP Server/Media Server/Printer Server"
+    ],
+    [
+      "Mạng khách",
+      "2.4GHz or 5GHz guest network"
+    ],
+    [
+      "IPSec VPN",
+      "Supports up to 10 IPSec VPN tunnels"
+    ],
+    [
+      "DECT Features",
+      "DECT base station for up to 6 handsetsCAT-iq and GAP standards compliant<br />Paging Function"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, RoHS, IPv6"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem RouterRJ-11 Telephone CableRJ-45 Ethernet CableTAE-RJ45 AdapterRJ11 to RJ45 Telephone CableTAE Socket<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Windows 8.1/8/7/Vista/XP or Mac OS or Linux-based operating system"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router</p><p>AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC750"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

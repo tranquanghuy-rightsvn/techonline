@@ -1,0 +1,164 @@
+{
+  "slug": "mang-van-phong-soho-tplink-festa-f65",
+  "name": "Access Point Gắn Trần Wi-Fi 6 AX3000 TP-Link Festa F65",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "Festa F65",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-festa-f65/g01.jpg"
+  ],
+  "summary": [
+    "Access Point Gắn Trần Wi-Fi 6 AX3000",
+    "Festa F65 là một Access Point Gắn Trần Wi-Fi 6 AX3000 với thiết kế siêu mỏng, lý tưởng cho các doanh nghiệp nhỏ, văn phòng tại nhà và quán cà phê.",
+    "Giao diện: 1x Gigabit Ethernet Port",
+    "Nút: Reset",
+    "Bộ cấp nguồn: 802.3at PoE (Power Adapter included); 48V Passive PoE; 12V/1.2A DC",
+    "Điện năng tiêu thụ: EU: 13.3 W (For PoE); 11.8 W (for DC); US: 14.7 W (For PoE); 12.6 W (for DC)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Festa F65"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1x Gigabit Ethernet Port"
+    ],
+    [
+      "Nút",
+      "Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "802.3at PoE (Power Adapter included)<br />48V Passive PoE<br />12V/1.2A DC"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "EU: 13.3 W (For PoE); 11.8 W (for DC)<br />US: 14.7 W (For PoE); 12.6 W (for DC)"
+    ],
+    [
+      "Khối lượng",
+      "372g"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.3 × 6.3 × 1.5 in (160 × 160 × 38.5 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2.4 GHz: 2x 3 dBi<br />5 GHz: 3× 5 dBi (one auxiliary antenna included)"
+    ],
+    [
+      "Lắp",
+      "Ceiling /Wall Mounting (Kits included)<br />Junction Box Mounting"
+    ],
+    [
+      "NTP",
+      "√"
+    ],
+    [
+      "Centralized Management",
+      "√"
+    ],
+    [
+      "APP support",
+      "Festa App"
+    ],
+    [
+      "Cloud Access",
+      "Free cloud"
+    ],
+    [
+      "LED ON/OFF Control",
+      "√"
+    ],
+    [
+      "SNMP",
+      "v1, v2c, v3"
+    ],
+    [
+      "System Logging Local/Remote Syslog",
+      "√"
+    ],
+    [
+      "SSH",
+      "√"
+    ],
+    [
+      "Zero-Touch Provisioning",
+      "√"
+    ],
+    [
+      "Coverage",
+      "140㎡(1500 ft²)***"
+    ],
+    [
+      "Concurrent Clients",
+      "250+**"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11 a/b/g/n/ac/ax"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz and 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5 GHz: 2402 Mbps*<br />2.4 GHz: 574 Mbps"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Seamless Roaming<br />Mesh<br />Beamforming<br />Automatic Channel Selection<br />MU-MIMO<br />OFDMA‡<br />HE160‡<br />Band Steering<br />Load Balance<br />Airtime Fairness<br />RADIUS Accounting<br />Wireless Schedule"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Captive Portal Authentication<br />Access Control<br />Maximum Number of MAC Filter: 4,000<br />Wireless Isolation Between Clients<br />WPA-Personal/Enterprise, WPA2-Personal/Enterprise, WPA3-Personal/Enterprise"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE:&lt;20 dBm(2.4 GHz, EIRP)&lt;23 dBm(5 GHz, Band1 &amp; Band2, EIRP)&lt;27 dBm(5 GHz, Band3, EIRP)<br />FCC:&lt;24 dBm (2.4 GHz)&lt;25 dBm (5 GHz)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, IC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Festa F65<br />Power Adapter<br />Ceiling/Wall Mounting Kit<br />Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows XP, Vista, Windows 7, Windows 8, Windows10, Windows 11, Linux"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Access Point Gắn Trần Wi-Fi 6 AX3000</p><p>Festa F65 là một Access Point Gắn Trần Wi-Fi 6 AX3000 với thiết kế siêu mỏng, lý tưởng cho các doanh nghiệp nhỏ, văn phòng tại nhà và quán cà phê.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Access Point Gắn Trần Wi-Fi 6 AX3000 Festa F65 là một Access Point Gắn Trần Wi-Fi 6 AX3000 với thiết kế siêu mỏng, lý tưởng cho các doanh nghiệp nhỏ, văn phòng tại nhà và quán cà phê.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "phu-kien-tplink-up220",
+  "name": "2-Port USB Charger TP-Link UP220",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "UP220",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-up220/g01.jpg"
+  ],
+  "summary": [
+    "2-Port USB Charger",
+    "The 2-port USB charger intelligently adjusts charging power according to the device.",
+    "Flexible output ports are made to provide full-speed charging for devices with large batteries.",
+    "Kích thước ( R x D x C ): 1.1x2.4x.1.9 in. (30x62.5x50mm)",
+    "Giao diện ngõ ra: Total max.DC5V/4A, each port max.DC5V/2.4A",
+    "Giao diện ngõ vào: AC100-240V"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "UP220"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "1.1x2.4x.1.9 in. (30x62.5x50mm)"
+    ],
+    [
+      "Giao diện ngõ ra",
+      "Total max.DC5V/4A, each port max.DC5V/2.4A"
+    ],
+    [
+      "Giao diện ngõ vào",
+      "AC100-240V"
+    ]
+  ],
+  "description_html": "<p>2-Port USB Charger</p><p>The 2-port USB charger intelligently adjusts charging power according to the device.</p><p>Flexible output ports are made to provide full-speed charging for devices with large batteries.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "2 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2-Port USB Charger The 2-port USB charger intelligently adjusts charging power according to the device. Flexible output ports are made to provide full-speed charging for devices with large batteries.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

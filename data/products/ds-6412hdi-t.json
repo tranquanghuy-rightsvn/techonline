@@ -1,0 +1,52 @@
+{
+  "slug": "ds-6412hdi-t",
+  "name": "Phụ kiện Hikvision DS-6412HDI-T",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-6412HDI-T",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/05/DS-6416HDI-T-500x500.jpg"
+  ],
+  "summary": [
+    "Professional and Reliable – Supports private H.264, standard H.264, MJPEG, MPEG2 and MPEG4 video stream formats – High-definition video output via DVI/VGA/HDMI interfaces and standard-definition video output via BNC interface – Decodes video stream at resolution of 8MP, 5MP, 3MP, 1080p, 720p, SVGA, VGA, 4CIF, DCIF, 2CIF, CIF and QCIF – Gets stream and decodes via channel zero, HiDDNS and VGA/DVI local channel (not supported by DS-6401HDI-T) – VCA decoding – Window spanning, floating, and windowing – One 10/100/1000Mbps self-adaptive Ethernet interface – Supports TCP, UDP and Multicast network protocols – Multiple DDNS settings: Peanut Hull, Dyndns, IPServer, NO-IP and HiDDNS"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-6412HDI-T"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>Professional and Reliable – Supports private H.264, standard H.264, MJPEG, MPEG2 and MPEG4 video stream formats – High-definition video output via DVI/VGA/HDMI interfaces and standard-definition video output via BNC interface – Decodes video stream at resolution of 8MP, 5MP, 3MP, 1080p, 720p, SVGA, VGA, 4CIF, DCIF, 2CIF, CIF and QCIF – Gets stream and decodes via channel zero, HiDDNS and VGA/DVI local channel (not supported by DS-6401HDI-T) – VCA decoding – Window spanning, floating, and windowing – One 10/100/1000Mbps self-adaptive Ethernet interface – Supports TCP, UDP and Multicast network protocols – Multiple DDNS settings: Peanut Hull, Dyndns, IPServer, NO-IP and HiDDNS</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Professional and Reliable – Supports private H.264, standard H.264, MJPEG, MPEG2 and MPEG4 video stream formats – High-definition video output via DVI/VGA/HDMI interfaces and standard-definition video output via BNC interface – Decodes video stream at resolution of 8MP, 5MP, 3MP, 1080p, 720p,…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

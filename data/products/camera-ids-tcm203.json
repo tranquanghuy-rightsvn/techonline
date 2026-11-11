@@ -1,0 +1,45 @@
+{
+  "slug": "camera-ids-tcm203",
+  "name": "CAMERA iDS-TCM203-A",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "iDS-TCM203-A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2022/03/Camera-giam-sat-thong-minh-iDS-TCM203-A-500x500.png"
+  ],
+  "summary": [],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "iDS-TCM203-A"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>CAMERA iDS-TCM203-A chính hãng, bảo hành 24 tháng.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "CAMERA iDS-TCM203-A chính hãng, bảo hành 24 tháng.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

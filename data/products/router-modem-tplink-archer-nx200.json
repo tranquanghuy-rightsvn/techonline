@@ -1,0 +1,171 @@
+{
+  "slug": "router-modem-tplink-archer-nx200",
+  "name": "Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép TP-Link Archer NX200",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer NX200",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-archer-nx200/g01.jpg"
+  ],
+  "summary": [
+    "Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép",
+    "Router 5G này hỗ trợ 5G+ với tốc độ lên đến 4.67 Gbps.",
+    "Cắm SIM và tận hưởng các bộ phim 8K, cuộc họp trực tuyến, và trò chơi VR/AR.",
+    "Cổng Ethernet Gigabit mang đến tốc độ và độ tin cậy cao."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer NX200"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 × 10/100/1000 Mbps LAN/WAN Port<br />2 × 10/100/1000 Mbps LAN Ports<br />1 × Nano SIM Card Slot<br />2 × External SMA-F Antenna Interface"
+    ],
+    [
+      "Nút",
+      "WPS Button, Reset Button, Power On/Off Button, Wi-Fi On/Off Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "Power Adapter: Input Power 100-240v~50/60 Hz 0.6AOutput parameter 12<br />VDC 2A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.9 × 3.9 × 7.5 in ( 99 × 99 × 190 mm)"
+    ],
+    [
+      "Ăng ten",
+      "8 × 5G/LTE Internal Antennas<br />2 × Wi-Fi Internal Antennas"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Prioritizes network traffic by device or application"
+    ],
+    [
+      "Bảo mật",
+      "DoS, IPv4 SPI Firewall, IPv6 Firewal, IP and MAC Address Binding, Access Control"
+    ],
+    [
+      "Dạng WAN",
+      "Dynamic IP/Static IP/PPPoE/PPTP(Dual Access)/L2TP(Dual Access)"
+    ],
+    [
+      "Quản lý",
+      "TP-Link Cloud, Local Management, Remote Management"
+    ],
+    [
+      "DHCP",
+      "Server, DHCP Client List, Address Reservation"
+    ],
+    [
+      "Port Forwarding",
+      "ALG, Virtual Server, Port Triggering, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "TP-Link, DynDns, NO-IP"
+    ],
+    [
+      "VPN",
+      "PPTP VPN, IPSec VPN , OpenVPN"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Parental Control, Local Management Control"
+    ],
+    [
+      "Bảo mật tường lửa",
+      "DoS, SPI Firewall, IP Address Filter/Domain Filter, IP and MAC Address Binding"
+    ],
+    [
+      "Giao thức",
+      "IPv4, IPv6"
+    ],
+    [
+      "Mạng khách",
+      "2.4 GHz Guest Network x 15 GHz Guest Network x 1"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz and 5 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "574 Mbps at 2.4 GHz, 1201 Mbps at 5 GHz"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 54M：-80 dBm11ax HE20：-68 dBm11ax HE40：-65 dBm11ax HE80：-62 dBm11ac VHT20：-76 dBm11ac VHT40：-72 dBm11ac VHT80：-68 dBm11n HT20：-79 dBm11n HT40：-75 dBm2.4GHz11g 54M：-78 dBm11ax HE20：-65…"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, Wireless Schedule, WMM, Wireless<br />Statistics"
+    ],
+    [
+      "WAN Failover",
+      "Yes"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions"
+    ],
+    [
+      "Công suất truyền tải",
+      "<23dBm (5.15GHz~5.35GHz)<30dBm (5.47GHz~5.71GHz)<20dBm (2.4GHz)"
+    ],
+    [
+      "Dạng mạng",
+      "5G: N1/N3/N5/N7/N8/N20/N28/N38/N40/N41/N77/N78 (2100/1800/850/2600/900/800/700/2600/2300/2500/3700/3500 MHz)<br />FDD-LTE: B1/B3/B5/B7/B8/B20/B28/B32 (2100/1800/850/2600/900/800/700/1500 MHz)"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDHCP ServerIP address assignment (DHCP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "5G AX1800 Wireless Dual-Band Gigabit Router Archer NX2001.5m Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS,NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other<br />Java-enabled browser<br />Nano SIM Card"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép</p><p>Router 5G này hỗ trợ 5G+ với tốc độ lên đến 4.67 Gbps.</p><p>Cắm SIM và tận hưởng các bộ phim 8K, cuộc họp trực tuyến, và trò chơi VR/AR.</p><p>Cổng Ethernet Gigabit mang đến tốc độ và độ tin cậy cao.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1800",
+    "5G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép Router 5G này hỗ trợ 5G+ với tốc độ lên đến 4.67 Gbps. Cắm SIM và tận hưởng các bộ phim 8K, cuộc họp trực tuyến, và trò chơi VR/AR.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

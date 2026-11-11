@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2ce10dft-f-camera-tvi-2-mp-full-time-color-2",
+  "name": "Camera TVI 2 MP Full Time Color Hikvision DS-2CE12DFT-F",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE12DFT-F",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE12DFT-F.jpg"
+  ],
+  "summary": [
+    "2 Megapixel high-performance CMOS",
+    "Analog HD output, up to 1080P resolution",
+    "Full time color",
+    "OSD menu, 3D DNR",
+    "True WDR, up to 120dB",
+    "Up to 20 m white light distance",
+    "IP67",
+    "Up the Coax(HIKVISION-C)",
+    "4 in 1 video output (switchable TVI/AHD/CVI/CVBS)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE12DFT-F"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2 Megapixel high-performance CMOS</p><p>Analog HD output, up to 1080P resolution</p><p>Full time color</p><p>OSD menu, 3D DNR</p><p>True WDR, up to 120dB</p><p>Up to 20 m white light distance</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p><p>4 in 1 video output (switchable TVI/AHD/CVI/CVBS)</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2 Megapixel high-performance CMOS Analog HD output, up to 1080P resolution Full time color",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "ds-7616ni-e216p-nvr-embedded-plug-play",
+  "name": "Đầu ghi hình IP NVR Embedded Plug & Play Hikvision DS-7616NI-E2/16P",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7616NI-E2/16P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg"
+  ],
+  "summary": [
+    "Up to 6 Megapixel Resolution Recording",
+    "160 Mbps Incoming Bandwidth",
+    "Supports H.264+ and H.264",
+    "Synchronous HDMI and VGA Output 1920 × 1080p Resolution",
+    "16-ch Network Cameras Can Be Connected",
+    "Up to 2 SATA Interfaces",
+    "Plug & Play w/Up to 16 Independent PoE Network Connections",
+    "Supports Network Detection, Including Network Delay, Packet Loss",
+    "Alarm and Audio I/O"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7616NI-E2/16P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Up to 6 Megapixel Resolution Recording</p><p>160 Mbps Incoming Bandwidth</p><p>Supports H.264+ and H.264</p><p>Synchronous HDMI and VGA Output 1920 × 1080p Resolution</p><p>16-ch Network Cameras Can Be Connected</p><p>Up to 2 SATA Interfaces</p><p>Plug &amp; Play w/Up to 16 Independent PoE Network Connections</p><p>Supports Network Detection, Including Network Delay, Packet Loss</p><p>Alarm and Audio I/O</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Up to 6 Megapixel Resolution Recording 160 Mbps Incoming Bandwidth Supports H.264+ and H.264",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

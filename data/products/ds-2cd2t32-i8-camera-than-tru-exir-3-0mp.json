@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2cd2t32-i8-camera-than-tru-exir-3-0mp",
+  "name": "Camera thân trụ EXIR 3.0MP Hikvision DS-2CD2T32- I8",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2T32- I8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png"
+  ],
+  "summary": [
+    "– Nguồn cấp: 12 VDC ± 10%, PoE (802.3af)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2T32- I8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "3MP"
+    ],
+    [
+      "– Nguồn cấp",
+      "12 VDC ± 10%, PoE (802.3af)"
+    ]
+  ],
+  "description_html": "<p>– Nguồn cấp: 12 VDC ± 10%, PoE (802.3af)</p>",
+  "attrs": [
+    "3MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Nguồn cấp: 12 VDC ± 10%, PoE (802.3af)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ds-k1102mk-card-reader",
+  "name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1102M(K)",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1102M(K)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1102MK.jpg"
+  ],
+  "summary": [
+    "Support Mifare 1 card,",
+    "With keypad (DS-K1102MK)",
+    "Supports RS485 and Wiegand (W26/ W34) protocol, Tamper-proof,",
+    "Applied for 86 & 120 Gang Box"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1102M(K)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Support Mifare 1 card,</p><p>With keypad (DS-K1102MK)</p><p>Supports RS485 and Wiegand (W26/ W34) protocol, Tamper-proof,</p><p>Applied for 86 &amp; 120 Gang Box</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Support Mifare 1 card, With keypad (DS-K1102MK) Supports RS485 and Wiegand (W26/ W34) protocol, Tamper-proof,",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

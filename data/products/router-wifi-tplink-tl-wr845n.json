@@ -1,0 +1,157 @@
+{
+  "slug": "router-wifi-tplink-tl-wr845n",
+  "name": "Router Wi-Fi chuẩn N 300Mbps TP-Link TL-WR845N",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-WR845N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-tl-wr845n/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi chuẩn N 300Mbps",
+    "Tốc độ Wi-Fi chuẩn N lên đến 300 Mbps rất lý tưởng để truyền phát video, chơi game trực tuyến VoIP, duyệt web và đa tác vụ.",
+    "Standards and Protocols: Wi-Fi 4; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: N3002.4 GHz: 300 Mbps (802.11n)",
+    "WiFi Range: 2 Bedroom Houses; 3× Fixed Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas",
+    "WiFi Capacity: Legacy"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-WR845N"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 4<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "N3002.4 GHz: 300 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "2 Bedroom Houses<br />3× Fixed Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas"
+    ],
+    [
+      "WiFi Capacity",
+      "Legacy"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode<br />Range Extender ModeWISP Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 2.4 GHz Guest Network"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Single-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 10/100 Mbps WAN Port<br />4× 10/100 Mbps LAN Ports"
+    ],
+    [
+      "Buttons",
+      "WPS Button<br />Reset Button"
+    ],
+    [
+      "Power",
+      "9 V ⎓ 0.6 A"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "NAT Forwarding",
+      "Virtual Server<br />Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "NO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)<br />FCC:&lt;30dBm"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "270M: -70dBm@10% PER130M: -74dBm@10% PER108M: -74dBm@10% PER54M: -77dBm@10% PER11M: -93dBm@8% PER6M: -95dBm@10% PER1M: -98dBm@8% PER"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.1 × 5.7 × 1.4 in(230 × 144 × 35 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router TL-WR845NPower AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi chuẩn N 300Mbps</p><p>Tốc độ Wi-Fi chuẩn N lên đến 300 Mbps rất lý tưởng để truyền phát video, chơi game trực tuyến VoIP, duyệt web và đa tác vụ.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi chuẩn N 300Mbps Tốc độ Wi-Fi chuẩn N lên đến 300 Mbps rất lý tưởng để truyền phát video, chơi game trực tuyến VoIP, duyệt web và đa tác vụ.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

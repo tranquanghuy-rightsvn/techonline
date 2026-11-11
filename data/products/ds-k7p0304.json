@@ -1,0 +1,55 @@
+{
+  "slug": "ds-k7p0304",
+  "name": "Thiết bị kiểm soát ra vào Exit Button Hikvision DS-K7P03/04",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K7P03/04",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K7P0304.jpg"
+  ],
+  "summary": [
+    "Infrared Sensor",
+    "Panel: aluminum panel",
+    "Already passed 1 million times aging test",
+    "NO/NC/COM Contact",
+    "1A@30VDC,0.5A@125VAC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K7P03/04"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ],
+    [
+      "Panel",
+      "aluminum panel"
+    ]
+  ],
+  "description_html": "<p>Infrared Sensor</p><p>Panel: aluminum panel</p><p>Already passed 1 million times aging test</p><p>NO/NC/COM Contact</p><p>1A@30VDC,0.5A@125VAC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Infrared Sensor Panel: aluminum panel Already passed 1 million times aging test",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

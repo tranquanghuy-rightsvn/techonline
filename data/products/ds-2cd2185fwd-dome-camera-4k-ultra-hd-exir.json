@@ -1,0 +1,59 @@
+{
+  "slug": "ds-2cd2185fwd-dome-camera-4k-ultra-hd-exir",
+  "name": "Camera Dome 4K Ultra-HD Exir Hikvision DS-2CD2185FWD",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2185FWD",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-.jpg"
+  ],
+  "summary": [
+    "4K Ultra-HD",
+    "H.265+/H.265/H.264+/H.264",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection",
+    "120dB WDR",
+    "IP67; IK10",
+    "3 streams",
+    "Hik-Connect Service",
+    "Up to 128GB on-board storage"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2185FWD"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>4K Ultra-HD</p><p>H.265+/H.265/H.264+/H.264</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection</p><p>120dB WDR</p><p>IP67; IK10</p><p>3 streams</p><p>Hik-Connect Service</p><p>Up to 128GB on-board storage</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "4K Ultra-HD H.265+/H.265/H.264+/H.264 Intrusion & line crossing & object removal & unattended baggage & face detection",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

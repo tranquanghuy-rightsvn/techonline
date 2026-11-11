@@ -1,0 +1,160 @@
+{
+  "slug": "he-thong-wifi-mesh-tplink-deco-x90",
+  "name": "Hệ thống Wi-Fi Mesh cho Gia đình AX6600 TP-Link Deco X90",
+  "categories": [
+    "tp-link-mesh-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Deco X90",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/he-thong-wifi-mesh-tplink-deco-x90/g01.jpg"
+  ],
+  "summary": [
+    "Hệ thống Wi-Fi Mesh cho Gia đình AX6600",
+    "Hệ thống WiFi 6 Mesh AX6600 tăng cường phạm vi WiFi của bạn và cung cấp tốc độ WiFi cực nhanh lên đến 6600 Mbps.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Nhà từ 4-6 phòng ngủ (2 thiết bị) Công nghệ mesh TP-Link; Mạng hỗ trợ Ethernet tùy chọn hoạt động cùng nhau để liên kết các thiết bị Deco để cung cấp vùng phủ sóng liền mạchAI-Driven Mesh",
+    "WiFi Capacity: Rất cao Ba băng tần; Phân phối thiết bị đến các băng tần khác nhau để có hiệu suất tối ưu; 4 × 4 MU-MIMO; Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Deco X90"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà từ 4-6 phòng ngủ (2 thiết bị) Công nghệ mesh TP-Link<br />Mạng hỗ trợ Ethernet tùy chọn hoạt động cùng nhau để liên kết các thiết bị Deco để cung cấp vùng phủ sóng liền mạchAI-Driven Mesh"
+    ],
+    [
+      "WiFi Capacity",
+      "Rất cao Ba băng tần<br />Phân phối thiết bị đến các băng tần khác nhau để có hiệu suất tối ưu<br />4 × 4 MU-MIMO<br />Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế độ router<br />Chế độ điểm truy cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập Bảo Mật HomeShield Bảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập<br />Phòng chống tấn công DDoSQuét mạng gia đình"
+    ],
+    [
+      "Guest Network",
+      "1x Mạng khách 5 GHz1 x Mạng khách 2.4 GHz"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA-Cá nhânWPA2-Cá nhânlWPA3-Cá nhân"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x Cổng 25 Gbps1 x Cổng Gigabit* Mỗi thiết bị deco<br />Hỗ trợ tự động cảm biến WAN / LAN"
+    ],
+    [
+      "Buttons",
+      "Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4 IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Của Phụ Huynh HomeShield Cấu hình Tùy chỉnh<br />Thư viện bộ lọc nội dung chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ tắt<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "HomeShield QoSQoS Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Cập nhật Firmware OTA ID TP-Link DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Chuyển tiếp cổng UPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-Link"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Deco"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCP DNS DNS<br />Port: 53 Protocol: TCP &amp; UDP DHCP Server IP address assignment (DHCP)"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20 dBm (2.4 GHz)&lt;30 dBm (5 GHz)<br />FCC:&lt;30 dBm (2.4 GHz)&lt;30 dBm (5 GHz)"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "5.1 × 4.8 × 8.3 in (130 × 123 × 210 mm)"
+    ],
+    [
+      "Package Content",
+      "Deco X90 (2 thiết bị) 2 Thiết bị Deco X901 Cáp Ethernet RJ452 Bộ chuyển đổi nguồn1 Hướng dẫn Cài đặt Nhanh Deco X90 (1 thiết bị) 1 thiết bị Deco X901 cáp Ethernet RJ451 Bộ chuyển đổi nguồn1 Hướng…"
+    ],
+    [
+      "System Requirements",
+      "Android 5.0 or later iOS 9.0 or later *Note: The minimum system requirements will be updated alongside updates to the app, subject to official website information."
+    ],
+    [
+      "Chứng chỉ",
+      "CE, EAC, FCC, IC, RCM"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Hệ thống Wi-Fi Mesh cho Gia đình AX6600</p><p>Hệ thống WiFi 6 Mesh AX6600 tăng cường phạm vi WiFi của bạn và cung cấp tốc độ WiFi cực nhanh lên đến 6600 Mbps.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX6600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hệ thống Wi-Fi Mesh cho Gia đình AX6600 Hệ thống WiFi 6 Mesh AX6600 tăng cường phạm vi WiFi của bạn và cung cấp tốc độ WiFi cực nhanh lên đến 6600 Mbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

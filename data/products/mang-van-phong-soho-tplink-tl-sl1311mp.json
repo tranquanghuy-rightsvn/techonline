@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sl1311mp",
+  "name": "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SL1311MP",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SL1311MP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sl1311mp/g01.jpg"
+  ],
+  "summary": [
+    "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+",
+    "Giao diện: 8× 10/100 Mbps 802.3af/at PoE+ Ports, 2× Gigabit RJ45 Ports, 1× Gigabit SFP Port; AUTO Negotiation; AUTO MDI/MDIX",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)",
+    "Số lượng quạt: Fanless",
+    "Khóa bảo mật vật lý: Yes",
+    "Bộ cấp nguồn bên ngoài (EU): External Power Adapter (Output: 53.5; VDC / 2.43A)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SL1311MP"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8× 10/100 Mbps 802.3af/at PoE+ Ports, 2× Gigabit RJ45 Ports, 1× Gigabit SFP Port<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "External Power Adapter (Output: 53.5<br />VDC / 2.43A)"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "5.6544 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3 af/at compliant<br />PoE Ports: Ports 1–8<br />Power Supply: 124 W"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "2K"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "7.6 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "8.2 × 4.9 × 1.0 in (209 × 126 × 26 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "5.95 W (220/50 Hz. no PD connected)<br />140.92 W (220/50 Hz. with 124 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "20.29 BTU/h (no PD connected)<br />480.54 BTU/h (220/50 Hz. with 124 W PD connected)"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3af/at Compliant PDs<br />Extend Mode Button (Ports 1–4 and Ports 1–8, Up to 250 m PoE power supply and data transmission)<br />Isolation Mode Button (Ports 1–8)"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SL1311MP<br />Power Adapter<br />Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

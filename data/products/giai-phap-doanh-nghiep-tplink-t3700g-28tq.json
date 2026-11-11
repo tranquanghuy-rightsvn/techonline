@@ -1,0 +1,179 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t3700g-28tq",
+  "name": "Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit TP-Link T3700G-28TQ",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T3700G-28TQ",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t3700g-28tq/g01.jpg"
+  ],
+  "summary": [
+    "Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit",
+    "Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 24 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 combo gigabit SFP Slots; Up to 4 10G SFP+ Slots (2 fixed and 2 optional 10G SFP+ Slots)1 Console Port",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable (maximum 100m)100; BASE-FX: MMF, SMF1000; BASE-X: MMF, SMF10; GBASE-LR10; GBASE-SR",
+    "Số lượng quạt: 4"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T3700G-28TQ"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 combo gigabit SFP Slots<br />Up to 4 10G SFP+ Slots (2 fixed and 2 optional 10G SFP+ Slots)1 Console Port"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable (maximum 100m)100<br />BASE-FX: MMF, SMF1000<br />BASE-X: MMF, SMF10<br />GBASE-LR10<br />GBASE-SR"
+    ],
+    [
+      "Số lượng quạt",
+      "4"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "No"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32*13*1.73 in.(440*330*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "63W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "214.96 BTU/h"
+    ],
+    [
+      "Max Number of Stacking Ports Installable",
+      "2 SFP+"
+    ],
+    [
+      "Stacking Speed (Per Port)",
+      "20 Gbps (Full-Duplex)"
+    ],
+    [
+      "No. of Units Per Stack",
+      "8"
+    ],
+    [
+      "Switching Capacity",
+      "Up to 128Gbps for a standalone switch"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "Up to 320Gbps when 8 units in the stack"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "Up to 95.2Mpps for a standalone switch"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "32K"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "16 Mbits"
+    ],
+    [
+      "Khung Jumbo",
+      "10240 Bytes"
+    ],
+    [
+      "Number of Routes",
+      "12K"
+    ],
+    [
+      "Number of Static Routes",
+      "256"
+    ],
+    [
+      "Number of IP Interfaces",
+      "128"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 8 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate Limiting<br />Voice VLAN"
+    ],
+    [
+      "L3 Features",
+      "Wire-speed IP forwarding<br />Static RoutingRIP v1, v2<br />OSPF v2<br />ECMPPIM-SM/PIM-DM/IGMPDHCP Server/RelayARP ProxyVRRP"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3802.3ad LACP (Up to 32 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect<br />Loop back detection802.3x Flow Control"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)IEEE 802.1Q VLAN/MAC VLAN/Protocol VLAN/QinQ/Private VLAN/GVRP"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP ports, 802.1p, DSCP, protocol and VLAN IDTime Range Based"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port-VID Binding<br />IEEE 802.1X Port/MAC Based authentication, Radius,Guest VLANDoS Defence<br />Dynamic ARP inspection (DAI)SSH v1/v2<br />SSL v2/v3/TLSv1Port Security"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs and TP-LINK private MIBsRMON (1, 2, 3, 9 groups)DHCP/BOOTP Client, DHCP Snooping, DHCP Option82<br />CPU Monitoring<br />Port Mirroring"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch; Power Cord; Quick Installation Guide; Resource CD; Rackmount Kit; Rubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ or Windows 7/8, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit</p><p>Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit</p>",
+  "attrs": [
+    "28 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

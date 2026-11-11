@@ -1,0 +1,47 @@
+{
+  "slug": "ic-s50-mifare-thong-minh-khong-tiep-xuc",
+  "name": "IC S50 Thẻ Mifare thông minh không tiếp xúc",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "IC S50",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/11/IC-S50-500x500.png"
+  ],
+  "summary": [
+    "Thẻ Mifare thông minh không tiếp xúc Tần số hoạt động: 13.56vMHz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "IC S50"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>Thẻ Mifare thông minh không tiếp xúc Tần số hoạt động: 13.56vMHz</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thẻ Mifare thông minh không tiếp xúc Tần số hoạt động: 13.56vMHz",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

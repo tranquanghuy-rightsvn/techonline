@@ -1,0 +1,59 @@
+{
+  "slug": "ds-7700ni-h48p16p-nvr-x86-open-platform-software-developers-integrators-poe-port",
+  "name": "Đầu ghi hình IP NVR X86 open platform for software developers and integrators, PoE port Hikvision DS-7700NI-H4/8P(16P)",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7700NI-H4/8P(16P)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-9600NI-H8.jpg"
+  ],
+  "summary": [
+    "Intel Celeron Processor(2M Cache, 2.00GHz)",
+    "300 Mbps Bit Rate input Max",
+    "HDMI output resolution at up to 4MP, VGA output resolution at up to 2MP",
+    "4 hot-swappable SATA",
+    "4GB memory",
+    "2 USB 2.0 & 1 USB 3.0",
+    "Alarm in/out : 16/4",
+    "1 RJ-45 10/100/1000 Mbps self-adaptive interface",
+    "8P/16P models support 8/16 independent 100M PoE network interfaces"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7700NI-H4/8P(16P)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ],
+    [
+      "Alarm in/out",
+      "16/4"
+    ]
+  ],
+  "description_html": "<p>Intel Celeron Processor(2M Cache, 2.00GHz)</p><p>300 Mbps Bit Rate input Max</p><p>HDMI output resolution at up to 4MP, VGA output resolution at up to 2MP</p><p>4 hot-swappable SATA</p><p>4GB memory</p><p>2 USB 2.0 &amp; 1 USB 3.0</p><p>Alarm in/out : 16/4</p><p>1 RJ-45 10/100/1000 Mbps self-adaptive interface</p><p>8P/16P models support 8/16 independent 100M PoE network interfaces</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Intel Celeron Processor(2M Cache, 2.00GHz) 300 Mbps Bit Rate input Max HDMI output resolution at up to 4MP, VGA output resolution at up to 2MP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

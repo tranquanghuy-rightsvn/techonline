@@ -1,0 +1,56 @@
+{
+  "slug": "ds-mp3516-rsgw-board-network-recorder",
+  "name": "Camera On-board Network Recorder Hikvision DS-MP3516-RS/GW",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-MP3516-RS/GW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DSMP3516RSGW.jpg"
+  ],
+  "summary": [
+    "16 channels video/audio input",
+    "Support up to 6 x 2.5-inch HDDs/SSDs",
+    "1-ch CVBS output, 1-ch VGA output",
+    "Support Wi-Fi connection",
+    "Support 3G connection *only for GW model",
+    "2 x Ethernet ports with M12 plug",
+    "Built-in G-sensor",
+    "Wide power range protection",
+    "Super capacitor for power-off protection",
+    "Patented anti-vibration design"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-MP3516-RS/GW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ]
+  ],
+  "description_html": "<p>16 channels video/audio input</p><p>Support up to 6 x 2.5-inch HDDs/SSDs</p><p>1-ch CVBS output, 1-ch VGA output</p><p>Support Wi-Fi connection</p><p>Support 3G connection *only for GW model</p><p>2 x Ethernet ports with M12 plug</p><p>Built-in G-sensor</p><p>Wide power range protection</p><p>Super capacitor for power-off protection</p><p>Patented anti-vibration design</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "16 channels video/audio input Support up to 6 x 2.5-inch HDDs/SSDs 1-ch CVBS output, 1-ch VGA output",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

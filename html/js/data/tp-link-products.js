@@ -35,6 +35,14 @@ const BRAND_ICON_STRIP = [
   {
     "label": "Giải pháp doanh nghiệp",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1-247x296.png"
+  },
+  {
+    "label": "Camera Wi-Fi Tapo",
+    "image": ""
+  },
+  {
+    "label": "Nhà thông minh",
+    "image": ""
   }
 ];
 
@@ -152,6 +160,88 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-BE251-PACK-scaled.png",
         "href": "/mesh-wifi-tplink-deco-be25-1-pack/"
+      },
+      {
+        "name": "Hệ Thống Mesh Wi-Fi 7 BE33000 Bốn Băng Tần Cho Gia Đình TP-Link Deco BE95",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE33000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be95/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be95/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 BE11000 cho gia đình TP-Link Deco BE65 Pro",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-pro/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65-pro/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 Ba Băng Tần BE11000 5G cho gia đình TP-Link Deco BE65-5G",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000",
+          "5G"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-5g/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65-5g/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình TP-Link Deco BE63",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE10000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be63/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be63/"
+      },
+      {
+        "name": "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình TP-Link Deco X60 V3.20",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX5400"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-x60-v3-20/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-x60-v3-20/"
+      },
+      {
+        "name": "Hệ thống Wi-Fi Mesh cho Gia đình AX6600 TP-Link Deco X90",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX6600"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-x90/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-x90/"
+      },
+      {
+        "name": "Hệ Thống Mesh Toàn Nhà Wi-Fi 7 BE11000 TP-Link Deco BE65",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65/"
+      },
+      {
+        "name": "BE11000 Whole Home Mesh WiFi 7 System with PoE TP-Link Deco BE65-PoE",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000",
+          "PoE"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-poe/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65-poe/"
       }
     ]
   },
@@ -269,6 +359,86 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/TL-WR840N.jpg",
         "href": "/router-wifi-tplink-tl-wr840n/"
+      },
+      {
+        "name": "Router Wi-Fi 7 Băng Tần Kép BE3600 TP-Link Archer BE220",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE3600"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-be220/g01.jpg",
+        "href": "/router-wifi-tplink-archer-be220/"
+      },
+      {
+        "name": "Router Wi-Fi 7 BE9300 Ba Băng Tần TP-Link Archer BE550",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE9300"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-be550/g01.jpg",
+        "href": "/router-wifi-tplink-archer-be550/"
+      },
+      {
+        "name": "Gaming Router Wi-Fi 7 BE19000 Ba Băng Tần TP-Link Archer GE800",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE19000"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-ge800/g01.jpg",
+        "href": "/router-wifi-tplink-archer-ge800/"
+      },
+      {
+        "name": "Router Wi-Fi 7 BE24000 Bốn Băng Tần TP-Link Archer BE900",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE24000"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-be900/g01.jpg",
+        "href": "/router-wifi-tplink-archer-be900/"
+      },
+      {
+        "name": "Router Wi-Fi 7 Ba Băng Tần BE12000 TP-Link Archer BE670",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE12000"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-be670/g01.jpg",
+        "href": "/router-wifi-tplink-archer-be670/"
+      },
+      {
+        "name": "Router Wi-Fi 7 Ba Băng Tần BE9700 TP-Link Archer BE600",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE9700"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-be600/g01.jpg",
+        "href": "/router-wifi-tplink-archer-be600/"
+      },
+      {
+        "name": "Gaming Router Wi-Fi 7 BE9300 Ba Băng Tần TP-Link Archer GE550",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE9300"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-ge550/g01.jpg",
+        "href": "/router-wifi-tplink-archer-ge550/"
+      },
+      {
+        "name": "BE6500 Dual-Band Wi-Fi 7 Gaming Router TP-Link Archer GE400",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE6500"
+        ],
+        "image": "assets/img/products/router-wifi-tplink-archer-ge400/g01.jpg",
+        "href": "/router-wifi-tplink-archer-ge400/"
       }
     ]
   },
@@ -341,6 +511,131 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/product-cat2-tplink-modem.jpg",
         "href": "/modem-4g-tplink-tl-mr6400/"
+      },
+      {
+        "name": "Router Modem ADSL2+ Wi-Fi Gigabit Băng Tần Kép AC1750 TP-Link Archer D7",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1750"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-d7/g01.jpg",
+        "href": "/router-modem-tplink-archer-d7/"
+      },
+      {
+        "name": "Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép TP-Link Archer NX200",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX1800",
+          "5G"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-nx200/g01.jpg",
+        "href": "/router-modem-tplink-archer-nx200/"
+      },
+      {
+        "name": "Router Wi-Fi Gigabit Băng Tần Kép 4G+ Cat6 AC1200 TP-Link Archer MR600",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1200",
+          "4G"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-mr600/g01.jpg",
+        "href": "/router-modem-tplink-archer-mr600/"
+      },
+      {
+        "name": "Router 4G LTE AC1200 Băng Tần Kép TP-Link Archer MR402",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1200",
+          "4G"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-mr402/g01.jpg",
+        "href": "/router-modem-tplink-archer-mr402/"
+      },
+      {
+        "name": "Router Wi-Fi Băng Tần Kép 4G LTE AC750 TP-Link Archer MR200 V5",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC750",
+          "4G"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-mr200-v5/g01.jpg",
+        "href": "/router-modem-tplink-archer-mr200-v5/"
+      },
+      {
+        "name": "Router 4G LTE Chuẩn N Tốc độ 300 Mbps TP-Link TL-MR101",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/router-modem-tplink-tl-mr101/g01.jpg",
+        "href": "/router-modem-tplink-tl-mr101/"
+      },
+      {
+        "name": "8-port GPON OLT TP-Link P1201-08",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng"
+        ],
+        "image": "assets/img/products/router-modem-tplink-p1201-08/g01.jpg",
+        "href": "/router-modem-tplink-p1201-08/"
+      },
+      {
+        "name": "AC1200 Wireless Dual Band Gigabit VoIP GPON Router TP-Link Archer XR500v",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1200"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-xr500v/g01.jpg",
+        "href": "/router-modem-tplink-archer-xr500v/"
+      },
+      {
+        "name": "300Mbps Wireless N Gigabit VoIP GPON Router TP-Link XN020-G3v",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/router-modem-tplink-xn020-g3v/g01.jpg",
+        "href": "/router-modem-tplink-xn020-g3v/"
+      },
+      {
+        "name": "1-Port Gigabit GPON Terminal TP-Link XZ000-G3",
+        "price": "Liên hệ",
+        "attrs": [
+          "1 Cổng"
+        ],
+        "image": "assets/img/products/router-modem-tplink-xz000-g3/g01.jpg",
+        "href": "/router-modem-tplink-xz000-g3/"
+      },
+      {
+        "name": "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router TP-Link Archer VR200v",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC750"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-vr200v/g01.jpg",
+        "href": "/router-modem-tplink-archer-vr200v/"
+      },
+      {
+        "name": "AC1900 Wireless Gigabit VDSL/ADSL Modem Router TP-Link Archer VR900",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1900"
+        ],
+        "image": "assets/img/products/router-modem-tplink-archer-vr900/g01.jpg",
+        "href": "/router-modem-tplink-archer-vr900/"
+      },
+      {
+        "name": "300Mbps Wireless N ADSL2+ Modem Router TP-Link TD-W8961N",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/router-modem-tplink-td-w8961n/g01.jpg",
+        "href": "/router-modem-tplink-td-w8961n/"
       }
     ]
   },
@@ -449,6 +744,80 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/product-cat2-tplink-extender.png",
         "href": "/bo-mo-rong-wifi-tplink-re235be/"
+      },
+      {
+        "name": "AX3000 Dual-Band Wi-Fi 6 Air Range Extender TP-Link Archer Air E5",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-archer-air-e5/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-archer-air-e5/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000 TP-Link RE700X",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re700x/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re700x/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi 7 BE3600 Hai Băng Tần TP-Link RE225BE",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE3600"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re225be/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re225be/"
+      },
+      {
+        "name": "BE11000 Tri-Band Wi-Fi 7 Range Extender TP-Link RE655BE",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re655be/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re655be/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi AC2600 TP-Link RE650",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC2600"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re650/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re650/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750 TP-Link RE450",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1750"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re450/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re450/"
+      },
+      {
+        "name": "Bộ Kit Mở Rộng Sóng Wi-Fi AC Powerline AV1000 Gigabit Kèm Ổ Cắm Điện TP-Link TL-WPA7617 KIT",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/"
+      },
+      {
+        "name": "TP-Link TL-WA854RE",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wa854re/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-tl-wa854re/"
       }
     ]
   },
@@ -476,6 +845,54 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/product-cat2-tplink-mobile.jpg",
         "href": "/wifi-di-dong-tplink-m7350/"
+      },
+      {
+        "name": "TP-Link M8550",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m8550/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m8550/"
+      },
+      {
+        "name": "600 Mbps LTE-Advanced Mobile Wi-Fi TP-Link M7750",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7750/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7750/"
+      },
+      {
+        "name": "TP-Link M8200",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m8200/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m8200/"
+      },
+      {
+        "name": "Wi-Fi Di Động 4G LTE-Advanced 300 Mbps TP-Link M7450",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7450/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7450/"
+      },
+      {
+        "name": "Wi-Fi Di Động 4G LTE TP-Link M7005",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7005/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7005/"
+      },
+      {
+        "name": "Wi-Fi Di động 4G LTE TP-Link M7200",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7200/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7200/"
       }
     ]
   },
@@ -590,6 +1007,86 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/TL-WN781ND.jpg",
         "href": "/wifi-adapter-tplink-tl-wn781nd/"
+      },
+      {
+        "name": "Card Mạng PCIe Wi-Fi 7 BE9300 & Bluetooth 5.4 TP-Link Archer TBE550E",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE9300"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tbe550e/g01.jpg",
+        "href": "/wifi-adapter-tplink-archer-tbe550e/"
+      },
+      {
+        "name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2 TP-Link Archer TX50E V2",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tx50e-v2/g01.png",
+        "href": "/wifi-adapter-tplink-archer-tx50e-v2/"
+      },
+      {
+        "name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.3 TP-Link Archer TX3000E",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tx3000e/g01.jpg",
+        "href": "/wifi-adapter-tplink-archer-tx3000e/"
+      },
+      {
+        "name": "USB Wi-Fi 6 Băng Tần Kép AX1800 TP-Link Archer TX20U",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX1800"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tx20u/g01.jpg",
+        "href": "/wifi-adapter-tplink-archer-tx20u/"
+      },
+      {
+        "name": "USB Wi-Fi 7 Mini Băng tần kép BE3600 TP-Link Archer TBE230U",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE3600"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tbe230u/g01.png",
+        "href": "/wifi-adapter-tplink-archer-tbe230u/"
+      },
+      {
+        "name": "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano TP-Link Archer TX10UB Nano",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX900"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-tx10ub-nano/g01.jpg",
+        "href": "/wifi-adapter-tplink-archer-tx10ub-nano/"
+      },
+      {
+        "name": "USB Wi-Fi AC600 & Bluetooth 4.2 Nano TP-Link Archer T2UB Nano",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC600"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-t2ub-nano/g01.png",
+        "href": "/wifi-adapter-tplink-archer-t2ub-nano/"
+      },
+      {
+        "name": "USB Wi-Fi MU-MIMO Mini AC1300 TP-Link Archer T3U",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1300"
+        ],
+        "image": "assets/img/products/wifi-adapter-tplink-archer-t3u/g01.jpg",
+        "href": "/wifi-adapter-tplink-archer-t3u/"
       }
     ]
   },
@@ -650,6 +1147,118 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/UE306.png",
         "href": "/phu-kien-tplink-ue306/"
+      },
+      {
+        "name": "Adapter Mạng Gigabit Ethernet USB Type-C sang RJ45 TP-Link UE310C",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ue310c/g01.jpg",
+        "href": "/phu-kien-tplink-ue310c/"
+      },
+      {
+        "name": "USB 3.0 Type-C to SD & microSD 4.0 Card Reader TP-Link UA440C",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ua440c/g01.jpg",
+        "href": "/phu-kien-tplink-ua440c/"
+      },
+      {
+        "name": "Hub USB Type-C 7 cổng TP-Link UH7020C",
+        "price": "Liên hệ",
+        "attrs": [
+          "7 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh7020c/g01.jpg",
+        "href": "/phu-kien-tplink-uh7020c/"
+      },
+      {
+        "name": "Hub USB Type-C 6 Cổng TP-Link UH6120C",
+        "price": "Liên hệ",
+        "attrs": [
+          "6 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh6120c/g01.jpg",
+        "href": "/phu-kien-tplink-uh6120c/"
+      },
+      {
+        "name": "Hub USB Type-C 5 cổng TP-Link UH5020C",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh5020c/g01.jpg",
+        "href": "/phu-kien-tplink-uh5020c/"
+      },
+      {
+        "name": "Hub USB Type-C 3 Cổng TP-Link UH3020C",
+        "price": "Liên hệ",
+        "attrs": [
+          "3 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh3020c/g01.jpg",
+        "href": "/phu-kien-tplink-uh3020c/"
+      },
+      {
+        "name": "Adapter USB Type-C sang Ethernet 2.5 Gigabit TP-Link UE302C",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ue302c/g01.jpg",
+        "href": "/phu-kien-tplink-ue302c/"
+      },
+      {
+        "name": "Bộ chuyển đổi USB Type-C sang Ethernet RJ45 Gigabit TP-Link UE300C",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ue300c/g01.jpg",
+        "href": "/phu-kien-tplink-ue300c/"
+      },
+      {
+        "name": "Bộ chia USB 3.0 7 cổng TP-Link UH700",
+        "price": "Liên hệ",
+        "attrs": [
+          "7 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh700/g01.jpg",
+        "href": "/phu-kien-tplink-uh700/"
+      },
+      {
+        "name": "Bộ Chia Cổng USB-A ra 3 cổng USB-A 3.0 & Mạng Gigabit Ethernet TP-Link UE330",
+        "price": "Liên hệ",
+        "attrs": [
+          "3 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-ue330/g01.jpg",
+        "href": "/phu-kien-tplink-ue330/"
+      },
+      {
+        "name": "Bộ chia 4 cổng USB 3.0 TP-Link UH400",
+        "price": "Liên hệ",
+        "attrs": [
+          "4 Cổng"
+        ],
+        "image": "assets/img/products/phu-kien-tplink-uh400/g01.jpg",
+        "href": "/phu-kien-tplink-uh400/"
+      },
+      {
+        "name": "Bộ chuyển đổi USB 3.0 sang Ethernet Gigabit TP-Link UE300 V4",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ue300-v4/g01.jpg",
+        "href": "/phu-kien-tplink-ue300-v4/"
+      },
+      {
+        "name": "Bộ chuyển đổi USB 2.0 sang LAN RJ45 100Mbps TP-Link UE200",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-ue200/g01.jpg",
+        "href": "/phu-kien-tplink-ue200/"
+      },
+      {
+        "name": "Bộ chia mạng Gigabit 1 ra 3 TP-Link EH310",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/phu-kien-tplink-eh310/g01.jpg",
+        "href": "/phu-kien-tplink-eh310/"
       }
     ]
   },
@@ -683,6 +1292,168 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG105PE.jpg",
         "href": "/mang-van-phong-soho-tplink-tl-sg105pe/"
+      },
+      {
+        "name": "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out TP-Link TL-SG1005P-PD",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1005p-pd/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1005p-pd/"
+      },
+      {
+        "name": "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+ TP-Link TL-SG108PE V4.20",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/"
+      },
+      {
+        "name": "Switch Easy Smart 16 Cổng Gigabit TP-Link TL-SG116E",
+        "price": "Liên hệ",
+        "attrs": [
+          "16 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg116e/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg116e/"
+      },
+      {
+        "name": "Switch Easy Smart 5 cổng Gigabit TP-Link TL-SG105E",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105e/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg105e/"
+      },
+      {
+        "name": "Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+) TP-Link TL-SG1218MPE",
+        "price": "Liên hệ",
+        "attrs": [
+          "18 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1218mpe/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1218mpe/"
+      },
+      {
+        "name": "Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+) TP-Link TL-SG1428PE",
+        "price": "Liên hệ",
+        "attrs": [
+          "28 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1428pe/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1428pe/"
+      },
+      {
+        "name": "Switch Easy Smart 8 cổng Gigabit TP-Link TL-SG108E V6",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108e-v6/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg108e-v6/"
+      },
+      {
+        "name": "Bộ chia tín hiệu thông minh dễ dàng 16 Port Gigabit TP-Link TL-SG1016DE",
+        "price": "Liên hệ",
+        "attrs": [
+          "16 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1016de/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1016de/"
+      },
+      {
+        "name": "8-Port 2.5G Multi-Gigabit Desktop Switch TP-Link TL-SG108S-M2",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng",
+          "5G"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108s-m2/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg108s-m2/"
+      },
+      {
+        "name": "Bộ Chia Tín Hiệu Để Bàn 5 cổng 10/100Mbps TP-Link TL-SF1005D",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1005d/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sf1005d/"
+      },
+      {
+        "name": "Switch Để Bàn 5-Cổng 2.5G TP-Link TL-SG105-M2",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng",
+          "5G"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105-m2/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg105-m2/"
+      },
+      {
+        "name": "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SL1311MP",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1311mp/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sl1311mp/"
+      },
+      {
+        "name": "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+ TP-Link TL-SL1218P",
+        "price": "Liên hệ",
+        "attrs": [
+          "16 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1218p/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sl1218p/"
+      },
+      {
+        "name": "24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch TP-Link TL-SL1226P",
+        "price": "Liên hệ",
+        "attrs": [
+          "24 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1226p/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sl1226p/"
+      },
+      {
+        "name": "8-Port 10G Desktop/Rackmount Switch TP-Link TL-SX1008",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sx1008/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sx1008/"
+      },
+      {
+        "name": "Switch Để Bàn 5 Cổng 10/100/1000Mbps TP-Link LS1005G",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-ls1005g/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-ls1005g/"
+      },
+      {
+        "name": "Switch Để Bàn 8 Cổng 10/100/1000Mbps TP-Link LS1008G",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-ls1008g/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-ls1008g/"
       }
     ]
   },
@@ -797,6 +1568,401 @@ const BRAND_CATEGORY_GROUPS = [
         ],
         "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SF1048-scaled.png",
         "href": "/giai-phap-doanh-nghiep-tplink-tl-sf1048/"
+      },
+      {
+        "name": "Switch Desktop 8 cổng Gigabit với 4 cổng PoE TP-Link TL-SG1008P",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg1008p/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1008p/"
+      },
+      {
+        "name": "Switch Để Bàn 5 cổng 10/100Mbps với 4 cổng PoE+ TP-Link TL-SF1005P V2",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sf1005p-v2/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sf1005p-v2/"
+      },
+      {
+        "name": "CPE Outdoor 23dBi Tốc Độ 300Mbps Băng Tần 5GHz TP-Link CPE610 V2",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe610-v2/g01.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-cpe610-v2/"
+      },
+      {
+        "name": "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz TP-Link CPE710",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe710/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-cpe710/"
+      },
+      {
+        "name": "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz TP-Link CPE510 V3.20",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe510-v3-20/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-cpe510-v3-20/"
+      },
+      {
+        "name": "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz TP-Link CPE210 V3",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe210-v3/g01.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-cpe210-v3/"
+      },
+      {
+        "name": "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2 TP-Link TL-SL3452",
+        "price": "Liên hệ",
+        "attrs": [
+          "48 Cổng"
+        ],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl3452/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sl3452/"
+      },
+      {
+        "name": "JetStream 48-Port Gigabit Smart Switch with 4 SFP Slots TP-Link T1600G-52TS",
+        "price": "Liên hệ",
+        "attrs": [
+          "48 Cổng"
+        ],
+        "image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-52ts/g01.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-t1600g-52ts/"
+      }
+    ]
+  },
+  {
+    "title": "Camera Wi-Fi Tapo",
+    "viewAllHref": "/tp-link-camera-wi-fi/",
+    "products": [
+      {
+        "name": "Camera AI 4K An Ninh Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C660 KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "8MP",
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c660-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c660-kit/"
+      },
+      {
+        "name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính TP-Link Tapo C675D KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c675d-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c675d-kit/"
+      },
+      {
+        "name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét TP-Link TC71",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tc71/g01.jpg",
+        "href": "/camera-wifi-tplink-tc71/"
+      },
+      {
+        "name": "Camera Wi-Fi An Ninh Cho Gia Đình TP-Link Tapo C110",
+        "price": "Liên hệ",
+        "attrs": [
+          "3MP"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c110/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c110/"
+      },
+      {
+        "name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét Ngoài Trời TP-Link TC40",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét",
+          "Ngoài trời"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tc40/g01.jpg",
+        "href": "/camera-wifi-tplink-tc40/"
+      },
+      {
+        "name": "Camera An Ninh Wi-Fi Cho Gia Đình TP-Link Tapo C100",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c100/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c100/"
+      },
+      {
+        "name": "Camera Wi-Fi An Ninh Ngoài Trời TP-Link Tapo C310",
+        "price": "Liên hệ",
+        "attrs": [
+          "Ngoài trời"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c310/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c310/"
+      },
+      {
+        "name": "Kit Camera An Ninh Quay Quét Wi-Fi/4G LTE Năng Lượng Mặt Trời TP-Link Tapo C665G KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét",
+          "4G"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c665g-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c665g-kit/"
+      },
+      {
+        "name": "Kit Camera An ninh Năng lượng Mặt trời Quay Quét Ống kính Kép TP-Link Tapo C645D KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c645d-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c645d-kit/"
+      },
+      {
+        "name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C610 KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c610-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c610-kit/"
+      },
+      {
+        "name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Tích Hợp Đèn Pha TP-Link Tapo C615F KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c615f-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c615f-kit/"
+      },
+      {
+        "name": "Battery-Powered Security Camera with Built-In Solar Panel TP-Link Tapo C465",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c465/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c465/"
+      },
+      {
+        "name": "Camera Chuông Cửa Video Tapo TP-Link Tapo D235",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-d235/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-d235/"
+      },
+      {
+        "name": "Kit Camera An Ninh 4G LTE Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C615G KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét",
+          "4G"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c615g-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c615g-kit/"
+      },
+      {
+        "name": "Bộ Camera An Ninh Năng Lượng Mặt Trời TP-Link Tapo C460 KIT",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c460-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c460-kit/"
+      },
+      {
+        "name": "KIT Camera An ninh Năng lượng Mặt trời TP-Link Tapo C425 KIT",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c425-kit/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c425-kit/"
+      },
+      {
+        "name": "Solar-Powered Security Camera Kit TP-Link Tapo C410 KIT V2.20",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c410-kit-v2-20/g01.png",
+        "href": "/camera-wifi-tplink-tapo-c410-kit-v2-20/"
+      },
+      {
+        "name": "Outdoor Pan/Tilt Security Floodlight Camera TP-Link Tapo C710",
+        "price": "Liên hệ",
+        "attrs": [
+          "Quay quét",
+          "Ngoài trời"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c710/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c710/"
+      },
+      {
+        "name": "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời TP-Link Tapo C560WS",
+        "price": "Liên hệ",
+        "attrs": [
+          "8MP",
+          "Quay quét",
+          "Ngoài trời"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c560ws/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c560ws/"
+      },
+      {
+        "name": "Camera WiFi An Ninh Quay/Quét Ngoài trời TP-Link Tapo C530WS",
+        "price": "Liên hệ",
+        "attrs": [
+          "Ngoài trời"
+        ],
+        "image": "assets/img/products/camera-wifi-tplink-tapo-c530ws/g01.jpg",
+        "href": "/camera-wifi-tplink-tapo-c530ws/"
+      }
+    ]
+  },
+  {
+    "title": "Nhà thông minh",
+    "viewAllHref": "/tp-link-nha-thong-minh/",
+    "products": [
+      {
+        "name": "Robot hút bụi và lau nhà với lực hút siêu mạnh 5300Pa + Dock tự động xả thông minh TP-Link Tapo RV30 Max Plus",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max-plus/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-rv30-max-plus/"
+      },
+      {
+        "name": "Dải Đèn LED Dây Wi-Fi Thông Minh Đa Màu Sắc TP-Link Tapo L930-5",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l930-5/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l930-5/"
+      },
+      {
+        "name": "Bluetooth Music Receiver TP-Link HA100",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-ha100/g01.jpg",
+        "href": "/nha-thong-minh-tplink-ha100/"
+      },
+      {
+        "name": "Khóa Cửa Thông Minh Nhận Diện Lòng Bàn Tay & Vân Tay TP-Link Tapo DL130",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-dl130/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-dl130/"
+      },
+      {
+        "name": "Ổ Cắm Wi-Fi Thông Minh Mini TP-Link Tapo P100",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p100/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p100/"
+      },
+      {
+        "name": "Ổ Cắm Nối Dài Thông Minh Wi-Fi TP-Link Tapo P300",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p300/g01.png",
+        "href": "/nha-thong-minh-tplink-tapo-p300/"
+      },
+      {
+        "name": "Ổ Cắm Mở Rộng Wi-Fi Thông Minh TP-Link Tapo P306",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p306/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p306/"
+      },
+      {
+        "name": "Ổ Cắm Wi-Fi Thông Minh Mini, Giám Sát Năng Lượng TP-Link Tapo P110M",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p110m/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p110m/"
+      },
+      {
+        "name": "Mini Smart Wi-Fi Plug TP-Link Tapo P125M",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p125m/g01.png",
+        "href": "/nha-thong-minh-tplink-tapo-p125m/"
+      },
+      {
+        "name": "Ổ Cắm Wi-Fi Thông Minh Ngoài Trời TP-Link Tapo P400M",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p400m/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p400m/"
+      },
+      {
+        "name": "Mini Smart Wi-Fi Socket, Energy Monitoring TP-Link Tapo P110",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p110/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p110/"
+      },
+      {
+        "name": "Ổ Cắm Wi-Fi Thông Minh Mini TP-Link Tapo P105",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-p105/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-p105/"
+      },
+      {
+        "name": "Bộ Đèn Downlight Âm Trần Thông Minh TP-Link Tapo L730-6 KIT",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l730-6-kit/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l730-6-kit/"
+      },
+      {
+        "name": "Đèn Spotlight Wi-Fi Thông Minh, Đa Sắc TP-Link Tapo L630",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l630/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l630/"
+      },
+      {
+        "name": "Bóng đèn thông minh Wi-Fi đa sắc màu TP-Link Tapo L535E",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l535e/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l535e/"
+      },
+      {
+        "name": "Đèn Spotlight Wi-Fi Thông Minh, Điều Chỉnh Độ Sáng TP-Link Tapo L610",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l610/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l610/"
+      },
+      {
+        "name": "Bóng Đèn Wi-Fi Thông Minh, Đa Sắc TP-Link Tapo L530E",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l530e/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l530e/"
+      },
+      {
+        "name": "Bóng Đèn Wi-Fi Thông Minh Tapo, Điều Chỉnh Ánh Sáng TP-Link Tapo L520E",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l520e/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l520e/"
+      },
+      {
+        "name": "Bóng Đèn Wi-Fi Thông Minh, Điều Chỉnh Ánh Sáng TP-Link Tapo L510E",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l510e/g01.png",
+        "href": "/nha-thong-minh-tplink-tapo-l510e/"
+      },
+      {
+        "name": "Bộ LED Dây Thông Minh Wi-Fi TP-Link Tapo L900-10",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l900-10/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l900-10/"
       }
     ]
   }

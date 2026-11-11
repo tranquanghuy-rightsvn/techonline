@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2cd6424fwd-10203040-2mp-wdr-pinhole-covert-network-camera",
+  "name": "2MP WDR Pinhole Covert Network Camera Hikvision DS-2CD6424FWD-10’20’30’40",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD6424FWD-10’20’30’40",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6424FWD-10’20’30’40-500x500.png"
+  ],
+  "summary": [
+    "1/2.7’’ progressive scan CMOS",
+    "Up to 2MP resolution",
+    "120dB WDR",
+    "ROI codec",
+    "Onboard storage, up to 128GB",
+    "Triple video streams",
+    "Audio/Alarm IO"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD6424FWD-10’20’30’40"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1/2.7’’ progressive scan CMOS</p><p>Up to 2MP resolution</p><p>120dB WDR</p><p>ROI codec</p><p>Onboard storage, up to 128GB</p><p>Triple video streams</p><p>Audio/Alarm IO</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.7’’ progressive scan CMOS Up to 2MP resolution 120dB WDR",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

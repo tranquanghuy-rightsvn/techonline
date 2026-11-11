@@ -1,0 +1,61 @@
+{
+  "slug": "ds-2xc6122fwd-2-mp-anti-corrosion-network-dome-camera",
+  "name": "2 MP Anti – Corrosion Network Dome Camera Hikvision DS-2XC6122FWD-IS",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2XC6122FWD-IS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/ds-2xc6122fwd-is-500x500.jpg"
+  ],
+  "summary": [
+    "H.265+/H.264+/H.265/H.264",
+    "2MP realtime resolution",
+    "120dB WDR",
+    "Anti-Corrosion Standard: WF-2, NEMA 4X, C5-M",
+    "IP67",
+    "Support on-board storage, up to 128GB"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2XC6122FWD-IS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Anti-Corrosion Standard",
+      "WF-2, NEMA 4X, C5-M"
+    ]
+  ],
+  "description_html": "<p>H.265+/H.264+/H.265/H.264</p><p>2MP realtime resolution</p><p>120dB WDR</p><p>Anti-Corrosion Standard: WF-2, NEMA 4X, C5-M</p><p>IP67</p><p>Support on-board storage, up to 128GB</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.265+/H.264+/H.265/H.264 2MP realtime resolution 120dB WDR",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

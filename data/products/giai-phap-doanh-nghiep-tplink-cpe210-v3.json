@@ -1,0 +1,165 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-cpe210-v3",
+  "name": "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz TP-Link CPE210 V3",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "CPE210 V3",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-cpe210-v3/g01.png"
+  ],
+  "summary": [
+    "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz",
+    "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz",
+    "Bộ xử lý: Qualcomm Atheros 560MHz CPU, MIPS 74Kc",
+    "Bộ nhớ: 64MB DDR2 RAM, 8MB Flash",
+    "Giao diện: 1 x cổng Ethernet 10/100Mbps (LAN0,Passive PoE in)1 trạm nối đất 1 nút Reset",
+    "Bộ cấp nguồn: Công suất qua Ethernet qua LAN0 (+4,5pins; -7,8pins)Phạm vi điện áp: 16-27; VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "CPE210 V3"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Bộ xử lý",
+      "Qualcomm Atheros 560MHz CPU, MIPS 74Kc"
+    ],
+    [
+      "Bộ nhớ",
+      "64MB DDR2 RAM, 8MB Flash"
+    ],
+    [
+      "Giao diện",
+      "1 x cổng Ethernet 10/100Mbps (LAN0,Passive PoE in)1 trạm nối đất 1 nút Reset"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Công suất qua Ethernet qua LAN0 (+4,5pins; -7,8pins)Phạm vi điện áp: 16-27<br />VDC"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa 5 Watt<br />Lưu ý: Khi được triển khai bằng Passive PoE , công suất được rút ra từ nguồn điện sẽ cao hơn một số tùy thuộc vào độ dài của cáp kết nối."
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "224 x 79 x 60 mm"
+    ],
+    [
+      "Ăng ten",
+      "Tích hợp ăng-ten định hướng phân cực kép 9dBi 2x2Độ rộng chùm tia: 65 ° (Mặt phẳng H) / 40 ° (Mặt phẳng E)Lưu ý: Để biết thêm chi tiết, vui lòng tham khảo bảng dữ liệu"
+    ],
+    [
+      "Bảo vệ",
+      "Bảo vệ ESD 15KVChống sét 6KV"
+    ],
+    [
+      "Enclosure",
+      "Vật liệu nhựa ổn định ngoài trời ASA<br />Chứng nhận chống nước IPX5"
+    ],
+    [
+      "Cấu hình Wi-Fi",
+      "Pharos MAXtream TDMA Technology802.11b/g/n Modes<br />Selectable Channel Width: 5/10/20/40MHzAutomatic Channel Selection<br />Transmission Power Control<br />Dynamic Frequency Selection (DFS)<br />WDS Enable/Disable"
+    ],
+    [
+      "Quản lý",
+      "Discovery and Remote Management via Pharos Control applicationHTTP/HTTPS Web-based management<br />System LogSNMP Agent(v2c)Ping Watch DogDynamic DDNSSSH Server"
+    ],
+    [
+      "Công cụ hệ thống",
+      "Các chỉ số chất lượng tín hiệu không dây:Cường độ tín hiệu / Nhiễu / Truyền CCQ / CPU / Bộ nhớ<br />Màn hình: Thông lượng / Trạm / Giao diện / ARP / Tuyến / WAN / DHCP<br />Phân tích quang phổ"
+    ],
+    [
+      "System-level Optimizations",
+      "Optimized IGMP Snooping/Proxy for multicast applications<br />Hardware watch dog"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n (khi vô hiệu hóa Pharos MAXtream)"
+    ],
+    [
+      "Proprietary Protocol",
+      "Chế Độ TDMA (với Pharos MAXtream)"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Lên đến 300Mbps (40 MHz, Động)Lên đến 144.4Mb / giây (20 MHz, Động)Lên đến 72.2Mb / giây (10 MHz, Động)Lên đến 36.1Mb / giây (5 MHz, Động)"
+    ],
+    [
+      "Băng tần",
+      "2.4~2.483GHzLưu ý: Tần suất hoạt động khả dụng có thể thay đổi tùy thuộc vào giới hạn của quốc gia hoặc khu vực sử dụng thiết bị."
+    ],
+    [
+      "Công suất truyền tải",
+      "25dBm/316mw (Công suất tùy chỉnh từng 1dBm)Lưu ý: Công suất truyền tối đa có thể khác nhau giữa các kênh khác nhau tùy thuộc vào giới hạn của quốc gia hoặc khu vực sử dụng thiết bị."
+    ],
+    [
+      "Kích thước (R x D x C)",
+      "85.8×43.9×29.7 mm"
+    ],
+    [
+      "Interfaces",
+      "1 Jack AC với mặt đất1 Cổng Ethernet được bảo vệ 10 / 100Mbps (Nguồn + Dữ liệu)1 Cổng Ethernet được bảo vệ 10 / 100Mbps (Dữ liệu)"
+    ],
+    [
+      "Button",
+      "Nút Reset từ xa"
+    ],
+    [
+      "Power Status LEDs",
+      "Xanh lá"
+    ],
+    [
+      "Input",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Output",
+      "V2.0: 24<br />VDC, 0.6A Max<br />V3.0: 24<br />VDC, 0.5A Max<br />V3.20: 24<br />VDC, 0.25A Max+4, 5pins; -7, 8pins. (Hỗ trợ PoE lên tới 60m)"
+    ],
+    [
+      "Efficiency",
+      ">80%"
+    ],
+    [
+      "Chứng chỉ",
+      "CE/FCC/UL/IC/GS/PSB/C-tick/SAA/S-Mark/KC-mark"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, IPX5"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "CPE không dây ngoài trời<br />Bộ chuyển đổi Passive PoE 24V 0.6ADây treo<br />Dây nguồn ACHướng dẫn cài đặt"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ hoặc Windows 10, Windows 8, Windows 7, MAC OS, NetWare,"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: -40℃~70℃ (-40℉~158℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 95% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz</p><p>CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

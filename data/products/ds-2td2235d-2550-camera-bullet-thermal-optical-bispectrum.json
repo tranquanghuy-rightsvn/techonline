@@ -1,0 +1,66 @@
+{
+  "slug": "ds-2td2235d-2550-camera-bullet-thermal-optical-bispectrum",
+  "name": "Camera Bullet Thermal + Optical Bispectrum Hikvision DS-2TD2235D-25/50",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TD2235D-25/50",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD2235D2550-500x400.jpg"
+  ],
+  "summary": [
+    "Thermal: 384×288, Visible: 1920×1080",
+    "Visible: DarkFighter Ultra low light",
+    "Thermal: 25mm (21.7°)/ 50mm (11°) thermal lens optional",
+    "Support line crossing and intrusion",
+    "Support temperature exception alarm",
+    "Support fire detection",
+    "up to 120m IR",
+    "IP66"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TD2235D-25/50"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Thermal",
+      "384×288, Visible: 1920×1080"
+    ],
+    [
+      "Visible",
+      "DarkFighter Ultra low light"
+    ],
+    [
+      "Thermal",
+      "25mm (21.7°)/ 50mm (11°) thermal lens optional"
+    ]
+  ],
+  "description_html": "<p>Thermal: 384×288, Visible: 1920×1080</p><p>Visible: DarkFighter Ultra low light</p><p>Thermal: 25mm (21.7°)/ 50mm (11°) thermal lens optional</p><p>Support line crossing and intrusion</p><p>Support temperature exception alarm</p><p>Support fire detection</p><p>up to 120m IR</p><p>IP66</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thermal: 384×288, Visible: 1920×1080 Visible: DarkFighter Ultra low light Thermal: 25mm (21.7°)/ 50mm (11°) thermal lens optional",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

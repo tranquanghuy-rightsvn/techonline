@@ -1,0 +1,131 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1016",
+  "name": "Bộ chia tín hiệu 16 cổng Gigabit TP-Link TL-SG1016",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1016",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1016/g01.jpg"
+  ],
+  "summary": [
+    "Bộ chia tín hiệu 16 cổng Gigabit",
+    "Bộ chia tín hiệu 16 cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab , IEEE 802.3x",
+    "Giao diện: 16x cổng RJ45 10/100/1000 Mbps(Tự động thỏa thuận/MDI tự động/MDIX)",
+    "Mạng Media: 10; BASE-T: loại UTP cáp 3, 4, 5 (tối đa 100m)100; BASE-TX/1000; BASE-T: loại UTP hoặc cáp ở phía trên 5, 5e (tối đa 100m)",
+    "Số lượng quạt: Không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1016"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab , IEEE 802.3x"
+    ],
+    [
+      "Giao diện",
+      "16x cổng RJ45 10/100/1000 Mbps(Tự động thỏa thuận/MDI tự động/MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: loại UTP cáp 3, 4, 5 (tối đa 100m)100<br />BASE-TX/1000<br />BASE-T: loại UTP hoặc cáp ở phía trên 5, 5e (tối đa 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "No"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 9.26W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3*7.1*1.7 in. (440*180*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "9.26W(220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "31.60<br />BTU/h"
+    ],
+    [
+      "Switching Capacity",
+      "32Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "23.8Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Khung Jumbo",
+      "10KB"
+    ],
+    [
+      "QoS",
+      "802.1p/DSCP QoS**Only for V12 and later version"
+    ],
+    [
+      "Công nghệ Xanh",
+      "Có"
+    ],
+    [
+      "Phương thức chuyển",
+      "Lưu trữ và gửi chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch 16 cổng Gigabit có giá treo<br />Dây điện Hướng dẫn cài đặt<br />Bộ giá treo Chân cao su"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Bộ chia tín hiệu 16 cổng Gigabit</p><p>Bộ chia tín hiệu 16 cổng Gigabit</p>",
+  "attrs": [
+    "16 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ chia tín hiệu 16 cổng Gigabit Bộ chia tín hiệu 16 cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

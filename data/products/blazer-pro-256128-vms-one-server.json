@@ -1,0 +1,52 @@
+{
+  "slug": "blazer-pro-256128-vms-one-server",
+  "name": "Phụ kiện VMS All-in-One Server Hikvision Blazer Pro 256/128",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "Blazer Pro 256/128",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/Blazer-Pro-256128-500x353.jpg"
+  ],
+  "summary": [
+    "Ready to use, preinstalled with Hikvision Professional VMS software and Windows 8.1",
+    "Up to 256 channels access and recording , recording bandwidth up to 640 Mbps",
+    "Support for 2×2 screen displays, an economical solution for small monitoring centers",
+    "HDD hot swap with RAID0, RAID1, RAID5, RAID10, N+1 equipment hot spare to ensure data reliability",
+    "Active directory integration for user management",
+    "3 years of software technical support with SSP."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Blazer Pro 256/128"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>Ready to use, preinstalled with Hikvision Professional VMS software and Windows 8.1</p><p>Up to 256 channels access and recording , recording bandwidth up to 640 Mbps</p><p>Support for 2×2 screen displays, an economical solution for small monitoring centers</p><p>HDD hot swap with RAID0, RAID1, RAID5, RAID10, N+1 equipment hot spare to ensure data reliability</p><p>Active directory integration for user management</p><p>3 years of software technical support with SSP.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Ready to use, preinstalled with Hikvision Professional VMS software and Windows 8.1 Up to 256 channels access and recording , recording bandwidth up to 640 Mbps Support for 2×2 screen displays, an economical solution for small monitoring centers",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

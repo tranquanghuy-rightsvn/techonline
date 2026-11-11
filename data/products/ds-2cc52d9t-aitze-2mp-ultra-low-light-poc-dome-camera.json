@@ -1,0 +1,62 @@
+{
+  "slug": "ds-2cc52d9t-aitze-2mp-ultra-low-light-poc-dome-camera",
+  "name": "2MP Ultra Low-Light PoC Dome Camera Hikvision DS-2CC52D9T-AITZE",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CC52D9T-AITZE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CC52D9T-AVPIT3ZE-1.jpg"
+  ],
+  "summary": [
+    "2.0 Megapixel progressive scan CMOS",
+    "Analog HD output, up to 1080P resolution",
+    "2.8-12mm motorized vari-focal lens",
+    "Semi-auto focus",
+    "OSD menu",
+    "120dB true WDR",
+    "EXIR 2.0, up to 40m IR distance",
+    "IP67",
+    "Up the Coax(HIKVISION-C)",
+    "PoC",
+    "1 alarm in/out"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CC52D9T-AITZE"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2.0 Megapixel progressive scan CMOS</p><p>Analog HD output, up to 1080P resolution</p><p>2.8-12mm motorized vari-focal lens</p><p>Semi-auto focus</p><p>OSD menu</p><p>120dB true WDR</p><p>EXIR 2.0, up to 40m IR distance</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p><p>PoC</p><p>1 alarm in/out</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2.0 Megapixel progressive scan CMOS Analog HD output, up to 1080P resolution 2.8-12mm motorized vari-focal lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

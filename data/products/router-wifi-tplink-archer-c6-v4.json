@@ -1,0 +1,168 @@
+{
+  "slug": "router-wifi-tplink-archer-c6-v4",
+  "name": "Router Gigabit MU-MIMO Không Dây AC1200 TP-Link Archer C6 V4",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C6 V4",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c6-v4/g01.jpg"
+  ],
+  "summary": [
+    "Router Gigabit MU-MIMO Không Dây AC1200",
+    "Archer C6, với 4 ăng-ten ngoài và cổng gigabit, cung cấp Wi-Fi đến mọi ngóc ngách trong nhà bạn, để bạn tận hưởng trải nghiệm phát video và chơi game mượt mà.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 400 Mbps (802.11n)",
+    "WiFi Range: 3 Bedroom Houses; 4× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performanceMU-MIMO; Simultaneously communicates with multiple MU-MIMO clients; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C6 V4"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 400 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />4× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performanceMU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Wi-Fi Button<br />Power On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "OTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE EIRP: &lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps:-93dBm；11a 54<br />Mbps:-78dBm；11ac HT20 mcs8:69dBm;11ac HT40 mcs9:-65dBm;11ac HT80 mcs9:-62dBm;2.4<br />GHz:11g 54<br />Mbps:-78dBm;11n HT20 mcs7:-74dBm;11n HT40 mcs7:-71dbm；"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.5 × 4.6 × 1.2 in (215 × 117 × 32 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer C6Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Gigabit MU-MIMO Không Dây AC1200</p><p>Archer C6, với 4 ăng-ten ngoài và cổng gigabit, cung cấp Wi-Fi đến mọi ngóc ngách trong nhà bạn, để bạn tận hưởng trải nghiệm phát video và chơi game mượt mà.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1200"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Gigabit MU-MIMO Không Dây AC1200 Archer C6, với 4 ăng-ten ngoài và cổng gigabit, cung cấp Wi-Fi đến mọi ngóc ngách trong nhà bạn, để bạn tận hưởng trải nghiệm phát video và chơi game mượt mà.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

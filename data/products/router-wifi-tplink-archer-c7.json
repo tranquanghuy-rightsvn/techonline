@@ -1,0 +1,176 @@
+{
+  "slug": "router-wifi-tplink-archer-c7",
+  "name": "Router Wi-Fi Gigabit Băng Tần Kép AC1750 TP-Link Archer C7",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C7",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c7/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Gigabit Băng Tần Kép AC1750",
+    "Archer C7 là mẫu Wi-Fi 5 đạt uy tín cao, được Times khuyến nghị là 'Router tốt nhất cho hầu hết mọi người'.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC17505 GHz: 1300 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)",
+    "WiFi Range: 3 Bedroom Houses; 3× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C7"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC17505 GHz: 1300 Mbps (802.11ac)2.4 GHz: 450 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />3× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1 mạng khách 5 GHz1 mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Qualcomm CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1 Cổng WAN Gigabit 4 Cổng LAN Gigabit"
+    ],
+    [
+      "USB Support",
+      "1 cổng USB 2.0<br />Supported Partition Formats:NTFS, FAT32Chức Năng Được Hỗ Trợ:FTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Buttons",
+      "Nút Tắt/ Mở Wi-FiNút Tắt/ Mở Nguồn<br />Nút WPS/Reset"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1.5 A"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP độngIP tĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên dịch vụ theo Thiết Bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng cấp Firmware OTAID TP-Link DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh Sách Máy Khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebCheck Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC:&lt;30dBm"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps-96d<br />Bm11a 54<br />Mbps: -79d<br />Bm11ac HT20: -71d<br />Bm11ac HT40: -66d<br />Bm11ac HT80: -63d<br />Bm2.4<br />GHz:11g 54M: -77d<br />Bm11n HT20: -74d<br />Bm11n HT40: -72dBm"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.6 × 6.4 × 1.3 in(243 × 160.6 × 32.5 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer C7Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Gigabit Băng Tần Kép AC1750</p><p>Archer C7 là mẫu Wi-Fi 5 đạt uy tín cao, được Times khuyến nghị là 'Router tốt nhất cho hầu hết mọi người'.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1750"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Gigabit Băng Tần Kép AC1750 Archer C7 là mẫu Wi-Fi 5 đạt uy tín cao, được Times khuyến nghị là 'Router tốt nhất cho hầu hết mọi người'.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

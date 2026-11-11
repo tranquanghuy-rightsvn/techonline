@@ -1,0 +1,56 @@
+{
+  "slug": "ds-kv8102-ipvp-plastic-villa-door-station",
+  "name": "Chuông cửa màn hình Plastic Villa Door Station Hikvision DS-KV8102-IP/VP",
+  "categories": [
+    "chuong-cua-man-hinh-hikvision",
+    "hikvision-chuong-cua-man-hinh"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-KV8102-IP/VP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-KV8102-IP.jpg"
+  ],
+  "summary": [
+    "Camera resolution: HD720P, 25fps(P)/30fps(N)",
+    "10M/100M Self-adaptive Ethernet",
+    "4-ch alarm input, 1-ch alarm output",
+    "IP 65",
+    "1-ch Indoor station access",
+    "Visible Light Supplement(-VP), IR Supplement(-IP)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-KV8102-IP/VP"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Chuông cửa màn hình"
+    ],
+    [
+      "Camera resolution",
+      "HD720P, 25fps(P)/30fps(N)"
+    ]
+  ],
+  "description_html": "<p>Camera resolution: HD720P, 25fps(P)/30fps(N)</p><p>10M/100M Self-adaptive Ethernet</p><p>4-ch alarm input, 1-ch alarm output</p><p>IP 65</p><p>1-ch Indoor station access</p><p>Visible Light Supplement(-VP), IR Supplement(-IP)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera resolution: HD720P, 25fps(P)/30fps(N) 10M/100M Self-adaptive Ethernet 4-ch alarm input, 1-ch alarm output",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

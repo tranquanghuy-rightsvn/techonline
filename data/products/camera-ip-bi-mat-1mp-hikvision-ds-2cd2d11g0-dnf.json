@@ -1,0 +1,62 @@
+{
+  "slug": "camera-ip-bi-mat-1mp-hikvision-ds-2cd2d11g0-dnf",
+  "name": "Camera IP bí mật 1MP Hikvision DS-2CD2D11G0-D/NF",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2D11G0-D/NF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2D11G0-D_NF-500x500.jpg"
+  ],
+  "summary": [
+    "– Camera IP bí mật 1Mp.",
+    "– Cảm biến 1/2.7″ Progressive CMOS.",
+    "– Chuẩn nén H.265+, H.265, H.264+, H.264.",
+    "– Độ phân giải tối đa 1280 × 960@30/25 fps.",
+    "– Ống kính: 3.7 mm.",
+    "– Tính năng giảm nhiễu số 3D DNR, Chống ngược sáng thực 120dB WDR.",
+    "– Có hỗ trợ ngõ vào âm thanh."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2D11G0-D/NF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "1MP"
+    ],
+    [
+      "– Ống kính",
+      "3.7 mm."
+    ]
+  ],
+  "description_html": "<p>– Camera IP bí mật 1Mp.</p><p>– Cảm biến 1/2.7″ Progressive CMOS.</p><p>– Chuẩn nén H.265+, H.265, H.264+, H.264.</p><p>– Độ phân giải tối đa 1280 × 960@30/25 fps.</p><p>– Ống kính: 3.7 mm.</p><p>– Tính năng giảm nhiễu số 3D DNR, Chống ngược sáng thực 120dB WDR.</p><p>– Có hỗ trợ ngõ vào âm thanh.</p>",
+  "attrs": [
+    "1MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Camera IP bí mật 1Mp. – Cảm biến 1/2.7″ Progressive CMOS. – Chuẩn nén H.265+, H.265, H.264+, H.264.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

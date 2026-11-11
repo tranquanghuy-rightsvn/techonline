@@ -1,0 +1,175 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1700g-28tq",
+  "name": "Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE TP-Link T1700G-28TQ",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1700G-28TQ",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1700g-28tq/g01.jpg"
+  ],
+  "summary": [
+    "Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE",
+    "Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 24 cổng RJ45 10/100/1000Mbps4 khe cắm SFP+ 10G cố định",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable (maximum 100m)1000; BASE-X: MMF, SMF10; GBASE-LR10; GBASE-SR",
+    "Số lượng quạt: Không Quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1700G-28TQ"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 cổng RJ45 10/100/1000Mbps4 khe cắm SFP+ 10G cố định"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable (maximum 100m)1000<br />BASE-X: MMF, SMF10<br />GBASE-LR10<br />GBASE-SR"
+    ],
+    [
+      "Số lượng quạt",
+      "Không Quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Có"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Khối lượng",
+      "2.8kg"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32 * 7.1 * 1.73 in. (440 * 180 * 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Giá đỡ"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "21.8W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "21.8W (220V/50Hz)"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "1.5MB"
+    ],
+    [
+      "Khung Jumbo",
+      "9KB"
+    ],
+    [
+      "Number of Static Routes",
+      "32 IPv4"
+    ],
+    [
+      "Number of IP Interfaces",
+      "16"
+    ],
+    [
+      "Switching Capacity",
+      "Lên tới 128Gpps đối với switch độc lập"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "Lên tới 95.2Mpps đối với switch độc lập"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "16K"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 8 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate LimitingIPv6 QoS*Voice VLAN"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP Relay*IGMP Snooping V1/V2/V3802.3ad LACP (Up to 14 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)MAC/Protocol-based VLAN"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP portsIPv6 ACL*"
+    ],
+    [
+      "Bảo mật",
+      "AAA*Port SecurityDHCP SnoopingIP-MAC-Port BindingARP Inspection802.1x and Radius AuthenticationSSH v1/v2<br />SSL v3/TLSv1Broadcast/Multicast/Unknown-unicast Storm Control<br />Dos Defend"
+    ],
+    [
+      "IPv6",
+      "Dual IPv4/IPv6 stack<br />Multicast Listener Discovery (MLD) SnoopingIPv6 neighbor discovery (ND)Path maximum transmission unit (MTU) discovery"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs andTP-LINK private MIBsRMON (1, 2, 3, 9 groups)CPU Monitoring<br />Port Mirroring<br />Firmware Upgrade: TFTP &amp; Web"
+    ],
+    [
+      "Max Number of Stacking Ports Installable",
+      "2 SFP+"
+    ],
+    [
+      "Stacking Speed (Per Port)",
+      "20Gbps (Full-Duplex)"
+    ],
+    [
+      "No. of Units Per Stack",
+      "Lên tới 6 thiết bị"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1700G-28TQDây điện<br />Hướng dẫn cài đặtCD nguồn<br />Bộ giá đỡChân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™ hoặc Windows 7, Windows 8/8.1, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉);Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90%RH không ngưng tụĐộ ẩm lưu trữ: 5%~90%RH không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE</p><p>Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE</p>",
+  "attrs": [
+    "24 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

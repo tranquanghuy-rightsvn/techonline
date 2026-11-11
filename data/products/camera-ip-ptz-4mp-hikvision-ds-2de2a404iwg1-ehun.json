@@ -1,0 +1,68 @@
+{
+  "slug": "camera-ip-ptz-4mp-hikvision-ds-2de2a404iwg1-ehun",
+  "name": "Camera IP PTZ 4MP Hikvision DS-2DE2A404IWG1-EHUN",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE2A404IWG1-EHUN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE2A404IWG1-EHUN.jpg"
+  ],
+  "summary": [
+    "Camera IP Mini speed dome 4MP",
+    "1/2.8″ Progressive Scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264",
+    "Độ nhạy sáng Color: 0.005 Lux @(F1.6, AGC ON) B/W: 0.001 Lux @(F1.6, AGC ON), 0 lux with IR.",
+    "Độ phân giải tối đa 2Mp, 2560 × 1440@25fps. Ống kính 2.8 mm to 12 mm. Hồng ngoại 20m",
+    "Zoom quang 4x, Zoom số 16x.",
+    "Tính năng chống ngược sáng thực WDR 120dB, Tính năng giảm nhiễu số 3D DNR, Tính năng Bù ngược sáng BLC, Tính năng chống rung điện tử EIS",
+    "Hỗ trợ 300 Presets, Nhớ vị trí trước khi mất điện.",
+    "Góc quay 0° đến 355°, Góc quét 0° đến 90°",
+    "Phát hiện xâm nhập, Vượt hàng rảo ảo, Phát hiện vùng đi vào, Vùng đi ra. Phát hiện vật thể di dời, Hành lý bỏ quên. Phát hiện âm thanh ngoại lệ.",
+    "Tích hợp mic. Hỗ trợ 1 cổng Audio vào, 1 Audio ra. Hỗ trợ 1 cổng báo động vào, 1 cổng báo động ra.",
+    "Hỗ trợ dịch vụ hik-connect, tên miền cameraddns.",
+    "Tiêu chuẩn chống bụi, nước IP66, tiêu chuẩn chống đập phá IK10",
+    "Nguồn cấp 12VDC, hỗ trợ POE."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE2A404IWG1-EHUN"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "4MP"
+    ],
+    [
+      "Độ nhạy sáng Color",
+      "0.005 Lux @(F1.6, AGC ON) B/W: 0.001 Lux @(F1.6, AGC ON), 0 lux with IR."
+    ]
+  ],
+  "description_html": "<p>Camera IP Mini speed dome 4MP</p><p>1/2.8″ Progressive Scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264</p><p>Độ nhạy sáng Color: 0.005 Lux @(F1.6, AGC ON) B/W: 0.001 Lux @(F1.6, AGC ON), 0 lux with IR.</p><p>Độ phân giải tối đa 2Mp, 2560 × 1440@25fps. Ống kính 2.8 mm to 12 mm. Hồng ngoại 20m</p><p>Zoom quang 4x, Zoom số 16x.</p><p>Tính năng chống ngược sáng thực WDR 120dB, Tính năng giảm nhiễu số 3D DNR, Tính năng Bù ngược sáng BLC, Tính năng chống rung điện tử EIS</p><p>Hỗ trợ 300 Presets, Nhớ vị trí trước khi mất điện.</p><p>Góc quay 0° đến 355°, Góc quét 0° đến 90°</p><p>Phát hiện xâm nhập, Vượt hàng rảo ảo, Phát hiện vùng đi vào, Vùng đi ra. Phát hiện vật thể di dời, Hành lý bỏ quên. Phát hiện âm thanh ngoại lệ.</p><p>Tích hợp mic. Hỗ trợ 1 cổng Audio vào, 1 Audio ra. Hỗ trợ 1 cổng báo động vào, 1 cổng báo động ra.</p><p>Hỗ trợ dịch vụ hik-connect, tên miền cameraddns.</p><p>Tiêu chuẩn chống bụi, nước IP66, tiêu chuẩn chống đập phá IK10</p><p>Nguồn cấp 12VDC, hỗ trợ POE.</p>",
+  "attrs": [
+    "4MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera IP Mini speed dome 4MP 1/2.8″ Progressive Scan CMOS. Chuẩn nén H.265+/H.265/H.264+/H.264 Độ nhạy sáng Color: 0.005 Lux @(F1.6, AGC ON) B/W: 0.001 Lux @(F1.6, AGC ON), 0 lux with IR.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

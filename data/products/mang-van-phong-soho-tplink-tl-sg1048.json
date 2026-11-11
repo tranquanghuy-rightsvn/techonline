@@ -1,0 +1,119 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1048",
+  "name": "Switch 48 cổng Gigabit TP-Link TL-SG1048",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1048",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1048/g01.jpg"
+  ],
+  "summary": [
+    "Switch 48 cổng Gigabit",
+    "Switch 48 cổng Gigabit",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x",
+    "Giao diện: 48 x cổng RJ45 10/100/1000Mbps (Hỗ trợ tự động chuyển đổi MDI / MDIX)",
+    "Mạng Media: 10; BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100 mét)100; BASE-TX: Cáp UTP loại 5, 5e hoặc hơn (tối đa 100 mét)",
+    "Khóa bảo mật vật lý: Không"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1048"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x"
+    ],
+    [
+      "Giao diện",
+      "48 x cổng RJ45 10/100/1000Mbps (Hỗ trợ tự động chuyển đổi MDI / MDIX)"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: Cáp UTP loại 3, 4, 5 (tối đa 100 mét)100<br />BASE-TX: Cáp UTP loại 5, 5e hoặc hơn (tối đa 100 mét)"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Không"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32*8.7*1.73 in.(440*220*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Gắn"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "32.29W(220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "110.17<br />BTU/h"
+    ],
+    [
+      "Switching Capacity",
+      "96Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "71.4Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "16K"
+    ],
+    [
+      "Bộ nhớ đệm",
+      "12Mb"
+    ],
+    [
+      "Khung Jumbo",
+      "12KB"
+    ],
+    [
+      "Phương thức chuyển",
+      "Lưu trữ và Chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chia tín hiệu 48 cổng Gigabit Rackmount<br />Dây điện<br />Hướng dẫn cài đặt nhanh<br />Bộ rackmount<br />Chân đế cao su"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch 48 cổng Gigabit</p><p>Switch 48 cổng Gigabit</p>",
+  "attrs": [
+    "48 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch 48 cổng Gigabit Switch 48 cổng Gigabit",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

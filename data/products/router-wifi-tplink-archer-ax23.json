@@ -1,0 +1,184 @@
+{
+  "slug": "router-wifi-tplink-archer-ax23",
+  "name": "AX1800 Router Wi-Fi 6 Băng Tần Kép TP-Link Archer AX23",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX23",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax23/g01.jpg"
+  ],
+  "summary": [
+    "AX1800 Router Wi-Fi 6 Băng Tần Kép",
+    "Được trang bị công nghệ Wi-Fi mới nhất, Wi-Fi 6, Archer AX23 mang đến tốc độ nhanh hơn, dung lượng lớn hơn và giảm tắc nghẽn mạng.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX18005 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Nhà 2-3 Phòng ngủ4 × Ăng ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming",
+    "WiFi Capacity: CaoBăng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuAirtime Fairness; Cải thiện hiệu quả mạng bằng cách hạn chế chiếm dụng quá nhiều4 luồng"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX23"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX18005 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 2-3 Phòng ngủ4 × Ăng ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "CaoBăng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưuAirtime Fairness<br />Cải thiện hiệu quả mạng bằng cách hạn chế chiếm dụng quá nhiều4 luồng"
+    ],
+    [
+      "Working Modes",
+      "Chế độ router<br />Chế độ điểm truy cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Cổng lớp ứng dụng"
+    ],
+    [
+      "Guest Network",
+      "1 Mạng khách 5 GHz1 Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "VPN Client",
+      "OpenVPN Client<br />PPTP VPN Client<br />WireGuard VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU Lõi Kép"
+    ],
+    [
+      "Ethernet Ports",
+      "1 cổng WAN Gigabit4 cổng LAN Gigabit"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "Nút WPS / Wi-FiNút Bật / Tắt nguồn<br />Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh ™ được hỗ trợ"
+    ],
+    [
+      "EasyMesh",
+      "Mesh networking creates smooth, fast, stable roaming. Archer AX23 can flexibly build an EasyMesh network with EasyMesh-Compatible devices, which eliminates Wi-Fi dead zones, expand your network,"
+    ],
+    [
+      "Parental Controls",
+      "Lọc URL<br />Kiểm soát thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Nâng cấp Firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebCheck Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4 GHz)&lt;23dBm(5.15 GHz~5.25 GHz)<br />FCC:&lt;30dBm(2.4 GHz &amp; 5.15 GHz~5.825 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "EU Version5<br />G11a 6<br />Mbps: -96dbm 11a 54"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 ×1.5 in(260.2 × 135.0 × 38.6 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX23Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>AX1800 Router Wi-Fi 6 Băng Tần Kép</p><p>Được trang bị công nghệ Wi-Fi mới nhất, Wi-Fi 6, Archer AX23 mang đến tốc độ nhanh hơn, dung lượng lớn hơn và giảm tắc nghẽn mạng.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1800"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AX1800 Router Wi-Fi 6 Băng Tần Kép Được trang bị công nghệ Wi-Fi mới nhất, Wi-Fi 6, Archer AX23 mang đến tốc độ nhanh hơn, dung lượng lớn hơn và giảm tắc nghẽn mạng.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

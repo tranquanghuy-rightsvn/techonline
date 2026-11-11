@@ -1,0 +1,64 @@
+{
+  "slug": "bo-kiem-soat-vao-ra-4-cua-hikvision-ds-k2814",
+  "name": "Bộ kiểm soát vào ra 4 cửa Hikvision DS-K2814",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K2814",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2814.jpg"
+  ],
+  "summary": [
+    "Bộ kiểm soát vào ra 4 cửa, Lưu trữ 10,000 thẻ và 50,000 sự kiện kiểm soát vào ra.",
+    "Giao tiếp : TCP/IP",
+    "Hỗ trợ 4 đầu đọc thẻ Wiegand",
+    "Giao tiếp ngõ vào: Cửa từ ×4, Công tắc cửa ×4, ngõ vào tình huống ×4",
+    "Giao tiếp ngõ ra:Relay công tắc cửa ×4, Relay báo động ×4.",
+    "Hiện Hikvision đã phát hành firmware có hỗ trợ giao diện tiếng Việt cho máy chấm công độc lập Hikvision, đồng thời đã có phần mềm 4200 2.7.0.50 bản tiếng Việt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K2814"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ],
+    [
+      "Giao tiếp",
+      "TCP/IP"
+    ],
+    [
+      "Giao tiếp ngõ vào",
+      "Cửa từ ×4, Công tắc cửa ×4, ngõ vào tình huống ×4"
+    ],
+    [
+      "Giao tiếp ngõ ra",
+      "Relay công tắc cửa ×4, Relay báo động ×4."
+    ]
+  ],
+  "description_html": "<p>Bộ kiểm soát vào ra 4 cửa, Lưu trữ 10,000 thẻ và 50,000 sự kiện kiểm soát vào ra.</p><p>Giao tiếp : TCP/IP</p><p>Hỗ trợ 4 đầu đọc thẻ Wiegand</p><p>Giao tiếp ngõ vào: Cửa từ ×4, Công tắc cửa ×4, ngõ vào tình huống ×4</p><p>Giao tiếp ngõ ra:Relay công tắc cửa ×4, Relay báo động ×4.</p><p>Hiện Hikvision đã phát hành firmware có hỗ trợ giao diện tiếng Việt cho máy chấm công độc lập Hikvision, đồng thời đã có phần mềm 4200 2.7.0.50 bản tiếng Việt</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ kiểm soát vào ra 4 cửa, Lưu trữ 10,000 thẻ và 50,000 sự kiện kiểm soát vào ra. Giao tiếp : TCP/IP Hỗ trợ 4 đầu đọc thẻ Wiegand",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

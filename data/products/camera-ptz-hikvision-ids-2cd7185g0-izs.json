@@ -1,0 +1,52 @@
+{
+  "slug": "camera-ptz-hikvision-ids-2cd7185g0-izs",
+  "name": "Camera PTZ Hikvision iDS-2CD7185G0-IZS",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "iDS-2CD7185G0-IZS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7165G0-IZS-500x500.jpg"
+  ],
+  "summary": [
+    "High quality imaging with 8 MP resolution Clear imaging against strong back light due to true WDR technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage Advanced streaming technology enables smooth live view and data self-correction in poor networks 5 streams and up to 5 custom streams to meet a wide variety of applications 6 behavior analyses, 3 exception detection, and face detection Vandal proof (IK10)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "iDS-2CD7185G0-IZS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>High quality imaging with 8 MP resolution Clear imaging against strong back light due to true WDR technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage Advanced streaming technology enables smooth live view and data self-correction in poor networks 5 streams and up to 5 custom streams to meet a wide variety of applications 6 behavior analyses, 3 exception detection, and face detection Vandal proof (IK10)</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "High quality imaging with 8 MP resolution Clear imaging against strong back light due to true WDR technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage Advanced streaming technology enables smooth live view and data…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "ds-7608-7616huhi-f1n-dau-ghi-turbo-hybrid",
+  "name": "Đầu ghi Turbo Hybrid Hikvision DS-7608/16HUHI-F2/N",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7608/16HUHI-F2/N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/Ds-7604-7608-7616huhi-f-n-500x500.png"
+  ],
+  "summary": [
+    "H.264 ,H.264+& Dual-stream video compression",
+    "Support HD-TVI, IPC,AHD and analog cameras with adaptive access",
+    "Support Cloud storage(One Drive, Google Drive or Drop Box)",
+    "HDMI and VGA output can be configured simultaneous or independent. If simultaneous, up to 4K (3840 × 2160) resolution is supported; if independent, up to 1920 × 1080 resolution for VGA output and up to 4K (3840 × 2160) resolution for HDMI output",
+    "Long transmission distance over coax cable",
+    "8/16-ch synchronous playback at 3MP resolution",
+    "playback at up to 256X speed."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7608/16HUHI-F2/N"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>H.264 ,H.264+&amp; Dual-stream video compression</p><p>Support HD-TVI, IPC,AHD and analog cameras with adaptive access</p><p>Support Cloud storage(One Drive, Google Drive or Drop Box)</p><p>HDMI and VGA output can be configured simultaneous or independent. If simultaneous, up to 4K (3840 × 2160) resolution is supported; if independent, up to 1920 × 1080 resolution for VGA output and up to 4K (3840 × 2160) resolution for HDMI output</p><p>Long transmission distance over coax cable</p><p>8/16-ch synchronous playback at 3MP resolution</p><p>playback at up to 256X speed.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264 ,H.264+& Dual-stream video compression Support HD-TVI, IPC,AHD and analog cameras with adaptive access Support Cloud storage(One Drive, Google Drive or Drop Box)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

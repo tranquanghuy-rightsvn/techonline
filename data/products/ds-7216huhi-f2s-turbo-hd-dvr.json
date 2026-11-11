@@ -1,0 +1,53 @@
+{
+  "slug": "ds-7216huhi-f2s-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-7216HUHI-F2/S Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7216HUHI-F2/S",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png"
+  ],
+  "summary": [
+    "H.264+ & Dual-stream video compression",
+    "Support HD-TVI/analog/AHD/IP camera triple hybrid",
+    "Support both HD-TVI and analog cameras with adaptive access",
+    "Full channel@5MP resolution non real-time recording",
+    "HDMI output at up to 4K while VGA output at up to 1920×1080P resolution",
+    "Long transmission distance over coax cable",
+    "Support up to 4/8-ch synchronous playback"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7216HUHI-F2/S"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>H.264+ &amp; Dual-stream video compression</p><p>Support HD-TVI/analog/AHD/IP camera triple hybrid</p><p>Support both HD-TVI and analog cameras with adaptive access</p><p>Full channel@5MP resolution non real-time recording</p><p>HDMI output at up to 4K while VGA output at up to 1920×1080P resolution</p><p>Long transmission distance over coax cable</p><p>Support up to 4/8-ch synchronous playback</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264+ & Dual-stream video compression Support HD-TVI/analog/AHD/IP camera triple hybrid Support both HD-TVI and analog cameras with adaptive access",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

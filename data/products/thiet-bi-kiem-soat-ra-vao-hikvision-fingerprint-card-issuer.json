@@ -1,0 +1,46 @@
+{
+  "slug": "thiet-bi-kiem-soat-ra-vao-hikvision-fingerprint-card-issuer",
+  "name": "Thiết bị kiểm soát ra vào Hikvision Fingerprint Card Issuer",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1F800-F.jpg"
+  ],
+  "summary": [
+    "500 dpi high-definition",
+    "Support the function of PnP(plug and play)",
+    "Optical fingerprint sensor designed with scratch-resistant material",
+    "USB 2.0 communication standard for data transmission"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>500 dpi high-definition</p><p>Support the function of PnP(plug and play)</p><p>Optical fingerprint sensor designed with scratch-resistant material</p><p>USB 2.0 communication standard for data transmission</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "500 dpi high-definition Support the function of PnP(plug and play) Optical fingerprint sensor designed with scratch-resistant material",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

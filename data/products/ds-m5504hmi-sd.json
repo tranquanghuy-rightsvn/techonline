@@ -1,0 +1,51 @@
+{
+  "slug": "ds-m5504hmi-sd",
+  "name": "Camera 4-Channel Mobile DVR Hikvision DS-M5504HMI-SD",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-M5504HMI-SD",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DSM5504HNI-500x400.jpg"
+  ],
+  "summary": [
+    "Supports 4 channels of WD1 video input",
+    "2× SD / SDHC / SDXC card slot",
+    "Pluggable 3G/4G/Wi-Fi module (optional)",
+    "Standard 1DIN dimensions",
+    "EN50155 certification"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-M5504HMI-SD"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ]
+  ],
+  "description_html": "<p>Supports 4 channels of WD1 video input</p><p>2× SD / SDHC / SDXC card slot</p><p>Pluggable 3G/4G/Wi-Fi module (optional)</p><p>Standard 1DIN dimensions</p><p>EN50155 certification</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Supports 4 channels of WD1 video input 2× SD / SDHC / SDXC card slot Pluggable 3G/4G/Wi-Fi module (optional)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

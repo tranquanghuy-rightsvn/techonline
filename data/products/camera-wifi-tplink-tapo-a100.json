@@ -1,0 +1,82 @@
+{
+  "slug": "camera-wifi-tplink-tapo-a100",
+  "name": "Pin Dự Phòng TP-Link Tapo A100",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo A100",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-a100/g01.png"
+  ],
+  "summary": [
+    "Pin Dự Phòng",
+    "Pin sạc, pin Lithium, dung lượng 6700mAh, tương thích với các camera và chuông cửa video chạy pin của Tapo.",
+    "Battery Capacity: 6700mAh",
+    "Adapter Output: 3.6V",
+    "Product Dimensions (W x D x H): 70.5*41.4*22 mm",
+    "USB Support: Micro USB"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo A100"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Battery Capacity",
+      "6700mAh"
+    ],
+    [
+      "Adapter Output",
+      "3.6V"
+    ],
+    [
+      "Product Dimensions (W x D x H)",
+      "70.5*41.4*22 mm"
+    ],
+    [
+      "USB Support",
+      "Micro USB"
+    ],
+    [
+      "Package Content",
+      "Tapo A100 Quick Start GuideUSB Adapter Cable"
+    ],
+    [
+      "Operating Temperature",
+      "-20℃– 45℃ (-4°F–113°F )**"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~45℃ (-4°F~113°F)"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90%RH, Non-condensing"
+    ]
+  ],
+  "description_html": "<p>Pin Dự Phòng</p><p>Pin sạc, pin Lithium, dung lượng 6700mAh, tương thích với các camera và chuông cửa video chạy pin của Tapo.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Pin Dự Phòng Pin sạc, pin Lithium, dung lượng 6700mAh, tương thích với các camera và chuông cửa video chạy pin của Tapo.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "mat-camera-ip-tru-5mp-hong-ngoai-90m-hikvision-ds-2sh56ad-5is",
+  "name": "Mắt camera IP trụ 5MP hồng ngoại 90m Hikvision DS-2SH56AD-5IS",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2SH56AD-5IS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 7650000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2023/08/DS-2SH56AD-5IS.jpg"
+  ],
+  "summary": [
+    "1/2.7″ Progressive Scan CMOS",
+    "H.265+/H.265/H.264+/H.264/MJPEG",
+    "Powered by Darkfighter technology, Color: 0.014 lux @(F1.6, AGC ON), 0 lux with IR",
+    "25fps/30fps(2592×1944)",
+    "VCA functions",
+    "3 streams",
+    "3D DNR",
+    "BLC",
+    "ICR",
+    "EXIR",
+    "DC12V&PoE",
+    "Built-in micro SD/SDHC/SDXC slot",
+    "HIK-Connect cloud service build-in mic,Strobe Light and Audio Alarm"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2SH56AD-5IS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ],
+    [
+      "Powered by Darkfighter technology, Color",
+      "0.014 lux @(F1.6, AGC ON), 0 lux with IR"
+    ]
+  ],
+  "description_html": "<p>1/2.7″ Progressive Scan CMOS</p><p>H.265+/H.265/H.264+/H.264/MJPEG</p><p>Powered by Darkfighter technology, Color: 0.014 lux @(F1.6, AGC ON), 0 lux with IR</p><p>25fps/30fps(2592×1944)</p><p>VCA functions</p><p>3 streams</p><p>3D DNR</p><p>BLC</p><p>ICR</p><p>EXIR</p><p>DC12V&amp;PoE</p><p>Built-in micro SD/SDHC/SDXC slot</p><p>HIK-Connect cloud service build-in mic,Strobe Light and Audio Alarm</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.7″ Progressive Scan CMOS H.265+/H.265/H.264+/H.264/MJPEG Powered by Darkfighter technology, Color: 0.014 lux @(F1.6, AGC ON), 0 lux with IR",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

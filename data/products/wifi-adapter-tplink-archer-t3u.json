@@ -1,0 +1,106 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t3u",
+  "name": "USB Wi-Fi MU-MIMO Mini AC1300 TP-Link Archer T3U",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T3U",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t3u/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi MU-MIMO Mini AC1300",
+    "Archer T3U USB Adapter delivers efficient AC1300 wireless connections with its SuperSpeed USB 3.0 Port.",
+    "Dual-band for flexible connectivity.",
+    "Mini-sized for convenient portability."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T3U"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 3.0"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "1.59 × 0.78 × 0.41in. (40.5 × 19.72 × 10.29mm)"
+    ],
+    [
+      "Ăng ten",
+      "Ăng Ten Đẳng Hướng"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5<br />GHz11ac: Lên tới 867Mbps(động)11n: Lên tới 300Mbps(động)11a: Lên tới 54Mbps(động)2.4<br />GHz11n: Lên tới 400Mbps(động)11g: Lên tới 54Mbps(động)11b: Lên tới 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 6<br />Mbps: -91d<br />Bm11a 54<br />Mbps: -76dBm11n HT20：-71dBm11n HT40：-70d<br />Bm11ac HT20: -68d<br />Bm11ac HT40: -64d<br />Bm11ac HT80: -62d<br />Bm2.4<br />GHz:11b 11<br />Mbps: -86d<br />Bm11g 54<br />Mbps: -73d<br />Bm11n HT20: -71d<br />Bm11n HT40: -70dBm"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Chế độ Ad-Hoc / Infrastructure"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ 64/128 bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "<23dBm (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi USB MU-MIMO Wi-Fi Mini AC1300 - Archer T3UHướng dẫn cài đặt nhanhCD nguồn"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8.1/8/7/XP, Mac OS 10.15 và cũ hơn"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi MU-MIMO Mini AC1300</p><p>Archer T3U USB Adapter delivers efficient AC1300 wireless connections with its SuperSpeed USB 3.0 Port.</p><p>Dual-band for flexible connectivity.</p><p>Mini-sized for convenient portability.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi MU-MIMO Mini AC1300 Archer T3U USB Adapter delivers efficient AC1300 wireless connections with its SuperSpeed USB 3.0 Port. Dual-band for flexible connectivity.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

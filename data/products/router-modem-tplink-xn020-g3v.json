@@ -1,0 +1,185 @@
+{
+  "slug": "router-modem-tplink-xn020-g3v",
+  "name": "300Mbps Wireless N Gigabit VoIP GPON Router TP-Link XN020-G3v",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "XN020-G3v",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-xn020-g3v/g01.jpg"
+  ],
+  "summary": [
+    "300Mbps Wireless N Gigabit VoIP GPON Router",
+    "Khoảng cách truyền: 0 ~ 20Km Max",
+    "Giao diện: 1* SC/APC port1* 10/100/1000Mbps LAN Port1* 10/100Mbps LAN Port1 FXS Port",
+    "Nút: Power On/Off Button, Reset Button, WPS/Wi-Fi Buttion",
+    "Bộ cấp nguồn bên ngoài (EU): 12V/0.6A",
+    "Chuẩn Wi-Fi: IEEE 802.11g, 802.11b,802.11n"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "XN020-G3v"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Khoảng cách truyền",
+      "0 ~ 20Km Max"
+    ],
+    [
+      "Giao diện",
+      "1* SC/APC port1* 10/100/1000Mbps LAN Port1* 10/100Mbps LAN Port1 FXS Port"
+    ],
+    [
+      "Nút",
+      "Power On/Off Button, Reset Button, WPS/Wi-Fi Buttion"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12V/0.6A"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11g, 802.11b,802.11n"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, IEEE 802.3u, 802.3ab"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "7.1 ×4.9× 1.4 in. (181.5 ×125.7 ×36.2mm)"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "2X2，2.4G 5dBi"
+    ],
+    [
+      "Chuẩn GPON",
+      "ITU G.984.1<br />ITU G.984.2<br />ITU G.984.3<br />ITU G.984.4"
+    ],
+    [
+      "Module Quang",
+      "Class C+"
+    ],
+    [
+      "Bước sóng Quang",
+      "Transmit at 1310nm Receive at 1490nm"
+    ],
+    [
+      "Băng tần",
+      "Downstream up to 2.488Gbps Upstream up to 1.244Gbps Max"
+    ],
+    [
+      "Receiver",
+      "APD-TIA"
+    ],
+    [
+      "Transmitter",
+      "DFB Laser"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "300Mbps at 2.4GHz"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, WMM, Wireless Statistics"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm (2.4GHz)"
+    ],
+    [
+      "Lịch Wi-Fi",
+      "Support 2.4GHz Schedule"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hardware QoS"
+    ],
+    [
+      "Advanced Features",
+      "SN, Password, SN + Password Authentication Mode<br />Upstream and Downstream FEC, AES encryption"
+    ],
+    [
+      "Bảo mật",
+      "NAT Firewall, SPI Firewall, Access Control, MAC/URL Filtering, Denial of Service (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding"
+    ],
+    [
+      "Quản lý",
+      "OMCI, Web Based Configuration, Command Line Interface, SSL for TR-069, OMCI Based Firmware Upgrade"
+    ],
+    [
+      "Dạng kết nối WAN",
+      "PPPoE, Dynamic IP, Static IP, Bridge"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List, Address Reservation, DHCP Relay"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual Server, Port Triggering, DMZ, ALG, UPnP"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "Giao thức",
+      "Support IPv4 and IPv6"
+    ],
+    [
+      "IGMP",
+      "IGMP v1/v2/v3"
+    ],
+    [
+      "IPSec VPN",
+      "Support up to 10 IPSec VPN tunnels"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "300Mbps Wireless N Gigabit VoIP GPON Router XN020-G3vRJ11 Phone CableRJ45 Ethernet Cable<br />Quick Installation Guide<br />Power Adapter"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 , or other Java-enabled browser"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, Anatel"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃(32℉~104℉)<br />Storage Temperature: -40℃~70℃(-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>300Mbps Wireless N Gigabit VoIP GPON Router</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "300Mbps Wireless N Gigabit VoIP GPON Router",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

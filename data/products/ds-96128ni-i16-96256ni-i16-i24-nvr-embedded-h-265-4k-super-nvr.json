@@ -1,0 +1,55 @@
+{
+  "slug": "ds-96128ni-i16-96256ni-i16-i24-nvr-embedded-h-265-4k-super-nvr",
+  "name": "Đầu ghi hình IP NVR Embedded H.265+ 4K Super NVR Hikvision DS-96128NI-I16-96256NI-I16-I24",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-96128NI-I16-96256NI-I16-I24",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png"
+  ],
+  "summary": [
+    "576/768Mbps Bit Rate input Max(up to 128/256 IP cameras Input )",
+    "Up to 12MP resolution recording",
+    "Support H.265+/H.265/H.264+/H.264 video formats",
+    "20-ch 1080P decoding capability",
+    "HDMI output at up to 4K resolution",
+    "Up to 16/24 SATA interfaces, up to 8 TB for each HDD,4 Gigabit optical interfaces",
+    "Redundant power supply to ensure system stability",
+    "HDD hot swapping with RAID 0/1/5/6/10",
+    "One LCD screen optional , mini SAS optional"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-96128NI-I16-96256NI-I16-I24"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>576/768Mbps Bit Rate input Max(up to 128/256 IP cameras Input )</p><p>Up to 12MP resolution recording</p><p>Support H.265+/H.265/H.264+/H.264 video formats</p><p>20-ch 1080P decoding capability</p><p>HDMI output at up to 4K resolution</p><p>Up to 16/24 SATA interfaces, up to 8 TB for each HDD,4 Gigabit optical interfaces</p><p>Redundant power supply to ensure system stability</p><p>HDD hot swapping with RAID 0/1/5/6/10</p><p>One LCD screen optional , mini SAS optional</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "576/768Mbps Bit Rate input Max(up to 128/256 IP cameras Input ) Up to 12MP resolution recording Support H.265+/H.265/H.264+/H.264 video formats",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

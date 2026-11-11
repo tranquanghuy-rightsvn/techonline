@@ -1,0 +1,202 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c410-kit-v2-20",
+  "name": "Solar-Powered Security Camera Kit TP-Link Tapo C410 KIT V2.20",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C410 KIT V2.20",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c410-kit-v2-20/g01.png"
+  ],
+  "summary": [
+    "Solar-Powered Security Camera Kit",
+    "Secure your space with the solar-powered, easy-to-install Tapo C410 KIT featuring 2K night vision and smart detection.",
+    "Cảm biến hình ảnh: 1/2.8” Progressive Scan CMOS Starlight Sensor",
+    "Ống kính: Focal Length: 3.17 mm; Aperture: F1.65; Field of View: 125° (Diagonal), 111°(Horizontal), 56°(Vertical)",
+    "Tầm nhìn đêm: 850 nm IR LED (30 ft / 9.1 m)Full-Color Night Vision",
+    "Lighting: 2× Spotlights"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C410 KIT V2.20"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.8” Progressive Scan CMOS Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 3.17 mm<br />Aperture: F1.65<br />Field of View: 125° (Diagonal), 111°(Horizontal), 56°(Vertical)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED (30 ft / 9.1 m)Full-Color Night Vision"
+    ],
+    [
+      "Lighting",
+      "2× Spotlights"
+    ],
+    [
+      "Interface & Button",
+      "1× POWER Button<br />1× RESET Button<br />1× MicroSD Card Slot (Up to 512GB)"
+    ],
+    [
+      "Connection Capacity",
+      "A solar panel can only connect to one camera."
+    ],
+    [
+      "Output Port",
+      "Type-C"
+    ],
+    [
+      "Maximum Resolution",
+      "2K 3MP (2304 × 1296 px)"
+    ],
+    [
+      "Frame Rate",
+      "15 fps"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3D DNRWDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "94 dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Sensor",
+      "Single Motion Sensor (FOV: 110° horizontal)"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-FiBluetooth (for setup only)"
+    ],
+    [
+      "Security",
+      "128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK/WPA3"
+    ],
+    [
+      "Power Source",
+      "Built-in Rechargeable Lithium-ion Battery<br />Solar Panel: Tapo A201"
+    ],
+    [
+      "Input Voltage",
+      "Adapter Input: 100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "Adapter Output: 5.0 V, 1.0 ASolar Panel Max Charging Voltage: 5.2 V Solar Panel Max Charging Power: 2.5 W"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Weather Resistance",
+      "IP65"
+    ],
+    [
+      "System Requirements",
+      "Tapo App: iOS 11.0 or higher, Andriod 5.0 or higher"
+    ],
+    [
+      "Mounting Options",
+      "Tabletop<br />Ceiling-Mounted<br />Wall-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "-20℃~45℃"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Charging Temperature",
+      "0-45℃"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "Camera Dimensions: D60mm × 89mm<br />Solar Panel Dimensions: 173.42 × 120.42 × 15.7 mm (6.83 × 4.74 × 0.62 in)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C410 Camera ×1Tapo A201 Solar Panel ×1Tapo A201 Solar Panel Bracket ×1<br />USB Adapter Cable ×1Base Cover ×1Extension Wire ×1Mounting Screws and Anchors"
+    ],
+    [
+      "Chứng Chỉ",
+      "CE, FCC, DOE, CEC, RCM, KC, NCC, BSMI, NTRA, IP65"
+    ]
+  ],
+  "description_html": "<p>Solar-Powered Security Camera Kit</p><p>Secure your space with the solar-powered, easy-to-install Tapo C410 KIT featuring 2K night vision and smart detection.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Solar-Powered Security Camera Kit Secure your space with the solar-powered, easy-to-install Tapo C410 KIT featuring 2K night vision and smart detection.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

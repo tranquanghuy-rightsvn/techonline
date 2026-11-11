@@ -1,0 +1,52 @@
+{
+  "slug": "switch-cong-nghiep-chuyen-dung-vt-3t0506-idt",
+  "name": "Switch công nghiệp chuyên dụng VT-3T0506-IDT",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "VT-3T0506-IDT",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2022/08/9.-HIKVISION-DS-3T0506HP-E-HS-500x400.jpg"
+  ],
+  "summary": [
+    "3 × gigabit PoE ports, 1 × gigabit Hi-PoE port, 2 × gigabit SFP fiber optical ports.",
+    "Tiêu chuẩn IEEE 802.3at/af/bt cho cổng Hi-PoE (Tối đa 60 W PoE ).",
+    "IEEE 802.3at/af standard for PoE ports (Max.",
+    "30 W PoE output).",
+    "Tiêu chuẩn IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.3z & IEEE 802.3ab Bảo vệ 6 KV cho cổng PoE Truyền dẫn khoảng cách xa 300 m PoE watchdog to auto detect and restart the cameras that do not respond.",
+    "Tinh năng cách ly cổng nâng cao tính bảo mật Dải nhiệt hoạt động rộng (-30 to 65 °C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "VT-3T0506-IDT"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>3 × gigabit PoE ports, 1 × gigabit Hi-PoE port, 2 × gigabit SFP fiber optical ports.</p><p>Tiêu chuẩn IEEE 802.3at/af/bt cho cổng Hi-PoE (Tối đa 60 W PoE ).</p><p>IEEE 802.3at/af standard for PoE ports (Max.</p><p>30 W PoE output).</p><p>Tiêu chuẩn IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.3z &amp; IEEE 802.3ab Bảo vệ 6 KV cho cổng PoE Truyền dẫn khoảng cách xa 300 m PoE watchdog to auto detect and restart the cameras that do not respond.</p><p>Tinh năng cách ly cổng nâng cao tính bảo mật Dải nhiệt hoạt động rộng (-30 to 65 °C)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "3 × gigabit PoE ports, 1 × gigabit Hi-PoE port, 2 × gigabit SFP fiber optical ports. Tiêu chuẩn IEEE 802.3at/af/bt cho cổng Hi-PoE (Tối đa 60 W PoE ). IEEE 802.3at/af standard for PoE ports (Max.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

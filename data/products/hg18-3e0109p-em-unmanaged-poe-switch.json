@@ -1,0 +1,52 @@
+{
+  "slug": "hg18-3e0109p-em-unmanaged-poe-switch",
+  "name": "Unmanaged PoE Switch Hikvision HG18-3E0109P-E/M",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "HG18-3E0109P-E/M",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/07/HG18-3E0109P-E-M-500x500.jpg"
+  ],
+  "summary": [
+    "9*10/100 Base-TX Ethernet ports Supports standard and EXTEND network mode Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab Ethernet standards Store-and-Forward switching 4K MAC address table and MAC address learning 1.8 Gbps backplane bandwidth All-mental construction Desktop and wall-mounted installation"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HG18-3E0109P-E/M"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>9*10/100 Base-TX Ethernet ports Supports standard and EXTEND network mode Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab Ethernet standards Store-and-Forward switching 4K MAC address table and MAC address learning 1.8 Gbps backplane bandwidth All-mental construction Desktop and wall-mounted installation</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "9*10/100 Base-TX Ethernet ports Supports standard and EXTEND network mode Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab Ethernet standards Store-and-Forward switching 4K MAC address table and MAC address learning 1.8 Gbps backplane bandwidth All-mental construction Desktop and wall-mounted…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

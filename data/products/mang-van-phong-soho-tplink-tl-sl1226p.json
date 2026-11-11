@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sl1226p",
+  "name": "24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch TP-Link TL-SL1226P",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SL1226P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sl1226p/g01.jpg"
+  ],
+  "summary": [
+    "24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch",
+    "Giao diện: 24× PoE+ 10/100 Mbps RJ45 Ports; 2× 10/100/1000 Mbps RJ45 Ports; 2× Combo Gigabit SFP Slots",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000",
+    "Số lượng quạt: 2 Fans",
+    "Khóa bảo mật vật lý: Yes",
+    "Bộ cấp nguồn: 100-240 VAC, 50/60 Hz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SL1226P"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "24× PoE+ 10/100 Mbps RJ45 Ports<br />2× 10/100/1000 Mbps RJ45 Ports<br />2× Combo Gigabit SFP Slots"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "2 Fans"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240 VAC, 50/60 Hz"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "6.5472 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliantPoE Ports: Port 1 – Port 24PoE Power Budget: 250 W"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "8 K"
+    ],
+    [
+      "Khung Jumbo",
+      "10 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "8.8 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "18.32 W (220/50 Hz. no PD connected)294 W (220/50 Hz. with 250 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "62.47 BTU/h (no PD connected)1002.54 BTU/h (with 250 W PD connected)"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3at/af Compliant PDsExtend Mode (Up to 250m PoE power supply and data transmission)Priority Mode<br />Isolation ModePD Detection Intelligent Power Supply"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SL1226PPower Cable<br />Installation Guide<br />Two mounting brackets and the fittings"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–50 °C (32–122 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% non-condensing<br />Storage Humidity: 5–90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch</p>",
+  "attrs": [
+    "24 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

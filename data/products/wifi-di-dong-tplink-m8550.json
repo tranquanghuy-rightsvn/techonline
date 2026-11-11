@@ -1,0 +1,129 @@
+{
+  "slug": "wifi-di-dong-tplink-m8550",
+  "name": "TP-Link M8550",
+  "categories": [
+    "tp-link-wi-fi-di-dong"
+  ],
+  "brand": "TP-Link",
+  "sku": "M8550",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-di-dong-tplink-m8550/g01.jpg"
+  ],
+  "summary": [
+    "Bộ phát MiFi này hỗ trợ mạng di động 5G.",
+    "Với tốc độ WiFi lên đến 3600Mbps, bạn có thể tận hưởng phát trực tuyến 4K/8K, tải xuống tệp nhanh chóng và cuộc gọi video ổn định.",
+    "Dễ dàng chia sẻ WiFi của bạn.",
+    "VPN Item: Wireguard",
+    "Giao diện: 1× USB-C Port for Power Supply; 1× Gigabit WAN/LAN Port; 1× Nano SIM Card Slot; 1× Micro SD Card Slot; 2× TS-9 Antenna Ports",
+    "Nút: Power On/Off"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "M8550"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "VPN Item",
+      "Wireguard"
+    ],
+    [
+      "Giao diện",
+      "1× USB-C Port for Power Supply<br />1× Gigabit WAN/LAN Port<br />1× Nano SIM Card Slot<br />1× Micro SD Card Slot<br />2× TS-9 Antenna Ports"
+    ],
+    [
+      "Nút",
+      "Power On/Off"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "4680 mAh Rechargeable Battery<br />Charge Voltage: 5V-3A, 9V-2A, 12V-1.5A"
+    ],
+    [
+      "Dạng mạng",
+      "US Version<br />5G: N2/N5/N12/N14/N25/N29/N30/N41/N48/N66/N71/N77<br />4G: FDD-LTE: B2/B4/B5/B7/B12/B13/B14/B25/B26/B29/B30/B66/B71<br />TDD-LTE: B41/B46/B48 EU Version"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "5G<br />Downlink: 3.4 Gbps<br />Uplink: 900 MbpsLTE/4G<br />Downlink: 1.6 Gbps<br />Uplink: 200 Mbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "135 × 73.7 × 20.5 mm"
+    ],
+    [
+      "Ăng ten",
+      "Internal Antenna"
+    ],
+    [
+      "Đầu đọc thẻ Micro SD",
+      "Up to 2 TB (*SD card sold separately)"
+    ],
+    [
+      "Màn hình hiển thị",
+      "2.4 inch TFT Touch Screen"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/b/g/n/ac/ax,688 Mbps at 2.4GHz,or 2880 Mbps at 5GHz,or 2880 Mbps at 6GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz, 5 GHz, 6 GHz"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "2.4 GHz Only<br />5 GHz Only<br />6 GHz Only<br />2.4 GHz &amp; 5 GHz<br />2.4 GHz &amp; 6 GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support WPA-PSK/WPA2-PSK, Wireless MAC Filtering"
+    ],
+    [
+      "DHCP",
+      "DHCP server, DHCP Client List"
+    ],
+    [
+      "Công suất truyền tải",
+      "2.4G <20dbm, 5G <23dbm"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web<br />Port: 80/443 Protocol: HTTP/HTTPSDNSDNS<br />Port: 53; Protocol: UDPDHCP ServerIP address assignment<br />Port: 67/547; Protocol: DHCP/DHCPv6<br />SSH for app"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "5G AXE3600 Mobile Router M8550Power AdapterUSB-C Cable4700 mAh Battery<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8/7/vista/XP, Mac OS, Android, iOS, Windows Phone"
+    ],
+    [
+      "Cấp nguồn",
+      "5V-3A, 9V-2A, 12V-1.5A"
+    ]
+  ],
+  "description_html": "<p>Bộ phát MiFi này hỗ trợ mạng di động 5G.</p><p>Với tốc độ WiFi lên đến 3600Mbps, bạn có thể tận hưởng phát trực tuyến 4K/8K, tải xuống tệp nhanh chóng và cuộc gọi video ổn định.</p><p>Dễ dàng chia sẻ WiFi của bạn.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ phát MiFi này hỗ trợ mạng di động 5G. Với tốc độ WiFi lên đến 3600Mbps, bạn có thể tận hưởng phát trực tuyến 4K/8K, tải xuống tệp nhanh chóng và cuộc gọi video ổn định. Dễ dàng chia sẻ WiFi của bạn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

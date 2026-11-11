@@ -1,0 +1,52 @@
+{
+  "slug": "ds-2ae4223ti4123ti-d-ptz-dome-camera-turbo-ir",
+  "name": "PTZ Dome Camera Turbo IR Hikvision DS-2AE4223TI/4123TI-D",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2AE4223TI/4123TI-D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220IW-D-500x500.jpg"
+  ],
+  "summary": [
+    "1080P/720P video output",
+    "23X optical zoom",
+    "Up the coxial function",
+    "Privacy masking",
+    "Up to 100m IR distance",
+    "12VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2AE4223TI/4123TI-D"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ]
+  ],
+  "description_html": "<p>1080P/720P video output</p><p>23X optical zoom</p><p>Up the coxial function</p><p>Privacy masking</p><p>Up to 100m IR distance</p><p>12VDC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1080P/720P video output 23X optical zoom Up the coxial function",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "sh-2cd1301-i",
+  "name": "Camera IP Hikvision SH-2CD1301-I",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "SH-2CD1301-I",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 1980000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/05/camera-ip-hikvision.jpg"
+  ],
+  "summary": [
+    "– Cảm biến hình ảnh: 1/4 inch Progressive CMOS.",
+    "– Chuẩn nén hình ảnh: H.264/ MJPEG.",
+    "– Độ phân giải: 1.0 Megapixel (1280 x 720).",
+    "– Tốc độ khung hình: 50Hz: 25fps(1280 × 720), 60Hz: 30fps (1280 × 720) – Độ nhạy sáng: 0.01 Lux @F1.2, 0 Lux IR ON.",
+    "– Ống kính: 2.8mm @F1.8 (tùy chọn: 6, 8mm).",
+    "– Tầm quan sát hồng ngoại: 30 mét.",
+    "– Cổng kết nối: RJ45.",
+    "– Kết nối mạng: 10/100Mbps Ethernet.",
+    "– Chức năng lọc nhiễu kỹ thuật số 3D DNR (Dynamic Noise Reduction).",
+    "– Chức năng chống ngược sáng Digital WDR (Wide Dynamic Range).",
+    "– Chức năng BLC (BackLight Compensation).",
+    "– Nguồn điện cung cấp: 12VDC.",
+    "– Chức năng cấp nguồn qua mạng PoE.",
+    "– Dễ dàng giám sát qua điện thoại di động, iPad, iPhone… – Phần mềm giám sát và tên miền miễn phí… – Nguồn điện: 12VDC/PoE."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SH-2CD1301-I"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "1MP"
+    ],
+    [
+      "– Cảm biến hình ảnh",
+      "1/4 inch Progressive CMOS."
+    ],
+    [
+      "– Chuẩn nén hình ảnh",
+      "H.264/ MJPEG."
+    ],
+    [
+      "– Độ phân giải",
+      "1.0 Megapixel (1280 x 720)."
+    ],
+    [
+      "– Tốc độ khung hình",
+      "50Hz: 25fps(1280 × 720), 60Hz: 30fps (1280 × 720) – Độ nhạy sáng: 0.01 Lux @F1.2, 0 Lux IR ON."
+    ],
+    [
+      "– Ống kính",
+      "2.8mm @F1.8 (tùy chọn: 6, 8mm)."
+    ],
+    [
+      "– Tầm quan sát hồng ngoại",
+      "30 mét."
+    ],
+    [
+      "– Cổng kết nối",
+      "RJ45."
+    ],
+    [
+      "– Kết nối mạng",
+      "10/100Mbps Ethernet."
+    ],
+    [
+      "– Nguồn điện cung cấp",
+      "12VDC."
+    ]
+  ],
+  "description_html": "<p>– Cảm biến hình ảnh: 1/4 inch Progressive CMOS.</p><p>– Chuẩn nén hình ảnh: H.264/ MJPEG.</p><p>– Độ phân giải: 1.0 Megapixel (1280 x 720).</p><p>– Tốc độ khung hình: 50Hz: 25fps(1280 × 720), 60Hz: 30fps (1280 × 720) – Độ nhạy sáng: 0.01 Lux @F1.2, 0 Lux IR ON.</p><p>– Ống kính: 2.8mm @F1.8 (tùy chọn: 6, 8mm).</p><p>– Tầm quan sát hồng ngoại: 30 mét.</p><p>– Cổng kết nối: RJ45.</p><p>– Kết nối mạng: 10/100Mbps Ethernet.</p><p>– Chức năng lọc nhiễu kỹ thuật số 3D DNR (Dynamic Noise Reduction).</p><p>– Chức năng chống ngược sáng Digital WDR (Wide Dynamic Range).</p><p>– Chức năng BLC (BackLight Compensation).</p><p>– Nguồn điện cung cấp: 12VDC.</p><p>– Chức năng cấp nguồn qua mạng PoE.</p><p>– Dễ dàng giám sát qua điện thoại di động, iPad, iPhone… – Phần mềm giám sát và tên miền miễn phí… – Nguồn điện: 12VDC/PoE.</p>",
+  "attrs": [
+    "1MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Cảm biến hình ảnh: 1/4 inch Progressive CMOS. – Chuẩn nén hình ảnh: H.264/ MJPEG. – Độ phân giải: 1.0 Megapixel (1280 x 720).",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

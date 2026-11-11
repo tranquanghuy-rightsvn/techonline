@@ -1,0 +1,123 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg116",
+  "name": "Switch để bàn Gigabit 16 cổng TP-Link TL-SG116",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG116",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg116/g01.jpg"
+  ],
+  "summary": [
+    "Switch để bàn Gigabit 16 cổng",
+    "Switch để bàn Gigabit 16 cổng",
+    "Chuẩn và Giao thức: IEEE 802.3i /802.3u /802.3ab /802.3x /802.1p",
+    "Giao diện: 16 cổng 10/100/1000Mbps, tự động thỏa thuận, tự động MDI/MDIX",
+    "Số lượng quạt: Không quạt",
+    "Khóa bảo mật vật lý: Yes"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG116"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i /802.3u /802.3ab /802.3x /802.1p"
+    ],
+    [
+      "Giao diện",
+      "16 cổng 10/100/1000Mbps, tự động thỏa thuận, tự động MDI/MDIX"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 10.0W"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "Bộ chuyển đổi nguồn bên ngoài (Ngõ ra: 12<br />VDC / 1.0A)"
+    ],
+    [
+      "LED",
+      "Hệ thống nguồn<br />Các chỉ báo Link/Act trên mỗi cổng được tích hợp vào mỗi cổng RJ-45"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "11.26 x 4.4 x 1.0 in. (286*111.7*25.4 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "10W(220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "34.12<br />BTU/h"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "4.1Mb"
+    ],
+    [
+      "Khung Jumbo",
+      "10KB"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "23.8Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Advanced Features",
+      "Công nghệ xanh<br />Kiểm soát lưu lượng 802.3X802.1p/DSCP QoSIGMP Snooping"
+    ],
+    [
+      "Transmission Method",
+      "Lưu trữ và chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch để bàn 16 cổng 10/100/1000Mbps<br />Bộ chuyển đổi nguồn<br />Hướng dẫn cài đặt<br />Chân cao su"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0°C~40°C (32°F~104°F)Nhiệt độ lưu trữ: -40°C~70°C (-40°F~158°F)Độ ẩm hoạt động: 10% ~ 90%, không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch để bàn Gigabit 16 cổng</p><p>Switch để bàn Gigabit 16 cổng</p>",
+  "attrs": [
+    "16 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch để bàn Gigabit 16 cổng Switch để bàn Gigabit 16 cổng",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

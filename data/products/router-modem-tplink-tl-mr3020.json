@@ -1,0 +1,115 @@
+{
+  "slug": "router-modem-tplink-tl-mr3020",
+  "name": "Router Wi-Fi Di Động Chuẩn N 3G/4G TP-Link TL-MR3020",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-MR3020",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-tl-mr3020/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi Di Động Chuẩn N 3G/4G",
+    "This portable router provides WiFi for all trips.",
+    "Delivering up to 300Mbps speeds for high-demand networking needs such as HD streaming, online gaming, and downloading large files.",
+    "Giao diện: 1 cổng WAN/LAN 10/100Mbps, cổng USB 2.0 cho modem3G/4G, cổng micro USB để cấp nguồn",
+    "Nút: Nút Reset,Nút chuyển chế độ",
+    "Kích thước ( R x D x C ): 2.9 x 2.6 x 0.9 in. (74 x 67 x22 mm)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-MR3020"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 cổng WAN/LAN 10/100Mbps, cổng USB 2.0 cho modem3G/4G, cổng micro USB để cấp nguồn"
+    ],
+    [
+      "Nút",
+      "Nút Reset,Nút chuyển chế độ"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "2.9 x 2.6 x 0.9 in. (74 x 67 x22 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Ăng ten ngầm"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "2.4-2.4835GHz"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Router 3G, Router du lịch (AP), Router Client WISP"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợWEP 64/128-bit, WPA-PSK/WPA2-PSK, Lọc địa chỉ MAC không dây"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm"
+    ],
+    [
+      "Bảo mật",
+      "Tường lửa, Lọc địa chỉ MAC, Từ chối dịch vụ (DoS)"
+    ],
+    [
+      "DHCP",
+      "Máy chủ, Danh sách máy khách DHCP, Dành riêng địa chỉ"
+    ],
+    [
+      "Port Forwarding",
+      "Máy chủ ảo, Cổng kích hoạt, DMZ,UPnP"
+    ],
+    [
+      "Kiểm soát truy cập",
+      "Quyền kiểm soát của phụ huynh, Danh sách máy chủ, Thời gian biểu truy cập, Quản lý điều luật."
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Router TL-MR3020,Hướng dẫn cài đặt nhanh,cáp USB,cáp ethernet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7, 10, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động:-10℃~60℃Nhiệt độ lưu trữ: -40℃~80℃Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi Di Động Chuẩn N 3G/4G</p><p>This portable router provides WiFi for all trips.</p><p>Delivering up to 300Mbps speeds for high-demand networking needs such as HD streaming, online gaming, and downloading large files.</p>",
+  "attrs": [
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi Di Động Chuẩn N 3G/4G This portable router provides WiFi for all trips. Delivering up to 300Mbps speeds for high-demand networking needs such as HD streaming, online gaming, and downloading large files.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

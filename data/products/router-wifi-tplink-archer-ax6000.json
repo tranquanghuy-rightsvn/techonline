@@ -1,0 +1,184 @@
+{
+  "slug": "router-wifi-tplink-archer-ax6000",
+  "name": "Router Wi-Fi 6 Thế Hệ Kế Tiếp AX6000 TP-Link Archer AX6000",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX6000",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax6000/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Thế Hệ Kế Tiếp AX6000",
+    "AX6000 Dual-Band Wi-Fi speed boosted by 1024-QAM delivers astonishing wireless speeds of up to 5952 Mbps: 4804 Mbps (5 GHz) and 1148 Mbps (2.4 GHz).",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX60005 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 1148 Mbps (802.11ax)",
+    "WiFi Range: Nhà 4 phòng ngủ 8 × Ăng-ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming",
+    "WiFi Capacity: Rất cao Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu; 4 × 4 MU-MIMO; Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX6000"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX60005 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 1148 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 4 phòng ngủ 8 × Ăng-ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Rất cao Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu<br />4 × 4 MU-MIMO<br />Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế Độ Router<br />Chế Độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway lớp ứng dụng HomeCare ™ Antivirus Trình kiểm tra trang web độc hại<br />Ngăn chặn xâm nhập cổng<br />Cách ly thiết bị bị nhiễm bệnh<br />Thông báo và Nhật ký"
+    ],
+    [
+      "Guest Network",
+      "1 x Mạng khách 5 GHz1 x Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />L2TP VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU lõi tứ 64 bit 1.8 GHz"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x Cổng WAN 2.5 Gbps8 x Cổng LAN Gigabit<br />Cộng gộp liên kết tĩnh (LAG) có sẵn với 2 cổng LAN"
+    ],
+    [
+      "USB Support",
+      "1 x Cổng USB-C 3.01 x Cổng USB-A 3.0Các định dạng phân vùng được hỗ trợ:NTFS, exFAT, HFS +, FAT32Các tính năng được hỗ trợ:Apple Time Machine<br />Máy chủ ftp<br />Máy chủ phương tiện<br />Máy chủ Samba"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 4 A"
+    ],
+    [
+      "Buttons",
+      "Nút Bật / Tắt Wi-FiNút Bật / Tắt nguồn<br />Nút Bật / Tắt đèn LED<br />Nút WPS<br />Nút Reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeCare™Tìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh ™ được hỗ trợ"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát Của Phụ Huynh HomeCare™ Cấu hình Tùy chỉnh<br />Lọc nội dung<br />Khóa ứng dụng<br />Lọc URL<br />Thời gian giới hạn<br />Lịch trình thời gian (Giờ đi ngủ)Nhật ký thông tin chi tiết"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS theo thiết bịHomeCare ™ QoSQoS theo ứng dụng"
+    ],
+    [
+      "Cloud Service",
+      "Tự động nâng cấp Firmware<br />Nâng cấp Firmware OTAID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Chuyển tiếp cổng<br />Kích hoạt cổngDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang WebKIểm tra giả lập Web&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC: &lt;30dBm(2.4GHz &amp; 5.15GHz~5.25GHz &amp; 5.725GHz~5.825GHz)&lt;24dBm(5.25GHz-5.35GHz &amp; 5.47GHz-5.725 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz：11a 6<br />Mbps:-97dBm,11a54<br />MBps:-79d<br />Bm11ac VHT20 MCS0:-97dBm,11ac VHT20 MCS11:-67d<br />Bm11ac VHT40 MCS0:-95dBm,11ac VHT40 MCS11:-64d<br />Bm11ac VHT80 MCS0:-92dBm,11ac VHT80 MCS11:-61d"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.3 × 10.3 × 2.4 in.(261.2 × 261.2 × 60.2 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX6000Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Thế Hệ Kế Tiếp AX6000</p><p>AX6000 Dual-Band Wi-Fi speed boosted by 1024-QAM delivers astonishing wireless speeds of up to 5952 Mbps: 4804 Mbps (5 GHz) and 1148 Mbps (2.4 GHz).</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX6000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Thế Hệ Kế Tiếp AX6000 AX6000 Dual-Band Wi-Fi speed boosted by 1024-QAM delivers astonishing wireless speeds of up to 5952 Mbps: 4804 Mbps (5 GHz) and 1148 Mbps (2.4 GHz).",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

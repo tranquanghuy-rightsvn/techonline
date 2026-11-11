@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sl1218mp",
+  "name": "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+ TP-Link TL-SL1218MP",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SL1218MP",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sl1218mp/g01.jpg"
+  ],
+  "summary": [
+    "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+",
+    "The TL-SL1218MP is a 16-Port 10/100Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+, ideal for small and medium business IP surveillance with a 250 W PoE budget.",
+    "The plug-and-play design makes for easy deployment without the need for a technician.",
+    "Giao diện: 16 PoE+ 10/100 Mbps RJ45 Ports; 2× 10/100/1000 Mbps RJ45 Ports; 2× Combo Gigabit SFP Slots",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000",
+    "Số lượng quạt: 2 Fans"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SL1218MP"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "16 PoE+ 10/100 Mbps RJ45 Ports<br />2× 10/100/1000 Mbps RJ45 Ports<br />2× Combo Gigabit SFP Slots"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "2 Fans"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100–240V AC, 50/60 Hz"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliant<br />PoE Ports: Ports 1–16<br />PoE Power Budget: 250 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "14.97 W (220/50Hz. no PD connected)<br />285.8 W (220/50Hz. with 250 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "51.05 BTU/h (no PD connected)<br />974.58 BTU/h (with 250 W PD connected)"
+    ],
+    [
+      "Khung Jumbo",
+      "10 KB"
+    ],
+    [
+      "Switching Capacity",
+      "7.2 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "5.36 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3at/af Compliant PDs<br />Extend Mode (Up to 250m PoE power supply and data transmission)<br />Priority Mode<br />Isolation Mode<br />Mac Address Auto-Learning And Auto-Aging"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SL1218MP<br />Power Cable<br />Installation Guide<br />Two mounting brackets and the fittings"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–50 °C (32–122 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+</p><p>The TL-SL1218MP is a 16-Port 10/100Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+, ideal for small and medium business IP surveillance with a 250 W PoE budget.</p><p>The plug-and-play design makes for easy deployment without the need for a technician.</p>",
+  "attrs": [
+    "16 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+ The TL-SL1218MP is a 16-Port 10/100Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+, ideal for small and medium business IP surveillance with a 250 W PoE budget. The plug-and-play design makes for easy deployment…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

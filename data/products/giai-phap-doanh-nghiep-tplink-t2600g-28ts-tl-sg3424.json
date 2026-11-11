@@ -1,0 +1,147 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t2600g-28ts-tl-sg3424",
+  "name": "Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP TP-Link T2600G-28TS (TL-SG3424)",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T2600G-28TS (TL-SG3424)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-28ts-tl-sg3424/g01.jpg"
+  ],
+  "summary": [
+    "Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP",
+    "Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 24 cổng RJ45 10/100/1000Mbps(Auto Negotiation/Auto MDI/MDIX)4 khe SFP 1000Mbps1 Cổng Console RJ451 Cổng Console Micro-USB",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable(maximum 100m)1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: Không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T2600G-28TS (TL-SG3424)"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z,IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s,IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "24 cổng RJ45 10/100/1000Mbps(Auto Negotiation/Auto MDI/MDIX)4 khe SFP 1000Mbps1 Cổng Console RJ451 Cổng Console Micro-USB"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable(maximum 100m)1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32 * 8.7 * 1.73 in. (440 * 220 * 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Giá đỡ"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "15.33W (220V/50Hz)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "52.30 BTU/h"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "56Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "41.67Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "16k"
+    ],
+    [
+      "Khung Jumbo",
+      "9216 Bytes"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 8 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate Limiting<br />Voice VLAN"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP RelayIGMP Snooping V1/V2/V3802.3ad LACP (Up to 14 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)802.1Q/ MAC/Protocol-based/Private VLANGARP/GVRP"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address,IP address, TCP/UDP ports, 802.1p, DSCP, protocol and VLAN IDTime Range Based"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port BindingAAA802.1x and Radius Authentication<br />DoS Defend<br />Dynamic ARP Inspection (DAI)SSH v1/v2<br />SSL v3/TLSv1Port Security<br />Broadcast/Multicast/Unknown-unicast Storm Control"
+    ],
+    [
+      "IPv6",
+      "DHCPv6 Client<br />Ping6Tracert6 Telnet(v6) IPv6 SNMP IPv6 SSH IPv6 SSL Http/Https IPv6 TFTPIPv6 ACLIPv6 InterfaceIPv6 RoutingDHCPv6 RelayDHCPv6 Snooping"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs and TP-LINK private MIBsRMON (1, 2, 3, 9 groups)sFlowPPPoE Circuit IDDHCP RelayDHCP ServerDHCP/BOOTP Client, DHCP Snooping,"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch<br />Dây điện<br />Hướng dẫn cài đặtCD nguồn<br />Bộ giá đỡChân cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ hoặc Windows 7/8, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉);Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP</p><p>Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP</p>",
+  "attrs": [
+    "24 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

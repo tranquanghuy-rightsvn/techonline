@@ -1,0 +1,48 @@
+{
+  "slug": "ds-7208hthi-k2-4k-h265-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-7208HTHI-K2 4K H265+ TURBO HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7208HTHI-K2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg"
+  ],
+  "summary": [
+    "Video Input and Transmission  Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input  Up to 2/4-ch 8 MP IP cameras input  8 MP HDTVI video input and live view  Defogging function enabled for the supported analog cameras  Long distance transmission over UTP and coaxial cable: max.",
+    "800m for 1080p and 1200m for 720p HDTVI signal Compression and Recording  H.265+/H.265/H.264+/H.264 encoding for  Connectable to H.265+/H.265/H.264+/H.264 IP cameras  H.265+ can be enabled to improve encoding efficiency and reduce data storage costs  Full channel recording at up to 8 MP resolution Video Output  Simultaneous HDMI/VGA output  HDMI output at up to 4K (3840 × 2160) resolution  Separate CVBS output Storage and Playback  2 SATA interface (up to 8 TB capacity per HDD)  8-ch synchronous playback  Smart search for efficient playback Smart Function  Supports multiple VCA (Video Content Analytics) events for both analog and smart IP cameras  Supports line crossing detection and intrusion detection of all channels, and 2-ch sudden scene change detection"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7208HTHI-K2"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>Video Input and Transmission  Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input  Up to 2/4-ch 8 MP IP cameras input  8 MP HDTVI video input and live view  Defogging function enabled for the supported analog cameras  Long distance transmission over UTP and coaxial cable: max.</p><p>800m for 1080p and 1200m for 720p HDTVI signal Compression and Recording  H.265+/H.265/H.264+/H.264 encoding for  Connectable to H.265+/H.265/H.264+/H.264 IP cameras  H.265+ can be enabled to improve encoding efficiency and reduce data storage costs  Full channel recording at up to 8 MP resolution Video Output  Simultaneous HDMI/VGA output  HDMI output at up to 4K (3840 × 2160) resolution  Separate CVBS output Storage and Playback  2 SATA interface (up to 8 TB capacity per HDD)  8-ch synchronous playback  Smart search for efficient playback Smart Function  Supports multiple VCA (Video Content Analytics) events for both analog and smart IP cameras  Supports line crossing detection and intrusion detection of all channels, and 2-ch sudden scene change detection</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Video Input and Transmission  Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input  Up to 2/4-ch 8 MP IP cameras input  8 MP HDTVI video input and live view  Defogging function enabled for the supported analog cameras  Long distance transmission over UTP and coaxial cable: max. 800m for 1080p…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

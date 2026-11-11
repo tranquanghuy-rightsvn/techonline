@@ -1,0 +1,66 @@
+{
+  "slug": "hg20-2cd2t23g0-i8-2-mp-ir-fixed-bullet-network-camera",
+  "name": "2 MP IR Fixed Bullet Network Camera Hikvision HG20-2CD2T23G0-I8",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "HG20-2CD2T23G0-I8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 5680000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/07/HG18-2CD2T23G0-I8-500x500.jpg"
+  ],
+  "summary": [
+    "1/2.8″ Progressive Scan CMOS",
+    "1920 ×1080@30fps – 2.8/4/6/8mm fixed lens",
+    "Memory Built-in 32Gb",
+    "Color: 0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR",
+    "H.265+, H.265, H.264+, H.264",
+    "Three streams",
+    "120dB WDR",
+    "2 Behavior analyses, and face detection",
+    "BLC/3D DNR/ROI",
+    "IP67",
+    "3-Axis adjustment"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HG20-2CD2T23G0-I8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Color",
+      "0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR"
+    ]
+  ],
+  "description_html": "<p>1/2.8″ Progressive Scan CMOS</p><p>1920 ×1080@30fps – 2.8/4/6/8mm fixed lens</p><p>Memory Built-in 32Gb</p><p>Color: 0.01 Lux @ (F1.2, AGC ON), 0.028 Lux @ (F2.0, AGC ON), 0 Lux with IR</p><p>H.265+, H.265, H.264+, H.264</p><p>Three streams</p><p>120dB WDR</p><p>2 Behavior analyses, and face detection</p><p>BLC/3D DNR/ROI</p><p>IP67</p><p>3-Axis adjustment</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.8″ Progressive Scan CMOS 1920 ×1080@30fps – 2.8/4/6/8mm fixed lens Memory Built-in 32Gb",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2cd4c26fwd-ap-camera-box-darkfighter-series-2mp",
+  "name": "Camera Box DarkFighter Series 2MP Hikvision DS-2CD4C26FWD-(AP)",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD4C26FWD-(AP)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg"
+  ],
+  "summary": [
+    "H.265+/H.264+/H.265/H.264",
+    "DarkFighter ultra-low light technology",
+    "1/1.8” progressive scan CMOS sensor",
+    "Full HD1080p",
+    "120dB WDR",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection&Region Entrance/Left&Scene Change",
+    "Up to 128GB on-board storage"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD4C26FWD-(AP)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>H.265+/H.264+/H.265/H.264</p><p>DarkFighter ultra-low light technology</p><p>1/1.8” progressive scan CMOS sensor</p><p>Full HD1080p</p><p>120dB WDR</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection&amp;Region Entrance/Left&amp;Scene Change</p><p>Up to 128GB on-board storage</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.265+/H.264+/H.265/H.264 DarkFighter ultra-low light technology 1/1.8” progressive scan CMOS sensor",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

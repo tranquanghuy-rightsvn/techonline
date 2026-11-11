@@ -1,0 +1,160 @@
+{
+  "slug": "router-wifi-tplink-archer-a5-v4",
+  "name": "AC1200 Wireless Dual Band Router TP-Link Archer A5 V4",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer A5 V4",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-a5-v4/g01.jpg"
+  ],
+  "summary": [
+    "AC1200 Wireless Dual Band Router",
+    "300 Mbps on a 2.4 GHz band and 867 Mbps on a 5 GHz band make Archer A5 ideal for seamless HD streaming, gaming, and other bandwidth-intensive tasks.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 300 Mbps (802.11n)",
+    "WiFi Range: 2 Bedroom Houses; 4× Fixed Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer A5 V4"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC12005 GHz: 867 Mbps (802.11ac)2.4 GHz: 300 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "2 Bedroom Houses<br />4× Fixed Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Single-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 10/100 Mbps WAN Port<br />4× 10/100 Mbps LAN Ports"
+    ],
+    [
+      "Power",
+      "9 V ⎓ 0.85 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Wi-Fi Button<br />Power On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "NO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE EIRP:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 54M: -73d<br />Bm11ac VHT20 MCS8: -68d<br />Bm11ac VHT40 MCS9: -64d<br />Bm11ac VHT80 MCS9: -60d<br />Bm2.4<br />GHz:11g 54M: -76d<br />Bm11n HT20 MCS7: -74d<br />Bm11n HT40 MCS7: -71dBm"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "9.1 × 5.7 × 1.5 in(229.9 × 144.2 × 36.9 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer A5Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>AC1200 Wireless Dual Band Router</p><p>300 Mbps on a 2.4 GHz band and 867 Mbps on a 5 GHz band make Archer A5 ideal for seamless HD streaming, gaming, and other bandwidth-intensive tasks.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1200"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AC1200 Wireless Dual Band Router 300 Mbps on a 2.4 GHz band and 867 Mbps on a 5 GHz band make Archer A5 ideal for seamless HD streaming, gaming, and other bandwidth-intensive tasks.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

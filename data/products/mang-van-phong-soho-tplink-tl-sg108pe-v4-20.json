@@ -1,0 +1,140 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg108pe-v4-20",
+  "name": "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+ TP-Link TL-SG108PE V4.20",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG108PE V4.20",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/g01.jpg"
+  ],
+  "summary": [
+    "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+",
+    "Switch Easy Smart 8 cổng Gigabit <br> với 4 cổng PoE+",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3af, IEEE 802.3x, IEEE 802.1q, IEEE 802.1p, IEEE 802.3at",
+    "Giao diện: Tám cổng RJ45 10/100 / 1000Mbps; Tự động đàm phán / AUTO MDI / MDIX",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000",
+    "Số lượng quạt: Không quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG108PE V4.20"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3af, IEEE 802.3x, IEEE 802.1q, IEEE 802.1p, IEEE 802.3at"
+    ],
+    [
+      "Giao diện",
+      "Tám cổng RJ45 10/100 / 1000Mbps<br />Tự động đàm phán / AUTO MDI / MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Không quạt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Bộ chuyển đổi nguồn bên ngoài (Đầu ra: 53.5 VDC/1.31 A)"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Tiêu chuẩn: tuân thủ 802.3 af / atCổng PoE: Cổng 1- Cổng 4Ngân sách nguồn PoE: 64W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.2 × 4.0 × 1.0 in (158 × 101 × 25 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "5.41 W (220V/50Hz không có kết nối PD)74.27 W (220V/50Hz với 64 W PD được kết nối)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "18.45 BTU / h (không kết nối PD)253.26 BTU / h (với 64 W PD được kết nối)"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "1.5 Mb"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Switching Capacity",
+      "16 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "11.9 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "4 K"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ ưu tiên dựa trên cổng / 802.1p / DSCPHỗ trợ 4 hàng đợi ưu tiên<br />Giới hạn tốc độKiểm soát bão"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1 / V2 / V3Liên kết cộng gộp tĩnh<br />Port Mirroring<br />Chẩn đoán cáp<br />Ngăn ngừa vòng lặp<br />Phục hồi tự động PoE"
+    ],
+    [
+      "VLAN",
+      "Hỗ trợ lên đến 32 VLAN đồng thời (trong số 4K ID VLAN)MTU / Cổng / Thẻ VLAN"
+    ],
+    [
+      "Quản lý",
+      "GUI dựa trên web<br />Tiện ích cấu hình thông minh dễ dàng"
+    ],
+    [
+      "Transmission Method",
+      "Lưu trữ và chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG108PEPower Adapter<br />Installation Guide<br />Rubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® for running Utility"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90%RH non-condensing<br />Storage Humidity: 5%~95%RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+</p><p>Switch Easy Smart 8 cổng Gigabit &lt;br&gt; với 4 cổng PoE+</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+ Switch Easy Smart 8 cổng Gigabit <br> với 4 cổng PoE+",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

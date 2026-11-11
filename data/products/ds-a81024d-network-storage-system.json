@@ -1,0 +1,52 @@
+{
+  "slug": "ds-a81024d-network-storage-system",
+  "name": "Đầu ghi hình IP Network Storage System Hikvision DS-A81024D",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-A81024D",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-A81024D-500x406.jpg"
+  ],
+  "summary": [
+    "High-performance & easily-extensible hardware platform",
+    "Highly reliable system design, double controller",
+    "Support 180 –Ch(2M) record and play in IP-SAN mode,296 –Ch(2M) record and play in CVR mode",
+    "Disk detection, repair and RAID optimization",
+    "Low power design",
+    "Massive storage space, 4U chassis with 14 HDs and cascade extension support"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-A81024D"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>High-performance &amp; easily-extensible hardware platform</p><p>Highly reliable system design, double controller</p><p>Support 180 –Ch(2M) record and play in IP-SAN mode,296 –Ch(2M) record and play in CVR mode</p><p>Disk detection, repair and RAID optimization</p><p>Low power design</p><p>Massive storage space, 4U chassis with 14 HDs and cascade extension support</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "High-performance & easily-extensible hardware platform Highly reliable system design, double controller Support 180 –Ch(2M) record and play in IP-SAN mode,296 –Ch(2M) record and play in CVR mode",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

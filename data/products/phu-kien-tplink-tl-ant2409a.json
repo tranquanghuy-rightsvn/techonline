@@ -1,0 +1,109 @@
+{
+  "slug": "phu-kien-tplink-tl-ant2409a",
+  "name": "2.4GHz 9dBi Directional Antenna TP-Link TL-ANT2409A",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-ANT2409A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-tl-ant2409a/g01.jpg"
+  ],
+  "summary": [
+    "2.4GHz 9dBi Directional Antenna",
+    "2.4GHz 9dBi Directional Antenna",
+    "Frequency: 2.4GHz",
+    "Gain: 9dBi",
+    "VSWR(MAX.): 1.5:1",
+    "HPOL Beamwidth: 60"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-ANT2409A"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Frequency",
+      "2.4GHz"
+    ],
+    [
+      "Gain",
+      "9dBi"
+    ],
+    [
+      "VSWR(MAX.)",
+      "1.5:1"
+    ],
+    [
+      "HPOL Beamwidth",
+      "60"
+    ],
+    [
+      "VPOL Beamwidth",
+      "76"
+    ],
+    [
+      "Polarization",
+      "Linear; Vertical"
+    ],
+    [
+      "Dạng",
+      "Directional"
+    ],
+    [
+      "Dạng kết nối",
+      "RP-SMA Female"
+    ],
+    [
+      "Extended Cable/Length",
+      "CFD-200 ; 100cm"
+    ],
+    [
+      "Mounting",
+      "Pole Mount/Wall Mount"
+    ],
+    [
+      "Application",
+      "Outdoor"
+    ],
+    [
+      "Approximate Range at 1/11/54Mbps",
+      "1.77km/1km/140m"
+    ],
+    [
+      "Operating Temp.",
+      "-20 ~ +65"
+    ],
+    [
+      "Storage Temp.",
+      "-30 ~ +75"
+    ],
+    [
+      "Optional Accessory",
+      "TL-ANT24EC3S TL-ANT24EC5S"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "9dBi Panel Directional Antenna<br />Installation mounting kits<br />User Guide"
+    ]
+  ],
+  "description_html": "<p>2.4GHz 9dBi Directional Antenna</p><p>2.4GHz 9dBi Directional Antenna</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2.4GHz 9dBi Directional Antenna 2.4GHz 9dBi Directional Antenna",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

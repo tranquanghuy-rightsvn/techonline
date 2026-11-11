@@ -1,0 +1,64 @@
+{
+  "slug": "camera-ip-series-2xx3-ds-2cd2723g2-izs",
+  "name": "Camera IP Series 2xx3 DS-2CD2723G2-IZS",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2723G2-IZS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2743G2-IZS-500x500.jpg"
+  ],
+  "summary": [
+    "Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu",
+    "Độ phân giải 1920 x 1080 @25fps, H265+",
+    "Ống kính 2.8-12mm, @F1.6",
+    "Tầm xa hồng ngoại: 40m",
+    "Hỗ trợ 3D DNR, WDR 120dB, HLC",
+    "Nguồn: 12VDC&PoE; Tiêu chuẩn IP67, IK10",
+    "Hỗ trợ thẻ nhớ tối đa 256GB, hỗ trợ ANR",
+    "Chụp ảnh khuôn mặt; Phát hiện chuyển động người/ phương tiện; 2 tính năng VCA",
+    "Hỗ trợ zoom phóng qua phần mềm",
+    "Hỗ trợ 1 ngõ vào + 1 ngõ ra audio/báo động"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2723G2-IZS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Tầm xa hồng ngoại",
+      "40m"
+    ],
+    [
+      "Nguồn",
+      "12VDC&PoE; Tiêu chuẩn IP67, IK10"
+    ]
+  ],
+  "description_html": "<p>Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu</p><p>Độ phân giải 1920 x 1080 @25fps, H265+</p><p>Ống kính 2.8-12mm, @F1.6</p><p>Tầm xa hồng ngoại: 40m</p><p>Hỗ trợ 3D DNR, WDR 120dB, HLC</p><p>Nguồn: 12VDC&amp;PoE; Tiêu chuẩn IP67, IK10</p><p>Hỗ trợ thẻ nhớ tối đa 256GB, hỗ trợ ANR</p><p>Chụp ảnh khuôn mặt; Phát hiện chuyển động người/ phương tiện; 2 tính năng VCA</p><p>Hỗ trợ zoom phóng qua phần mềm</p><p>Hỗ trợ 1 ngõ vào + 1 ngõ ra audio/báo động</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Cảm biến CMOS 1/2.8”; 0.005 Lux, 3 luồng dữ liệu Độ phân giải 1920 x 1080 @25fps, H265+ Ống kính 2.8-12mm, @F1.6",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

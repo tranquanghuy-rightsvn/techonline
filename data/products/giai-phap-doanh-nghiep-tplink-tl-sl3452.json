@@ -1,0 +1,135 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-tl-sl3452",
+  "name": "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2 TP-Link TL-SL3452",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SL3452",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl3452/g01.jpg"
+  ],
+  "summary": [
+    "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2",
+    "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2",
+    "Chuẩn và Giao thức: IEEE 802.3i,IEEE 802.3u,IEEE 802.3ab,IEEE802.3z,IEEE 802.3ad,IEEE 802.3x,IEEE 802.1d,IEEE 802.1s,IEEE 802.1w,IEEE 802.1q,IEEE 802.1x,IEEE 802.1p",
+    "Giao diện: 48 x cổng RJ45 10/100Mbps(Auto Negotiation/Auto MDI/MDIX)2 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)2 x khe SFP Gigabit1 x cổng Console",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e, 6 or above cable (maximum 100m)1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: Không có quạt"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SL3452"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i,IEEE 802.3u,IEEE 802.3ab,IEEE802.3z,IEEE 802.3ad,IEEE 802.3x,IEEE 802.1d,IEEE 802.1s,IEEE 802.1w,IEEE 802.1q,IEEE 802.1x,IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "48 x cổng RJ45 10/100Mbps(Auto Negotiation/Auto MDI/MDIX)2 10/100/1000Mbps RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)2 x khe SFP Gigabit1 x cổng Console"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e, 6 or above cable (maximum 100m)1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "Không có quạt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Tối đa: 20.3W (220V/50Hz)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.32*10.2*1.73 in.(440*260*44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Khung Jumbo",
+      "10240 Bytes"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "17.6Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "13.1Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8k"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ 802.1p Ưu tiên CoS/DSCPHỗ trợ 4 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate LimitingVLAN thoại"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3802.3ad LACP (Up to 8 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTP<br />Port isolationBPDU filtering/guardTC/Root protect"
+    ],
+    [
+      "VLAN",
+      "Hỗ trợ lên đến 4K VLANs đồng thời (out of 4K VLAN IDs)Port/ MAC/Protocol-based VLANGARP/GVRP<br />Management VLAN configuration"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP ports, 802.1p, DSCP, protocol and VLAN IDTime Range Based"
+    ],
+    [
+      "Bảo mật",
+      "IP-MAC-Port-VID Binding<br />IEEE 802.1X Port/MAC Based authentication, Radius,Guest VLANDoS Defence<br />Dynamic ARP inspection (DAI)SSH v1/v2<br />SSL v2/v3/TLSv1Port Security"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI và quản lí CLI SNMP v1 / v2c / v3, tương thích với nhiều MIB phổ biến vàMIB của TP-LINKRMON (1, 2, 3, 9 nhóm)CPU điều khiển<br />Cổng ánh xạThời gian cài đặt: SNTP"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Switch; Power Cord; Installation Guide;Resource CD; Rackmount Kit; Rubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista hoặc Windows 7, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0°C~40°C (32°F~104°F);Nhiệt độ lưu trữ: -40°C~70°C (-40°F~158°F)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2</p><p>Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2</p>",
+  "attrs": [
+    "48 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2 Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

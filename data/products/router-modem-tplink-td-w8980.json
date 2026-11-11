@@ -1,0 +1,159 @@
+{
+  "slug": "router-modem-tplink-td-w8980",
+  "name": "N600 Wireless Dual Band Gigabit ADSL2+ Modem Router TP-Link TD-W8980",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TD-W8980",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-td-w8980/g01.jpg"
+  ],
+  "summary": [
+    "N600 Wireless Dual Band Gigabit ADSL2+ Modem Router",
+    "N600 Wireless Dual Band Gigabit ADSL2+ Modem Router",
+    "Giao diện: 4 10/100/1000Mbps RJ45 Ports1 RJ11 Port2 USB 2.0 Ports",
+    "Nút: 1 Power On/Off Button1 WPS Button1 Wi-Fi On/Off Switch1 RESET Button",
+    "Bộ cấp nguồn bên ngoài (EU): 12; VDC/1.5A",
+    "Chuẩn IEEE: IEEE 802.3, 802.3u"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TD-W8980"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "4 10/100/1000Mbps RJ45 Ports1 RJ11 Port2 USB 2.0 Ports"
+    ],
+    [
+      "Nút",
+      "1 Power On/Off Button1 WPS Button1 Wi-Fi On/Off Switch1 RESET Button"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "12<br />VDC/1.5A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u"
+    ],
+    [
+      "ADSL Standards",
+      "Full-rate ANSI T1.413 Issue 2<br />ITU-T G.992.1(G.DMT)ITU-T G.994.1 (G.hs)ITU-T G.995.1"
+    ],
+    [
+      "Chuẩn ADSL2",
+      "ITU-T G.992.3 (G.dmt.bis)"
+    ],
+    [
+      "Chuẩn ADSL2+",
+      "ITU-T G.992.5"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "9.6*6.4*1.3 in.(243 x 160.6 x 32.5mm)"
+    ],
+    [
+      "Ăng ten",
+      "Three 5GHz 5dBi detachable antennas (RP-SMA)Two 2.4GHz 3.5dBi internal antennas"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz and 5GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support 64/128 bit WEP, WPA /WPA2, WPA-PSK/WPA2-PSK<br />Wireless MAC Filtering"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm(EIRP)"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "WMM, Bandwidth Control (IP QoS)"
+    ],
+    [
+      "Advanced Features",
+      "Parent Control<br />Traffic Shaping(ATM QoS) UBR, CBRVBR-rt, VBR-nrt;Dynamic Host Configuration Protocol (DHCP), DHCP relay;Network Address Translation (NAT);PVC/Ethernet Port Grouping"
+    ],
+    [
+      "Bảo mật",
+      "NAT Firewall,SPI Firewall,MAC / IP / URL Filtering"
+    ],
+    [
+      "IPv6",
+      "IPv6 and IPv4 dual stack<br />Supported IPv6 Tunnels: DS-Lite, 6RD, 6 to 4Supported IPv6 Connection Type: PPPoEv6, DHCPv6, Static IPv6"
+    ],
+    [
+      "Quản lý",
+      "Web Based Configuration(HTTP),Remote management,Telnet management,Command Line Interface,SSL for TR-069,SNMP V1/V2C,Web Based Firmware Upgrade,CWMP(TR-069),Diagnostic Tools"
+    ],
+    [
+      "Port Forwarding",
+      "Virtual server, Port Triggering, UPnP, DMZ, Manage Control"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec Pass-through"
+    ],
+    [
+      "Giao thức ATM/PPP",
+      "ATM Forum UNI3.1/4.0<br />PPP over ATM (RFC 2364)PPP over Ethernet (RFC2516)IPoA (RFC1577/2225)PVC - Up to 8 PVCs"
+    ],
+    [
+      "USB Sharing",
+      "Storage SharingFTP Server<br />Media Server<br />Print Server"
+    ],
+    [
+      "IGMP",
+      "IGMP snooping V1/V2/V3<br />IGMP Multicast"
+    ],
+    [
+      "IPSec VPN",
+      "10 IPSec VPN TunnelsLAN-to-LAN<br />Main, Aggressive Negotiation ModeDES, 3<br />DES, AES128, AES192, AES256 Encryption AlgorithmMD5, SHA1 Authentication Algorithm<br />Manual, IKE Key Management Mode"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHSIPv6"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TD-W8980External SplitterRJ-11 Telephone LineRJ-45 Ethernet Cable<br />Quick Installation Guide<br />Resource CDPower Adapter"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista or Windows 7, 10, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~40°C (32°F~104°F)<br />Storage Temperature: -40°C~70°C (-40°F~158°F)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>N600 Wireless Dual Band Gigabit ADSL2+ Modem Router</p><p>N600 Wireless Dual Band Gigabit ADSL2+ Modem Router</p>",
+  "attrs": [
+    "N600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "N600 Wireless Dual Band Gigabit ADSL2+ Modem Router N600 Wireless Dual Band Gigabit ADSL2+ Modem Router",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

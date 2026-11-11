@@ -1,0 +1,45 @@
+{
+  "slug": "camera-hikvison-ds-2cd63c5g1-ivs",
+  "name": "Camera Hikvison DS-2CD63C5G1-IVS",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD63C5G1-IVS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": 31000000,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2024/06/DS-2CD63C5G1-IVS.jpg"
+  ],
+  "summary": [],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD63C5G1-IVS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ]
+  ],
+  "description_html": "<p>Camera Hikvison DS-2CD63C5G1-IVS chính hãng, bảo hành 24 tháng.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera Hikvison DS-2CD63C5G1-IVS chính hãng, bảo hành 24 tháng.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

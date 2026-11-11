@@ -1,0 +1,48 @@
+{
+  "slug": "ds-19a00-bn-816-zone-video-control-panel",
+  "name": "Thiết bị báo động 8/16 Zone Video Control Panel Hikvision DS-19A00-BN",
+  "categories": [
+    "bao-dong-hikvision",
+    "hikvision-bao-dong"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-19A00-BN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS19S00N04SGx.jpg"
+  ],
+  "summary": [
+    "PTSN, 10/100Mbps Ethernet",
+    "4 relay output, 220 VAC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-19A00-BN"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Báo động"
+    ]
+  ],
+  "description_html": "<p>PTSN, 10/100Mbps Ethernet</p><p>4 relay output, 220 VAC</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "PTSN, 10/100Mbps Ethernet 4 relay output, 220 VAC",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

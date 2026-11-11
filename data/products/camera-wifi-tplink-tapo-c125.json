@@ -1,0 +1,262 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c125",
+  "name": "Camera AI Wi-Fi An Ninh Gia Đình TP-Link Tapo C125",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C125",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c125/g01.jpg"
+  ],
+  "summary": [
+    "Camera AI Wi-Fi An Ninh Gia Đình",
+    "Camera AI Wi-Fi An Ninh Gia Đình",
+    "Cảm biến hình ảnh: 1/2.9“",
+    "Ống kính: F/NO: 2.45mm±5%; Focal Length: 2.0±5%",
+    "Tầm nhìn đêm: 850nm IR LED940nm IR LED",
+    "Interface & Button: 1× RESET Button; 1× MicroSD Card Slot (Up to 512 GB)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C125"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.9“"
+    ],
+    [
+      "Ống kính",
+      "F/NO: 2.45mm±5%; Focal Length: 2.0±5%"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850nm IR LED940nm IR LED"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× MicroSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Khoảng cách nhìn",
+      "140° Diagnol"
+    ],
+    [
+      "Độ phân giải",
+      "2K QHD 4MP(2560×1440 px)"
+    ],
+    [
+      "Maximum Resolution",
+      "2K QHD 4MP (2560 × 1440 px)"
+    ],
+    [
+      "Frame Rate",
+      "15/20/25/30 fps (Default 15fps)"
+    ],
+    [
+      "Digital Zoom",
+      "12x"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Image Enhancement",
+      "3D DNRWDRHDR"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "94dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)General Information about using MicroSD Cards >"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "Tốc độ khung hình",
+      "2560×1440@30fps"
+    ],
+    [
+      "Truyền phát video",
+      "2K QHD"
+    ],
+    [
+      "Nén video",
+      "H.264"
+    ],
+    [
+      "Nén âm thanh",
+      "G.711"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Line-Crossing Detection<br />Tamper Detection<br />Baby<br />Cry Detection<br />Vehicle Detection<br />Pet Detection<br />Meow Detection<br />Bark Detection<br />Glass-Breaking Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes"
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)"
+    ],
+    [
+      "Đàm thoại",
+      "Two-Way Audio"
+    ],
+    [
+      "Âm thanh vào & ra",
+      "Built-in microphone and speaker"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n/ax, 2.4 GHz Wi-Fi;BLE"
+    ],
+    [
+      "Giao thức",
+      "TCP/IP, DHCP, ICMP, DNS, NTP, HTTPS, TCP, UDP"
+    ],
+    [
+      "Bảo Mật Không Dây",
+      "WPA/WPA2-PSK"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Bảo mật",
+      "128 bit AES encryption with SSL/TLS"
+    ],
+    [
+      "Giao thức Wi-Fi",
+      "IEEE 802.11b/g/n/ax, 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz"
+    ],
+    [
+      "Security",
+      "On-Device Machine Learning128-bit AES Encryption with SSL/TLSWPA/WPA2-PSK/WPA3"
+    ],
+    [
+      "Power Source",
+      "9V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "9.0 V, 0.6 A (DC Power)"
+    ],
+    [
+      "Input Trigger",
+      "Motion Detection, Person Detection, Line-Crossing Detection, Camera Tampering, Baby Crying Detection, Vehicle Detection, Pet Detection, Cat Meows Detection, Dog Bark Detection,"
+    ],
+    [
+      "Output Notification",
+      "Notification, Snapshot(Tapo Care)."
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa, Apple Home<br />Kit"
+    ],
+    [
+      "Mounting Options",
+      "Tabletop<br />Ceiling-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "0℃~40℃"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "3.01 × 2.61 × 1.76 in (76.4 × 66.4 × 44.6 mm)"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Tapo C125 Camera<br />Power Adapter<br />Mounting Screws<br />Mounting Template<br />Mounting Anchors Metal Plate3M Adhesive<br />Quick Start Guide"
+    ],
+    [
+      "Package Content",
+      "Tapo Home Security Wi-Fi Camera<br />Power Adapter<br />Quick Start Guide<br />Mounting Screws<br />Mounting Plate<br />Camera Base<br />Metal Plate"
+    ],
+    [
+      "Operating Temperature",
+      "'-0℃~40℃"
+    ],
+    [
+      "Storage Temperature",
+      "'-20℃~60℃"
+    ],
+    [
+      "Operating Humidity",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90%RH, Non-condensing"
+    ]
+  ],
+  "description_html": "<p>Camera AI Wi-Fi An Ninh Gia Đình</p><p>Camera AI Wi-Fi An Ninh Gia Đình</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera AI Wi-Fi An Ninh Gia Đình Camera AI Wi-Fi An Ninh Gia Đình",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

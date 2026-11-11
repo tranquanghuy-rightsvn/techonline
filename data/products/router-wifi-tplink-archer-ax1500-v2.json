@@ -1,0 +1,168 @@
+{
+  "slug": "router-wifi-tplink-archer-ax1500-v2",
+  "name": "AX1500 Wi-Fi 6 Router TP-Link Archer AX1500 V2",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX1500 V2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax1500-v2/g01.jpg"
+  ],
+  "summary": [
+    "AX1500 Wi-Fi 6 Router",
+    "Archer AX10 WiFi 6 router provides better spectral efficiency, faster speed, lower latency, more capacity, and is compatible with current WiFi devices.",
+    "Perfect for your smart home.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AX15005 GHz: 1201 Mbps (802.11ax)2.4 GHz: 300 Mbps (802.11n)",
+    "WiFi Range: 2-3 Bedroom Houses; 4× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX1500 V2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX15005 GHz: 1201 Mbps (802.11ax)2.4 GHz: 300 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "2-3 Bedroom Houses<br />4× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Dual-Band<br />Allocate devices to different bands for optimal performanceOFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 1 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Wi-Fi Button<br />Power On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE: &lt;20dBm(2.4 GHz)&lt;23dBm(5.15 GHz~5.25 GHz)<br />FCC:&lt;30dBm(2.4 GHz &amp; 5.15 GHz~5.825 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz:11a 6<br />Mbps:-97dBm, 11a 54"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.2 × 5.3 ×1.5 in(260.2 × 135.0 × 38.6 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer AX1500Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>AX1500 Wi-Fi 6 Router</p><p>Archer AX10 WiFi 6 router provides better spectral efficiency, faster speed, lower latency, more capacity, and is compatible with current WiFi devices.</p><p>Perfect for your smart home.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1500"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "AX1500 Wi-Fi 6 Router Archer AX10 WiFi 6 router provides better spectral efficiency, faster speed, lower latency, more capacity, and is compatible with current WiFi devices. Perfect for your smart home.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

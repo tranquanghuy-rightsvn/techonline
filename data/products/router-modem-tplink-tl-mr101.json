@@ -1,0 +1,157 @@
+{
+  "slug": "router-modem-tplink-tl-mr101",
+  "name": "Router 4G LTE Chuẩn N Tốc độ 300 Mbps TP-Link TL-MR101",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-MR101",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-tl-mr101/g01.jpg"
+  ],
+  "summary": [
+    "Router 4G LTE Chuẩn N Tốc độ 300 Mbps",
+    "Router 4G LTE này cho phép bạn truy cập tốc độ lên tới 150 Mbps.",
+    "Chia sẻ Wi-Fi của bạn với tối đa 32 thiết bị và tận hưởng các tác vụ cần nhiều băng thông.",
+    "Thiết lập kết nối Ethernet với cổng của nó để có thêm quyền truy cập."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-MR101"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 10/100Mbps LAN Port1 10/100Mbps LAN/WAN Port1 Nano SIM Card Slot2 External SMA-F Antenna Interface"
+    ],
+    [
+      "Nút",
+      "WPS/WiFiReset Button"
+    ],
+    [
+      "External Power Supply(EU)",
+      "9V/0.85A"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.06×4.49×1.42 in ( 154×114×36 mm)"
+    ],
+    [
+      "Ăng ten",
+      "2 Undetachable External 4G LTE Antennas"
+    ],
+    [
+      "Bảo mật",
+      "IPv4 SPI Firewall, IP and MAC Address Binding"
+    ],
+    [
+      "Operating Modes",
+      "3G/4G Router, Wireless Router"
+    ],
+    [
+      "Dạng WAN",
+      "Dynamic IP/Static IP/PPPoE/PPTP(Dual Access)/L2TP(Dual Access)"
+    ],
+    [
+      "Quản lý",
+      "Local Management, Remote Management"
+    ],
+    [
+      "DHCP",
+      "Server, DHCP Client List, Address Reservation"
+    ],
+    [
+      "Port Forwarding",
+      "ALG, Virtual Server, Port Triggering, UPnP, DMZ"
+    ],
+    [
+      "Dynamic DNS",
+      "DynDns, NO-IP"
+    ],
+    [
+      "Giao thức",
+      "IPv4, IPv6"
+    ],
+    [
+      "Mạng khách",
+      "2.4 GHz Guest Network"
+    ],
+    [
+      "Administration",
+      "Upgrade Firmware, Factory Default, System Log, Diagnostic Tools"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "300 Mbps"
+    ],
+    [
+      "Reception Sensitivity",
+      "11g 54M: -74 d<br />Bm11n HT20: -71 d<br />Bm11n HT40: -68 dBm"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless Radio, Wireless Schedule, WMM, Wireless<br />Statistics"
+    ],
+    [
+      "WAN Failover",
+      "Yes"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions"
+    ],
+    [
+      "Công suất truyền tải",
+      "< 20 dBm (2.4 GHz)"
+    ],
+    [
+      "Dạng mạng",
+      "4G：FDD-LTE：B1/B3/B5/B8（2100/1800/850/900 MHz） TDD-LTE：B38/B40/B41（2600/2300/2500 MHz）3G：HSPA+/UMTS：B1/B5/B8（2100/850/900 MHz）"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "300 Mbps Wireless N 4G LTE TL-MR1011.5m Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "Requirements",
+      "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS,NetWare, UNIX or Linux<br />Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other<br />Java-enabled browser<br />Nano SIM Card"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Router 4G LTE Chuẩn N Tốc độ 300 Mbps</p><p>Router 4G LTE này cho phép bạn truy cập tốc độ lên tới 150 Mbps.</p><p>Chia sẻ Wi-Fi của bạn với tối đa 32 thiết bị và tận hưởng các tác vụ cần nhiều băng thông.</p><p>Thiết lập kết nối Ethernet với cổng của nó để có thêm quyền truy cập.</p>",
+  "attrs": [
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router 4G LTE Chuẩn N Tốc độ 300 Mbps Router 4G LTE này cho phép bạn truy cập tốc độ lên tới 150 Mbps. Chia sẻ Wi-Fi của bạn với tối đa 32 thiết bị và tận hưởng các tác vụ cần nhiều băng thông.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

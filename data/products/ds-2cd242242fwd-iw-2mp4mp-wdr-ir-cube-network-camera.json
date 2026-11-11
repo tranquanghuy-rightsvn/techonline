@@ -1,0 +1,59 @@
+{
+  "slug": "ds-2cd242242fwd-iw-2mp4mp-wdr-ir-cube-network-camera",
+  "name": "2MP/4MP WDR IR Cube Network Camera Hikvision DS-2CD2422/42FWD-IW",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2422/42FWD-IW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2410-c1-500x500.png"
+  ],
+  "summary": [
+    "2MP/4MP real-time resolution",
+    "On-board storage(optional)",
+    "PIR detection",
+    "Up to 10m IR range",
+    "120dB WDR",
+    "DC12V & PoE",
+    "Built-in Speaker, Mic, WIFI",
+    "Hik-connect cloud mobile surveillance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2422/42FWD-IW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2MP/4MP real-time resolution</p><p>On-board storage(optional)</p><p>PIR detection</p><p>Up to 10m IR range</p><p>120dB WDR</p><p>DC12V &amp; PoE</p><p>Built-in Speaker, Mic, WIFI</p><p>Hik-connect cloud mobile surveillance</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP/4MP real-time resolution On-board storage(optional) PIR detection",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

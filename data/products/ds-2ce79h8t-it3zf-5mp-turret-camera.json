@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2ce79h8t-it3zf-5mp-turret-camera",
+  "name": "5MP Turret Camera Hikvision DS-2CE79H8T-IT3ZF",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE79H8T-IT3ZF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE79H8T-IT3ZF-2-500x500.jpg"
+  ],
+  "summary": [
+    "5 Megapixel high-performance CMOS",
+    "Auto focus",
+    "2560 × 1944 resolution",
+    "2.7 mm to 13.5 mm motorized vari-focal lens",
+    "EXIR 2.0, smart IR, up to 60 m IR distance",
+    "OSD menu, 3D DNR, 130 dB true WDR",
+    "IP67",
+    "4 in 1 video output (switchable TVI/AHD/CVI/CVBS)",
+    "Up the Coax(HIKVISION-C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE79H8T-IT3ZF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ]
+  ],
+  "description_html": "<p>5 Megapixel high-performance CMOS</p><p>Auto focus</p><p>2560 × 1944 resolution</p><p>2.7 mm to 13.5 mm motorized vari-focal lens</p><p>EXIR 2.0, smart IR, up to 60 m IR distance</p><p>OSD menu, 3D DNR, 130 dB true WDR</p><p>IP67</p><p>4 in 1 video output (switchable TVI/AHD/CVI/CVBS)</p><p>Up the Coax(HIKVISION-C)</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "5 Megapixel high-performance CMOS Auto focus 2560 × 1944 resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

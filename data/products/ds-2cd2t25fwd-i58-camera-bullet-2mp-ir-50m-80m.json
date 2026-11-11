@@ -1,0 +1,65 @@
+{
+  "slug": "ds-2cd2t25fwd-i58-camera-bullet-2mp-ir-50m-80m",
+  "name": "Camera Bullet 2MP high resolution IR 50m-80m Hikvision DS-2CD2T25FWD-I",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2T25FWD-I",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg"
+  ],
+  "summary": [
+    "2MP high resolution",
+    "H.265+/H.265/H.264+/H.264",
+    "DarkFighter ultra-low light technology",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection",
+    "120dB WDR",
+    "IP67",
+    "3 streams",
+    "I5: up to 50 m; I8: up to 80 m",
+    "Hik-Connect Service",
+    "Up to 128GB on-board storage"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2T25FWD-I"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "I5",
+      "up to 50 m; I8: up to 80 m"
+    ]
+  ],
+  "description_html": "<p>2MP high resolution</p><p>H.265+/H.265/H.264+/H.264</p><p>DarkFighter ultra-low light technology</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection</p><p>120dB WDR</p><p>IP67</p><p>3 streams</p><p>I5: up to 50 m; I8: up to 80 m</p><p>Hik-Connect Service</p><p>Up to 128GB on-board storage</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP high resolution H.265+/H.265/H.264+/H.264 DarkFighter ultra-low light technology",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

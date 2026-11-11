@@ -1,0 +1,104 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tx10ub-nano",
+  "name": "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano TP-Link Archer TX10UB Nano",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TX10UB Nano",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tx10ub-nano/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano",
+    "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano",
+    "Giao diện: USB 2.0",
+    "Kích thước ( R x D x C ): 19.2*15.7*7.4mm",
+    "Ăng ten: Omni Directional",
+    "Chuẩn Wi-Fi: IEEE 802.11b/g/n/ax 2.4 GHz, IEEE 802.11a/n/ac/ax 5 GHz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TX10UB Nano"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "19.2*15.7*7.4mm"
+    ],
+    [
+      "Ăng ten",
+      "Omni Directional"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n/ax 2.4 GHz, IEEE 802.11a/n/ac/ax 5 GHz"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5<br />GHz11ax: Up to 600Mbps(dynamic)11ac: Up to 433Mbps(dynamic)11n: Up to 150Mbps(dynamic)11a: Up to 54Mbps(dynamic)2.4"
+    ],
+    [
+      "Reception Sensitivity",
+      "5<br />GHZ：11a6M：-94dBm；11ax HE80 MCS11：-59dBm；11ax HE80 MCS0：-87dBm；2<br />GHZ：11g6M：-95dBm；11ax HE40 MCS11：-65dBm；11ax HE40 MCS0：-93dBm；"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Infrastructure Mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WEP, WPA/WPA2/WPA3, WPA-PSK/ WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM,256-QAM, 1024-QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AX900 Nano Wi-Fi 6 Bluetooth 5.3 USB Adapter Archer TX10UB Nano<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi 6 AX900 &amp; Bluetooth 5.3 Nano</p><p>USB Wi-Fi 6 AX900 &amp; Bluetooth 5.3 Nano</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

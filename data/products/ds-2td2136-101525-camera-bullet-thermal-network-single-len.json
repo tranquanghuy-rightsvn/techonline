@@ -1,0 +1,57 @@
+{
+  "slug": "ds-2td2136-101525-camera-bullet-thermal-network-single-len",
+  "name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2136-10/15/25",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2TD2136-10/15/25",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD2136101525.jpg"
+  ],
+  "summary": [
+    "Thermal: 384×288",
+    "10mm (36°)/ 15mm (24°)/25mm (15°) thermal lens optional",
+    "Support line crossing and intrusion detection",
+    "Support temperature exception alarm",
+    "Support fire detection",
+    "T: -20℃～ 550℃ (-4°F to 1,022°F) temperature measuring range, Max(±2℃ , ±2%) temperature accuracy(only DS-2TD2136T support)",
+    "IP66"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2TD2136-10/15/25"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Thermal",
+      "384×288"
+    ]
+  ],
+  "description_html": "<p>Thermal: 384×288</p><p>10mm (36°)/ 15mm (24°)/25mm (15°) thermal lens optional</p><p>Support line crossing and intrusion detection</p><p>Support temperature exception alarm</p><p>Support fire detection</p><p>T: -20℃～ 550℃ (-4°F to 1,022°F) temperature measuring range, Max(±2℃ , ±2%) temperature accuracy(only DS-2TD2136T support)</p><p>IP66</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Thermal: 384×288 10mm (36°)/ 15mm (24°)/25mm (15°) thermal lens optional Support line crossing and intrusion detection",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

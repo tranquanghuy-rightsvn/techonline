@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2ce76u1t-itmf-turret-camera-8mp",
+  "name": "Turret Camera 8MP Hikvision DS-2CE76U1T-ITMF",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE76U1T-ITMF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/12/camera-tvi-hikvision-4k-DS-2CE76U1T-ITMF-500x500.jpg"
+  ],
+  "summary": [
+    "8.29 Megapixel high-performance CMOS",
+    "3840 × 2160 resolution",
+    "2.8 mm, 3.6 mm, 6 mm, 8 mm, 12 mm fixed lens",
+    "4 in 1 video output (switchable TVI/AHD/CVI/CVBS)",
+    "EXIR 2.0, smart IR, up to 60m IR distance",
+    "Up the Coax(HIKVISION-C)",
+    "IP67"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE76U1T-ITMF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>8.29 Megapixel high-performance CMOS</p><p>3840 × 2160 resolution</p><p>2.8 mm, 3.6 mm, 6 mm, 8 mm, 12 mm fixed lens</p><p>4 in 1 video output (switchable TVI/AHD/CVI/CVBS)</p><p>EXIR 2.0, smart IR, up to 60m IR distance</p><p>Up the Coax(HIKVISION-C)</p><p>IP67</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8.29 Megapixel high-performance CMOS 3840 × 2160 resolution 2.8 mm, 3.6 mm, 6 mm, 8 mm, 12 mm fixed lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

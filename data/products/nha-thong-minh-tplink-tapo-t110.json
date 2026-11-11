@@ -1,0 +1,77 @@
+{
+  "slug": "nha-thong-minh-tplink-tapo-t110",
+  "name": "Cảm biến trạng thái cửa thông minh TP-Link Tapo T110",
+  "categories": [
+    "tp-link-nha-thong-minh"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo T110",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/nha-thong-minh-tplink-tapo-t110/g01.png"
+  ],
+  "summary": [
+    "Cảm biến trạng thái cửa thông minh",
+    "Cảm biến trạng thái cửa thông minh",
+    "Hub Required: Yes",
+    "Indicator LED: Yes",
+    "Wireless: 868 / 922 MHz",
+    "Nhiệt Độ Hoạt Động: 0~40°C"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo T110"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Hub Required",
+      "Yes"
+    ],
+    [
+      "Indicator LED",
+      "Yes"
+    ],
+    [
+      "Wireless",
+      "868 / 922 MHz"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "0~40°C"
+    ],
+    [
+      "Kích thước( C X R X D )",
+      "61.4 x 37.5 x 12.3 mm"
+    ],
+    [
+      "Power Requirements",
+      "CR2032 Battery"
+    ],
+    [
+      "Package Content",
+      "Tapo T<br />110 × 1Battery CR2032 x 13M Adhensives x 3Quick Start Guide"
+    ],
+    [
+      "Operating Temperature",
+      "0~40°C"
+    ]
+  ],
+  "description_html": "<p>Cảm biến trạng thái cửa thông minh</p><p>Cảm biến trạng thái cửa thông minh</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Cảm biến trạng thái cửa thông minh Cảm biến trạng thái cửa thông minh",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

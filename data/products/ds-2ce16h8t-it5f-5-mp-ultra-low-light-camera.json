@@ -1,0 +1,58 @@
+{
+  "slug": "ds-2ce16h8t-it5f-5-mp-ultra-low-light-camera",
+  "name": "5 MP Ultra-Low Light Camera Hikvision DS-2CE16H8T-IT5F",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE16H8T-IT5F",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE16H8T-IT5F-DS-2CE16H8T-IT3F-nha-an-toan-500x500.jpg"
+  ],
+  "summary": [
+    "5 Megapixel high-performance CMOS",
+    "2560 × 1944 resolution",
+    "EXIR 2.0, smart IR, up to 30/60/80 m IR distance",
+    "OSD menu, 3D DNR, 130 dB true WDR",
+    "4 in 1 video output (switchable TVI/AHD/CVI/CVBS)",
+    "IP67",
+    "Up the Coax(HIKVISION-C)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE16H8T-IT5F"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ]
+  ],
+  "description_html": "<p>5 Megapixel high-performance CMOS</p><p>2560 × 1944 resolution</p><p>EXIR 2.0, smart IR, up to 30/60/80 m IR distance</p><p>OSD menu, 3D DNR, 130 dB true WDR</p><p>4 in 1 video output (switchable TVI/AHD/CVI/CVBS)</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "5 Megapixel high-performance CMOS 2560 × 1944 resolution EXIR 2.0, smart IR, up to 30/60/80 m IR distance",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

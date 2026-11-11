@@ -1,0 +1,56 @@
+{
+  "slug": "ds-810481088116huhi-f8n-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-8104/8108/8116HUHI-F8/N Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-8104/8108/8116HUHI-F8/N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-8100HQHI-F8-N-500x500.png"
+  ],
+  "summary": [
+    "H.264 ,H.264+& Dual-stream video compression",
+    "Support HD-TVI, IPC,AHD and analog cameras with adaptive access",
+    "Support Cloud storage(One Drive, Google Drive or Drop Box)",
+    "Simultaneous HDMI1 and VGA output at up to 1920 × 1080 resolution, and independent HDMI 2 output at up to 4K (3840 × 2160) resolution",
+    "Long transmission distance over coax cable",
+    "Up to 4/8/16-ch synchronous playback at 3MP resolution",
+    "playback at up to 256X speed.",
+    "Support POS functions.",
+    "Raid 1/0/5/10",
+    "Dual network ports"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-8104/8108/8116HUHI-F8/N"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>H.264 ,H.264+&amp; Dual-stream video compression</p><p>Support HD-TVI, IPC,AHD and analog cameras with adaptive access</p><p>Support Cloud storage(One Drive, Google Drive or Drop Box)</p><p>Simultaneous HDMI1 and VGA output at up to 1920 × 1080 resolution, and independent HDMI 2 output at up to 4K (3840 × 2160) resolution</p><p>Long transmission distance over coax cable</p><p>Up to 4/8/16-ch synchronous playback at 3MP resolution</p><p>playback at up to 256X speed.</p><p>Support POS functions.</p><p>Raid 1/0/5/10</p><p>Dual network ports</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264 ,H.264+& Dual-stream video compression Support HD-TVI, IPC,AHD and analog cameras with adaptive access Support Cloud storage(One Drive, Google Drive or Drop Box)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

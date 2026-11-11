@@ -1,0 +1,180 @@
+{
+  "slug": "camera-wifi-tplink-tapo-c210p2",
+  "name": "Camera WI-Fi An Ninh Cho Gia Đình Quay Quét TP-Link Tapo C210P2",
+  "categories": [
+    "camera-wifi-tp-link-tapo",
+    "tp-link-camera-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo C210P2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/camera-wifi-tplink-tapo-c210p2/g01.jpg"
+  ],
+  "summary": [
+    "Camera WI-Fi An Ninh Cho Gia Đình Quay Quét",
+    "A security WiFi camera with flexible manual rotation, motion detection, night vision, and local storage, giving you peace of mind wherever you are.",
+    "Cảm biến hình ảnh: 1/2.8'' Progressive Scan CMOS Not Starlight Sensor",
+    "Ống kính: Focal Length: 4 mm; Aperture: F2.0; Field of View: 98° (Diagonal), 83°(Horizontal), 45°(Vertical)",
+    "Motion Range: Pan Mechanical Range: 340° (360° Pan Coverage); Tilt Mechanical Range: 70° (116.65° Tilt Coverage)",
+    "Tầm nhìn đêm: 850 nm IR LED ( (30 ft / 9 m)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo C210P2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Cảm biến hình ảnh",
+      "1/2.8'' Progressive Scan CMOS Not Starlight Sensor"
+    ],
+    [
+      "Ống kính",
+      "Focal Length: 4 mm<br />Aperture: F2.0<br />Field of View: 98° (Diagonal), 83°(Horizontal), 45°(Vertical)"
+    ],
+    [
+      "Motion Range",
+      "Pan Mechanical Range: 340° (360° Pan Coverage)<br />Tilt Mechanical Range: 70° (116.65° Tilt Coverage)"
+    ],
+    [
+      "Tầm nhìn đêm",
+      "850 nm IR LED ( (30 ft / 9 m)"
+    ],
+    [
+      "Interface & Button",
+      "1× RESET Button<br />1× MicroSD Card Slot (Up to 512 GB)"
+    ],
+    [
+      "Maximum Resolution",
+      "2304 x 1296 px"
+    ],
+    [
+      "Frame Rate",
+      "15 fps"
+    ],
+    [
+      "Video Compression",
+      "H.264"
+    ],
+    [
+      "Live View",
+      "Yes"
+    ],
+    [
+      "Audio Input & Output",
+      "Built-in Microphone and Speaker"
+    ],
+    [
+      "Audio Communication",
+      "Two-Way Audio with Noise Cancellation"
+    ],
+    [
+      "Siren Volume",
+      "88dB (Level measured at 4-inch/10-cm distance)"
+    ],
+    [
+      "Local Storage",
+      "MicroSD Card Slot on Camera (Up to 512 GB)"
+    ],
+    [
+      "Cloud Storage",
+      "Tapo Care Cloud Storage Services (Subscription required)"
+    ],
+    [
+      "AI Detection",
+      "Motion Detection<br />Person Detection<br />Baby<br />Cry Detection"
+    ],
+    [
+      "Activity Zones",
+      "Yes*Only works with Motion Detection."
+    ],
+    [
+      "Output Notification",
+      "System Notification<br />System Notification with Snapshot (Tapo Care Services)System Notification with Clips (Tapo Care Services)"
+    ],
+    [
+      "Network Connectivity",
+      "Connect via Wi-Fi"
+    ],
+    [
+      "Wireless Connectivity",
+      "IEEE 802.11b/g/n, 2.4 GHz Wi-Fi"
+    ],
+    [
+      "RTSP",
+      "Yes"
+    ],
+    [
+      "ONVIF",
+      "Yes"
+    ],
+    [
+      "Security",
+      "SSL/TLS,AES"
+    ],
+    [
+      "Power Source",
+      "9V DC Power Adapter"
+    ],
+    [
+      "Input Voltage",
+      "100-240 V, 50/60 Hz"
+    ],
+    [
+      "Output Voltage",
+      "DC9.0V/0.6A(DC Power)"
+    ],
+    [
+      "Smart Integration",
+      "Google Assistant, Amazon Alexa"
+    ],
+    [
+      "Mounting Options",
+      "Tabletop<br />Ceiling-Mounted"
+    ],
+    [
+      "Nhiệt Độ Hoạt Động",
+      "0℃~40℃"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90% RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90% RH, Non-condensing"
+    ],
+    [
+      "Dimensions ( W x D x H )",
+      "3.36 × 3.42 × 4.63 in (85.4 × 86.8 × 117.7 mm)"
+    ],
+    [
+      "Package Content",
+      "Tapo C210 Camera<br />Power Adapter<br />Quick Start Guide<br />Mounting Screws<br />Mounting Template<br />Camera Base<br />Mounting Anchors"
+    ]
+  ],
+  "description_html": "<p>Camera WI-Fi An Ninh Cho Gia Đình Quay Quét</p><p>A security WiFi camera with flexible manual rotation, motion detection, night vision, and local storage, giving you peace of mind wherever you are.</p>",
+  "attrs": [
+    "Quay quét"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera WI-Fi An Ninh Cho Gia Đình Quay Quét A security WiFi camera with flexible manual rotation, motion detection, night vision, and local storage, giving you peace of mind wherever you are.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

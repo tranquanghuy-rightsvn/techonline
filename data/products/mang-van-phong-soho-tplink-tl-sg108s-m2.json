@@ -1,0 +1,116 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg108s-m2",
+  "name": "8-Port 2.5G Multi-Gigabit Desktop Switch TP-Link TL-SG108S-M2",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG108S-M2",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg108s-m2/g01.jpg"
+  ],
+  "summary": [
+    "8-Port 2.5G Multi-Gigabit Desktop Switch",
+    "As the flagship 2.5G product, the 8-Port desktop switch delivers reliable, super-fast connections with the lowest latency possible—without the need to upgrade to Cat6 wiring.",
+    "8× 2.5-Gigabit ports unlock the highest performance of your Multi-Gig bandwidth and devices, and provide up to 40 Gbps of switching capacity.",
+    "Chuẩn và Giao thức: IEEE 802.3u, 802.3ab, 802.3x, 802.1p, 802.3bz",
+    "Giao diện: 8× 100Mbps/1Gbps/2.5Gbps Ports, Auto-Negotiation, Auto-MDI/MDIX",
+    "Số lượng quạt: Fanless"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG108S-M2"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3u, 802.3ab, 802.3x, 802.1p, 802.3bz"
+    ],
+    [
+      "Giao diện",
+      "8× 100Mbps/1Gbps/2.5Gbps Ports, Auto-Negotiation, Auto-MDI/MDIX"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "External Power Adapter (Output: 12 VDC / 1.0 A)"
+    ],
+    [
+      "LED",
+      "Power<br />Link/Act Indicators"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.2 × 4.0 × 1.0 in (158 × 101 × 25.4 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "8.87 W"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "30.158 BTU/h"
+    ],
+    [
+      "Khung Jumbo",
+      "12 KB"
+    ],
+    [
+      "Switching Capacity",
+      "40 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "29.8 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "4 K"
+    ],
+    [
+      "Advanced Features",
+      "802.3X Flow Control<br />802.1p/DSCP QoS<br />IGMP Snooping"
+    ],
+    [
+      "Transmission Method",
+      "Store and Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "8-Port 2.5G Multi-Gigabit Desktop Switch TL-SG108S-M2<br />Power Adapter<br />Installation Guide<br />Rubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 °C (32–104 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>8-Port 2.5G Multi-Gigabit Desktop Switch</p><p>As the flagship 2.5G product, the 8-Port desktop switch delivers reliable, super-fast connections with the lowest latency possible—without the need to upgrade to Cat6 wiring.</p><p>8× 2.5-Gigabit ports unlock the highest performance of your Multi-Gig bandwidth and devices, and provide up to 40 Gbps of switching capacity.</p>",
+  "attrs": [
+    "8 Cổng",
+    "5G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8-Port 2.5G Multi-Gigabit Desktop Switch As the flagship 2.5G product, the 8-Port desktop switch delivers reliable, super-fast connections with the lowest latency possible—without the need to upgrade to Cat6 wiring. 8× 2.5-Gigabit ports unlock the highest performance of your Multi-Gig bandwidth…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

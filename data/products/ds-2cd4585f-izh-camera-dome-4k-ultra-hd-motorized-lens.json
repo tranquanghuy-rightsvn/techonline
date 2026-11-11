@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2cd4585f-izh-camera-dome-4k-ultra-hd-motorized-lens",
+  "name": "Camera Dome 4K Ultra-HD Motorized lens Hikvision DS-2CD4585F-IZH",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD4585F-IZH",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg"
+  ],
+  "summary": [
+    "Up to 4096 x 2160 High Resolution",
+    "WDR, 3D DNR",
+    "Multi-Video Streams",
+    "On-Board Storage, Up to 128 GB",
+    "Up to 40 Meters IR Range",
+    "Motorized Lens with Smart Focus",
+    "Vandal Resistant and IP66",
+    "Smart Heater",
+    "People Counting"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD4585F-IZH"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>Up to 4096 x 2160 High Resolution</p><p>WDR, 3D DNR</p><p>Multi-Video Streams</p><p>On-Board Storage, Up to 128 GB</p><p>Up to 40 Meters IR Range</p><p>Motorized Lens with Smart Focus</p><p>Vandal Resistant and IP66</p><p>Smart Heater</p><p>People Counting</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Up to 4096 x 2160 High Resolution WDR, 3D DNR Multi-Video Streams",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

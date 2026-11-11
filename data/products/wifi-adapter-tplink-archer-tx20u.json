@@ -1,0 +1,100 @@
+{
+  "slug": "wifi-adapter-tplink-archer-tx20u",
+  "name": "USB Wi-Fi 6 Băng Tần Kép AX1800 TP-Link Archer TX20U",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer TX20U",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-tx20u/g01.jpg"
+  ],
+  "summary": [
+    "USB Wi-Fi 6 Băng Tần Kép AX1800",
+    "AX1800 Dual Band Wi-Fi 6 Wireless USB Adapter",
+    "LED: Status",
+    "Kích thước ( R x D x C ): 90.2 × 29.2 × 12.9 mm (3.55 × 1.15 × 0.51 in)",
+    "Ăng ten: 2× Dual-Band Antennas",
+    "Chuẩn Wi-Fi: IEEE 802.11a/b/g/n/ac/ax"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer TX20U"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "LED",
+      "Status"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "90.2 × 29.2 × 12.9 mm (3.55 × 1.15 × 0.51 in)"
+    ],
+    [
+      "Ăng ten",
+      "2× Dual-Band Antennas"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/b/g/n/ac/ax"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5 GHz:11ax: Up to 1201 Mbps(dynamic)11ac: Up to 867 Mbps(dynamic)11n: Up to 300 Mbps(dynamic)11a: Up to 54 Mbps(dynamic)2.4 GHz:11ax: Up to 574 Mbps(dynamic)11n: Up to 400 Mbps(dynamic)11g: Up to 54…"
+    ],
+    [
+      "Reception Sensitivity",
+      "5 GHz:11ax HE80 MCS0: -90 d<br />Bm11ax HE80 MCS11: -59 d<br />Bm11a 54<br />Mbps: -77 d<br />Bm11ac VHT80 MCS0: -92d<br />Bm11ac VHT80 MCS9: -64d<br />Bm2.4 GHz:11ax HE40 MCS0: -94 d<br />Bm11ax HE40 MCS11: -66 d<br />Bm11g 54"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Infrastructure mode"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "5 GHz: 19dBm(FCC) /21.5dBm(CE) (EIRP)2.4 GHz : 19dBm(FCC) / 18.5dBm(CE) (EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AX1800 Dual Band Wi-Fi 6 Wireless USB Adapter<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Supported operating systems include Windows 10, 11"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi 6 Băng Tần Kép AX1800</p><p>AX1800 Dual Band Wi-Fi 6 Wireless USB Adapter</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX1800"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi 6 Băng Tần Kép AX1800 AX1800 Dual Band Wi-Fi 6 Wireless USB Adapter",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

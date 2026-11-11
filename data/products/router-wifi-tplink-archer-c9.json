@@ -1,0 +1,172 @@
+{
+  "slug": "router-wifi-tplink-archer-c9",
+  "name": "Router Gigabit Wi-Fi Băng tần kép AC1900 TP-Link Archer C9",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C9",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c9/g01.jpg"
+  ],
+  "summary": [
+    "Router Gigabit Wi-Fi Băng tần kép AC1900",
+    "Archer C9 provides decent dual band Wi-Fi and boosts your experience great for entertainment and 4K streaming on multiple clients.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)",
+    "WiFi Range: 3 Bedroom Houses; 3× Detachable High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C9"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC19005 GHz: 1300 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />3× Detachable High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer Gateway"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WEPWPAWPA2<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "1.8 GHz 64 Bit Quad-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "USB Support",
+      "1× USB 3.0 Port<br />1× USB 2.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi On/Off Button<br />Power On/Off ButtonLED On/Off ButtonWPS Button<br />Reset Button"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 3.3 A"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Parental Controls",
+      "URL Filtering<br />Time Controls"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "OTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Virtual Server<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE, RoHS"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5GHz)<br />FCC:&lt;30dBm"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11a 6<br />Mbps: -94d<br />Bm11a 54<br />Mbps: -76d<br />Bm11ac HT20: -68d<br />Bm11ac HT40: -64d<br />Bm11ac HT80: -60d<br />Bm2.4<br />GHz11g 54M: -77d<br />Bm11n HT20: -73d<br />Bm11n HT40: -71dBm"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.7 × 3.4 × 6.6 in(221 × 86 × 168.5mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer C9Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Gigabit Wi-Fi Băng tần kép AC1900</p><p>Archer C9 provides decent dual band Wi-Fi and boosts your experience great for entertainment and 4K streaming on multiple clients.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1900"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Gigabit Wi-Fi Băng tần kép AC1900 Archer C9 provides decent dual band Wi-Fi and boosts your experience great for entertainment and 4K streaming on multiple clients.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

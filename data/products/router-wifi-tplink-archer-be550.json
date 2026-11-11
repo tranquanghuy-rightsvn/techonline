@@ -1,0 +1,178 @@
+{
+  "slug": "router-wifi-tplink-archer-be550",
+  "name": "Router Wi-Fi 7 BE9300 Ba Băng Tần TP-Link Archer BE550",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer BE550",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-be550/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 7 BE9300 Ba Băng Tần",
+    "Archer BE550 là một router WiFi tiên tiến với thiết kế hoàn toàn mới.",
+    "WiFi ba băng tần tốc độ lên đến 9214 Mbps cho phép các thiết bị của bạn hoạt động với hiệu suất tối đa.",
+    "Được trang bị năm cổng 2.5G, Archer BE550 cung cấp khả năng hỗ trợ linh hoạt cho các kết nối multi-gigabit."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer BE550"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "WiFi Speeds",
+      "BE9300<br />6 GHz: 5760 Mbps (802.11be)<br />5 GHz: 2880 Mbps (802.11be)<br />2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "4 Bedroom Houses<br />6× Optimally Positioned Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "High<br />Tri-Band<br />Allocate devices to different bands for optimal performance<br />2×2 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA<br />Simultaneously communicates with multiple clients"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Advanced Features",
+      "Multi-Link Operation (MLO)<br />320 MHz Channel<br />4K-QAM<br />Multi-RUs<br />EasyMesh-Compatible<br />Works with Alexa and Google Assistant<br />IoT Network"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access Control<br />IP &amp; MAC Binding<br />Application Layer Gateway<br />HomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention"
+    ],
+    [
+      "Guest Network",
+      "1× 6 GHz Guest Network<br />1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN Server<br />PPTP VPN Server<br />L2TP VPN Server<br />WireGuard VPN Server"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />L2TP VPN Client<br />WireGuard VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA<br />WPA2<br />WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "High-Performance CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 2.5 Gbps WAN<br />4× 2.5 Gbps LAN"
+    ],
+    [
+      "USB Support",
+      "1× USB 3.0<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:FTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 3.3 A"
+    ],
+    [
+      "Buttons",
+      "Power On/Off Button<br />Wi-Fi On/Off Button<br />LED Button<br />WPS Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4<br />IPv6"
+    ],
+    [
+      "Service Kit",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "EasyMesh",
+      "Compatible with EasyMesh"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet<br />Weekly and Monthly Reports"
+    ],
+    [
+      "WAN Type",
+      "Dynamic IP<br />Static IP<br />PPPoE<br />PPTP<br />L2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware Upgrade<br />TP-Link ID<br />DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port Triggering<br />DMZ<br />UPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP Proxy<br />IGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address Reservation<br />DHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-Link<br />NO-IP<br />DynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether App<br />Webpage"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "CE, FCC"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "3.0 × 9.1 × 8.0 in (76 × 231.7 × 203 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi 7 Router Archer BE550<br />Power Adapter<br />RJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 7 BE9300 Ba Băng Tần</p><p>Archer BE550 là một router WiFi tiên tiến với thiết kế hoàn toàn mới.</p><p>WiFi ba băng tần tốc độ lên đến 9214 Mbps cho phép các thiết bị của bạn hoạt động với hiệu suất tối đa.</p><p>Được trang bị năm cổng 2.5G, Archer BE550 cung cấp khả năng hỗ trợ linh hoạt cho các kết nối multi-gigabit.</p>",
+  "attrs": [
+    "Wi-Fi 7",
+    "BE9300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 7 BE9300 Ba Băng Tần Archer BE550 là một router WiFi tiên tiến với thiết kế hoàn toàn mới. WiFi ba băng tần tốc độ lên đến 9214 Mbps cho phép các thiết bị của bạn hoạt động với hiệu suất tối đa.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

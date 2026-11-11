@@ -1,0 +1,135 @@
+{
+  "slug": "wifi-di-dong-tplink-m7005",
+  "name": "Wi-Fi Di Động 4G LTE TP-Link M7005",
+  "categories": [
+    "tp-link-wi-fi-di-dong"
+  ],
+  "brand": "TP-Link",
+  "sku": "M7005",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-di-dong-tplink-m7005/g01.jpg"
+  ],
+  "summary": [
+    "Wi-Fi Di Động 4G LTE",
+    "Wi-Fi Di Động 4G LTE",
+    "Network Type: 4G: FDD-LTE: B1/B3/B5/B7/B8/B20/B28(2100/1800/850/2600/900/800/750MHz); TDD-LTE: B38/B40/B41 (2600/2300/2500MHz)3G: HSPA+/HSPA/WCDMA: B1/B5/B8(2100/850/900MHz)",
+    "Speed: Download Speed: 150 Mbps Upload Speed: 50 Mbps",
+    "Giao diện: 1 USB-C port for power supply1 Nano SIM card slot",
+    "Nút: Power Button, Reset Button"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "M7005"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Network Type",
+      "4G: FDD-LTE: B1/B3/B5/B7/B8/B20/B28(2100/1800/850/2600/900/800/750MHz)<br />TDD-LTE: B38/B40/B41 (2600/2300/2500MHz)3G: HSPA+/HSPA/WCDMA: B1/B5/B8(2100/850/900MHz)"
+    ],
+    [
+      "Speed",
+      "Download Speed: 150 Mbps Upload Speed: 50 Mbps"
+    ],
+    [
+      "Giao diện",
+      "1 USB-C port for power supply1 Nano SIM card slot"
+    ],
+    [
+      "Nút",
+      "Power Button, Reset Button"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External 5V/1A"
+    ],
+    [
+      "Khối lượng",
+      "About 118g"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.5×2.8×0.94 in (114×70×23.85 mm)"
+    ],
+    [
+      "Ăng ten",
+      "Internal Antennas"
+    ],
+    [
+      "Hiển thị LED",
+      "Wi-Fi LED, Internet LED, Power LED"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n/ax 2.4GHz"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Up to 287 Mbps"
+    ],
+    [
+      "Băng tần",
+      "2.4 GHz"
+    ],
+    [
+      "Reception Sensitivity",
+      "11b 11Mbps -89dBm11g 54Mbps -75.5dBm11n HT20 MCS7 -73.5dBm11n HT40 MCS7 -70.5dBm11ax HT20 MCS9 -68dBm11ax HT40 MCS9 -64.5dBm"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Support WPA-PSK/WPA2-PSK/WPA3-SAE, Wireless MAC Filtering, Enable/Disable SSID Broadcast"
+    ],
+    [
+      "DHCP",
+      "Server, Client, DHCP Client List"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web or app<br />Port: 80/443 Protocol: HTTP/HTTPSDNSDNS<br />Port: 53; Protocol: UDPDHCP/DHCPv6IP address assignment<br />Port: 67/547; Protocol: UDP"
+    ],
+    [
+      "RNDIS Support",
+      "Yes<br />System Requirement: Windows XP/7/8/10/11"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Mobile Wi-Fi M70050.4m USB-C Cable<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8/7/vista/XP, Mac OS, Android, iOS, Windows Phone"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~35℃ (32℉ ~95℉)<br />Storage Temperature: -20℃~60℃ (-4℉ ~140℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Wi-Fi Di Động 4G LTE</p><p>Wi-Fi Di Động 4G LTE</p>",
+  "attrs": [
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Wi-Fi Di Động 4G LTE Wi-Fi Di Động 4G LTE",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

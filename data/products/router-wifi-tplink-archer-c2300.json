@@ -1,0 +1,180 @@
+{
+  "slug": "router-wifi-tplink-archer-c2300",
+  "name": "Router Wi-Fi MU-MIMO Gigabit AC2300 TP-Link Archer C2300",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer C2300",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-c2300/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi MU-MIMO Gigabit AC2300",
+    "The AC2300 Wireless MU-MIMO Gigabit Router is the most accepted 802.11ac router in the market, providing great coverage and good Wi-Fi speed at a very competitive price.",
+    "Standards and Protocols: Wi-Fi 5; IEEE 802.11ac/n/a 5 GHz; IEEE 802.11n/b/g 2.4 GHz",
+    "WiFi Speeds: AC23005 GHz: 1733 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)",
+    "WiFi Range: 3 Bedroom Houses; 4× Fixed High-Performance Antennas (External and Internal)Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Medium; Dual-Band; Allocate devices to different bands for optimal performance; 4×4 MU-MIMO; Simultaneously communicates with multiple MU-MIMO clients; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer C2300"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 5<br />IEEE 802.11ac/n/a 5 GHz<br />IEEE 802.11n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AC23005 GHz: 1733 Mbps (802.11ac)2.4 GHz: 600 Mbps (802.11n)"
+    ],
+    [
+      "WiFi Range",
+      "3 Bedroom Houses<br />4× Fixed High-Performance Antennas (External and Internal)Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Medium<br />Dual-Band<br />Allocate devices to different bands for optimal performance<br />4×4 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeCare™ Antivirus<br />Malicious Site Checker<br />Port Intrusion Prevention<br />Infected Device Isolation<br />Notification and Log"
+    ],
+    [
+      "Guest Network",
+      "1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "Dual-Core CPU"
+    ],
+    [
+      "Ethernet Ports",
+      "1× Gigabit WAN Port<br />4× Gigabit LAN Ports"
+    ],
+    [
+      "USB Support",
+      "1× USB 3.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2 A"
+    ],
+    [
+      "Buttons",
+      "Wi-Fi On/Off Button<br />Power On/Off ButtonLED On/Off ButtonWPS Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeCare™"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "HomeCare™ Parental Controls<br />Custom Profiles<br />Content Filtering<br />App BlockURL Filtering<br />Time Limit Time Schedule (Bedtime)Log Insight"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by DeviceHomeCare™ QoSQoS by Application"
+    ],
+    [
+      "Cloud Service",
+      "OTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Virtual Servers<br />Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabled browser"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC: &lt;30dBm(2.4GHz &amp; 5.15GHz~5.25GHz &amp; 5.725GHz~5.825GHz)&lt;24dBm(5.25GHz-5.35GHz &amp; 5.47GHz-5.725 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5<br />GHz:11ac80<br />M MCS9: -64dBm, 11ac80<br />M MCS0: -89d<br />Bm11ac40<br />M MCS9: -68dBm, 11ac40<br />M MCS0: -92d<br />Bm11ac20<br />M MCS8: -72dBm, 11ac20<br />M MCS0: -95d<br />Bm54M: -78dBm, 6M: -96d<br />Bm2.4<br />GHz:11n40<br />M MCS9: -68dBm, 11n40"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.5 × 6.5 × 1.4 in(216 × 164 × 36.8 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer C2300Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi MU-MIMO Gigabit AC2300</p><p>The AC2300 Wireless MU-MIMO Gigabit Router is the most accepted 802.11ac router in the market, providing great coverage and good Wi-Fi speed at a very competitive price.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC2300"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi MU-MIMO Gigabit AC2300 The AC2300 Wireless MU-MIMO Gigabit Router is the most accepted 802.11ac router in the market, providing great coverage and good Wi-Fi speed at a very competitive price.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "ds-2cd2623g1-i-camera-than-tru-2mp",
+  "name": "Camera thân trụ – 2MP Hikvision DS-2CD2623G1-I",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2623G1-I",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png"
+  ],
+  "summary": [
+    "1/2.8″ Progressive Scan CMOS",
+    "1920 ×1080@30fps",
+    "2.8 to 12 mm varifocal lens",
+    "Color: 0.01 Lux @ (F1.2, AGC ON), 0.018 Lux @ (F1.6, AGC ON), 0 Lux with IR",
+    "H.265+, H.265, H.264+, H.264",
+    "Three streams",
+    "120dB WDR",
+    "2 Behavior analyses, and face detection",
+    "BLC/3D DNR/ROI/HLC",
+    "IP67",
+    "Built-in micro SD/SDHC/SDXC card slot, up to 128 GB",
+    "3-Axis adjustment"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2623G1-I"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ],
+    [
+      "Color",
+      "0.01 Lux @ (F1.2, AGC ON), 0.018 Lux @ (F1.6, AGC ON), 0 Lux with IR"
+    ]
+  ],
+  "description_html": "<p>1/2.8″ Progressive Scan CMOS</p><p>1920 ×1080@30fps</p><p>2.8 to 12 mm varifocal lens</p><p>Color: 0.01 Lux @ (F1.2, AGC ON), 0.018 Lux @ (F1.6, AGC ON), 0 Lux with IR</p><p>H.265+, H.265, H.264+, H.264</p><p>Three streams</p><p>120dB WDR</p><p>2 Behavior analyses, and face detection</p><p>BLC/3D DNR/ROI/HLC</p><p>IP67</p><p>Built-in micro SD/SDHC/SDXC card slot, up to 128 GB</p><p>3-Axis adjustment</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.8″ Progressive Scan CMOS 1920 ×1080@30fps 2.8 to 12 mm varifocal lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

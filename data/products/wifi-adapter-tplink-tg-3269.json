@@ -1,0 +1,85 @@
+{
+  "slug": "wifi-adapter-tplink-tg-3269",
+  "name": "Card mạng loại Gigabit PCI TP-Link TG-3269",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "TG-3269",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-tg-3269/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng loại Gigabit PCI",
+    "Card mạng loại Gigabit PCI",
+    "Chuẩn và Giao thức: IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1q, 802.1pCSMA/CD, TCP/IP, PCI Revision 2.1/2.2",
+    "Giao diện: 1 x PCI 32-bit1 x cổng RJ45 10/100/1000Mbps",
+    "Mạng Media: 10; BASE-T: UTP cáp loại 3, 4, 5 (tối đa 100m)EIA / TIA-568 100Ω STP (tối đa 100m)100; BASE-TX: UTP cáp loại 5, 5e (tối đa 100m)EIA / TIA-568 100Ω STP (tối đa 100m)1000",
+    "LED: 1000Mbps Link/Act, 100Mbps Link/Act, 10Mbps Link/Act, Duplex"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TG-3269"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1q, 802.1pCSMA/CD, TCP/IP, PCI Revision 2.1/2.2"
+    ],
+    [
+      "Giao diện",
+      "1 x PCI 32-bit1 x cổng RJ45 10/100/1000Mbps"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP cáp loại 3, 4, 5 (tối đa 100m)EIA / TIA-568 100Ω STP (tối đa 100m)100<br />BASE-TX: UTP cáp loại 5, 5e (tối đa 100m)EIA / TIA-568 100Ω STP (tối đa 100m)1000"
+    ],
+    [
+      "LED",
+      "1000Mbps Link/Act, 100Mbps Link/Act, 10Mbps Link/Act, Duplex"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "10/100/1000Mbps cho chế độ Half-Duplex20/200/2000Mbps cho chế độ Full-Duplex"
+    ],
+    [
+      "Kiểm soát lưu lượng",
+      "IEEE 802.3x kiểm soát lưu lượng (Full-Duplex)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi điệnCD nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Me/NT/2000/XP/Vista/7,Linux/Novell Netware"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng loại Gigabit PCI</p><p>Card mạng loại Gigabit PCI</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng loại Gigabit PCI Card mạng loại Gigabit PCI",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

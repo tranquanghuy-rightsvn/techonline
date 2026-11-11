@@ -1,0 +1,188 @@
+{
+  "slug": "router-wifi-tplink-archer-gx90",
+  "name": "Router Gaming Wi-Fi 6 Băng Tần Kép AX6600 TP-Link Archer GX90",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer GX90",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-gx90/g01.jpg"
+  ],
+  "summary": [
+    "Router Gaming Wi-Fi 6 Băng Tần Kép AX6600",
+    "Armed with WiFi 6 and a boosted gaming band, Archer GX90 delivers unrivaled wireless power to decimate lag.",
+    "Game Accelerator provides unprecedented power so you dominate online.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 4 Bedroom Houses; 8× Detachable High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer GX90"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX66005 GHz: 4804 Mbps (802.11ax, HE160)5 GHz: 1201 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "4 Bedroom Houses<br />8× Detachable High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Very High<br />Tri-Band<br />Allocate devices to different bands for optimal performance<br />4×4 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway Lớp Ứng DụngHomeCare™ Antivirus<br />Malicious Site Checker<br />Phòng chống xâm nhập cổng<br />Cách ly thiết bị bị nhiễm virus<br />Thông báo và Nhật ký"
+    ],
+    [
+      "Guest Network",
+      "2x Mạng khách 5 GHz1x Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "OpenVPNPPTP"
+    ],
+    [
+      "VPN Client",
+      "Open VPN Client<br />PPTP VPN Client<br />L2TP VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU Lõi Tứ 1.5 GHz"
+    ],
+    [
+      "Ethernet Ports",
+      "1x Cổng WAN / LAN 1 × 2.5 Gbps1x Cổng WAN / LAN Gigabit3x Cổng Gigabit LAN"
+    ],
+    [
+      "USB Support",
+      "1 x Cổng USB 3.01 x Cổng USB 2.0Các định dạng phân vùng được hỗ trợ:NTFS, exFAT, HFS +, FAT32Các chức năng được hỗ trợ:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 5 A"
+    ],
+    [
+      "Buttons",
+      "Nút Bật / Tắt Wi-FiNút Bật / Tắt nguồn<br />Nút Bật / Tắt đèn LED<br />Nút WPS<br />Nút reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Game Center",
+      "Game Accelerator<br />Detects and optimizes gaming streams to keep latency as low as possible<br />Game Statistics"
+    ],
+    [
+      "Service Kits",
+      "HomeCare™"
+    ],
+    [
+      "OneMesh™",
+      "OneMesh™ Supported"
+    ],
+    [
+      "Parental Controls",
+      "HomeCare™ Parental Controls<br />Custom Profiles<br />Content Filtering<br />App BlockURL Filtering<br />Time Limit Time Schedule (Bedtime)Log Insight"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "Game Accelerator QoS.GeForce NOW™ QoSQoS by DeviceHomeCare™ QoSQoS by Application"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeOTA Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage<br />Check Web Emulator&gt;"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:&lt;20dBm(2.4GHz)&lt;23dBm(5.15GHz~5.35GHz)&lt;30dBm(5.47GHz~5.725GHz)<br />FCC:&lt;30dBm(2.4GHz &amp; 5.15GHz~5.25GHz &amp; 5.725GHz~5.825GHz)&lt;24dBm(5.25GHz-5.35GHz &amp; 5.47GHz-5.725 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "5 GHz-1:11a 6<br />Mbps:-93dBm, 11a 54<br />Mbps:-76d<br />Bm11ac VHT20 MCS0:-92dBm, 11ac VHT20 MCS8:-69d<br />Bm11ac VHT40 MCS0:-90dBm, 11ac VHT40 MCS9:-65d<br />Bm11ac VHT80 MCS0:-87dBm, 11ac VHT80 MCS9:-62d"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "8.3 × 8.3 × 2.0 in(212 × 212 × 51.8 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer GX90Bộ chuyển nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Gaming Wi-Fi 6 Băng Tần Kép AX6600</p><p>Armed with WiFi 6 and a boosted gaming band, Archer GX90 delivers unrivaled wireless power to decimate lag.</p><p>Game Accelerator provides unprecedented power so you dominate online.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX6600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Gaming Wi-Fi 6 Băng Tần Kép AX6600 Armed with WiFi 6 and a boosted gaming band, Archer GX90 delivers unrivaled wireless power to decimate lag. Game Accelerator provides unprecedented power so you dominate online.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

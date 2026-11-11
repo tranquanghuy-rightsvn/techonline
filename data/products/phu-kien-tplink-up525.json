@@ -1,0 +1,64 @@
+{
+  "slug": "phu-kien-tplink-up525",
+  "name": "Bộ Sạc USB 5 Cổng 25W TP-Link UP525",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "UP525",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-up525/g01.jpg"
+  ],
+  "summary": [
+    "Bộ Sạc USB 5 Cổng 25W",
+    "The 5-port USB charger intelligently adjusts charging power according to the device.",
+    "Flexible output ports are made to provide full-speed charging for devices with large batteries.",
+    "Kích thước ( R x D x C ): 3.8x3.8x1.1 in. (96.4x96.4X28.6mm)",
+    "Giao diện ngõ ra: Tối đa tổng cộng: DC5V/5A,Tối đa mỗi cổng: DC5V/2.4A",
+    "Giao diện ngõ vào: AC100-240V"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "UP525"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.8x3.8x1.1 in. (96.4x96.4X28.6mm)"
+    ],
+    [
+      "Giao diện ngõ ra",
+      "Tối đa tổng cộng: DC5V/5A,Tối đa mỗi cổng: DC5V/2.4A"
+    ],
+    [
+      "Giao diện ngõ vào",
+      "AC100-240V"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Cáp cấp nguồn"
+    ]
+  ],
+  "description_html": "<p>Bộ Sạc USB 5 Cổng 25W</p><p>The 5-port USB charger intelligently adjusts charging power according to the device.</p><p>Flexible output ports are made to provide full-speed charging for devices with large batteries.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "5 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ Sạc USB 5 Cổng 25W The 5-port USB charger intelligently adjusts charging power according to the device. Flexible output ports are made to provide full-speed charging for devices with large batteries.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

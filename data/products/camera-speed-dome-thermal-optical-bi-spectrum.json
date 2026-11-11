@@ -1,0 +1,53 @@
+{
+  "slug": "camera-speed-dome-thermal-optical-bi-spectrum",
+  "name": "Camera Speed Dome Thermal + Optical Bi-spectrum",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD4035D2550.jpg"
+  ],
+  "summary": [
+    "Smart IR Function",
+    "High-performance IR array, up to 150m IR distance",
+    "Build-in temperature conditioner",
+    "3D DNR, 14 pseudo colorsadjustable, image detail enhancement",
+    "384*288 resolution, hih sensitivity sensor, support contrast adjustment",
+    "24/7 long-distance surveillance, 25mm and 50mm lens optional",
+    "Ultra low light, high performance1/1.8″ progressive CMOS sensor, up to 1920*1080",
+    "360° endless pan range and -15°-90° tilt range",
+    "Up to240°/s pan preset speed and 200° /s tilt preset speed",
+    "8 patrols, up to 32 presets per patrol",
+    "Support proportional zoom and park action"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ]
+  ],
+  "description_html": "<p>Smart IR Function</p><p>High-performance IR array, up to 150m IR distance</p><p>Build-in temperature conditioner</p><p>3D DNR, 14 pseudo colorsadjustable, image detail enhancement</p><p>384*288 resolution, hih sensitivity sensor, support contrast adjustment</p><p>24/7 long-distance surveillance, 25mm and 50mm lens optional</p><p>Ultra low light, high performance1/1.8″ progressive CMOS sensor, up to 1920*1080</p><p>360° endless pan range and -15°-90° tilt range</p><p>Up to240°/s pan preset speed and 200° /s tilt preset speed</p><p>8 patrols, up to 32 presets per patrol</p><p>Support proportional zoom and park action</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Smart IR Function High-performance IR array, up to 150m IR distance Build-in temperature conditioner",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

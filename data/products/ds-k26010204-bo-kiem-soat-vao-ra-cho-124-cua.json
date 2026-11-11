@@ -1,0 +1,50 @@
+{
+  "slug": "ds-k26010204-bo-kiem-soat-vao-ra-cho-124-cua",
+  "name": "Bộ kiểm soát vào ra cho 1/2/4 cửa Hikvision DS-K2601/02/04",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K2601/02/04",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/11/DS-K260x-500x500.png"
+  ],
+  "summary": [
+    "– Bộ kiểm soát vào ra cho 1/2/4 cửa – Hỗ trợ 2 đầu đọc (DS-K2601) hoặc 4 đầu đọc Weigand",
+    "2/4/8 đầu đọc RS485",
+    "4 cổng Alarm input, 1/2/4 cửa từ, 1/2/4 Door Switch, 2/4/8 case input, 1 tamper-proof chống cậy phá – Output: 1/2/4 tiếp điểm cửa",
+    "1/2/4 cổng báo động dạng tiếp điểm – Kết nối mạng qua giao thức TCP/IP, có cổng RS-485 – Lưu trữ đến 100.000 thẻ và 300.000 nhật ký quẹt thẻ"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K2601/02/04"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>– Bộ kiểm soát vào ra cho 1/2/4 cửa – Hỗ trợ 2 đầu đọc (DS-K2601) hoặc 4 đầu đọc Weigand</p><p>2/4/8 đầu đọc RS485</p><p>4 cổng Alarm input, 1/2/4 cửa từ, 1/2/4 Door Switch, 2/4/8 case input, 1 tamper-proof chống cậy phá – Output: 1/2/4 tiếp điểm cửa</p><p>1/2/4 cổng báo động dạng tiếp điểm – Kết nối mạng qua giao thức TCP/IP, có cổng RS-485 – Lưu trữ đến 100.000 thẻ và 300.000 nhật ký quẹt thẻ</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Bộ kiểm soát vào ra cho 1/2/4 cửa – Hỗ trợ 2 đầu đọc (DS-K2601) hoặc 4 đầu đọc Weigand 2/4/8 đầu đọc RS485 4 cổng Alarm input, 1/2/4 cửa từ, 1/2/4 Door Switch, 2/4/8 case input, 1 tamper-proof chống cậy phá – Output: 1/2/4 tiếp điểm cửa",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

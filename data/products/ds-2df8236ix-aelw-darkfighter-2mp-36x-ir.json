@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2df8236ix-aelw-darkfighter-2mp-36x-ir",
+  "name": "PTZ Camera Darkfighter 2MP 36X IR Hikvision DS-2DF8236IX-AEL(W)",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DF8236IX-AEL(W)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8436IX-AELW-500x500.jpg"
+  ],
+  "summary": [
+    "H.265+/H.265/H.264+/H.264",
+    "ultra-low illumination technology",
+    "1/1.9” HD CMOS sensor",
+    "1920*1080P Full HD, 36X Optical Zoom",
+    "Smart features (smart tracking, etc), optical defog",
+    "120dB WDR",
+    "200m IR distance",
+    "Wiper for self-cleaning(-W)",
+    "Vandal-proof (IK10)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DF8236IX-AEL(W)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>H.265+/H.265/H.264+/H.264</p><p>ultra-low illumination technology</p><p>1/1.9” HD CMOS sensor</p><p>1920*1080P Full HD, 36X Optical Zoom</p><p>Smart features (smart tracking, etc), optical defog</p><p>120dB WDR</p><p>200m IR distance</p><p>Wiper for self-cleaning(-W)</p><p>Vandal-proof (IK10)</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.265+/H.265/H.264+/H.264 ultra-low illumination technology 1/1.9” HD CMOS sensor",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

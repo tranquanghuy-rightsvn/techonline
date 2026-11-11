@@ -1,0 +1,47 @@
+{
+  "slug": "ds-1006ki-network-keyboard",
+  "name": "Phụ kiện Hikvision DS-1006KI Network Keyboard",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-1006KI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-1006KI-500x500.jpg"
+  ],
+  "summary": [
+    "128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC) and Matrix Access Gateway (VAG) by RS-422 serial port, and shortcut operation of camera/camera groups switch on video wall Connectable to DVR by RS-485 serial port, and operation of front panel buttons Connectable to dome by RS-485 serial port and realize PTZ control and picture capture by joystick operation 16 user accounts management: 1 admin and 15 operators System upgrade and import / export of configuration files by USB-flash disk"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-1006KI"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC) and Matrix Access Gateway (VAG) by RS-422 serial port, and shortcut operation of camera/camera groups switch on video wall Connectable to DVR by RS-485 serial port, and operation of front panel buttons Connectable to dome by RS-485 serial port and realize PTZ control and picture capture by joystick operation 16 user accounts management: 1 admin and 15 operators System upgrade and import / export of configuration files by USB-flash disk</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "128 x 64 screen 4-axis joystick Connectable to the Multi-functional Video Center (MVC) and Matrix Access Gateway (VAG) by RS-422 serial port, and shortcut operation of camera/camera groups switch on video wall Connectable to DVR by RS-485 serial port, and operation of front panel buttons…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

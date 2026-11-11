@@ -1,0 +1,52 @@
+{
+  "slug": "ds-7600ni-e1a-one-nvr",
+  "name": "Đầu ghi hình Hikvision DS-7600NI-E1/A All-in-One NVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7600NI-E1/A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-7600NI-E1-A-c-500x500.jpg"
+  ],
+  "summary": [
+    "Advertising files import and preview",
+    "The output resolution of LCD is up to 1080P",
+    "Third-party network cameras supported",
+    "Up to 8-ch synchronous playback at 720P resolution",
+    "Up to 8 network cameras can be connected",
+    "Smart search and smart playback"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7600NI-E1/A"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>Advertising files import and preview</p><p>The output resolution of LCD is up to 1080P</p><p>Third-party network cameras supported</p><p>Up to 8-ch synchronous playback at 720P resolution</p><p>Up to 8 network cameras can be connected</p><p>Smart search and smart playback</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Advertising files import and preview The output resolution of LCD is up to 1080P Third-party network cameras supported",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

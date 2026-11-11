@@ -1,0 +1,58 @@
+{
+  "slug": "camera-ip-2mp-hikvision-ds-2cd1t23g3-liu",
+  "name": "Camera IP 2MP Hikvision DS-2CD1T23G3-LIU",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD1T23G3-LIU",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T23G3-LIU.jpg"
+  ],
+  "summary": [
+    "– Độ phân giải 2MP Full HD 1920 × 1080.",
+    "– Motion Detection 3.0 phân loại người, phương tiện.",
+    "– Smart Hybrid Light 3.0, chiếu sáng xa đến 50m.",
+    "– Tích hợp micro, hỗ trợ giám sát âm thanh.",
+    "– Hỗ trợ PoE, đơn giản hóa việc đi dây.",
+    "– Nén H.265+, tiết kiệm băng thông lưu trữ.",
+    "– Chuẩn IP67, phù hợp lắp đặt trong nhà, ngoài trời."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD1T23G3-LIU"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>– Độ phân giải 2MP Full HD 1920 × 1080.</p><p>– Motion Detection 3.0 phân loại người, phương tiện.</p><p>– Smart Hybrid Light 3.0, chiếu sáng xa đến 50m.</p><p>– Tích hợp micro, hỗ trợ giám sát âm thanh.</p><p>– Hỗ trợ PoE, đơn giản hóa việc đi dây.</p><p>– Nén H.265+, tiết kiệm băng thông lưu trữ.</p><p>– Chuẩn IP67, phù hợp lắp đặt trong nhà, ngoài trời.</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Độ phân giải 2MP Full HD 1920 × 1080. – Motion Detection 3.0 phân loại người, phương tiện. – Smart Hybrid Light 3.0, chiếu sáng xa đến 50m.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

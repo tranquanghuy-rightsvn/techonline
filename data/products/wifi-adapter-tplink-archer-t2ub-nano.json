@@ -1,0 +1,104 @@
+{
+  "slug": "wifi-adapter-tplink-archer-t2ub-nano",
+  "name": "USB Wi-Fi AC600 & Bluetooth 4.2 Nano TP-Link Archer T2UB Nano",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer T2UB Nano",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-archer-t2ub-nano/g01.png"
+  ],
+  "summary": [
+    "USB Wi-Fi AC600 & Bluetooth 4.2 Nano",
+    "Bộ Chuyển Đổi USB Wi-Fi Nano Bluetooth 4.2 AC600",
+    "Giao diện: USB 2.0",
+    "Kích thước ( R x D x C ): 15.7*7.4*19.2mm",
+    "Ăng ten: Đẳng Hướng",
+    "Chuẩn Wi-Fi: IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer T2UB Nano"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "USB 2.0"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "15.7*7.4*19.2mm"
+    ],
+    [
+      "Ăng ten",
+      "Đẳng Hướng"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "5GHz2.4GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "5<br />GHz11ac: Lên tới 433Mbps(động)11n: Lên tới 150Mbps(động)11a: Lên tới 54Mbps(động)2.4<br />GHz11n: Lên tới 200Mbps(động)11g: Lên tới 54Mbps(động)11b: Lên tới 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 6<br />Mbps: -90d<br />Bm11a 54<br />Mbps: -73d<br />Bm11n HT20 MCS0: -89d<br />Bm11n HT20 MCS7: -70d<br />Bm11n HT40 MCS0: -86d<br />Bm11n HT40 MCS7: -67d<br />Bm11ac VHT80 MCS0: -82d<br />Bm11ac VHT80 MCS9: -56d<br />Bm2.4<br />GHz:11b 1"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Chế Độ Ad-Hoc / Infrastructure"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Tiêu chuẩn mã hóa WPA/WPA2/WPA3"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi USB Wi-Fi Nano Bluetooth 4.2 AC600 Archer T2<br />UBCD nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "WiFi: Win 11/10/8.1/8/7<br />Bluetooth: Win 11/10/8.1/7"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>USB Wi-Fi AC600 &amp; Bluetooth 4.2 Nano</p><p>Bộ Chuyển Đổi USB Wi-Fi Nano Bluetooth 4.2 AC600</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC600"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "USB Wi-Fi AC600 & Bluetooth 4.2 Nano Bộ Chuyển Đổi USB Wi-Fi Nano Bluetooth 4.2 AC600",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

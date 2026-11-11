@@ -1,0 +1,53 @@
+{
+  "slug": "sh-ip1005",
+  "name": "SH-IP1005 Bàn điều khiển (USB)",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "SH-IP1005",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/11/SH-IP1005-500x500.png"
+  ],
+  "summary": [
+    "Power supply and communication by USB port directly",
+    "3D PTZ control and 2 joystick control buttons",
+    "Up to 15 programmable buttons are available",
+    "Support digital tube to display the input content",
+    "Support indicators to show the operation status of keyboard",
+    "Compatible with a various kinds of client software and platform software",
+    "Support USB HID protocol."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SH-IP1005"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Power supply and communication by USB port directly</p><p>3D PTZ control and 2 joystick control buttons</p><p>Up to 15 programmable buttons are available</p><p>Support digital tube to display the input content</p><p>Support indicators to show the operation status of keyboard</p><p>Compatible with a various kinds of client software and platform software</p><p>Support USB HID protocol.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Power supply and communication by USB port directly 3D PTZ control and 2 joystick control buttons Up to 15 programmable buttons are available",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

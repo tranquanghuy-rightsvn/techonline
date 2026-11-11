@@ -1,0 +1,133 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-wbs210",
+  "name": "2.4GHz 300Mbps Outdoor Wireless Base Station TP-Link WBS210",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "WBS210",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-wbs210/g01.jpg"
+  ],
+  "summary": [
+    "2.4GHz 300Mbps Outdoor Wireless Base Station",
+    "2.4GHz 300Mbps Outdoor Wireless Base Station",
+    "Bộ xử lý: Qualcomm Atheros Enterprise 560MHz CPU, MIPS 74Kc",
+    "Bộ nhớ: 64MB DDR2 RAM, 8MB Flash",
+    "Giao diện: 1 10/100Mbps Shielded Ethernet Port (LAN0/POE)1 10/100Mbps Shielded Ethernet Port (LAN1)2 RP-SMA1 Grounding Terminal1 Reset Button",
+    "Bộ cấp nguồn: Passive Power over Ethernet via LAN0 (+4,5pins; -7,8pins); Voltage range: 16-27; VDC"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "WBS210"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Bộ xử lý",
+      "Qualcomm Atheros Enterprise 560MHz CPU, MIPS 74Kc"
+    ],
+    [
+      "Bộ nhớ",
+      "64MB DDR2 RAM, 8MB Flash"
+    ],
+    [
+      "Giao diện",
+      "1 10/100Mbps Shielded Ethernet Port (LAN0/POE)1 10/100Mbps Shielded Ethernet Port (LAN1)2 RP-SMA1 Grounding Terminal1 Reset Button"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Passive Power over Ethernet via LAN0 (+4,5pins; -7,8pins)<br />Voltage range: 16-27<br />VDC"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "198 x 74 x 40 mm"
+    ],
+    [
+      "Bảo vệ",
+      "15KV ESD Protection6KV Lightning Protection"
+    ],
+    [
+      "Enclosure",
+      "Outdoor ASA stabilized plastic materialIP65 water and dust proof Certification"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n"
+    ],
+    [
+      "Proprietary Protocol",
+      "TDMA Mode (with Pharos MAXtream enabled)"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "Up to 300Mbps (40MHz,Dynamic)Up to 144.4Mbps (20MHz,Dynamic)Up to 72.2Mbps (10MHz,Dynamic)Up to 36.1Mbps (5MHz,Dynamic)"
+    ],
+    [
+      "Băng tần",
+      "2.4~2.483<br />GHz<br />Note: Available operating frequency may vary depending on the limitation of the contries or regions in which the device is used."
+    ],
+    [
+      "Công suất truyền tải",
+      "27dBm/500mW (Adjustable power by 1dBm)<br />Note: Maximum transmission power may vary across different channels depending on the limitations of the countries or regions in which the device is used."
+    ],
+    [
+      "Operating Modes",
+      "AP / Client / Bridge /RepeaterAP Router Mode / AP Client Router(WISP Client) Mode"
+    ],
+    [
+      "Cấu hình mạng",
+      "WAN: Static/Dynamic/PPPoE/L2<br />TP/PPTPLAN: Static/Dynamic/Dynamic/DHCP<br />Forwarding: DMZ/ALG/UPnP/Virtual Server/Port Trigger<br />Security: SPI Firewall/Ping Forbidden/VPN/DOS Protection<br />Access Control"
+    ],
+    [
+      "Cấu hình Wi-Fi",
+      "Pharos MAXtream TDMA Technology802.11b/g/n Modes<br />Selectable Channel Width: 5/10/20/40MHzAutomatic Channel Selection<br />Transmission Power Control<br />Dynamic Frequency Selection (DFS)<br />WDS Enable/Disable"
+    ],
+    [
+      "Quản lý",
+      "Discovery and Remote Management via Pharos Control applicationHTTP/HTTPS Web-based management<br />System LogSNMP Agent(v2c)Ping Watch DogDynamic DDNSSSH Server"
+    ],
+    [
+      "Công cụ hệ thống",
+      "Wireless Signal Quality Indicators:Signal Strength/Noise/Transmit CCQ/CPU/Memory<br />Monitors: Throughput/Stations/Interfaces/ARP/Routes/WAN/DHCP<br />Spectrum Analyzer<br />Speed Test<br />Ping<br />Traceroute"
+    ],
+    [
+      "System-level Optimizations",
+      "802.11b/g/n Tx beamforming technology<br />Optimized IGMP Snooping/Proxy for multicast applications<br />Hardware watch dog"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS, IP65"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Outdoor Wireless Base Station24V 1.0A Passive PoE Adapter<br />Pole Mounting KitAC Power Cord<br />Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 10, Windows 8, Windows 7, MAC OS, NetWare,"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: -40℃~70℃ (-40℉~158℉)<br />Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~95% non-condensing"
+    ]
+  ],
+  "description_html": "<p>2.4GHz 300Mbps Outdoor Wireless Base Station</p><p>2.4GHz 300Mbps Outdoor Wireless Base Station</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2.4GHz 300Mbps Outdoor Wireless Base Station 2.4GHz 300Mbps Outdoor Wireless Base Station",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

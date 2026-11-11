@@ -1,0 +1,51 @@
+{
+  "slug": "nguon-elg-150-48a",
+  "name": "Nguồn ELG-150-48A",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "ELG-150-48A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/03/ELG-150-48A-500x500.jpg"
+  ],
+  "summary": [
+    "ELG-150-48A ·Constant Voltage + Constant Current mode output ·Metal housing design with functional Ground ·Built-in active PFC function ·No load / Standby power consumption <0.5W ·IP67 / IP65 rating for indoor or outdoor installations ·Function options: output adjustable via potentiometer",
+    "3 in 1 dimming (dim-to-off}",
+    "Smart timer dimming",
+    "DALI",
+    "Auxiliary DC output ·Typical lifetime>50000 hours ·5 years warranty"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "ELG-150-48A"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>ELG-150-48A ·Constant Voltage + Constant Current mode output ·Metal housing design with functional Ground ·Built-in active PFC function ·No load / Standby power consumption &lt;0.5W ·IP67 / IP65 rating for indoor or outdoor installations ·Function options: output adjustable via potentiometer</p><p>3 in 1 dimming (dim-to-off}</p><p>Smart timer dimming</p><p>DALI</p><p>Auxiliary DC output ·Typical lifetime&gt;50000 hours ·5 years warranty</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "ELG-150-48A ·Constant Voltage + Constant Current mode output ·Metal housing design with functional Ground ·Built-in active PFC function ·No load / Standby power consumption <0.5W ·IP67 / IP65 rating for indoor or outdoor installations ·Function options: output adjustable via potentiometer 3 in 1…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

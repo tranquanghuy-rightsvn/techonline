@@ -1,0 +1,81 @@
+{
+  "slug": "phu-kien-tplink-eh310",
+  "name": "Bộ chia mạng Gigabit 1 ra 3 TP-Link EH310",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "EH310",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-eh310/g01.jpg"
+  ],
+  "summary": [
+    "Bộ chia mạng Gigabit 1 ra 3",
+    "TP-Link, Bộ chia mạng Gigabit 1 ra 3, tốc độ 1000 Mbps, Cắm và Chạy, Nhỏ gọn, Trọng lượng nhẹ",
+    "Indicator LED: 1× Power; 4× Gigabit Ethernet Ports",
+    "Case: Aluminum Alloy Case",
+    "Ethernet Ports: 4× 10/100/1000 Mbps RJ45 Ports(Auto-Negotiation, Auto MDI/MDIX, Half and Full Duplex)",
+    "Power: USB-C, 5; VDC / 0.3A"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "EH310"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Indicator LED",
+      "1× Power<br />4× Gigabit Ethernet Ports"
+    ],
+    [
+      "Case",
+      "Aluminum Alloy Case"
+    ],
+    [
+      "Ethernet Ports",
+      "4× 10/100/1000 Mbps RJ45 Ports(Auto-Negotiation, Auto MDI/MDIX, Half and Full Duplex)"
+    ],
+    [
+      "Power",
+      "USB-C, 5<br />VDC / 0.3A"
+    ],
+    [
+      "Compatibility",
+      "Devices: Hubs, switches, routers, computers, and more.Cables: Cat 8, Cat 7, Cat 6, Cat 5e, Cat 5"
+    ],
+    [
+      "Product Dimensions",
+      "2.63×1.83×0.72 in (66.68×46.6×18.3 mm)"
+    ],
+    [
+      "Package Content",
+      "1× Ethernet Splitter (EH310)<br />1× USB Power Cable<br />1× Cat 5e Ethernet Cable<br />Quick Installation Guide"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, BSMI"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~40°C (32°F~104°F)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Bộ chia mạng Gigabit 1 ra 3</p><p>TP-Link, Bộ chia mạng Gigabit 1 ra 3, tốc độ 1000 Mbps, Cắm và Chạy, Nhỏ gọn, Trọng lượng nhẹ</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ chia mạng Gigabit 1 ra 3 TP-Link, Bộ chia mạng Gigabit 1 ra 3, tốc độ 1000 Mbps, Cắm và Chạy, Nhỏ gọn, Trọng lượng nhẹ",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

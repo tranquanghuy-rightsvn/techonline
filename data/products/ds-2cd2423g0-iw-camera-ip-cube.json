@@ -1,0 +1,63 @@
+{
+  "slug": "ds-2cd2423g0-iw-camera-ip-cube",
+  "name": "Camera IP Cube Hikvision DS-2CD2423G0-IW",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2423G0-IW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2019/03/form-up-sp__10696_zoom-500x500.png"
+  ],
+  "summary": [
+    "1920 × ‍1080@30fps",
+    "IR: 10 m",
+    "PIR: 10m",
+    "H.265, H.265+",
+    "120dB WDR",
+    "Built-in Micro SD/SDHC/SDXC slot, up to 128 GB",
+    "PoE",
+    "EXIR",
+    "Wi-Fi (Optional)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2423G0-IW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "IR",
+      "10 m"
+    ],
+    [
+      "PIR",
+      "10m"
+    ]
+  ],
+  "description_html": "<p>1920 × ‍1080@30fps</p><p>IR: 10 m</p><p>PIR: 10m</p><p>H.265, H.265+</p><p>120dB WDR</p><p>Built-in Micro SD/SDHC/SDXC slot, up to 128 GB</p><p>PoE</p><p>EXIR</p><p>Wi-Fi (Optional)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1920 × ‍1080@30fps IR: 10 m PIR: 10m",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

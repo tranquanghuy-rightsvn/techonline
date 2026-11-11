@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2df8836iv-aelw-camera-quay-quet-4k-36x-ir",
+  "name": "PTZ Camera 4K Ultra HD resolution 36X Optical zoom Hikvision DS-2DF8836IV-AELW",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DF8836IV-AELW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8836IV-AELW-1-500x500.jpg"
+  ],
+  "summary": [
+    "8MP ultra-HD resolution, 36X Optical Zoom",
+    "Smart features (smart tracking, etc)",
+    "200m IR distance",
+    "Wiper for self-cleaning",
+    "Vandal-proof (IK10)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DF8836IV-AELW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>8MP ultra-HD resolution, 36X Optical Zoom</p><p>Smart features (smart tracking, etc)</p><p>200m IR distance</p><p>Wiper for self-cleaning</p><p>Vandal-proof (IK10)</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8MP ultra-HD resolution, 36X Optical Zoom Smart features (smart tracking, etc) 200m IR distance",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

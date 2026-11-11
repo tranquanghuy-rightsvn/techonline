@@ -1,0 +1,50 @@
+{
+  "slug": "nvr-embedded-entry-level-h265-4k-1u-poe",
+  "name": "Đầu ghi hình IP Hikvision NVR Embedded entry level H265+ 4K 1U PoE",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/10/DS-7616NI-K2-500x500.png"
+  ],
+  "summary": [
+    "Third-party network cameras supported",
+    "Up to 8 Megapixels resolution recording",
+    "Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+    "4-ch network cameras can be connected with 40M/60M/80M incoming bandwidth",
+    "Support dual-os to ensure high reliablility of system running",
+    "Plug & Play with up to 4 independent PoE network interfaces",
+    "Support various VCA detection alarm and VCA search",
+    "Support H.265/H.264/MPEG4 video formats"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>Third-party network cameras supported</p><p>Up to 8 Megapixels resolution recording</p><p>Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution</p><p>4-ch network cameras can be connected with 40M/60M/80M incoming bandwidth</p><p>Support dual-os to ensure high reliablility of system running</p><p>Plug &amp; Play with up to 4 independent PoE network interfaces</p><p>Support various VCA detection alarm and VCA search</p><p>Support H.265/H.264/MPEG4 video formats</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Third-party network cameras supported Up to 8 Megapixels resolution recording Support 1-ch HDMI, 1-ch VGA, HMDI at up to 4K(3840×2160) resolution",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

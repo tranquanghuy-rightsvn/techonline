@@ -1,0 +1,53 @@
+{
+  "slug": "ds-963264ni-i8-nvr-embedded-h-265-4k-2u",
+  "name": "Đầu ghi hình IP NVR Embedded H.265+ 4K 2U Hikvision DS-9632/64NI-I8",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-9632/64NI-I8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-963264NII8-1-500x500.jpg"
+  ],
+  "summary": [
+    "320 Mbps Bit Rate Input Max(up to 32/64-ch IP cameras input)",
+    "Third-party network cameras supported",
+    "Up to 12MP resolution recording",
+    "Support H.265+/H.265/H.264/MPEG4 video formats",
+    "2-ch HDMI and 2-ch VGA outputs interfaces provided, HDMI1 output at up to 4K resolution",
+    "8 SATA,HDD hot swapping, 1 eSATA, 2 USB2.0, 1 USB3.0",
+    "Support RAID0,1,5,6,10 *Hot spare working mode"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-9632/64NI-I8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>320 Mbps Bit Rate Input Max(up to 32/64-ch IP cameras input)</p><p>Third-party network cameras supported</p><p>Up to 12MP resolution recording</p><p>Support H.265+/H.265/H.264/MPEG4 video formats</p><p>2-ch HDMI and 2-ch VGA outputs interfaces provided, HDMI1 output at up to 4K resolution</p><p>8 SATA,HDD hot swapping, 1 eSATA, 2 USB2.0, 1 USB3.0</p><p>Support RAID0,1,5,6,10 *Hot spare working mode</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "320 Mbps Bit Rate Input Max(up to 32/64-ch IP cameras input) Third-party network cameras supported Up to 12MP resolution recording",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

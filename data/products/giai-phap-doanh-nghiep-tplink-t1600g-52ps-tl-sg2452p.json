@@ -1,0 +1,156 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1600g-52ps-tl-sg2452p",
+  "name": "Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP TP-Link T1600G-52PS (TL-SG2452P)",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1600G-52PS (TL-SG2452P)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-52ps-tl-sg2452p/g01.jpg"
+  ],
+  "summary": [
+    "Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP",
+    "Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1p, IEEE 802.1x",
+    "Giao diện: 48 cổng RJ45 10/100/1000Mbps (Tự động đàm phán /Tự động MDI/MDIX)4 khe SFP Gigabit",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable (maximum 100m)1000; BASE-X: MMF, SMF",
+    "Số lượng quạt: 3"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1600G-52PS (TL-SG2452P)"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1p, IEEE 802.1x"
+    ],
+    [
+      "Giao diện",
+      "48 cổng RJ45 10/100/1000Mbps (Tự động đàm phán /Tự động MDI/MDIX)4 khe SFP Gigabit"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable (maximum 100m)1000<br />BASE-X: MMF, SMF"
+    ],
+    [
+      "Số lượng quạt",
+      "3"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100~240<br />VAC, 50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "Maximum (PoE on): 470.4W (220V/50Hz)Maximum (PoE off): 46.5W (220V/50Hz)"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Tiêu chuẩn: tuân theo 802.3at/afCổng PoE+ : 48 Cổng<br />Tổng công suất nguồn: 384W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 x 13 x 1.73 in. (440 x 330 x 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "47.57W (110V/60Hz with no PD connected)485.7W (110V/60Hz with 384W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "162.31 BTU/h (with no PD connected)1657.21 BTU/h (with 384W PD connected)"
+    ],
+    [
+      "Bandwidth/Backplane",
+      "104Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "77.4Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "16K"
+    ],
+    [
+      "Khung Jumbo",
+      "9KB"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Hỗ trợ ưu tiên CoS/DSCP theo chuẩn 802.1pHỗ trợ 8 hàng đợi ưu tiên<br />Lập lịch xếp hàng: SP, WRR, SP+WRR<br />Giới hạn tốc độ dựa trên cổng/luồngQoS IPv6VLAN thoại"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP Relay*IGMP Snooping V1/V2/V3802.3ad LACP (Up to 14 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)MAC/Protocol-based VLAN"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP portsIPv6 ACL*"
+    ],
+    [
+      "Bảo mật",
+      "AAA*Port SecurityDHCP SnoopingIP-MAC-Port BindingARP Inspection802.1x and Radius AuthenticationSSH v1/v2<br />SSL v3/TLSv1Broadcast/Multicast/Unknown-unicast Storm Control<br />Dos Defend"
+    ],
+    [
+      "IPv6",
+      "Dual IPv4/IPv6 stack<br />Multicast Listener Discovery (MLD) SnoopingIPv6 neighbor discovery (ND)Path maximum transmission unit (MTU) discovery"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs andTP-LINK private MIBsRMON (1, 2, 3, 9 groups)CPU Monitoring<br />Port Mirroring<br />Firmware Upgrade: TFTP &amp; Web"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1600G-52PSDây điện<br />Hướng dẫn cài đặtCD nguồn<br />Bộ dụng cụ Rackmount<br />Chân đế cao su"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™ or Windows 7, Windows 8, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt Độ Hoạt Động: 0℃~40℃ (32℉~104℉);Nhiệt Độ Lưu Trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP</p><p>Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP</p>",
+  "attrs": [
+    "48 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

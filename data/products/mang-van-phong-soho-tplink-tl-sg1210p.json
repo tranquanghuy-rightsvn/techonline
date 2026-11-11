@@ -1,0 +1,120 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1210p",
+  "name": "Switch để bàn 10 cổng Gigabit với 8 cổng PoE+ TP-Link TL-SG1210P",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1210P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1210p/g01.jpg"
+  ],
+  "summary": [
+    "Switch để bàn 10 cổng Gigabit với 8 cổng PoE+",
+    "Switch để bàn 10 cổng Gigabit với 8 cổng PoE+",
+    "Giao diện: 8 PoE+ 10/100/1000Mbps RJ45 Ports1 10/100/1000Mbps RJ45 Port1 Gigabit SFP Slot",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100; BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000",
+    "Số lượng quạt: Fanless",
+    "Khóa bảo mật vật lý: Yes"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1210P"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8 PoE+ 10/100/1000Mbps RJ45 Ports1 10/100/1000Mbps RJ45 Port1 Gigabit SFP Slot"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)EIA/TIA-568 100Ω STP (maximum 100m)1000"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External Power Adapter(Output: 53.5<br />VDC / 1.31A)"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "14.88 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliantPoE Ports: Port1- Port 8PoE Power Budget: 63W"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "4K"
+    ],
+    [
+      "Khung Jumbo",
+      "16 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "20 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "209 × 126 × 26 mm"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "7.0 W (220/50Hz. no PD connected)77.24 W (220/50Hz. with 63W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "23.87 BTU/h (no PD connected)263.39 BTU/h (with 63W PD connected)"
+    ],
+    [
+      "Advanced Features",
+      "Compatible With IEEE 802.3af/at Compliant PDsEEE802.3x Flow Control802.1p/DSCP QoSIGMP Snooping"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1210P, Power Adapter, Installation Guide"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~40°C (32°F~104°F)<br />Storage Temperature: -40°C~70°C (-40°F~158°F)<br />Operating Humidity: 10% ~ 90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch để bàn 10 cổng Gigabit với 8 cổng PoE+</p><p>Switch để bàn 10 cổng Gigabit với 8 cổng PoE+</p>",
+  "attrs": [
+    "10 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch để bàn 10 cổng Gigabit với 8 cổng PoE+ Switch để bàn 10 cổng Gigabit với 8 cổng PoE+",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

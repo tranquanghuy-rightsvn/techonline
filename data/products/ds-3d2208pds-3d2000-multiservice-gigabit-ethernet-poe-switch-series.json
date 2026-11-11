@@ -1,0 +1,62 @@
+{
+  "slug": "ds-3d2208pds-3d2000-multiservice-gigabit-ethernet-poe-switch-series",
+  "name": "DS-3D2000 Multiservice Gigabit Ethernet PoE Switch Series Hikvision DS-3D2208P",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3D2208P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-3D2208P.jpg"
+  ],
+  "summary": [
+    "Excellent performance",
+    "64Gbps backplane capacity; non-blocking design; video streaming forwarding at full speed",
+    "Gigabit optical-fiber transmission with up to 120Km distance; High security and reliability",
+    "Providing multiple user authentication modes such as 802.1x authentication",
+    "Port-MAC-IP bind",
+    "Special ARP invasion detection to effectively stop ARP cheat; Flexible and various managements",
+    "Adopt cluster technology, support device stacking and use an unified IP address for management",
+    "Multiple management modes such as Console port, Telnet, Web and SNMP; Powerful flow and broadcast management",
+    "Automatically detecting and controlling broadcast storms, monitoring IGMP packets and effectively preventing broadcast packet’s flooding",
+    "Flow control in full-duplex mode or half-duplex mode",
+    "The rate limitation in a minimum step of 64K is supported on the Ethernet port",
+    "IP multicast and QoS; Varied protocols",
+    "802.3af power supply on all ports",
+    "802.3at power supply with the maximum power supply on each port reaching up to 30W",
+    "Configurable power supply priority guarantees, continuous power supply at key network nodes",
+    "Configurable power consumption to save power and users’ cost."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3D2208P"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>Excellent performance</p><p>64Gbps backplane capacity; non-blocking design; video streaming forwarding at full speed</p><p>Gigabit optical-fiber transmission with up to 120Km distance; High security and reliability</p><p>Providing multiple user authentication modes such as 802.1x authentication</p><p>Port-MAC-IP bind</p><p>Special ARP invasion detection to effectively stop ARP cheat; Flexible and various managements</p><p>Adopt cluster technology, support device stacking and use an unified IP address for management</p><p>Multiple management modes such as Console port, Telnet, Web and SNMP; Powerful flow and broadcast management</p><p>Automatically detecting and controlling broadcast storms, monitoring IGMP packets and effectively preventing broadcast packet’s flooding</p><p>Flow control in full-duplex mode or half-duplex mode</p><p>The rate limitation in a minimum step of 64K is supported on the Ethernet port</p><p>IP multicast and QoS; Varied protocols</p><p>802.3af power supply on all ports</p><p>802.3at power supply with the maximum power supply on each port reaching up to 30W</p><p>Configurable power supply priority guarantees, continuous power supply at key network nodes</p><p>Configurable power consumption to save power and users’ cost.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Excellent performance 64Gbps backplane capacity; non-blocking design; video streaming forwarding at full speed Gigabit optical-fiber transmission with up to 120Km distance; High security and reliability",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

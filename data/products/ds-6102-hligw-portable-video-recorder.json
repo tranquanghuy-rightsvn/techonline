@@ -1,0 +1,57 @@
+{
+  "slug": "ds-6102-hligw-portable-video-recorder",
+  "name": "Camera Portable Video Recorder Hikvision DS-6102 HLI/GW",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-6102 HLI/GW",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS6102-HLIGW.jpg"
+  ],
+  "summary": [
+    "H.264 Video Compression",
+    "3.5 inch IPS Touch Screen",
+    "5MP HD Camera",
+    "Up to HD1080p Video Recording",
+    "Up to 32GB Micro SD card recording",
+    "Built-in 3G and GPS module"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-6102 HLI/GW"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ]
+  ],
+  "description_html": "<p>H.264 Video Compression</p><p>3.5 inch IPS Touch Screen</p><p>5MP HD Camera</p><p>Up to HD1080p Video Recording</p><p>Up to 32GB Micro SD card recording</p><p>Built-in 3G and GPS module</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264 Video Compression 3.5 inch IPS Touch Screen 5MP HD Camera",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

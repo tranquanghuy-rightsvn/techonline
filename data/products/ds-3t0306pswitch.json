@@ -1,0 +1,53 @@
+{
+  "slug": "ds-3t0306pswitch",
+  "name": "DS-3T0306PSwitch",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3T0306PSwitch",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2020/03/DS-3T0306P-500x500.jpg"
+  ],
+  "summary": [
+    "DS-3T0306PSwitch  High performance industrial PoE switch.",
+    " DS-3T0306P supports IEEE 802.3AF/AT standard.",
+    " POE port maximum output power 30W (input voltage is greater than 50V).",
+    " Design of redundant dual power input.",
+    " Working environment temperature of no fan -40℃to +75℃.",
+    " The average failure time reached 400 thousand hours.",
+    " IEEE802.3x full duplex, backpressure flow control"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3T0306PSwitch"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ]
+  ],
+  "description_html": "<p>DS-3T0306PSwitch  High performance industrial PoE switch.</p><p> DS-3T0306P supports IEEE 802.3AF/AT standard.</p><p> POE port maximum output power 30W (input voltage is greater than 50V).</p><p> Design of redundant dual power input.</p><p> Working environment temperature of no fan -40℃to +75℃.</p><p> The average failure time reached 400 thousand hours.</p><p> IEEE802.3x full duplex, backpressure flow control</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "DS-3T0306PSwitch  High performance industrial PoE switch.  DS-3T0306P supports IEEE 802.3AF/AT standard.  POE port maximum output power 30W (input voltage is greater than 50V).",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

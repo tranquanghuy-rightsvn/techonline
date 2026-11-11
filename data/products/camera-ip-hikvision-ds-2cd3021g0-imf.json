@@ -1,0 +1,51 @@
+{
+  "slug": "camera-ip-hikvision-ds-2cd3021g0-imf",
+  "name": "Camera IP Hikvision DS-2CD3021G0-IMF",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD3021G0-IMF",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2024/09/DS-2CD3021G0-IMF.png"
+  ],
+  "summary": [
+    "IR: 0 Lux"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD3021G0-IMF"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "IR",
+      "0 Lux"
+    ]
+  ],
+  "description_html": "<p>IR: 0 Lux</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "IR: 0 Lux",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

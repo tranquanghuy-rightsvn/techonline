@@ -1,0 +1,188 @@
+{
+  "slug": "router-wifi-tplink-archer-ax72",
+  "name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX5400 TP-Link Archer AX72",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AX72",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-ax72/g01.png"
+  ],
+  "summary": [
+    "Router Wi-Fi 6 Gigabit Băng Tần Kép AX5400",
+    "Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 băng tần kép Archer AX72.",
+    "Standards and Protocols: Wi-Fi 6; IEEE 802.11ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AX54005 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Nhà 3 phòng ngủ 6 × Ăng-ten hiệu suất cao cố định; Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn; Beamforming",
+    "WiFi Capacity: Cao Băng tần kép; Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu; 4 × 4 MU-MIMO; Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AX72"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 6<br />IEEE 802.11ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AX54005 GHz: 4804 Mbps (802.11ax, HE160)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Nhà 3 phòng ngủ 6 × Ăng-ten hiệu suất cao cố định<br />Nhiều ăng-ten tạo thành một mảng tăng cường tín hiệu để bao phủ nhiều hướng hơn và các khu vực rộng lớn<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Cao Băng tần kép<br />Phân bổ thiết bị cho các băng tần khác nhau để có hiệu suất tối ưu<br />4 × 4 MU-MIMO<br />Giao tiếp đồng thời với nhiều máy khách MU-MIMOOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Chế độ Router<br />Chế độ Điểm Truy Cập"
+    ],
+    [
+      "Network Security",
+      "Tường lửa SPI<br />Kiểm soát truy cập<br />Liên kết IP &amp; MAC<br />Gateway lớp ứng dụng Bảo mật HomeShield Bảo vệ IoT theo thời gian thực<br />Trình chặn trang web độc hại<br />Hệ thống ngăn chặn xâm nhập"
+    ],
+    [
+      "Guest Network",
+      "1x Mạng khách 5 GHz1x Mạng khách 2.4 GHz"
+    ],
+    [
+      "VPN Server",
+      "Không hỗ trợ"
+    ],
+    [
+      "VPN Client",
+      "Không hỗ trợ"
+    ],
+    [
+      "WiFi Encryption",
+      "WPAWPA2WPA3<br />WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Processor",
+      "CPU lõi kép 1 GHz"
+    ],
+    [
+      "Ethernet Ports",
+      "1 x cổng WAN Gigabit4 x cổng LAN Gigabit"
+    ],
+    [
+      "USB Support",
+      "1 x Cổng USB 3.0Các định dạng phân vùng được hỗ trợ:NTFS, exFAT, HFS +, FAT32Các tính năng được hỗ trợ:Apple Time Machine<br />Máy chủ ftp<br />Máy chủ media<br />Máy chủ Samba"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2.5 A"
+    ],
+    [
+      "Buttons",
+      "Nút Bật / Tắt Wi-FiNút Bật / Tắt nguồn<br />Nút Bật / Tắt đèn LED<br />Nút WPS<br />Nút reset"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldTìm hiểu thêm>"
+    ],
+    [
+      "OneMesh™",
+      "Hỗ trợ OneMesh™Không cần thay thế các thiết bị hiện có của bạn hoặc mua một hệ sinh thái WiFi hoàn toàn mới,"
+    ],
+    [
+      "Parental Controls",
+      "Quyền Kiểm Soát của Phụ Huynh HomeShield Cấu hình Tùy chỉnh<br />Thư viện Bộ lọc Nội dung Chuyên nghiệp<br />Thời gian cho gia đình<br />Giờ đi ngủ<br />Giờ tắt<br />Phần thưởng thời gian"
+    ],
+    [
+      "WAN Types",
+      "IP ĐộngIP TĩnhPPPoE"
+    ],
+    [
+      "Quality of Service",
+      "Ưu tiên thiết bị"
+    ],
+    [
+      "Cloud Service",
+      "Tự động cập nhật FirmwareID TP-LinkDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Cổng chuyển tiếp<br />Cổng Kích hoạtDMZUPnPMáy chủ ảo"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Dành riêng địa chỉ<br />Danh sách máy khách DHCP<br />Máy chủ"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Ứng dụng Tether<br />Trang Web"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ hoặc trình duyệt hỗ trợ Java<br />Script khác<br />Cáp hoặc Modem DSL (nếu cần)Đăng ký với nhà cung cấp dịch vụ internet (để truy cập internet)"
+    ],
+    [
+      "Certifications",
+      "FCC, CE"
+    ],
+    [
+      "Environment",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉ ~104℉)Nhiệt độ bảo quản: -40℃~70℃ (-40℉ ~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ],
+    [
+      "WiFi Transmission Power",
+      "CE:<20dBm{2.4GHz}<23dBm{5.15GHz~5.35GHz}<30dBm{5.47GHz~5.725GHz}FCC:<24dBm{5.25GHz~5.35GHz&5.47GHz~5.725GHz }<30dBm{2.4GHz &5.15GHz~5.25GHz&5.725GHz~5.825GHz }"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4<br />GHz:11ac VHT20 MCS0:-94.5d<br />Bm11ac VHT20 MCS8:-72.5d<br />Bm11ac VHT40 MCS0:-92.5d<br />Bm11ac VHT40 MCS9:-69.5d<br />Bm11ax HE20 MCS0:-95d<br />Bm11ax HE20 MCS11:-64.5d<br />Bm11ax HE40 MCS0:-92.5d<br />Bm11ax HE40 MCS11:-62d<br />Bm5"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.7 × 5.8 × 1.9 in(272.5 × 147.2 × 49.2 mm)"
+    ],
+    [
+      "Package Content",
+      "Router Wi-Fi Archer AX72Bộ chuyển đổi nguồn<br />Cáp Ethernet RJ45Hướng dẫn cài đặt nhanh"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6 Gigabit Băng Tần Kép AX5400</p><p>Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 băng tần kép Archer AX72.</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX5400"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX5400 Tận hưởng kết nối Wi-Fi 6 cho mọi thiết bị với router Wi-Fi 6 băng tần kép Archer AX72.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "bo-mo-rong-wifi-tplink-re700x",
+  "name": "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000 TP-Link RE700X",
+  "categories": [
+    "tp-link-thiet-bi-mo-rong-mang"
+  ],
+  "brand": "TP-Link",
+  "sku": "RE700X",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/bo-mo-rong-wifi-tplink-re700x/g01.jpg"
+  ],
+  "summary": [
+    "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000",
+    "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000",
+    "Giao diện: 1 cổng Ethernet Gigabit",
+    "Nút: Nút Reset, WPS",
+    "Input Power: 100-240V~50/60Hz",
+    "Điện năng tiêu thụ: 11.2W"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "RE700X"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 cổng Ethernet Gigabit"
+    ],
+    [
+      "Nút",
+      "Nút Reset, WPS"
+    ],
+    [
+      "Input Power",
+      "100-240V~50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "11.2W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "78*36*149"
+    ],
+    [
+      "Ăng ten",
+      "2 Ăng ten ngầm"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac/ax 5GHz, IEEE 802.11b/g/n/ax 2.4GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz và 5GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "574 Mbps trên băng tần 2.4GHz, 2402 Mbps trên băng tần 5GHz"
+    ],
+    [
+      "Working Modes",
+      "Range Extender / Access Point"
+    ],
+    [
+      "Reception Sensitivity",
+      "5<br />GHz: 11a 6<br />Mbps: -97d<br />Bm11a 54<br />Mbps: -78d<br />Bm11ax HE20 MCS0:-97d<br />Bm11ax HE20 MCS11:-66d<br />Bm11ax HE40 MCS0:-94d<br />Bm11ax HE40 MCS11:-63d<br />Bm11ax HE80 MCS0:-91d<br />Bm11ax HE80 MCS11:-61d"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Bộ Mở Rộng Sóng/ Điểm Truy Cập"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Bật / Tắt Radio không dây, Thống kê không dây"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "WEP, WPA, WPA2, WPA3"
+    ],
+    [
+      "Công suất truyền tải",
+      "CE:<br />2.4 GHz ≤ 16 dBm<br />5 GHz ≤ 21 dBm"
+    ],
+    [
+      "Mesh Technology",
+      "EasyMesh-Compatible"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP<br />App management"
+    ],
+    [
+      "Chứng chỉ",
+      "CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ Mở Rộng Sóng Wi-Fi RE700X Hướng Dẫn Cài Đặt Nhanh"
+    ],
+    [
+      "System Requirements",
+      "Microsoft Windows 98SE, NT, 2000, XP, Vista ™ hoặc Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX hoặc Linux"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Storage Temperature: -40℃~70℃ (-40℉ ~158℉)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000</p><p>Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000</p>",
+  "attrs": [
+    "Wi-Fi 6",
+    "AX3000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000 Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

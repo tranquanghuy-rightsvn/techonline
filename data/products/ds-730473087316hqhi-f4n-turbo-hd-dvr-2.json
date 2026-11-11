@@ -1,0 +1,55 @@
+{
+  "slug": "ds-730473087316hqhi-f4n-turbo-hd-dvr-2",
+  "name": "Đầu ghi hình Hikvision DS-7304/7308/7316HQHI-F4/N Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7304/7308/7316HQHI-F4/N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/08/DS-7304HQHI-F4-N-500x500.png"
+  ],
+  "summary": [
+    "H.264 ,H.264+& Dual-stream video compression",
+    "Support HD-TVI, IPC,AHD and analog cameras with adaptive access",
+    "Support Cloud storage(One Drive, Google Drive or Drop Box)",
+    "Up to 3 MP resolution for recording of the first channel of DS-7304HQHI-F4/N, the first 2 channels of DS-7308HQHI-F4/N, and the first 4 channels of DS-7316HQHI-F4/N",
+    "VGA output at up to 1920×1080P resolution,HDMI output at up to 4K(3840×2160) resolution",
+    "Long transmission distance over coax cable",
+    "Up to 4/8/16-ch synchronous playback at 1080p resolution",
+    "playback at up to 256X speed.",
+    "Support POS functions."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7304/7308/7316HQHI-F4/N"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>H.264 ,H.264+&amp; Dual-stream video compression</p><p>Support HD-TVI, IPC,AHD and analog cameras with adaptive access</p><p>Support Cloud storage(One Drive, Google Drive or Drop Box)</p><p>Up to 3 MP resolution for recording of the first channel of DS-7304HQHI-F4/N, the first 2 channels of DS-7308HQHI-F4/N, and the first 4 channels of DS-7316HQHI-F4/N</p><p>VGA output at up to 1920×1080P resolution,HDMI output at up to 4K(3840×2160) resolution</p><p>Long transmission distance over coax cable</p><p>Up to 4/8/16-ch synchronous playback at 1080p resolution</p><p>playback at up to 256X speed.</p><p>Support POS functions.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264 ,H.264+& Dual-stream video compression Support HD-TVI, IPC,AHD and analog cameras with adaptive access Support Cloud storage(One Drive, Google Drive or Drop Box)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

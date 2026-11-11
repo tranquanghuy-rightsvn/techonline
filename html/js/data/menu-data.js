@@ -32,7 +32,18 @@ const menuData = [
             { label: "Đầu ghi IP KabeVision", href: "/dau-ghi-ip-kabevision/" },
             { label: "Đầu ghi Analog KabeVision", href: "/dau-ghi-analog-kabevision/" },
             { label: "Kiểm soát ra vào KabeVision", href: "/kiem-soat-ra-vao-kabevision/" },
-            { label: "Switch KabeVision", href: "/switch-kabevision/" }
+            { label: "Switch KabeVision", href: "/switch-kabevision/" },
+            { label: "Camera IP Hikvision", href: "/camera-ip-hikvision/" },
+            { label: "Camera Wifi Hikvision", href: "/camera-wifi-hikvision/" },
+            { label: "Camera Analog Hikvision", href: "/camera-analog-hikvision/" },
+            { label: "Camera PTZ Hikvision", href: "/camera-ptz-hikvision/" },
+            { label: "Camera chuyên dụng Hikvision", href: "/camera-chuyen-dung-hikvision/" },
+            { label: "Đầu ghi IP Hikvision", href: "/dau-ghi-ip-hikvision/" },
+            { label: "Đầu ghi Analog Hikvision", href: "/dau-ghi-analog-hikvision/" },
+            { label: "Chuông cửa màn hình Hikvision", href: "/chuong-cua-man-hinh-hikvision/" },
+            { label: "Switch Hikvision", href: "/switch-hikvision/" },
+            { label: "Phụ kiện Hikvision", href: "/phu-kien-hikvision/" },
+            { label: "Camera Wifi TP-Link Tapo", href: "/camera-wifi-tp-link-tapo/" }
           ]
         }
       ]
@@ -101,7 +112,8 @@ const menuData = [
           title: "Chấm công - Kiểm soát cửa",
           items: [
             { label: "Kiểm soát ra vào Dahua", href: "/cham-cong-kiem-soat-ra-vao-dahua/" },
-            { label: "Kiểm soát ra vào KabeVision", href: "/cham-cong-kiem-soat-ra-vao-kabevision/" }
+            { label: "Kiểm soát ra vào KabeVision", href: "/cham-cong-kiem-soat-ra-vao-kabevision/" },
+            { label: "Kiểm soát ra vào Hikvision", href: "/cham-cong-kiem-soat-ra-vao-hikvision/" }
           ]
         }
       ]
@@ -139,7 +151,8 @@ const menuData = [
             { label: "Báo cháy có dây", href: "/bao-chay-co-day/" },
             { label: "Hệ thường", href: "/bao-chay-he-thuong/" },
             { label: "Hệ địa chỉ", href: "/bao-chay-he-dia-chi/" },
-            { label: "Camera báo cháy", href: "/bao-chay-camera/" }
+            { label: "Camera báo cháy", href: "/bao-chay-camera/" },
+            { label: "Báo động Hikvision", href: "/bao-dong-hikvision/" }
           ]
         }
       ]

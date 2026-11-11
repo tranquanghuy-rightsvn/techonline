@@ -1,0 +1,52 @@
+{
+  "slug": "ds-670816hqhi-sata-hd1080p-encoder",
+  "name": "Phụ kiện HD1080P Encoder Hikvision DS-670816HQHI",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-670816HQHI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS670816HQHISATA-1-500x480.jpg"
+  ],
+  "summary": [
+    "H.264/MPEG4/MPEG2/MJPEG encoding standards supported",
+    "Up to 1080P real-time encoding",
+    "2SATA interfaces supported",
+    "Connectable with network HDD in NAS, ISCSI, IPSAN mode",
+    "VCA detection alarm",
+    "PTZ control over coax"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-670816HQHI"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ]
+  ],
+  "description_html": "<p>H.264/MPEG4/MPEG2/MJPEG encoding standards supported</p><p>Up to 1080P real-time encoding</p><p>2SATA interfaces supported</p><p>Connectable with network HDD in NAS, ISCSI, IPSAN mode</p><p>VCA detection alarm</p><p>PTZ control over coax</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.264/MPEG4/MPEG2/MJPEG encoding standards supported Up to 1080P real-time encoding 2SATA interfaces supported",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "wifi-di-dong-tplink-m7200",
+  "name": "Wi-Fi Di động 4G LTE TP-Link M7200",
+  "categories": [
+    "tp-link-wi-fi-di-dong"
+  ],
+  "brand": "TP-Link",
+  "sku": "M7200",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-di-dong-tplink-m7200/g01.jpg"
+  ],
+  "summary": [
+    "Wi-Fi Di động 4G LTE",
+    "This MiFi router uses 4G FDD/TDD-LTE, providing WiFi globally.",
+    "Enjoy HD video, fast file downloads, and stable video chats wherever.",
+    "Easily share your 4G/3G with up to 10 devices."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "M7200"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "1 cổng micro USB để cấp nguồn1 khe cắm thẻ SIM"
+    ],
+    [
+      "Nút",
+      "Nguồn Mở/Tắt"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "Pin sạc 2000mAh"
+    ],
+    [
+      "Dạng mạng",
+      "4G: FDD-LTE B1/B3/B7/B8/B20 (2100/1800/2600/900/800MHz)TDD-LTE B38/B40/B41 (2600/2300/2500MHz)3G: DC-HSPA+/HSPA+/HSPA/UMTS B1/B8 (2100/900MHz)"
+    ],
+    [
+      "Tốc độ dữ liệu",
+      "DL: 150Mbps, UL: 50Mbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "3.7×2.2×0.8 in. (94×56.7×19.8mm)"
+    ],
+    [
+      "Ăng ten",
+      "Ăng ten ngầm"
+    ],
+    [
+      "Hiển thị LED",
+      "Trạng thái Wi-Fi, Trạng thái kết nối Internet, Trạng thái Pin"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11b/g/n"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "300Mbps"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ WPA-PSK/WPA2-PSK, Lọc địa chỉ MAC Wi-Fi"
+    ],
+    [
+      "DHCP",
+      "Máy chủ DHCP, Danh sách máy khách DHCP"
+    ],
+    [
+      "Công suất truyền tải",
+      "2.4G ≤ 20dbm"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Wi-Fi Di động 4G LTE M7200Cáp USB Micro<br />Pin sạc 2000mAhHướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Windows 10/8/7/vista/XP, Mac OS, Android, iOS, Windows Phone"
+    ]
+  ],
+  "description_html": "<p>Wi-Fi Di động 4G LTE</p><p>This MiFi router uses 4G FDD/TDD-LTE, providing WiFi globally.</p><p>Enjoy HD video, fast file downloads, and stable video chats wherever.</p><p>Easily share your 4G/3G with up to 10 devices.</p>",
+  "attrs": [
+    "4G"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Wi-Fi Di động 4G LTE This MiFi router uses 4G FDD/TDD-LTE, providing WiFi globally. Enjoy HD video, fast file downloads, and stable video chats wherever.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

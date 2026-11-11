@@ -1,0 +1,145 @@
+{
+  "slug": "router-modem-tplink-td-w8961n",
+  "name": "300Mbps Wireless N ADSL2+ Modem Router TP-Link TD-W8961N",
+  "categories": [
+    "tp-link-modem-gateway"
+  ],
+  "brand": "TP-Link",
+  "sku": "TD-W8961N",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-modem-tplink-td-w8961n/g01.jpg"
+  ],
+  "summary": [
+    "300Mbps Wireless N ADSL2+ Modem Router",
+    "This 300Mbps Wireless N ADSL2+ modem router reduces configuration hassle.",
+    "Featuring a variety of rich features, TD-W8961N is the perfect space-saving hub for your home or business.",
+    "Giao diện: 4 x cổng RJ45 10/100Mbps1 x cổng RJ11",
+    "Nút: 1 x Nút nguồn Mở/ Tắt1 x Nút WPS1 x Nút Mở/Tắt wifi",
+    "Bộ cấp nguồn bên ngoài (EU): 9; VDC/0.85A"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TD-W8961N"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "4 x cổng RJ45 10/100Mbps1 x cổng RJ11"
+    ],
+    [
+      "Nút",
+      "1 x Nút nguồn Mở/ Tắt1 x Nút WPS1 x Nút Mở/Tắt wifi"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "9<br />VDC/0.85A"
+    ],
+    [
+      "Chuẩn IEEE",
+      "IEEE 802.3, 802.3u"
+    ],
+    [
+      "ADSL Standards",
+      "Full-rate ANSI T1.413 Issue 2,ITU-T G.992.1(G.DMT),ITU-T G.992.2(G.Lite)ITU-T G.994.1 (G.hs),ITU-T G.995.1"
+    ],
+    [
+      "Chuẩn ADSL2",
+      "ITU-T G.992.3 (G.dmt.bis),ITU-T G.992.4 (G.lite.bis)"
+    ],
+    [
+      "Chuẩn ADSL2+",
+      "ITU-T G.992.5"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "7.7 * 5.1 * 1.4 in. (195 * 130 * 35 mm )"
+    ],
+    [
+      "Ăng ten",
+      "Đẳng hướng, Cố định"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "2x5dBi"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "QoS Ghi chú dựa trên IPP / ToS, DSCP và 802.1p"
+    ],
+    [
+      "Advanced Features",
+      "Định dạng lưu lượng (ATM QoS) UBR, CBR, VBR-rt, VBR-nrt;Giao thức Cấu hình Máy chủ Động (DHCP), DHCP relay;Dịch địa chỉ mạng (NAT);Lập bản đồ cổng PVC / EthernetVLAN, 802.1P,Định tuyến tĩnh,"
+    ],
+    [
+      "Bảo mật",
+      "Tường lửa NAT<br />Tường lửa SPIMAC / IP / Gói / Ứng dụng / Lọc URL,Từ chối Dịch vụ (DoS),SYN Flooding,Ping of Death"
+    ],
+    [
+      "Quản lý",
+      "Cấu hình dựa trên web (HTTP), Quản lý từ xa,Quản lí Telnet,Giao diện dòng lệnh,SSL for TR-069,SNMP v1/2c,SNMP qua EOC,Nâng cấp Firmware dựa trên Web,CWMP(TR-069),Công cụ chẩn đoán"
+    ],
+    [
+      "Port Forwarding",
+      "Máy chủ Ảo, DMZ, ACL (Danh sách Kiểm soát Truy cập)"
+    ],
+    [
+      "VPN Pass-Through",
+      "PPTP, L2TP, IPSec Pass-through"
+    ],
+    [
+      "Giao thức ATM/PPP",
+      "ATM Diễn đàn UNI3.1/4.0,PPP trên nền ATM (RFC 2364),PPP trên nền Ethernet (RFC2516),IPoA (RFC1577/2225),PVC – Lên đến 8 PVCs"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11n, 802.11g, 802.11b"
+    ],
+    [
+      "Băng tần",
+      "2.400-2.4835GHz"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ bảo mật 64/128-bit WEP, WPA-PSK/WPA2-PSK, Lọc địa chỉ MAC Wi-Fi"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm(EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TD-W8961NBộ chia ngoài<br />Cáp điện thoại RJ-11Dây cáp Ethernet RJ-45Hướng dẫn cài đặt nhanhCD nguồn<br />Bộ chuyển đổi điện"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ ，Windows 7 hoặc Windows 8, MAC® OS, NetWare®, UNIX® hoặc Linux."
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40 ℃ (32 ℉~104℉)Nhiệt độ lưu trữ: -40℃~70 ℃ (-40 ℉~158℉)Độ ẩm hoạt động: 10%~90% không ngưng tụĐộ ẩm lưu trữ: 5%~90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>300Mbps Wireless N ADSL2+ Modem Router</p><p>This 300Mbps Wireless N ADSL2+ modem router reduces configuration hassle.</p><p>Featuring a variety of rich features, TD-W8961N is the perfect space-saving hub for your home or business.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "300Mbps Wireless N ADSL2+ Modem Router This 300Mbps Wireless N ADSL2+ modem router reduces configuration hassle. Featuring a variety of rich features, TD-W8961N is the perfect space-saving hub for your home or business.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

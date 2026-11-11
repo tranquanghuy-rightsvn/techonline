@@ -1,0 +1,50 @@
+{
+  "slug": "ds-k1t801me-time-attendance-access-control-terminal",
+  "name": "Thiết bị kiểm soát ra vào Time & Attendance and Access Control Terminal Hikvision DS-K1T801M/E",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1T801M/E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T801ME.jpg"
+  ],
+  "summary": [
+    "12 Keys Keyboard and doorbell",
+    "Built-in Mifare/EM Card reading module",
+    "Max. 3000 card number settings",
+    "Supports door-open button"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1T801M/E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>12 Keys Keyboard and doorbell</p><p>Built-in Mifare/EM Card reading module</p><p>Max. 3000 card number settings</p><p>Supports door-open button</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "12 Keys Keyboard and doorbell Built-in Mifare/EM Card reading module Max. 3000 card number settings",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sf1008p",
+  "name": "Switch Để Bàn 8 cổng 10/100Mpbs với 4 cổng PoE+ TP-Link TL-SF1008P",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SF1008P",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sf1008p/g01.jpg"
+  ],
+  "summary": [
+    "Switch Để Bàn 8 cổng 10/100Mpbs với 4 cổng PoE+",
+    "TL-SF1008P là Switch để bàn 8 cổng 10/100Mbps với 4 cổng PoE.",
+    "Chỉ cần cắm và chạy với truyền tải PoE để giám sát lên đến 250 m.",
+    "Tổng nguồn 66 W PoE cho các cổng 4 × PoE mở ra một loạt các ứng dụng, chẳng hạn như giám sát cho văn phòng, ký túc xá và doanh nghiệp nhỏ."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SF1008P"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "8 cổng RJ45 10/100 Mbps (4 cổng PoE+ 10/100 Mbps 802.3af/at)<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Không Quạt"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Có"
+    ],
+    [
+      "Bộ cấp nguồn bên ngoài (EU)",
+      "Bộ chuyển đổi nguồn (Đầu ra: 53.5 V DC / 1.31 A)"
+    ],
+    [
+      "Tốc độ truyền tải gói",
+      "1.1904 Mpps"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Tiêu chuẩn: tuân theo 802.3 af/at<br />Cổng PoE: Cổng 1–4<br />Cấp Nguồn: 66 W"
+    ],
+    [
+      "Bảng địa chỉ Mac",
+      "2K"
+    ],
+    [
+      "Khung Jumbo",
+      "2 KB"
+    ],
+    [
+      "Công suất chuyển",
+      "1.6 Gbps"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.7 × 3.9 × 1.1 in (171 × 98 × 27 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "2.27 W (220 V/ 50 Hz. no PD connected)75.33 W (220 V/ 50 Hz. with 66 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "7.74 BTU/h(no PD connected)256.88 BTU/h(with 66 W PD connected)"
+    ],
+    [
+      "Advanced Features",
+      "Nút Chế Độ Mở Rộng (Cổng 1–4)Nút Chế Độ Ưu Tiên (Cổng 1–2)Nút Tự Động Phục Hồi PoE (Cổng 1–4)Mac Address Auto-Learning and Auto-Aging"
+    ],
+    [
+      "Transmission Method",
+      "Lưu trữ và Chuyển tiếp"
+    ],
+    [
+      "Chứng chỉ",
+      "FCC, CE"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SF1008P, Bộ chuyển đổi nguồn, Hướng dẫn cài đặt, Chân đế cao su"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0–40 ℃ (32–104 ℉)Nhiệt độ lưu trữ: -40–70 ℃ (-40–158 ℉)Độ ẩm hoạt động: 10–90% RH không ngưng tụĐộ ẩm lưu trữ: 5–90% RH không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Switch Để Bàn 8 cổng 10/100Mpbs với 4 cổng PoE+</p><p>TL-SF1008P là Switch để bàn 8 cổng 10/100Mbps với 4 cổng PoE.</p><p>Chỉ cần cắm và chạy với truyền tải PoE để giám sát lên đến 250 m.</p><p>Tổng nguồn 66 W PoE cho các cổng 4 × PoE mở ra một loạt các ứng dụng, chẳng hạn như giám sát cho văn phòng, ký túc xá và doanh nghiệp nhỏ.</p>",
+  "attrs": [
+    "8 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Để Bàn 8 cổng 10/100Mpbs với 4 cổng PoE+ TL-SF1008P là Switch để bàn 8 cổng 10/100Mbps với 4 cổng PoE. Chỉ cần cắm và chạy với truyền tải PoE để giám sát lên đến 250 m.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

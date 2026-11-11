@@ -1,0 +1,57 @@
+{
+  "slug": "ds-3e1318p-ei",
+  "name": "Switch Hikvision DS-3E1318P-EI",
+  "categories": [
+    "switch-hikvision",
+    "hikvision-switch"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E1318P-EI",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1318P-EI.jpg"
+  ],
+  "summary": [
+    "– Switch mạng thông minh 8 cổng PoE.",
+    "– Hỗ trợ tính năng cấu hình quản lý bằng phần mềm.",
+    "– 8 cổng PoE RJ45 100Mbps, 2 cổng RJ45 Gigabit, 2 cổng quang – Tự tương thích chuẩn IEEE 802.3af/at.",
+    "– Công suất PoE 230W",
+    "Công suất tối đa 30W mỗi cổng.",
+    "– Chống sét 6KV cho các cổng PoE.",
+    "– Bảng địa chỉ MAC: 16K, khả năng chuyển mạch 7.2 Gbps, tốc độ chuyển tiếp gói tin: 5.3568 Mpps."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E1318P-EI"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Switch"
+    ],
+    [
+      "– Bảng địa chỉ MAC",
+      "16K, khả năng chuyển mạch 7.2 Gbps, tốc độ chuyển tiếp gói tin: 5.3568 Mpps."
+    ]
+  ],
+  "description_html": "<p>– Switch mạng thông minh 8 cổng PoE.</p><p>– Hỗ trợ tính năng cấu hình quản lý bằng phần mềm.</p><p>– 8 cổng PoE RJ45 100Mbps, 2 cổng RJ45 Gigabit, 2 cổng quang – Tự tương thích chuẩn IEEE 802.3af/at.</p><p>– Công suất PoE 230W</p><p>Công suất tối đa 30W mỗi cổng.</p><p>– Chống sét 6KV cho các cổng PoE.</p><p>– Bảng địa chỉ MAC: 16K, khả năng chuyển mạch 7.2 Gbps, tốc độ chuyển tiếp gói tin: 5.3568 Mpps.</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "– Switch mạng thông minh 8 cổng PoE. – Hỗ trợ tính năng cấu hình quản lý bằng phần mềm. – 8 cổng PoE RJ45 100Mbps, 2 cổng RJ45 Gigabit, 2 cổng quang – Tự tương thích chuẩn IEEE 802.3af/at.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

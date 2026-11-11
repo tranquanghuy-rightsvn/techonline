@@ -1,0 +1,144 @@
+{
+  "slug": "mang-van-phong-soho-tplink-tl-sg1218mpe",
+  "name": "Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+) TP-Link TL-SG1218MPE",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-SG1218MPE",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-tl-sg1218mpe/g01.jpg"
+  ],
+  "summary": [
+    "Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+)",
+    "TL-SG1218MPE là một Easy Smart Switch 18 cổng Gigabit với 16 cổng PoE+.",
+    "Tổng công suất PoE 250 W cho 16 cổng gigabit PoE+ mang đến cho nó nhiều khả năng ứng dụng, chẳng hạn như kết nối camera IP, access point, điện thoại IP...",
+    "Chuẩn và Giao thức: IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p",
+    "Giao diện: 16× 10/100/1000 Mbps PoE+ RJ45 Ports (Auto Negotiation/Auto MDI/MDIX); 2× 10/100/1000 Mbps non-PoE RJ45 Ports (Auto Negotiation/Auto MDI/MDIX); 2× Combo Gigabit SFP Ports",
+    "Mạng Media: 10; BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 100; BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m); 1000"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-SG1218MPE"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3af, IEEE 802.3at, IEEE 802.1q, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "16× 10/100/1000 Mbps PoE+ RJ45 Ports (Auto Negotiation/Auto MDI/MDIX)<br />2× 10/100/1000 Mbps non-PoE RJ45 Ports (Auto Negotiation/Auto MDI/MDIX)<br />2× Combo Gigabit SFP Ports"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m)<br />EIA/TIA-568 100Ω STP (maximum 100m)<br />1000"
+    ],
+    [
+      "Số lượng quạt",
+      "2 Fans"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100–240V AC, 50/60 Hz"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3at/802.3af compliant<br />PoE+ Ports: Ports 1–16<br />Power Supply: 250 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "21.4 W (220/50Hz. no PD connected)<br />296.3 W (220/50Hz. with 250 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "72.97 BTU/h (no PD connected)<br />1010.38 BTU/h (with 250 W PD connected)"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "4.1 Mbit"
+    ],
+    [
+      "Khung Jumbo",
+      "10 KB"
+    ],
+    [
+      "Switching Capacity",
+      "36 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "26.78 Mbps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "8K"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support Port-based 802.1p/DSCP priority<br />Support 4 priority queues<br />Rate Limit<br />Storm Control"
+    ],
+    [
+      "L2 Features",
+      "IGMP Snooping V1/V2/V3<br />Static Link Aggregation<br />Port Mirroring<br />Cable Diagnostics<br />Loop Prevention<br />PoE Auto Recovery"
+    ],
+    [
+      "VLAN",
+      "Support up to 32 VLANs simultaneously (out of 4K VLAN IDs)<br />MTU/Port/Tag VLAN"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI<br />Easy Smart Configuration Utility"
+    ],
+    [
+      "Transmission Method",
+      "Store-And-Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "TL-SG1218<br />MPE<br />Power Cord<br />Installation Guide<br />Rackmount Kit<br />Rubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–50 °C (32–122 °F)<br />Storage Temperature: -40–70 °C (-40–158 °F)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+)</p><p>TL-SG1218MPE là một Easy Smart Switch 18 cổng Gigabit với 16 cổng PoE+.</p><p>Tổng công suất PoE 250 W cho 16 cổng gigabit PoE+ mang đến cho nó nhiều khả năng ứng dụng, chẳng hạn như kết nối camera IP, access point, điện thoại IP...</p>",
+  "attrs": [
+    "18 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+) TL-SG1218MPE là một Easy Smart Switch 18 cổng Gigabit với 16 cổng PoE+. Tổng công suất PoE 250 W cho 16 cổng gigabit PoE+ mang đến cho nó nhiều khả năng ứng dụng, chẳng hạn như kết nối camera IP, access point, điện thoại IP...",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

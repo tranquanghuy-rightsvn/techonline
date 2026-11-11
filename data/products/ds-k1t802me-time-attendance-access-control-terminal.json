@@ -1,0 +1,51 @@
+{
+  "slug": "ds-k1t802me-time-attendance-access-control-terminal",
+  "name": "Thiết bị kiểm soát ra vào Time & Attendance and Access Control Terminal Hikvision DS-K1T802M/E",
+  "categories": [
+    "cham-cong-kiem-soat-ra-vao-hikvision",
+    "hikvision-access-control"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-K1T802M/E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T802ME.jpg"
+  ],
+  "summary": [
+    "128×64 Dot Matrix STN Screen",
+    "12 Keys Keyboard and doorbell",
+    "Built-in Mifare/EM Card reading module",
+    "Supports door-open button",
+    "Storage with 3,000 cards information and 10,000 access control events"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-K1T802M/E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Access control"
+    ]
+  ],
+  "description_html": "<p>128×64 Dot Matrix STN Screen</p><p>12 Keys Keyboard and doorbell</p><p>Built-in Mifare/EM Card reading module</p><p>Supports door-open button</p><p>Storage with 3,000 cards information and 10,000 access control events</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "128×64 Dot Matrix STN Screen 12 Keys Keyboard and doorbell Built-in Mifare/EM Card reading module",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

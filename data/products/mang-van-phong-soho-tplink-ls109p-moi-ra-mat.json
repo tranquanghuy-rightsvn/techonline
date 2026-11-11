@@ -1,0 +1,122 @@
+{
+  "slug": "mang-van-phong-soho-tplink-ls109p-moi-ra-mat",
+  "name": "Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+ TP-Link LS109P Mới ra mắt",
+  "categories": [
+    "tp-link-mang-van-phong-soho"
+  ],
+  "brand": "TP-Link",
+  "sku": "LS109P Mới ra mắt",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/mang-van-phong-soho-tplink-ls109p-moi-ra-mat/g01.jpg"
+  ],
+  "summary": [
+    "Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+",
+    "9-Port 10/100Mbps Desktop Switch with 8-Port PoE+.",
+    "Just plug and play with PoE Transmission for Surveillance up to 250 m.",
+    "The total 63 W PoE power budget for the 8× PoE+ ports opens up an economical PoE solution."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "LS109P Mới ra mắt"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "9× 10/100 Mbps RJ45 Ports (8× 10/100 Mbps 802.3af/at PoE+ Ports)<br />AUTO Negotiation<br />AUTO MDI/MDIX"
+    ],
+    [
+      "Mạng Media",
+      "10<br />BASE-T: UTP category 3, 4, 5 cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)<br />100<br />BASE-TX: UTP category 5, 5e cable (maximum 100m); EIA/TIA-568 100Ω STP (maximum 100m)"
+    ],
+    [
+      "Số lượng quạt",
+      "Fanless"
+    ],
+    [
+      "Cài đặt",
+      "Desktop<br />Wall Mounting"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "External Power Adapter (Output: 53.5<br />VDC / 1.31A)"
+    ],
+    [
+      "LED",
+      "Power<br />Link/Act<br />PoE Status<br />PoE MAX"
+    ],
+    [
+      "Cổng PoE (RJ45)",
+      "Standard: 802.3 af/at compliant<br />PoE Ports: Ports 1–8, up to 30 W PoE output per port<br />Power Supply: 63 W"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.7×3.9×1.1 in (171×98×27 mm)"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "3.67 W (220 V/50 Hz no PD connected)<br />73.24 W (220 V/50 Hz with 63 W PD connected)"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "12.48 BTU/h (220 V/50 Hz no PD connected)<br />249 BTU/h (220 V/50 Hz with 63 W PD connected)"
+    ],
+    [
+      "Khung Jumbo",
+      "1.5 KB"
+    ],
+    [
+      "Switching Capacity",
+      "1.8 Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "1.3392 Mpps"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "2K"
+    ],
+    [
+      "Advanced Features",
+      "Extend Mode Button (Ports 1–4/1–8, Up to 250 m PoE power supply and data transmission)<br />Isolation Mode Button (Ports 1–8)<br />PoE Auto Recovery Button (Ports 1–8)"
+    ],
+    [
+      "Transmission Method",
+      "Store and Forward"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "LS109P<br />Power Adapter<br />Installation Guide<br />Rubber Feet"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0–40 ℃ (32–104 ℉)<br />Storage Temperature: -40–70 ℃ (-40–158 ℉)<br />Operating Humidity: 10–90% RH non-condensing<br />Storage Humidity: 5–90% RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+</p><p>9-Port 10/100Mbps Desktop Switch with 8-Port PoE+.</p><p>Just plug and play with PoE Transmission for Surveillance up to 250 m.</p><p>The total 63 W PoE power budget for the 8× PoE+ ports opens up an economical PoE solution.</p>",
+  "attrs": [
+    "9 Cổng",
+    "PoE"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+ 9-Port 10/100Mbps Desktop Switch with 8-Port PoE+. Just plug and play with PoE Transmission for Surveillance up to 250 m.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

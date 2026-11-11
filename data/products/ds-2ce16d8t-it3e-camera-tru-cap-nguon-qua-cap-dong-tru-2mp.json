@@ -1,0 +1,60 @@
+{
+  "slug": "ds-2ce16d8t-it3e-camera-tru-cap-nguon-qua-cap-dong-tru-2mp",
+  "name": "Camera thân trụ cấp nguồn qua cáp đồng trụ 2MP Hikvision DS-2CE16D8T-IT3E",
+  "categories": [
+    "camera-analog-hikvision",
+    "hikvision-camera-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CE16D8T-IT3E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE16D8T-IT3E-500x500.png"
+  ],
+  "summary": [
+    "2 Megapixel high-performance CMOS",
+    "Analog HD output, up to 1080P resolution",
+    "True Day/Night",
+    "OSD menu, DNR, Smart IR",
+    "True WDR, up to 120dB",
+    "EXIR technology, up to 40m IR distance",
+    "IP67",
+    "Up the Coax(HIKVISION-C)",
+    "PoC.af & PoC.at"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CE16D8T-IT3E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera Analog"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2 Megapixel high-performance CMOS</p><p>Analog HD output, up to 1080P resolution</p><p>True Day/Night</p><p>OSD menu, DNR, Smart IR</p><p>True WDR, up to 120dB</p><p>EXIR technology, up to 40m IR distance</p><p>IP67</p><p>Up the Coax(HIKVISION-C)</p><p>PoC.af &amp; PoC.at</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2 Megapixel high-performance CMOS Analog HD output, up to 1080P resolution True Day/Night",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

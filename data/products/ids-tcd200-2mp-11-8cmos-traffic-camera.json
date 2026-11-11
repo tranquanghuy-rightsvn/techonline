@@ -1,0 +1,52 @@
+{
+  "slug": "ids-tcd200-2mp-11-8cmos-traffic-camera",
+  "name": "2MP 1/1.8″CMOS Traffic Camera Hikvision iDS-TCD200-A",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "iDS-TCD200-A",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/08/iDS-TCD200-A-500x500.jpg"
+  ],
+  "summary": [
+    "1/1.8” Progressive Scan CMOS 1920 × 1080 @ 30fps Ultra-low light H.265/H.264/MJPEG Network lightening protection andanti-surge ROI and SVC are adopted with highcompression ratio, flexible disposure and low bitrate Lane Flow Average Vehicle Speed Time Headway Space Headway Time Occupancy Space Occupancy Lane Queue Length Vehicle Type (Large, Small, Motorcycle) Lane Traffic Status Congestion Level (Smooth, Slow, Inqueue)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "iDS-TCD200-A"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1/1.8” Progressive Scan CMOS 1920 × 1080 @ 30fps Ultra-low light H.265/H.264/MJPEG Network lightening protection andanti-surge ROI and SVC are adopted with highcompression ratio, flexible disposure and low bitrate Lane Flow Average Vehicle Speed Time Headway Space Headway Time Occupancy Space Occupancy Lane Queue Length Vehicle Type (Large, Small, Motorcycle) Lane Traffic Status Congestion Level (Smooth, Slow, Inqueue)</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/1.8” Progressive Scan CMOS 1920 × 1080 @ 30fps Ultra-low light H.265/H.264/MJPEG Network lightening protection andanti-surge ROI and SVC are adopted with highcompression ratio, flexible disposure and low bitrate Lane Flow Average Vehicle Speed Time Headway Space Headway Time Occupancy Space…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

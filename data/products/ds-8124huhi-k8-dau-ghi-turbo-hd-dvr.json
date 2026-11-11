@@ -1,0 +1,59 @@
+{
+  "slug": "ds-8124huhi-k8-dau-ghi-turbo-hd-dvr",
+  "name": "Đầu ghi Turbo HD DVR 24 kênh Hikvision DS-8124HUHI-K8",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-8124HUHI-K8",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/03/DS-8124HUHI-K8-500x500.jpg"
+  ],
+  "summary": [
+    "H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras",
+    "Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input",
+    "Support Cloud storage(One Drive, Google Drive or Drop Box)",
+    "Up to 5MP resolution for recording",
+    "HDMI output at up to 4K (3840 × 2160) resolution",
+    "Long distance transmission over UTP and coaxial cable: max. 800m for 1080p and 1200m for 720p HDTVI signal",
+    "16-ch synchronous playback",
+    "Supports POS triggered recording and POS information overlay"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-8124HUHI-K8"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ],
+    [
+      "Số kênh",
+      "24 kênh"
+    ]
+  ],
+  "description_html": "<p>H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras</p><p>Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input</p><p>Support Cloud storage(One Drive, Google Drive or Drop Box)</p><p>Up to 5MP resolution for recording</p><p>HDMI output at up to 4K (3840 × 2160) resolution</p><p>Long distance transmission over UTP and coaxial cable: max. 800m for 1080p and 1200m for 720p HDTVI signal</p><p>16-ch synchronous playback</p><p>Supports POS triggered recording and POS information overlay</p>",
+  "attrs": [
+    "24 kênh",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "H.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog cameras Self-adaptive HDTVI/HDCVI/AHD/CVBS signal input Support Cloud storage(One Drive, Google Drive or Drop Box)",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

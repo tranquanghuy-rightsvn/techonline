@@ -1,0 +1,159 @@
+{
+  "slug": "giai-phap-doanh-nghiep-tplink-t1700x-16ts",
+  "name": "JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots TP-Link T1700X-16TS",
+  "categories": [
+    "tp-link-giai-phap-doanh-nghiep"
+  ],
+  "brand": "TP-Link",
+  "sku": "T1700X-16TS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/giai-phap-doanh-nghiep-tplink-t1700x-16ts/g01.jpg"
+  ],
+  "summary": [
+    "JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots",
+    "JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots",
+    "Chuẩn và Giao thức: IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3 an, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p",
+    "Giao diện: 12 100/1000/10GBase-T RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10G SFP+ Slots",
+    "Mạng Media: 100; BASE-TX/1000; Base-T: UTP category 5, 5e or above cable (maximum 100m)10; GBase-T: UTP CAT 5e, 6 (Maximum 55m) or above cable (Maximum 100m)1000; BASE-X: MMF, SMF10; GBASE-LR10; GBASE-SR",
+    "Số lượng quạt: Two Smart Fans"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "T1700X-16TS"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Chuẩn và Giao thức",
+      "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3 an, IEEE 802.3ae, IEEE 802.3ad, IEEE 802.3x, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p"
+    ],
+    [
+      "Giao diện",
+      "12 100/1000/10GBase-T RJ45 Ports(Auto Negotiation/Auto MDI/MDIX)4 10G SFP+ Slots"
+    ],
+    [
+      "Mạng Media",
+      "100<br />BASE-TX/1000<br />Base-T: UTP category 5, 5e or above cable (maximum 100m)10<br />GBase-T: UTP CAT 5e, 6 (Maximum 55m) or above cable (Maximum 100m)1000<br />BASE-X: MMF, SMF10<br />GBASE-LR10<br />GBASE-SR"
+    ],
+    [
+      "Số lượng quạt",
+      "Two Smart Fans"
+    ],
+    [
+      "Khóa bảo mật vật lý",
+      "Yes"
+    ],
+    [
+      "Bộ cấp nguồn",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "17.3 * 8.7 * 1.73 in. (440 * 220 * 44 mm)"
+    ],
+    [
+      "Lắp",
+      "Rack Mountable"
+    ],
+    [
+      "Tiêu thụ điện tối đa",
+      "76.58W"
+    ],
+    [
+      "Max. Heat Dissipation",
+      "261.29 BTU/h"
+    ],
+    [
+      "Switching Capacity",
+      "Up to 320Gbps"
+    ],
+    [
+      "Tốc độ chuyển gói",
+      "Up to 238.1Mpps for a standalone switch"
+    ],
+    [
+      "Bảng địa chỉ MAC",
+      "16K"
+    ],
+    [
+      "Bộ nhớ đệm gói",
+      "2MB"
+    ],
+    [
+      "Khung Jumbo",
+      "9KB"
+    ],
+    [
+      "Number of Static Routes",
+      "32 IPv4"
+    ],
+    [
+      "Number of IP Interfaces",
+      "16"
+    ],
+    [
+      "Chất lượng dịch vụ",
+      "Support 802.1p CoS/DSCP priority<br />Support 8 priority queues<br />Queue scheduling: SP, WRR, SP+WRR<br />Port/Flow- based Rate LimitingIPv6 QoS*Voice VLAN"
+    ],
+    [
+      "L2 and L2+ Features",
+      "Static RoutingDHCP Relay*IGMP Snooping V1/V2/V3802.3ad LACP (Up to 14 aggregation groups, containing 8 ports per group)Spanning Tree STP/RSTP/MSTPBPDU Filtering/GuardTC/Root Protect"
+    ],
+    [
+      "VLAN",
+      "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs)MAC/Protocol-based VLAN<br />Private VLAN"
+    ],
+    [
+      "Access Control List",
+      "L2～L4 package filtering based on source and destination MAC address, IP address, TCP/UDP portsIPv6 ACL*"
+    ],
+    [
+      "Bảo mật",
+      "AAA*Port SecurityDHCP SnoopingIP-MAC-Port BindingARP Inspection802.1x and Radius AuthenticationSSH v1/v2<br />SSL v3/TLSv1Broadcast/Multicast/Unknown-unicast Storm Control<br />Dos Defend"
+    ],
+    [
+      "IPv6",
+      "DHCPv6 Client<br />Ping6Tracert6Telnet (v6)IPv6 SNMPIPv6 SSHIPv6 SSL<br />Http/HttpsIPv6 TFTP"
+    ],
+    [
+      "Quản lý",
+      "Web-based GUI and CLI managementSNMP v1/v2c/v3,compatible with public MIBs andTP-LINK private MIBsRMON (1, 2, 3, 9 groups)CPU Monitoring<br />Port Mirroring<br />Firmware Upgrade: TFTP &amp; Web"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "T1700X-16TSPower Cord<br />Installation Guide<br />Resource CDRackmount KitRubber Feet"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® XP, Vista™ or Windows 7, Windows 8/8.1, MAC® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0℃~40℃ (32℉~104℉);Storage Temperature: -40℃~70℃ (-40℉~158℉)<br />Operating Humidity: 10%~90%RH non-condensing<br />Storage Humidity: 5%~90%RH non-condensing"
+    ]
+  ],
+  "description_html": "<p>JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots</p><p>JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots</p>",
+  "attrs": [
+    "12 Cổng"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

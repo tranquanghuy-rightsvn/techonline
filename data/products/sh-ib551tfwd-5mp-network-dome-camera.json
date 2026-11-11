@@ -1,0 +1,65 @@
+{
+  "slug": "sh-ib551tfwd-5mp-network-dome-camera",
+  "name": "5MP Network Dome Camera Hikvision SH-IB551TFWD-I",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "SH-IB551TFWD-I",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB551TFWD-I.jpg"
+  ],
+  "summary": [
+    "Up to 5 megapixel high resolution",
+    "Max. 2944 × 1656@20fps",
+    "2.8 mm/4 mm/6 mm/8 mm/12 mm fixed lens, optional",
+    "H.265, H.265+, H.264+, H.264",
+    "120dB Wide Dynamic Range",
+    "3D Digital Noise Reduction",
+    "DC12V & PoE (802.3af)",
+    "IR range: up to 30 m",
+    "Support on-board storage, up to 128 GB",
+    "IP67, IK10"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "SH-IB551TFWD-I"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ],
+    [
+      "IR range",
+      "up to 30 m"
+    ]
+  ],
+  "description_html": "<p>Up to 5 megapixel high resolution</p><p>Max. 2944 × 1656@20fps</p><p>2.8 mm/4 mm/6 mm/8 mm/12 mm fixed lens, optional</p><p>H.265, H.265+, H.264+, H.264</p><p>120dB Wide Dynamic Range</p><p>3D Digital Noise Reduction</p><p>DC12V &amp; PoE (802.3af)</p><p>IR range: up to 30 m</p><p>Support on-board storage, up to 128 GB</p><p>IP67, IK10</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Up to 5 megapixel high resolution Max. 2944 × 1656@20fps 2.8 mm/4 mm/6 mm/8 mm/12 mm fixed lens, optional",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

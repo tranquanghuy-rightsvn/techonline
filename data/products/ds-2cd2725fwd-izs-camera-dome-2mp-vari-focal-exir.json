@@ -1,0 +1,61 @@
+{
+  "slug": "ds-2cd2725fwd-izs-camera-dome-2mp-vari-focal-exir",
+  "name": "Camera Dome 2MP Vari-focal Exir Hikvision DS-2CD2725FWD-IZ(S)",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2725FWD-IZ(S)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2785FWD-IZS.jpg"
+  ],
+  "summary": [
+    "2MP high resolution",
+    "H.265+/H.265/H.264+/H.264",
+    "2.8~12mm motorized VF lens",
+    "DarkFighter ultra-low light technology",
+    "Intrusion & line crossing & object removal & unattended baggage & face detection",
+    "120dB WDR",
+    "IP67, IK10",
+    "3 streams",
+    "Hik-Connect Service",
+    "Up to 128GB on-board storage"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2725FWD-IZ(S)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2MP high resolution</p><p>H.265+/H.265/H.264+/H.264</p><p>2.8~12mm motorized VF lens</p><p>DarkFighter ultra-low light technology</p><p>Intrusion &amp; line crossing &amp; object removal &amp; unattended baggage &amp; face detection</p><p>120dB WDR</p><p>IP67, IK10</p><p>3 streams</p><p>Hik-Connect Service</p><p>Up to 128GB on-board storage</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2MP high resolution H.265+/H.265/H.264+/H.264 2.8~12mm motorized VF lens",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

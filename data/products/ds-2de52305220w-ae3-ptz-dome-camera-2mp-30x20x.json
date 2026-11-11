@@ -1,0 +1,57 @@
+{
+  "slug": "ds-2de52305220w-ae3-ptz-dome-camera-2mp-30x20x",
+  "name": "PTZ Dome Camera 2MP 30X/20X Hikvision DS-2DE5230/5220W-AE(3)",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE5230/5220W-AE(3)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE52305220W-AE3-500x500.jpg"
+  ],
+  "summary": [
+    "1/2.8’’ Progressive Scan CMOS, up to 1920×1080",
+    "25 fps at HD1080p",
+    "3D DNR, D WDR",
+    "3D intelligent positioning",
+    "20X Optical Zoom",
+    "IP66 rating"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE5230/5220W-AE(3)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>1/2.8’’ Progressive Scan CMOS, up to 1920×1080</p><p>25 fps at HD1080p</p><p>3D DNR, D WDR</p><p>3D intelligent positioning</p><p>20X Optical Zoom</p><p>IP66 rating</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "1/2.8’’ Progressive Scan CMOS, up to 1920×1080 25 fps at HD1080p 3D DNR, D WDR",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

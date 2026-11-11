@@ -1,0 +1,109 @@
+{
+  "slug": "nha-thong-minh-tplink-tapo-h500",
+  "name": "CentralHub™ TP-Link Tapo H500",
+  "categories": [
+    "tp-link-nha-thong-minh"
+  ],
+  "brand": "TP-Link",
+  "sku": "Tapo H500",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/nha-thong-minh-tplink-tapo-h500/g01.png"
+  ],
+  "summary": [
+    "CentralHub™",
+    "CentralHub; H500; Hub; Smart Home Ecosystem Center; Expandable Local Storage; AI Detection",
+    "Local Storage: Built-in Storage: 16; GB e; MMC; Expanded Storage: 1-Bay, 2.5\" SATA HDD/SSD, up to 16TB(needs to purchased seperately)",
+    "Băng tần: 5 GHz Wi-Fi (For Router) 2.4 GHz Wi-Fi (For Cameras)Sub-1 GHz：863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU).",
+    "Security: 128-bit AES Encryption with SSL/TLS",
+    "Interface: 1x HDMl Port, 1x DC Power Port"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Tapo H500"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Local Storage",
+      "Built-in Storage: 16<br />GB e<br />MMC<br />Expanded Storage: 1-Bay, 2.5\" SATA HDD/SSD, up to 16TB(needs to purchased seperately)"
+    ],
+    [
+      "Băng tần",
+      "5 GHz Wi-Fi (For Router) 2.4 GHz Wi-Fi (For Cameras)Sub-1 GHz：863.35MHz, 864.35MHz, 868.35MHz (for EU/UK) 920.9MHz, 921.7MHz, 922.3MHz (for US/AU)."
+    ],
+    [
+      "Security",
+      "128-bit AES Encryption with SSL/TLS"
+    ],
+    [
+      "Interface",
+      "1x HDMl Port, 1x DC Power Port"
+    ],
+    [
+      "Adapter Input",
+      "100-240V, 50/60Hz"
+    ],
+    [
+      "Adapter Output",
+      "12V, 2A"
+    ],
+    [
+      "Ethernet Ports",
+      "1* 10/100 Mbp（For WAN)"
+    ],
+    [
+      "USB Support",
+      "USB Ports: 1x USB-A for data transfer, 1x USB-C for charging"
+    ],
+    [
+      "Buttons",
+      "1* Reset Button,1* Answer/SYNC Button,1* Decline/Mute Button,1* Volume Up Button,1* Volume Down Button"
+    ],
+    [
+      "Dimensions (W x D x H)",
+      "6.31 x 3.89 x 3.28 in. (160.20*98.82*83.21)mm"
+    ],
+    [
+      "Độ Ẩm Hoạt Động",
+      "10%~90%RH, Non-condensing"
+    ],
+    [
+      "Storage Humidity",
+      "5%~90%RH, Non-condensing"
+    ],
+    [
+      "Package Content",
+      "Tapo H500Power Adapter<br />Screws Quick Start Guide<br />Ethernet Cable"
+    ],
+    [
+      "Operating Temperature",
+      "0℃– 40℃ (32°F–104°F )"
+    ],
+    [
+      "Storage Temperature",
+      "-20℃~60℃ (-4°F~140°F)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, RCM"
+    ]
+  ],
+  "description_html": "<p>CentralHub™</p><p>CentralHub; H500; Hub; Smart Home Ecosystem Center; Expandable Local Storage; AI Detection</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "CentralHub™ CentralHub; H500; Hub; Smart Home Ecosystem Center; Expandable Local Storage; AI Detection",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

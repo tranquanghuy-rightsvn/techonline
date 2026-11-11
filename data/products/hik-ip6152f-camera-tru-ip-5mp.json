@@ -1,0 +1,52 @@
+{
+  "slug": "hik-ip6152f-camera-tru-ip-5mp",
+  "name": "Camera bán cầu IP 5MP Hikvision HIK-IP6152F-IS",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "HIK-IP6152F-IS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-I-.png"
+  ],
+  "summary": [
+    "HIK-IP6152F-IS"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HIK-IP6152F-IS"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "5MP"
+    ]
+  ],
+  "description_html": "<p>HIK-IP6152F-IS</p>",
+  "attrs": [
+    "5MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "HIK-IP6152F-IS",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

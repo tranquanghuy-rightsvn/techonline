@@ -1,0 +1,75 @@
+{
+  "slug": "camera-ip-8mp-hikvision-ds-2cd2386g2-isu-slhun",
+  "name": "Camera IP 8MP Hikvision DS-2CD2386G2-ISU/SLHUN",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2CD2386G2-ISU/SLHUN",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2386G2-ISUSLHUN.jpg"
+  ],
+  "summary": [
+    "Camera IP AcuSense bán cầu vát thế hệ 2 8MP",
+    "Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS",
+    "Độ phân giải 3840 × 2160@25fps",
+    "Chuẩn nén H.265+",
+    "Hỗ trợ 3 luồng dữ liệu",
+    "Độ nhạy sáng: 0.003 lux",
+    "Ống kính 2.8/4/6mm @F1.6",
+    "Tầm xa đèn hồng ngoại 30m",
+    "Hỗ trợ 3D DNR, BLC,HLC, chống ngược sáng WDR 120dB",
+    "Tính năng thông minh : Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,",
+    "Ứng dụng thuật toán Trí tuệ nhân tạo, Lọc báo động giả không phải do người và phương tiện gây ra , độ chính xác có thể đạt 98.94%",
+    "Tích hợp 1 mircro, 1 loa báo động.",
+    "Hỗ trợ 1 ngõ vào báo động, 1 ngõ ra báo động",
+    "Cảnh báo bằng âm thanh ( do người dùng quy định ) và chớp đèn khi có sự kiện",
+    "Nguồn 12VDC/POE ; Tiêu chuẩn IP66,",
+    "Hỗ trợ dịch vụ HikConnect , tên miền CameraDDNS"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2CD2386G2-ISU/SLHUN"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ],
+    [
+      "Độ nhạy sáng",
+      "0.003 lux"
+    ],
+    [
+      "Tính năng thông minh",
+      "Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,"
+    ]
+  ],
+  "description_html": "<p>Camera IP AcuSense bán cầu vát thế hệ 2 8MP</p><p>Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS</p><p>Độ phân giải 3840 × 2160@25fps</p><p>Chuẩn nén H.265+</p><p>Hỗ trợ 3 luồng dữ liệu</p><p>Độ nhạy sáng: 0.003 lux</p><p>Ống kính 2.8/4/6mm @F1.6</p><p>Tầm xa đèn hồng ngoại 30m</p><p>Hỗ trợ 3D DNR, BLC,HLC, chống ngược sáng WDR 120dB</p><p>Tính năng thông minh : Phát hiện vượt hàng rào ảo, phát hiện xâm nhập, phát hiện vùng đi vào, phát hiện vùng đi ra,</p><p>Ứng dụng thuật toán Trí tuệ nhân tạo, Lọc báo động giả không phải do người và phương tiện gây ra , độ chính xác có thể đạt 98.94%</p><p>Tích hợp 1 mircro, 1 loa báo động.</p><p>Hỗ trợ 1 ngõ vào báo động, 1 ngõ ra báo động</p><p>Cảnh báo bằng âm thanh ( do người dùng quy định ) và chớp đèn khi có sự kiện</p><p>Nguồn 12VDC/POE ; Tiêu chuẩn IP66,</p><p>Hỗ trợ dịch vụ HikConnect , tên miền CameraDDNS</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera IP AcuSense bán cầu vát thế hệ 2 8MP Cảm biến hình ảnh 1/1.8″ Progressive Scan CMOS Độ phân giải 3840 × 2160@25fps",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

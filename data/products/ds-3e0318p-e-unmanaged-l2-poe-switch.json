@@ -1,0 +1,52 @@
+{
+  "slug": "ds-3e0318p-e-unmanaged-l2-poe-switch",
+  "name": "Unmanaged L2 PoE Switch Hikvision DS-3E0318P-E",
+  "categories": [
+    "dau-ghi-ip-hikvision",
+    "hikvision-dau-ghi-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-3E0318P-E",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E0318P-E-500x500.jpg"
+  ],
+  "summary": [
+    "8×10/100Mbps PoE ports, each port support 802.3af/802.3at self-adaption",
+    "1×10/100Mbps uplink port",
+    "123Watts PoE budget",
+    "250m transmission",
+    "4 kV surge protection",
+    "Plug-and-play installation"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-3E0318P-E"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi IP"
+    ]
+  ],
+  "description_html": "<p>8×10/100Mbps PoE ports, each port support 802.3af/802.3at self-adaption</p><p>1×10/100Mbps uplink port</p><p>123Watts PoE budget</p><p>250m transmission</p><p>4 kV surge protection</p><p>Plug-and-play installation</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "8×10/100Mbps PoE ports, each port support 802.3af/802.3at self-adaption 1×10/100Mbps uplink port 123Watts PoE budget",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

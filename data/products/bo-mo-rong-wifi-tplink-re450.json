@@ -1,0 +1,132 @@
+{
+  "slug": "bo-mo-rong-wifi-tplink-re450",
+  "name": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750 TP-Link RE450",
+  "categories": [
+    "tp-link-thiet-bi-mo-rong-mang"
+  ],
+  "brand": "TP-Link",
+  "sku": "RE450",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/bo-mo-rong-wifi-tplink-re450/g01.jpg"
+  ],
+  "summary": [
+    "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750",
+    "TP-Link RE450 đi kèm với công nghệ Wi-Fi 802.11AC thế hệ mới, nhanh hơn 3 lần so với tốc độ 802.11n tiêu chuẩn.",
+    "Dạng cắm: EU, UK, US, AU, KR, JP",
+    "Giao diện: 1 Gigabit Ethernet Port",
+    "Nút: WPS Button, Reset Button, LED Button, Power Button",
+    "Input Power: 100-240V~50/60Hz"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "RE450"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Dạng cắm",
+      "EU, UK, US, AU, KR, JP"
+    ],
+    [
+      "Giao diện",
+      "1 Gigabit Ethernet Port"
+    ],
+    [
+      "Nút",
+      "WPS Button, Reset Button, LED Button, Power Button"
+    ],
+    [
+      "Input Power",
+      "100-240V~50/60Hz"
+    ],
+    [
+      "Điện năng tiêu thụ",
+      "10W（max power consumption）"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "6.4 x 3.0 x 2.6 in. (163 x 76.4 x 66.5mm)"
+    ],
+    [
+      "Ăng ten",
+      "3 External Antennas"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11a/n/ac 5 GHz, IEEE 802.11b/g/n 2.4 GHz"
+    ],
+    [
+      "Băng tần",
+      "2.4GHz and 5GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "450Mpbs at 2.4GHz, 1300Mbps at 5GHz"
+    ],
+    [
+      "Working Modes",
+      "Range Extender/Access Point"
+    ],
+    [
+      "Reception Sensitivity",
+      "5GHz：11a 6<br />Mbps:-93d<br />Bm11a 54<br />Mbps: -76d<br />Bm11ac HT20 mcs8: -68d<br />Bm11ac HT40 mcs9: -64d<br />Bm11ac HT80 mcs9: -61d<br />Bm2.4<br />GHz11g 54<br />Mbps: -77d<br />Bm11n HT20 mcs7: -73d<br />Bm11n HT40 mcs7: -70dBm"
+    ],
+    [
+      "Tính năng Wi-Fi",
+      "Enable/Disable Wireless RadioDFS (the latest firmware and hardware version is required)Access ControlLED Control<br />Power Schedule<br />Wi-Fi Coverage"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "64/128-bit WEP, WPA-PSK / WPA2-PSK"
+    ],
+    [
+      "Công suất truyền tải",
+      "2.4G<20dBm, 5G<23dBm"
+    ],
+    [
+      "Mesh Technology",
+      "EasyMesh-Compatible"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP<br />App management"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "AC1750 Wi-Fi Range Extender RE450Quick Installation Guide"
+    ],
+    [
+      "System Requirements",
+      "Microsoft® Windows® 98SE, NT, 2000, XP, Vista or Windows 7, 8, 10, Mac® OS, NetWare®, UNIX® or Linux."
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~30°C (32°F~86°F) Storage Temperature: -40°C~70°C (-40°F~158°F)<br />Operating Humidity: 10%~90% non-condensing<br />Storage Humidity: 5%~90% non-condensing"
+    ]
+  ],
+  "description_html": "<p>Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750</p><p>TP-Link RE450 đi kèm với công nghệ Wi-Fi 802.11AC thế hệ mới, nhanh hơn 3 lần so với tốc độ 802.11n tiêu chuẩn.</p>",
+  "attrs": [
+    "Wi-Fi 5",
+    "AC1750"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750 TP-Link RE450 đi kèm với công nghệ Wi-Fi 802.11AC thế hệ mới, nhanh hơn 3 lần so với tốc độ 802.11n tiêu chuẩn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "wifi-adapter-tplink-tl-wn881nd",
+  "name": "Card mạng PCI Express Wi-Fi 300Mbps TP-Link TL-WN881ND",
+  "categories": [
+    "tp-link-wi-fi-adapter"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-WN881ND",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/wifi-adapter-tplink-tl-wn881nd/g01.jpg"
+  ],
+  "summary": [
+    "Card mạng PCI Express Wi-Fi 300Mbps",
+    "Tốc độ không dây chuẩn N lên đến 300Mbps giúp TL-WN881ND trở nên lý tưởng để phát trực tuyến và chơi game.",
+    "Công nghệ MIMO cải thiện hiệu suất và độ ổn định với khả năng thâm nhập và phủ sóng tín hiệu tốt hơn.",
+    "Giao diện: PCI Express(x1)",
+    "Kích thước ( R x D x C ): 4.8 x 3.1 x 0.8in. (120.8 x 78.5 x 21.5mm)",
+    "Ăng ten: Ăng ten đẳng hướng có thể tháo rời (RP-SMA)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-WN881ND"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Giao diện",
+      "PCI Express(x1)"
+    ],
+    [
+      "Kích thước ( R x D x C )",
+      "4.8 x 3.1 x 0.8in. (120.8 x 78.5 x 21.5mm)"
+    ],
+    [
+      "Ăng ten",
+      "Ăng ten đẳng hướng có thể tháo rời (RP-SMA)"
+    ],
+    [
+      "Độ lợi Ăng ten",
+      "2dBi"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+    ],
+    [
+      "Băng tần",
+      "2.400-2.4835GHz"
+    ],
+    [
+      "Tốc độ tín hiệu",
+      "11n: Lên tới 300Mbps(động)11g: Lên tới 54Mbps(động)11b: Lên tới 11Mbps(động)"
+    ],
+    [
+      "Reception Sensitivity",
+      "270M: -68dBm@10% PER130M: -68dBm@10% PER108M: -73dBm@10% PER54M: -73dBm@10% PER11M: -89dBm@8% PER6M: -87dBm@10% PER1M: -90dBm@8% PER"
+    ],
+    [
+      "Chế độ Wi-Fi",
+      "Chế độ Ad-Hoc / Infrastructure"
+    ],
+    [
+      "Bảo mật Wi-Fi",
+      "Hỗ trợ 64/128 bit WEP, WPA-PSK/WPA2-PSK"
+    ],
+    [
+      "Modulation Technology",
+      "DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM"
+    ],
+    [
+      "Công suất truyền tải",
+      "<20dBm(EIRP)"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC, RoHS"
+    ],
+    [
+      "Sản phẩm bao gồm",
+      "Bộ chuyển đổi không dây2x Ăng ten đẳng hướng Omni có thể tháo rờiCD nguồn<br />Hướng dẫn cài đặt nhanh"
+    ],
+    [
+      "System Requirements",
+      "Windows 11/10/8.1/8/7，Linux"
+    ],
+    [
+      "Môi trường",
+      "Nhiệt độ hoạt động: 0℃~40℃ (32℉~104℉)Nhiệt độ lưu trữ: -40℃~70℃ (-40℉~158℉)Độ ẩm hoạt động: 10% ~ 90% không ngưng tụĐộ ẩm lưu trữ: 5% ~ 90% không ngưng tụ"
+    ]
+  ],
+  "description_html": "<p>Card mạng PCI Express Wi-Fi 300Mbps</p><p>Tốc độ không dây chuẩn N lên đến 300Mbps giúp TL-WN881ND trở nên lý tưởng để phát trực tuyến và chơi game.</p><p>Công nghệ MIMO cải thiện hiệu suất và độ ổn định với khả năng thâm nhập và phủ sóng tín hiệu tốt hơn.</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Card mạng PCI Express Wi-Fi 300Mbps Tốc độ không dây chuẩn N lên đến 300Mbps giúp TL-WN881ND trở nên lý tưởng để phát trực tuyến và chơi game. Công nghệ MIMO cải thiện hiệu suất và độ ổn định với khả năng thâm nhập và phủ sóng tín hiệu tốt hơn.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "ds-720408huhi-f1s-5mp-1u-turbo-hd-dvr",
+  "name": "Đầu ghi hình Hikvision DS-7204/08HUHI-F1/S 5MP 1U Turbo HD DVR",
+  "categories": [
+    "dau-ghi-analog-hikvision",
+    "hikvision-dau-ghi-analog"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-7204/08HUHI-F1/S",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png"
+  ],
+  "summary": [
+    "4/8-ch video & 4-ch audio input",
+    "HDTVI/analog/AHD/IP camera quadruple hybrid",
+    "12fps recording at 5MP",
+    "Full channel recording at 1080P resolution",
+    "HDMI output at up to 1920×1080P resolution(DS- 7204HUHI-F1/S), support CVBS output",
+    "4K UHD output (DS-7208HUHI-F1/S)",
+    "Long transmission distance over coax cable",
+    "Front panel and alarm I/O optional",
+    "1 SATA, 1 USB 2.0 &2 USB 3.0(DS-7208HUHI-F1/S)"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-7204/08HUHI-F1/S"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Đầu ghi Analog"
+    ]
+  ],
+  "description_html": "<p>4/8-ch video &amp; 4-ch audio input</p><p>HDTVI/analog/AHD/IP camera quadruple hybrid</p><p>12fps recording at 5MP</p><p>Full channel recording at 1080P resolution</p><p>HDMI output at up to 1920×1080P resolution(DS- 7204HUHI-F1/S), support CVBS output</p><p>4K UHD output (DS-7208HUHI-F1/S)</p><p>Long transmission distance over coax cable</p><p>Front panel and alarm I/O optional</p><p>1 SATA, 1 USB 2.0 &amp;2 USB 3.0(DS-7208HUHI-F1/S)</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "4/8-ch video & 4-ch audio input HDTVI/analog/AHD/IP camera quadruple hybrid 12fps recording at 5MP",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

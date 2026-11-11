@@ -1,0 +1,54 @@
+{
+  "slug": "camera-hikvision-ds-2sh6336oc-fq",
+  "name": "Camera Hikvision DS-2SH6336OC-FQ",
+  "categories": [
+    "camera-ip-hikvision",
+    "hikvision-camera-ip"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2SH6336OC-FQ",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2024/07/DS-2SH6336OC-FQ.png"
+  ],
+  "summary": [
+    "Camera Image Sensor 1/1.8” progressive scan CMOS Max.",
+    "Resolution 1920 × 1080 Min.",
+    "Illumination color: 0.005 Lux @ (F1.5, AGC ON), B/W: 0.001 Lux @ (F1.5, AGC ON), 0 Lux with IR Shutter Speed 1/1s~1/30000 s Day & Night ICR Zoom 25 × optical, 16 × digital Slow Shutter Yes Lens Focal Length 5.9~147.5 mm,25 × optical Focus Auto/Semi-automatic/Manual Aperture F1.5 Zoom Speed approx.",
+    "4.8 s"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2SH6336OC-FQ"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera IP"
+    ],
+    [
+      "Illumination color",
+      "0.005 Lux @ (F1.5, AGC ON), B/W: 0.001 Lux @ (F1.5, AGC ON), 0 Lux with IR Shutter Speed 1/1s~1/30000 s Day & Night ICR Zoom 25 × optical, 16 × digital Slow Shutter Yes Lens Focal Length 5.9~147.5 mm,25 × optical Focus Auto/Semi-automatic/Manual Aperture F1.5 Zoom Speed approx."
+    ]
+  ],
+  "description_html": "<p>Camera Image Sensor 1/1.8” progressive scan CMOS Max.</p><p>Resolution 1920 × 1080 Min.</p><p>Illumination color: 0.005 Lux @ (F1.5, AGC ON), B/W: 0.001 Lux @ (F1.5, AGC ON), 0 Lux with IR Shutter Speed 1/1s~1/30000 s Day &amp; Night ICR Zoom 25 × optical, 16 × digital Slow Shutter Yes Lens Focal Length 5.9~147.5 mm,25 × optical Focus Auto/Semi-automatic/Manual Aperture F1.5 Zoom Speed approx.</p><p>4.8 s</p>",
+  "attrs": [
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Camera Image Sensor 1/1.8” progressive scan CMOS Max. Resolution 1920 × 1080 Min. Illumination color: 0.005 Lux @ (F1.5, AGC ON), B/W: 0.001 Lux @ (F1.5, AGC ON), 0 Lux with IR Shutter Speed 1/1s~1/30000 s Day & Night ICR Zoom 25 × optical, 16 × digital Slow Shutter Yes Lens Focal Length…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "phu-kien-tplink-tl-ant5819ms",
+  "name": "5GHz 19dBi 2x2 MIMO Sector Antenna TP-Link TL-ANT5819MS",
+  "categories": [
+    "tp-link-phu-kien"
+  ],
+  "brand": "TP-Link",
+  "sku": "TL-ANT5819MS",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/phu-kien-tplink-tl-ant5819ms/g01.jpg"
+  ],
+  "summary": [
+    "5GHz 19dBi 2x2 MIMO Sector Antenna",
+    "5GHz 19dBi 2x2 MIMO Sector Antenna",
+    "Frequency: 5.0 - 6.0 GHz",
+    "Impedance: 50Ω",
+    "Gain: 19dBi",
+    "VSWR(MAX.): 1.8 Max"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "TL-ANT5819MS"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Frequency",
+      "5.0 - 6.0 GHz"
+    ],
+    [
+      "Impedance",
+      "50Ω"
+    ],
+    [
+      "Gain",
+      "19dBi"
+    ],
+    [
+      "VSWR(MAX.)",
+      "1.8 Max"
+    ],
+    [
+      "HPOL Beamwidth",
+      "120° (6dB) & 90° (3dB)"
+    ],
+    [
+      "VPOL Beamwidth",
+      "120° (6dB) & 90° (3dB)"
+    ],
+    [
+      "Elevation Beamwidth",
+      "4°"
+    ],
+    [
+      "Polarization",
+      "Vertical & Horizontal"
+    ],
+    [
+      "Mounting",
+      "Pole Mount"
+    ],
+    [
+      "Electrical Downtilt",
+      "0°"
+    ],
+    [
+      "F/B Ratio",
+      "28dB Min"
+    ],
+    [
+      "Survival Wind Speed",
+      "241km/h"
+    ],
+    [
+      "Standards and Protocols",
+      "RoHS,WEEE"
+    ],
+    [
+      "Interfaces",
+      "RP-SMA"
+    ],
+    [
+      "Kích thước",
+      "Product Size:700×133×57mm<br />Package Size:1030x185x140mm"
+    ]
+  ],
+  "description_html": "<p>5GHz 19dBi 2x2 MIMO Sector Antenna</p><p>5GHz 19dBi 2x2 MIMO Sector Antenna</p>",
+  "attrs": [],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "5GHz 19dBi 2x2 MIMO Sector Antenna 5GHz 19dBi 2x2 MIMO Sector Antenna",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

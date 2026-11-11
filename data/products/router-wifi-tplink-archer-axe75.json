@@ -1,0 +1,183 @@
+{
+  "slug": "router-wifi-tplink-archer-axe75",
+  "name": "Router Wi-Fi 6E Băng Tần Kép AXE5400 Gigabit TP-Link Archer AXE75",
+  "categories": [
+    "tp-link-router-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Archer AXE75",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/router-wifi-tplink-archer-axe75/g01.jpg"
+  ],
+  "summary": [
+    "Router Wi-Fi 6E Băng Tần Kép AXE5400 Gigabit",
+    "Tận hưởng kết nối Wi-Fi 6E cho mọi thiết bị với router Wi-Fi 6E ba băng tần Archer AXE75.",
+    "Standards and Protocols: IEEE 802.11ax 6 GHz, IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: AXE54006 GHz: 2402 Mbps (802.11ax)5 GHz: 2402 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: 2-3 Bedroom Houses; 6× Fixed High-Performance Antennas; Multiple antennas form a signal-boosting array to cover more directions and large areas; Beamforming",
+    "WiFi Capacity: Very High; Tri-Band; Allocate devices to different bands for optimal performanceOFDMA; Simultaneously communicates with multiple Wi-Fi 6 clients; Airtime Fairness"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Archer AXE75"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "IEEE 802.11ax 6 GHz, IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "AXE54006 GHz: 2402 Mbps (802.11ax)5 GHz: 2402 Mbps (802.11ax)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "2-3 Bedroom Houses<br />6× Fixed High-Performance Antennas<br />Multiple antennas form a signal-boosting array to cover more directions and large areas<br />Beamforming"
+    ],
+    [
+      "WiFi Capacity",
+      "Very High<br />Tri-Band<br />Allocate devices to different bands for optimal performanceOFDMA<br />Simultaneously communicates with multiple Wi-Fi 6 clients<br />Airtime Fairness"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlIP &amp; MAC Binding<br />Application Layer GatewayHomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention"
+    ],
+    [
+      "Guest Network",
+      "1× 6 GHz Guest Network, 1× 5 GHz Guest Network, 1× 2.4 GHz Guest Network"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN ServerPPTP VPN ServerL2TP VPN Server"
+    ],
+    [
+      "VPN Client",
+      "Open VPN ClientPPTP VPN ClientL2TP VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA, WPA2, WPA3, WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Ethernet Ports",
+      "1× 2.5 Gbps WAN/LAN<br />1× 1 Gbps WAN/LAN<br />3× 1 Gbps LAN"
+    ],
+    [
+      "USB Support",
+      "1× USB 2.0 Port<br />Supported Partition Formats:NTFS, exFAT, HFS+, FAT32<br />Supported Functions:Apple Time MachineFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Power",
+      "12 V ⎓ 2.5 A"
+    ],
+    [
+      "Buttons",
+      "WPS/Wi-Fi Button<br />Power On/Off ButtonLED On/Off Button<br />Reset Button"
+    ],
+    [
+      "Protocols",
+      "IPv4IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "EasyMesh",
+      "Compatible with EasyMesh"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet<br />Weekly and Monthly Reports"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "QoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "Auto Firmware UpgradeTP-Link IDDDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port Forwarding<br />Port TriggeringDMZUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge<br />Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-LinkNO-IPDynDNS"
+    ],
+    [
+      "Management Features",
+      "Tether AppWebpage"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server<br />Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCPDNSDNS<br />Port: 53 Protocol: TCP &amp; UDPDHCP ServerIP address assignment (DHCP)<br />Port: 67 Protocol: UDP"
+    ],
+    [
+      "System Requirements",
+      "Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java<br />Script-enabledbrowser"
+    ],
+    [
+      "Certifications",
+      "FCC"
+    ],
+    [
+      "Environment",
+      "Operating Temperature: 0℃~40℃ (32℉ ~104℉)<br />Operating Humidity: 10%~90% non-condensing"
+    ],
+    [
+      "WiFi Transmission Power",
+      "FCC: ≤29dBm (2.4 GHz), ≤28dBm (5 GHz), ≤22dBm (6 GHz)<br />CE: ≤17dBm (2.4 GHz), ≤27dBm (5 GHz), ≤20dBm (6 GHz)"
+    ],
+    [
+      "WiFi Reception Sensitivity",
+      "2.4 GHz:11ax HE20 MCS0:-95dBm, 11ax HE20 MCS11:-64d<br />Bm11ax HE40 MCS0:-92dBm, 11ax HE40 MCS11:-62d<br />Bm5 GHz:11ax HE20 MCS0:-94dBm, 11ax HE20 MCS11:-63d"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "10.7 × 5.8 × 1.9 in (272.5 × 147.2 × 49.2 mm)"
+    ],
+    [
+      "Package Content",
+      "Wi-Fi Router Archer AXE75Power AdapterRJ45 Ethernet Cable<br />Quick Installation Guide"
+    ]
+  ],
+  "description_html": "<p>Router Wi-Fi 6E Băng Tần Kép AXE5400 Gigabit</p><p>Tận hưởng kết nối Wi-Fi 6E cho mọi thiết bị với router Wi-Fi 6E ba băng tần Archer AXE75.</p>",
+  "attrs": [
+    "Wi-Fi 6E"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Router Wi-Fi 6E Băng Tần Kép AXE5400 Gigabit Tận hưởng kết nối Wi-Fi 6E cho mọi thiết bị với router Wi-Fi 6E ba băng tần Archer AXE75.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

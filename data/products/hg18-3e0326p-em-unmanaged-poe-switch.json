@@ -1,0 +1,53 @@
+{
+  "slug": "hg18-3e0326p-em-unmanaged-poe-switch",
+  "name": "Unmanaged PoE Switch Hikvision HG18-3E0326P-E/M",
+  "categories": [
+    "phu-kien-hikvision",
+    "hikvision-phu-kien-san-pham-khac"
+  ],
+  "brand": "Hikvision",
+  "sku": "HG18-3E0326P-E/M",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2018/07/HG18-3E0326P-E-M-500x500.jpg"
+  ],
+  "summary": [
+    "Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE 802.3z, IEEE 802.1Q, and IEEE802.3x Ethernet standards 24*10/100 Base-TX Ethernet ports, one 10/100/1000 Base-T Ethernet port and one 10/100/1000 Base-X SFP optical module port Ports 1 – 24 are 10/100 Mbps downlink ports and comply with IEEE 802.3af and IEEE 802.3at.",
+    "The maximum of 30W port output PoE power and the maximum of 225W total output PoE power Support four network modes: Priority, Standard, Isolate and Extend 4K MAC address and MAC address learning 8.8 Gbps backplane bandwidth Store-and-Forward switching All-mental construction 13 inch length and 1 U standard height size allow it to be mounted on subrack."
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "HG18-3E0326P-E/M"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Phụ kiện / Sản phẩm khác"
+    ],
+    [
+      "Độ phân giải",
+      "8MP"
+    ]
+  ],
+  "description_html": "<p>Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE 802.3z, IEEE 802.1Q, and IEEE802.3x Ethernet standards 24*10/100 Base-TX Ethernet ports, one 10/100/1000 Base-T Ethernet port and one 10/100/1000 Base-X SFP optical module port Ports 1 – 24 are 10/100 Mbps downlink ports and comply with IEEE 802.3af and IEEE 802.3at.</p><p>The maximum of 30W port output PoE power and the maximum of 225W total output PoE power Support four network modes: Priority, Standard, Isolate and Extend 4K MAC address and MAC address learning 8.8 Gbps backplane bandwidth Store-and-Forward switching All-mental construction 13 inch length and 1 U standard height size allow it to be mounted on subrack.</p>",
+  "attrs": [
+    "8MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE 802.3z, IEEE 802.1Q, and IEEE802.3x Ethernet standards 24*10/100 Base-TX Ethernet ports, one 10/100/1000 Base-T Ethernet port and one 10/100/1000 Base-X SFP optical module port Ports 1 – 24 are 10/100 Mbps downlink ports and comply with…",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

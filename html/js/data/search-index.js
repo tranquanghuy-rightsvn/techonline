@@ -4121,6 +4121,18526 @@ const SEARCH_INDEX = [
 "discount": "-25%"
 },
 {
+"name": "Camera IP 4MP Hikvision DS-2CD2T46G2-ISU/SLHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t46g2-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T46G2-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2386G2-ISU/SLHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2386g2-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2386G2-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2046G2-IU/SLHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2046g2-iu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2046G2-IUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2346G2-ISU/SLHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2346g2-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2346G2-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2SH646G2-LIZSU",
+"href": "/camera-ip-4mp-hikvision-ds-2sh646g2-lizsu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/04/DS-2SH646G2-LIZSU.jpg",
+"price": "7.400.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ thế hệ 2 4MP VT-2CD3BG-DC",
+"href": "/camera-ip-acusense-tru-2-4mp-vt-2cd3bg-dc/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/7.-DS-2CD2646G2-IZSU-SL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome Acusense hồng ngoại 4.0 Megapixel Hikvision HG225Y-G2-IZS",
+"href": "/camera-ip-dome-acusense-hong-ngoai-4-0-megapixel-hikvision-hg225y-g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/07/DS-2CD2746G2-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome Acusense hồng ngoại 4.0 Megapixel Hikvision DS-2CD2746G2-IZS",
+"href": "/camera-ip-dome-acusense-hong-ngoai-4-0-megapixel-hikvision-ds-2cd2746g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/07/DS-2CD2746G2-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense Dome 2MP Hikvision DS-2CD2326G2-ISU/SL",
+"href": "/camera-ip-acusense-dome-2mp-hikvision-ds-2cd2326g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/DS-2CD2326G2-ISU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 8MP Hikvision DS-2CD2T86G2-ISU/SL",
+"href": "/camera-ip-acusense-tru-8mp-hikvision-ds-2cd2t86g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T26G2-ISU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 4MP Hikvision DS-2CD2T46G2-ISU/SL",
+"href": "/camera-ip-acusense-tru-4mp-hikvision-ds-2cd2t46g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T26G2-ISU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 2MP Hikvision DS-2CD2T26G2-ISU/SL",
+"href": "/camera-ip-acusense-tru-2mp-hikvision-ds-2cd2t26g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T26G2-ISU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 8MP Hikvision DS-2CD2T86G2-4I",
+"href": "/camera-ip-acusense-tru-8mp-hikvision-ds-2cd2t86g2-4i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 4MP Hikvision DS-2CD2T46G2-4I",
+"href": "/camera-ip-acusense-tru-4mp-hikvision-ds-2cd2t46g2-4i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 2MP Hikvision DS-2CD2T26G2-4I",
+"href": "/camera-ip-acusense-tru-2mp-hikvision-ds-2cd2t26g2-4i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 4MP Hikvision DS-2CD2T46G2-2I",
+"href": "/camera-ip-acusense-tru-4mp-hikvision-ds-2cd2t46g2-2i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 2MP Hikvision DS-2CD2T26G2-2I",
+"href": "/camera-ip-acusense-tru-2mp-hikvision-ds-2cd2t26g2-2i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 8MP Hikvision DS-2CD2686G2-IZSU/SL",
+"href": "/camera-ip-acusense-tru-8mp-hikvision-ds-2cd2686g2-izsusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2626G2-IZSU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 4.0 Megapixel Hikvision DS-2CD2646G2-IZSU/SL",
+"href": "/camera-ip-hong-ngoai-4-0-megapixel-hikvision-ds-2cd2646g2-izsusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2626G2-IZSU_SL.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 2MP Hikvision DS-2CD2626G2-IZSU/SL",
+"href": "/camera-ip-acusense-tru-2mp-hikvision-ds-2cd2626g2-izsusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2626G2-IZSU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense Dome 8MP Hikvision DS-2CD2386G2-ISU/SL",
+"href": "/camera-ip-acusense-dome-8mp-hikvision-ds-2cd2386g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2386G2-ISU_SL.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 4MP Hikvision DS-2CD2046G2-IU/SL",
+"href": "/camera-ip-acusense-tru-4mp-hikvision-ds-2cd2046g2-iusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2026G2-IU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP AcuSense thân trụ 2MP Hikvision DS-2CD2026G2-IU/SL",
+"href": "/camera-ip-acusense-tru-2mp-hikvision-ds-2cd2026g2-iusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2026G2-IU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2346G2-ISU/SL",
+"href": "/ds-2cd2346g2-isusl/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/DS-2CD2346G2-ISU_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2047G3-LI2UY/SRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2047g3-li2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2047G3-LI2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2146G2-ISUHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2146g2-isuhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2146G2-ISUHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T46G2-4IHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t46g2-4ihun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T46G2-4IHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2346G2P-ISU/SLHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2346g2p-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2346G2P-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T46G2P-ISU/SLHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t46g2p-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T46G2P-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2746G2-IZSHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2746g2-izshun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2746G2-IZSHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T86G2-ISU/SLHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t86g2-isu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T86G2-ISUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 5MP Hikvision DS-2CD2955G0-ISUHUN",
+"href": "/camera-ip-5mp-hikvision-ds-2cd2955g0-isuhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2955G0-ISUHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 4.0MP Hikvision DS-2CD2T45G0P-I",
+"href": "/camera-ip-hong-ngoai-4-0mp-hikvision-ds-2cd2t45g0p/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2T45G0P-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini bullet camera 2MP EXIR 50fps/60fps(1920×1080) Hikvision DS-2CD2025FHWD-I",
+"href": "/ds-2cd2025fhwd-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD2085FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Fisheye 3MP High Resolution Exir Hikvision DS-2CD2935FWD",
+"href": "/ds-2cd2935fwd-camera-fisheye-3mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2955FWD-IS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Fisheye 5MP High resolution Exir Hikvision DS-2CD2955FWD",
+"href": "/ds-2cd2955fwd-camera-fisheye-5mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2955FWD-IS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 2MP high resolution IR 50m-80m Hikvision DS-2CD2T25FWD-I",
+"href": "/ds-2cd2t25fwd-i58-camera-bullet-2mp-ir-50m-80m/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 2MP High resolution EXIR Hikvision DS-2CD2125FWD",
+"href": "/ds-2cd2125fwd-camera-dome-2mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T83G2-4LI2UHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t83g2-4li2uhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T83G2-4LI2UHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 8MP Hikvision DS-2CD2183G2-LIS2UHUN",
+"href": "/camera-ip-dome-8mp-hikvision-ds-2cd2183g2-lis2uhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2183G2-LIS2UHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2083G2-LI2UHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2083g2-li2uhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2083G2-LI2U-HUB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP tích hợp MIC SH-IP1432-IU",
+"href": "/camera-ip-tich-hop-mic-sh-ip1432-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/DS-2CD2143G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 4MP Hikvision DS-2CD2743G1-IZS",
+"href": "/camera-ip-dome-4mp-hikvision-ds-2cd2743g1-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2743G2-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 DS-2CD2723G2-IZS",
+"href": "/camera-ip-series-2xx3-ds-2cd2723g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2743G2-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 – DS-2CD2623G2-IZS",
+"href": "/camera-ip-series-2xx3-ds-2cd2623g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G2-2I_4I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 DS-2CD2743G2-IZS",
+"href": "/camera-ip-series-2xx3-ds-2cd2743g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2743G2-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2623G1-IZS",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2623g1-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3-DS-2CD2643G2-IZS",
+"href": "/camera-ip-series-2xx3-ds-2cd2643g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G2-2I_4I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2643G1-IZS",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2643g1-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2643G1-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 tích hợp MIC",
+"href": "/camera-ip-series-2xx3-tich-hop-mic-3/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2343G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 2MP Hikvision DS-2CD2323G0-IU",
+"href": "/camera-ip-dome-2mp-hikvision-ds-2cd2323g0-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2323G0-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 tích hợp MIC – DS-2CD2343G2-I(U)",
+"href": "/camera-ip-series-2xx3-tich-hop-mic-ds-2cd2343g2-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2343G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2T23G0-I8",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2t23g0-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G0-I5.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2T23G2-2I/4I",
+"href": "/ds-2cd2t23g2-2i4i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G2-2I_4I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2T23G0-I5",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2t23g0-i5/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G0-I5.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T43G0-I8",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t43g0-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP WDR Fixed Bullet Network Camera-DS-2CD2T43G2-2I/4I",
+"href": "/4-mp-wdr-fixed-bullet-network-camera-ds-2cd2t43g2-2i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G2-2I_4I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T43G0-I5",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t43g0-i5/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 tích hợp MIC DS-2CD2123G2-IU",
+"href": "/camera-ip-series-2xx3-tich-hop-mic-ds-2cd2123g2-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2143G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP WDR Fixed Dome Network Camera with Build-in Mic-DS-2CD2123G0-IU",
+"href": "/2-mp-wdr-fixed-dome-network-camera-build-mic-ds-2cd2123g0-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2123G0-IU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP Outdoor WDR Fixed Dome Network Camera DS-2CD2143G0-I(S)",
+"href": "/4-mp-outdoor-wdr-fixed-dome-network-camera-ds-2cd2143g0/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2143G0-IS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Series 2xx3 tích hợp MIC-DS-2CD2143G2-IU",
+"href": "/camera-ip-series-2xx3-tich-hop-mic-ds-2cd2143g2-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2143G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Cube 6MP Hikvision DS-2CD2463G0-IW",
+"href": "/camera-ip-cube-6mp-hikvision-ds-2cd2463g0-iw-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2443G0-IW-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Cube 4MP Hikvision DS-2CD2443G0-IW",
+"href": "/camera-ip-cube-4mp-hikvision-ds-2cd2443g0-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2443G0-IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 2MP Hikvision DS-2CD2121G0-IS",
+"href": "/camera-ip-dome-2mp-hikvision-ds-2cd2121g0/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-2CD2121G0-IS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 6MP Hikvision DS-2CD2T63G0-I8",
+"href": "/ds-2cd2t63g0-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2T63G0-I5I8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Cube Hikvision DS-2CD2423G0-IW",
+"href": "/ds-2cd2423g0-iw-camera-ip-cube/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/form-up-sp__10696_zoom-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 2MP Hikvision DS-2CD2723G0-IZS",
+"href": "/ds-2cd2723g0-izs-camera-ban-cau-thay-doi-tieu-cu-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2783-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 4MP Hikvision DS-2CD2743G0-IZS",
+"href": "/ds-2cd2743g0-izs-camera-ban-cau-thay-doi-tieu-cu-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2783-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2523G0-IS",
+"href": "/ds-2cd2523g0-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2523G0-IW",
+"href": "/ds-2cd2523g0-iw-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2523G0-IWS",
+"href": "/ds-2cd2523g0-iws-camera-ban-cau-exir-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 8MP Hikvision DS-2CD2T83G0-I8",
+"href": "/ds-2cd2t83g0-i8-camera-tru-exir-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T43G0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2343G0-I",
+"href": "/ds-2cd2343g0-camera-ban-cau-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2363-43-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2163G0-I",
+"href": "/ds-2cd2163g0-camera-ban-cau-exir-6mp-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2163G0-IS",
+"href": "/ds-2cd2163g0-camera-ban-cau-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ mini EXIR 2MP Hikvision DS-2CD2023G0-I",
+"href": "/ds-2cd2023g0-camera-tru-mini-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2083-63-53-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ mini EXIR 6MP Hikvision DS-2CD2063G0-I",
+"href": "/ds-2cd2063g0-camera-tru-mini-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2083-63-53-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP+4MP Hikvision DS-2SE3C404MWG-E/14HUN",
+"href": "/camera-ip-4mp4mp-hikvision-ds-2se3c404mwg-e-14hun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2SE3C404MWG-E14HUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP WiFi 4MP Hikvision DS-2DE3A404IWG-E/WHUN",
+"href": "/camera-ip-wifi-4mp-hikvision-ds-2de3a404iwg-e-whun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE3A404IWG-EWHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2DE3A404IWG-EHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2de3a404iwg-ehun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE3A404IWG-EHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP+2MP Hikvision DS-2SE2C200MWG-E/12HUN",
+"href": "/camera-ip-2mp2mp-hikvision-ds-2se2c200mwg-e-12hun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2SE2C200MWG-E12HUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP+4MP Hikvision DS-2SE2C400MWG-E/14HUN",
+"href": "/camera-ip-4mp4mp-hikvision-ds-2se2c400mwg-e-14hun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2SE2C400MWG-E14HUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 4MP Hikvision DS-2DE2A404IWG1-EHUN",
+"href": "/camera-ip-ptz-4mp-hikvision-ds-2de2a404iwg1-ehun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE2A404IWG1-EHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ Hikvision DS-2DE2A404IW-DE3/W",
+"href": "/camera-ip-ptz-hikvision-ds-2de2a404iw-de3-w/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE2A404IW-DE3-W.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 8MP Hikvision DS-2DE7A825IWG1-E",
+"href": "/camera-ip-ptz-8mp-hikvision-ds-2de7a825iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE7A825IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2623G3-LIZS2UY",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2623g3-lizs2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2623G3-LIZS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2343G3-LI2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2343g3-li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2343G3-LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T83G3-4LI2UY",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t83g3-4li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T83G3-4LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T43G3-4LI2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t43g3-4li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T43G3-4LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2T23G3-4LI2UY",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2t23g3-4li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T23G3-4LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2183G3-LIS2UY",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2183g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2183G3-LIS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2143G3-LIS2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2143g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2143G3-LIS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2123G3-LIS2UY",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2123g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2123G3-LIS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2083G3-LI2UY",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2083g3-li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2083G3-LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2043G3-LI2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2043g3-li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2043G3-LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2023G3-LI2UY",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2023g3-li2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2023G3-LI2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision HE-2NC5B47A3-LMV3/BDX",
+"href": "/camera-ip-4mp-hikvision-he-2nc5b47a3-lmv3-bdx/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/HE-2NC5B47A3-LMV3-BDX.jpg",
+"price": "6.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ Speed Dome 4MP Hikvision DS-2DE4415IWG1-E",
+"href": "/camera-ip-ptz-speed-dome-4mp-hikvision-ds-2de4415iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2DE4415IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ Speed Dome 2MP Hikvision DS-2DE4215IWG1-E",
+"href": "/camera-ip-ptz-speed-dome-2mp-hikvision-ds-2de4215iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2DE4215IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ Speed Dome 2MP Hikvision DS-2DE4225IWG1-E",
+"href": "/camera-ip-ptz-speed-dome-2mp-hikvision-ds-2de4225iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2DE4225IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1047G3-LIUF",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1047g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1047G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1347G3-LIUF",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1347g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1347G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1147G3-LIUF",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1147g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1147G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1T47G3-LIUF",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1t47g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T47G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP Hikvision DS-2CD1B67G3-LIUF/LSRB",
+"href": "/camera-ip-6mp-hikvision-ds-2cd1b67g3-liuf-lsrb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1B67G3-LIUF-LSRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1043G3-LIU",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1043g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1043G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP Hikvision DS-2CD1167G3-LIUF",
+"href": "/camera-ip-6mp-hikvision-ds-2cd1167g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1167G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1143G3-LIU",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1143g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1143G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1T23G3-LIU",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1t23g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T23G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1023G3-LIU",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1023g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1023G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2DE5425IWG1-E",
+"href": "/camera-ip-4mp-hikvision-ds-2de5425iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2DE5425IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1323G3-LIU",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1323g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1343G3-LIU-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1343G3-LIU",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1343g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1343G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 4MP Hikvision DS-2DE7A432IWG1-E",
+"href": "/camera-ip-ptz-4mp-hikvision-ds-2de7a432iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE7A432IWG1-E-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 4MP Hikvision DS-2DE7A425IWG1-E",
+"href": "/camera-ip-ptz-4mp-hikvision-ds-2de7a425iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE7A425IWG1-E-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision DS-2DE7A225IWG1-E",
+"href": "/camera-ip-ptz-2mp-hikvision-ds-2de7a225iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE7A225IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2DE7A232IWG1-E",
+"href": "/camera-ip-2mp-hikvision-ds-2de7a232iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2DE7A232IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2687G3-LIZS2UY/SRB",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2687g3-lizs2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2687G3-LIZS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2647G3-LIZS2UY/SRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2647g3-lizs2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2647G3-LIZS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP HIKVSION DS-2CD2187G3-LIS2UY",
+"href": "/camera-ip-8mp-hikvsion-ds-2cd2187g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2187G3-LIS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2147G3-LIS2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2147g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2147G3-LIS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T87G3-LIS2UY/SRB",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t87g3-lis2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T87G3-LIS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T47G3-LIS2UY/SRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t47g3-lis2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T47G3-LIS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2387G3-LIS2UY/SRB",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2387g3-lis2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2387G3-LIS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2347G3-LIS2UY/SRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2347g3-lis2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2347G3-LIS2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2087G3-LI2UY/SRB",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2087g3-li2uy-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2087G3-LI2UY-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2743G3-LIZS2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2743g3-lizs2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2743G3-LIZS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2643G3-LIZS2UY",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2643g3-lizs2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2643G3-LIZS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1T43G3-LIU",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1t43g3-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T43G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 2MP Hikvision DS-2CD1123G3-LI",
+"href": "/camera-ip-dome-2mp-hikvision-ds-2cd1123g3-li/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1123G3-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1B47G3-LIUF/LSRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1b47g3-liuf-lsrb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1B47G3-LIUF-LSRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1027G3-LIUF",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1027g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1027G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1127G3-LIUF",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1127g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1127G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1327G3-LIUF",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1327g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1327G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1T27G3-LIUF",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1t27g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T27G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP Hikvision DS-2CD1T67G3-LIUF",
+"href": "/camera-ip-6mp-hikvision-ds-2cd1t67g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T67G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP Hikvision DS-2CD1367G3-LIUF",
+"href": "/camera-ip-6mp-hikvision-ds-2cd1367g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1367G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP thân trụ Hikvision DS-2CD1T47G2H-LIUF",
+"href": "/camera-ip-4mp-than-tru-hikvision-ds-2cd1t47g2h-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1T47G2H-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T43G2-4LI2U",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t43g2-4li2u/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD2T43G2-4LI2U.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2621G0-IZS chống ngược sáng thực",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2621g0-izs-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2621G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2621G0-I chống ngược sáng thực",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2621g0-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2621G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2621G0-IZ chống ngược sáng thực",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2621g0-iz-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2621G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Wifi 2MP Hikvision DS-2CD2021G1-IDW1",
+"href": "/camera-ip-wifi-2mp-hikvision-ds-2cd2021g1-idw1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2021G1-IDW1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2T21G0-IS",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2t21g0-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T21G0-I-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2T21G0-I",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2t21g0/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2T21G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2021G1-I",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2021g1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2021G1-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2T41G1-I 4.0",
+"href": "/camera-ip-hikvision-ds-2cd2t41g1-4-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-2CD2T21G1-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2T21G1-I",
+"href": "/camera-ip-hikvision-ds-2cd2t21g1/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-2CD2T21G1-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision DS-2CD2121G0-I",
+"href": "/ds-2cd2121g0-camera-ip-ban-cau-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-2CD2121G0-IS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP chuẩn nén H.265+, chống ngược sáng thực Hikvision DS-2CD2721G0-IZS",
+"href": "/camera-ip-dome-hong-ngoai-2-mp-chuan-nen-h-265-chong-nguoc-sang-thuc-true-wdr-ds-2cd2721g0-iz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/Camera-IP-Dome-hồng-ngoại-2-MP-chuẩn-nén-H.265-chống-ngược-sáng-thực-True-WDR-DS-2CD2721G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP chuẩn nén H.265+, chống ngược sáng thực Hikvision DS-2CD2721G0-IZ",
+"href": "/camera-ip-dome-hong-ngoai-2-mp-chuan-nen-h-265-chong-nguoc-sang-thuc-true-wdr-ds-2cd2721g0-iz-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/Camera-IP-Dome-hồng-ngoại-2-MP-chuẩn-nén-H.265-chống-ngược-sáng-thực-True-WDR-DS-2CD2721G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP chuẩn nén H.265+, chống ngược sáng thực",
+"href": "/camera-ip-dome-hong-ngoai-2-mp-chuan-nen-h-265-chong-nguoc-sang-thuc-true-wdr-ds-2cd2721g0/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/Camera-IP-Dome-hồng-ngoại-2-MP-chuẩn-nén-H.265-chống-ngược-sáng-thực-True-WDR-DS-2CD2721G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 2MP Hikvision DS-2CD2021G1-IW",
+"href": "/ds-2cd2021g1-iw-camera-ip-than-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CD2021G1-IDW-DS-2CD2021G1-I-DS-2CD2021G1-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ mini EXIR 4MP Hikvision DS-2CD2043G0-I",
+"href": "/ds-2cd2043g0-camera-tru-mini-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2083-63-53-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision DS-2CD2321G0-I/NF",
+"href": "/ds-2cd2321g0-inf-camera-ip-ban-cau/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2321G0-I-NF-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 2MP",
+"href": "/camera-ban-cau-2-0mp-ds-2cd2720f-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD1B47G3-LIUF/SRB",
+"href": "/camera-ip-4mp-hikvision-ds-2cd1b47g3-liuf-srb/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1B47G3-LIUF-SRB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2683G3-LIZS2UY",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2683g3-lizs2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD2683G3-LIZS2UY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân hồng ngoại 2MP HIK-2CD2F24G4-VN",
+"href": "/camera-ip-than-hong-ngoai-2mp-hik-2cd2f24g4-vn/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/2CD2F24G4-VN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 4MP Hikvision DS-2SH2B3G2-IZS",
+"href": "/camera-ip-than-tru-4mp-hikvision-ds-2sh2b3g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/09/DS-2SH2B3G2-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mắt camera IP trụ 5MP hồng ngoại 90m Hikvision DS-2SH56AD-5IS",
+"href": "/mat-camera-ip-tru-5mp-hong-ngoai-90m-hikvision-ds-2sh56ad-5is/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-2SH56AD-5IS.jpg",
+"price": "7.650.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP",
+"href": "/camera-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/05/TS-1H2123D3.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2SH7G46G2-LIZS",
+"href": "/camera-ip-4mp-hikvision-ds-2sh7g46g2-lizs/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/04/DS-2SH7G46G2-LIZS.jpg",
+"price": "7.700.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome Colorvu 2MP Hikvision DS-2CD1327G0-LUF",
+"href": "/camera-ip-dome-colorvu-2mp-hikvision-ds-2cd1327g0-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/02/1347g0l.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Colorvu 4MP Hikvision DS-2CD1047G0-L",
+"href": "/camera-ip-colorvu-4mp-hikvision-ds-2cd1047g0-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/02/1047G0L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome Colorvu 4MP Hikvision DS-2CD1347G0-L",
+"href": "/camera-ip-dome-colorvu-4mp-hikvision-ds-2cd1347g0-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-2CD1347G2-L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome ColorVu 2.0 Megapixel Hikvision DS-2CD2127G2-SU",
+"href": "/camera-ip-dome-colorvu-2-0-megapixel-hikvision-ds-2cd2127g2-su/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2147G2-SU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome ColorVu 4.0 Megapixel Hikvision DS-2CD2147G2-SU",
+"href": "/camera-ip-dome-colorvu-4-0-megapixel-hikvision-ds-2cd2147g2-su/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2147G2-SU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Bullet Network Camera – DS-2CD2T27G2-L",
+"href": "/2-mp-colorvu-fixed-bullet-network-camera-ds-2cd2t27g2-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2T47G2-L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP ColorVu Fixed Bullet Network Camera – DS-2CD2T47G2-L",
+"href": "/4-mp-colorvu-fixed-bullet-network-camera-ds-2cd2t47g2-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2T47G2-L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Nhìn Đêm Có Màu 4.0MP DS-2CD2347G1-LU Hikvision",
+"href": "/camera-nhin-dem-co-mau-4-0mp-ds-2cd2347g1-lu-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2347G1-LU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Colorvu Siêu Nhạy Sáng DS-2CD2327G1-LU Hikvision",
+"href": "/camera-ip-colorvu-sieu-nhay-sang-ds-2cd2327g1-lu-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2347G1-LU-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Turret Network Camera DS-2CD2327G2-L(U)",
+"href": "/2-mp-colorvu-fixed-turret-network-camera-ds-2cd2327g2-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2327G2-LU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP ColorVu Fixed Turret Network Camera DS-2CD2347G2-L(U)",
+"href": "/4-mp-colorvu-fixed-turret-network-camera-ds-2cd2347g2-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2347G2-LU-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 4.0MP Hikvision DS-2CD2047G1-L",
+"href": "/camera-ip-hong-ngoai-4-0mp-hikvision-ds-2cd2047g1-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2027G2-LU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP ColorVu Fixed Mini Bullet Network Camera DS-2CD2047G2-L(U)",
+"href": "/4-mp-colorvu-fixed-mini-bullet-network-camera-ds-2cd2047g2-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2027G2-LU-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Mini Bullet Network Camera DS-2CD2027G2-L(U)",
+"href": "/2-mp-colorvu-fixed-mini-bullet-network-camera-ds-2cd2027g2-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2027G2-LU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD2027G1-L",
+"href": "/camera-ip-2mp-hikvision-ds-2cd2027g1-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/HIKVISION-DS-2CD2027G1-L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "camera bán cầu ColorVu – hình ảnh màu sắc 24/7 Hikvision DS-2CD2347G3E-L",
+"href": "/ds-2cd2347g3e-l-camera-ban-cau-colorvu-hinh-anh-mau-sac-247/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/mypc_hikvisiondomeds-2cd2327g3e-lf4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ColorVu – Hình ảnh màu sắc 24/7 Hikvision DS-2CD2327G3E-L",
+"href": "/ds-2cd2327g3e-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/mypc_hikvisiondomeds-2cd2327g3e-lf4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T87G2P-LSU/SLHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t87g2p-lsu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T87G2P-LSUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2387G2P-LSU/SLHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2387g2p-lsu-slhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2387G2P-LSUSLHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2647G3-LIZS2UY/SRBHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2647g3-lizs2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2647G3-LIZS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2687G3-LIZS2UY/SRBHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2687g3-lizs2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2687G3-LIZS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2T87G3-LIS2UY/SRBHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2t87g3-lis2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T87G3-LIS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2T47G3-LIS2UY/SRBHUN",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2t47g3-lis2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T47G3-LIS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2387G3-LIS2UY/SRBHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2387g3-lis2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2387G3-LIS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision DS-2CD2347G3-LIS2UY/ …",
+"href": "/camera-ip-4mp-hikvision-ds-2cd2347g3-lis2uy/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2347G3-LIS2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 8MP Hikvision DS-2CD2087G3-LI2UY/SRBHUN",
+"href": "/camera-ip-8mp-hikvision-ds-2cd2087g3-li2uy-srbhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2087G3-LI2UYSRBHUN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera nhận diện biển số Hikvision iDS-CGT43L",
+"href": "/camera-nhan-dien-bien-so-hikvision-ids-cgt43l/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/04/IDS-CGT43L.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại SH-VT10A2GF-I",
+"href": "/camera-ip-hong-ngoai-sh-vt10a2gf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/Screenshot_2021-11-09_105602-removebg-preview-1-500x454.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mobile People Counting Network Camera Hikvision DS-2XM6825G0/C-IV(S)(M)(/ND)",
+"href": "/ds-2xm6825g0c-ivsmnd-mobile-people-counting-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XM6825G0_C-IVSMND-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dual-Lens DeepinView Separated Network Camera Hikvision DS-2CD6425G0/F-XX",
+"href": "/ds-2cd6425g0f-xx-dual-lens-deepinview-separated-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6425G0_F-XX-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Covert Network Camera Hikvision DS-2CD2D21G0/M-D/NF",
+"href": "/ds-2cd2d21g0m-dnf-covert-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2D11G0_M-D_NF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Covert Network Camera Hikvision DS-2CD2D11G0/M-D/NF",
+"href": "/ds-2cd2d11g0m-dnf-covert-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2D11G0_M-D_NF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dual-Lens People Counting Network Camera Hikvision DS-2CD6825G0/C-I(V)(S)",
+"href": "/ds-2cd6825g0c-ivs-dual-lens-people-counting-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6825G0_C-IVS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Separated Network Camera – DS-2CD6425G0-XX",
+"href": "/separated-network-camera-ds-2cd6425g0-xx/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6425G0-XX-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD6365G0E-I(V)(S)",
+"href": "/ds-2cd6365g0e-ivs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6365G0E-IVS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bí mật 1MP Hikvision DS-2CD2D11G0-D/NF",
+"href": "/camera-ip-bi-mat-1mp-hikvision-ds-2cd2d11g0-dnf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2D11G0-D_NF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera giám sát toàn cảnh TandemVu DS-8SHC25MXS-DLW",
+"href": "/camera-giam-sat-toan-canh-tandemvu-ds-8shc25mxs-dlw/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-8SHC25MXS-DLW.jpg",
+"price": "46.980.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP WDR Fixed Bullet Network Camera",
+"href": "/4-mp-wdr-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/05/gsobild_137544.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 4 MP Vandal WDR Fixed Dome Network Camera",
+"href": "/camera-4-mp-vandal-wdr-fixed-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/05/DS-2CD2123G2-IS-半球46-海康白-加MIC-右侧.png.thumb_.1280.1280.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera an ninh",
+"href": "/camera-an-ninh/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/1.-DS-2CD3645G0-IZS-e1662352128882.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP AcuSense Strobe Light and Audible Warning Fixed Mini Bullet Network Camera Hikvision DS-2CD3026G2-IU/SL",
+"href": "/ds-2cd3026g2-iusl-2-mp-acusense-strobe-light-audible-warning-fixed-mini-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD3026G2-IU.SL_-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD3023G0-I",
+"href": "/camera-ip-hikvision-ds-2cd3023g0/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD3023G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Deep In View nhận diện biển số 4MP",
+"href": "/camera-ip-deep-view-nhan-dien-bien-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/2.-iDS-TCM403-AI.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision iDS-2CD7A26G0/P-IZHS",
+"href": "/ids-2cd7a26g0p-izhs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/HIKVISION-iDS-2CD7A26G0-P-IZHSY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP nhận diện biển số xe Hikvision iDS-2CD7A46G0/P-IZHSY (8~32 mm)",
+"href": "/camera-ip-nhan-dien-bien-xe-hikvision-ids-2cd7a46g0p-izhsy-832-mm/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD7A26G0-IZHSYR-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision nhận dạng biển số xe DS-2CD7A26G0/P-IZS (2.8-12mm)",
+"href": "/camera-hikvision-nhan-dang-bien-xe-ds-2cd7a26g0p-izs-2-8-12mm/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD7A26G0-IZHSYR-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP DeepinView Face Recognition Indoor Moto Varifocal Dome Camera Hikvision iDS-2CD8146G0-IZS",
+"href": "/ids-2cd8146g0-izs-4-mp-deepinview-face-recognition-indoor-moto-varifocal-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD8146G0-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP DeepinView Moto Varifocal Box Camera Hikvision iDS-2CD7046G0-AP",
+"href": "/ids-2cd7046g0-ap-4mp-deepinview-moto-varifocal-box-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD7046G0-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mobile People Counting Network Camera Hikvision iDS-2XM6810F-I(M)/C",
+"href": "/ids-2xm6810f-imc-mobile-people-counting-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2XM6810F-IM_C-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP DeepinView Moto Varifocal Box With Housing Camera Hikvision iDS-2CD7026G0/E-IHSY(R)",
+"href": "/ids-2cd7026g0e-ihsyr-2mp-deepinview-moto-varifocal-box-housing-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD7026G0_E-IHSYR-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP DeepinView Moto Varifocal Bullet Camera – iDS-2CD7A26G0-IZHS(Y)(R)",
+"href": "/2mp-deepinview-moto-varifocal-bullet-camera-ids-2cd7a26g0-izhsyr/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-2CD7A26G0-IZHSYR-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thông minh DS-2CD7A65G0-IZ(H)S(Y)",
+"href": "/camera-ip-thong-minh-ds-2cd7a65g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/Screenshot_2021-10-15_151233-removebg-preview.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thông minh DS-2CD7A85G0-IZ(H)S(Y)",
+"href": "/camera-ip-thong-minh-ds-2cd7a85g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP VF Dome Network Camera Hikvision iDS-2CD7126G0-IZS",
+"href": "/ids-2cd7126g0-izs-2-mp-vf-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/08/DS-2CD7126G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera ảnh nhiệt phát hiện khói và cháy rừng",
+"href": "/camera-anh-nhiet-phat-hien-khoi-va-chay-rung/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/10.-DS-2TD8167-150ZC4FW-e1660116495863.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera ảnh nhiệt cầm tay Hikvision DS-2TP31B-3AUF",
+"href": "/camera-anh-nhiet-cam-tay-hikvision-ds-2tp31b-3auf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-2TP31B-3AUF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ảnh nhiệt Hikvision DS-2TD2617B-3/PA",
+"href": "/camera-ip-anh-nhiet-hikvision-ds-2td2617b-3pa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-2TD2617B-3.PA_-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ảnh nhiệt Hikvision DS-2TD2617B-6/PA",
+"href": "/camera-ip-anh-nhiet-hikvision-ds-2td2617b-6pa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-2TD2617B-6.PA_-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Colorvu 2MP Hikvision DS-2CD1027G0-LUF",
+"href": "/camera-ip-colorvu-2mp-hikvision-ds-2cd1027g0-luf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/12/camera.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1T27G0-LUF",
+"href": "/ds-2cd1t27g0-luf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/09/HIKVISION-DS-2CD1T27G0-LUF-500x294.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-2CD1023G0-IU",
+"href": "/camera-ip-2mp-hikvision-ds-2cd1023g0-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1023G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 2MP Hikvision DS-2CD1323G0-IU",
+"href": "/camera-ip-dome-2mp-hikvision-ds-2cd1323g0-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1323G0-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome hồng ngoại 1.0 Megapixel Hikvision DS-2CD1301-I",
+"href": "/camera-ip-dome-hong-ngoai-1-0-megapixel-hikvision-ds-2cd1301/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1323G0E-ID-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 megapixel Hikvision DS-2CD1123G0E-IF",
+"href": "/camera-ip-hong-ngoai-2-0-megapixel-hikvision-ds-2cd1123g0e/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1123G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 megapixel Hikvision DS-2CD1323G0E-IF",
+"href": "/camera-ip-hong-ngoai-2-0-megapixel-hikvision-ds-2cd1323g0e/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1323G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2 megapixel Hikvision DS-2CD1023G0E-IF",
+"href": "/camera-ip-2-megapixel-hikvision-ds-2cd1023g0e/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1023G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 megapixel Hikvision DS-2CD1323G0E-ID",
+"href": "/camera-ip-hong-ngoai-2-0-megapixel-hikvision-ds-2cd1323g0e-id/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1323G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1123G0E-ID",
+"href": "/ds-2cd1123g0e-id/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1123G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1P23G0-I",
+"href": "/ds-2cd1p23g0-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1P23G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2.0 megapixel Hikvision DS-2CD1023G0E-ID",
+"href": "/camera-ip-2-0-megapixel-hikvision-ds-2cd1023g0e-id/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD1023G0E-ID-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1327G0-LU",
+"href": "/ds-2cd1327g0-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/DS-2CD1327G0-LU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1027G0-LU",
+"href": "/ds-2cd1027g0-lu/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/DS-2CD1027G0-LU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 Megapixel Hikvision DS-2CD1023G0E-I(L)",
+"href": "/camera-ip-hong-ngoai-2-0-megapixel-hikvision-ds-2cd1023g0e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS2CD1023G0EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1123G0E-I (L) 2.0 Megapixel",
+"href": "/camera-ip-hikvision-ds-2cd1123g0e-2-0-megapixel/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/SH-2TC1630F1-E-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1023G0E-I 2.0 Megapixel",
+"href": "/ds-2cd1023g0e-2-0-megapixel/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS2CD1023G0EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1327G0-L",
+"href": "/ds-2cd1327g0-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/DS-2CD1327G0-L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1027G0-L",
+"href": "/ds-2cd1027g0-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/DS-2cd1027g0-l-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1343G0E-IF",
+"href": "/ds-2cd1343g0e-if/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/02/DS-2CD1343G0E-IF-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1143G0E-IF",
+"href": "/ds-2cd1143g0e-if/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/02/DS-2CD1143G0E-IF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD1043G0E-IF",
+"href": "/ds-2cd1043g0e-if/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/02/DS-2CD1043G0E-IF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu hồng ngoại 2 MP Hikvision DS-D3200VN",
+"href": "/ds-d3200vn-camera-ip-ban-cau-hong-ngoai-2-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-D3200VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Outdoor Audio Fixed Bullet Network Camera Hikvision DS-2CV2021G2-IDW",
+"href": "/ds-2cv2021g2-idw-2-mp-outdoor-audio-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CV2021G2-IDW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP Indoor Fixed Dome Network Camera with Build-in Mic – DS-2CD2141G1-IDW",
+"href": "/4-mp-indoor-fixed-dome-network-camera-build-mic-ds-2cd2141g1-idw/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2121G1-IDW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP Outdoor Fixed Bullet Network Camera with Build-in Mic – DS-2CD2041G1-IDW",
+"href": "/4-mp-outdoor-fixed-bullet-network-camera-build-mic-ds-2cd2041g1-idw/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2021G1-IDW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Outdoor Fixed Bullet Network Camera with Build-in Mic-DS-2CD2021G1-IDW",
+"href": "/2-mp-outdoor-fixed-bullet-network-camera-build-mic-ds-2cd2021g1-idw/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2021G1-IDW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini pt Hikvision DS-2CD2F42FWD-IWS",
+"href": "/camera-ip-mini-pt-hikvision-ds-2cd2f42fwd-iws/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2F22FWD-IWS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome Hikvision DS-2CD2F22FWD-IWS",
+"href": "/camera-ip-dome-hikvision-ds-2cd2f22fwd-iws/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD2F22FWD-IWS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Wifi Dome 2MP Hikvision DS-2CD2121G1-IDW1",
+"href": "/camera-ip-wifi-dome-2mp-hikvision-ds-2cd2121g1-idw1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CD2121G1-IDW1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi Hikvision DS-2DE2C400IW-DE/W",
+"href": "/ds-2de2c400iw-dew/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/6449_camera_quan_sat_ip_hikivision_ds_2de2c400iw_de_w_10_-500x500.gif",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi Hikvision DS-2CV1021G0-IDW1/NF 2 MP IR Fixed Bullet Wi-Fi",
+"href": "/ds-2cv1021g0-idw1nf-2-mp-ir-fixed-bullet-wi-fi-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/22529_hikvision-ds-2cv1021g0-idw1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi Hikvision Smart U1-FHD SH-IVB21UF-IW",
+"href": "/hikvision-smart-u1-fhd-sh-ivb21uf-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IVB01UEF-IW-SH-IVB21UF-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini PT 2MP Hikvision DS-2CV2Q21FD-IW",
+"href": "/ds-2cv2q21fd-iw-camera-ip-mini-pt-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2Q01EFD-IW-DS-2CV2Q21FD-IW.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera – DS-2XE6885G0-(I)(L)Z(H)(S)",
+"href": "/exir-motorized-varifocal-bullet-explosion-proof-network-camera-ds-2xe6885g0-ilzhs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6845G0-ILZHS-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera – DS-2XE6825G0-(I)(L)Z(H)(S)",
+"href": "/exir-motorized-varifocal-bullet-explosion-proof-network-camera-ds-2xe6825g0-ilzhs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6845G0-ILZHS-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera – DS-2XE6452F-IZH(R)S",
+"href": "/exir-motorized-varifocal-bullet-explosion-proof-network-camera-ds-2xe6452f-izhrs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4236I-CWX-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera Hikvision DS-2XE6422FWD-IZHRS",
+"href": "/ds-2xe6422fwd-izhrs-exir-motorized-varifocal-bullet-explosion-proof-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4236I-CWX-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Explosion-Proof Network Bullet Camera Hikvision DS-2XE6222F-IS/316L(B)",
+"href": "/ds-2xe6222f-is316lb-2-mp-explosion-proof-network-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6242F-IS_316LB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera – DS-2XE6845G0-(I)(L)Z(H)(S)",
+"href": "/exir-motorized-varifocal-bullet-explosion-proof-network-camera-ds-2xe6845g0-ilzhs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6845G0-ILZHS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera Hikvision DS-2XE6482F-IZHRS",
+"href": "/ds-2xe6482f-izhrs-exir-motorized-varifocal-bullet-explosion-proof-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4236I-CWX-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Explosion-Proof Network Camera – DS-2XE6442F-IZHRS(B)",
+"href": "/exir-motorized-varifocal-bullet-explosion-proof-network-camera-ds-2xe6442f-izhrsb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4236I-CWX-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Fixed Bullet Explosion-Proof Network Camera – DS-2XE6242F-IS/316L(B)",
+"href": "/exir-fixed-bullet-explosion-proof-network-camera-ds-2xe6242f-is316lb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6242F-IS_316LB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Fixed Bullet Explosion-Proof Network Camera – DS-2XE6025G0-I(S)(M)",
+"href": "/exir-fixed-bullet-explosion-proof-network-camera-ds-2xe6025g0-ism/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6045G0-ISM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Fixed Dome Explosion-Proof Network Camera – DS-2XE6126FWD-HS(B)",
+"href": "/exir-fixed-dome-explosion-proof-network-camera-ds-2xe6126fwd-hsb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/Untitled-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 9-inch 2MP 36X DarkFighter Explosion Network Position system – DS-2DY9236I-CWX",
+"href": "/9-inch-2mp-36x-darkfighter-explosion-network-position-system-ds-2dy9236i-cwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DY9236I-CWXW_316L-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2DF4220-DX(W/316L) – 4-inch 20x Explosion-proof Network Speed Dome",
+"href": "/ds-2df4220-dxw316l-4-inch-20x-explosion-proof-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DF6223-CX-W316L-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR 36x Bullet Explosion-proof Network Camera Hikvision DS-2DB4236I-CWX",
+"href": "/ds-2db4236i-cwx-exir-36x-bullet-explosion-proof-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4236I-CWX-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Fixed Bullet Explosion-Proof Network Camera – DS-2XE6045G0-I(S)(M)",
+"href": "/exir-fixed-bullet-explosion-proof-network-camera-ds-2xe6045g0-ism/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XE6045G0-ISM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 9-inch 2MP 36X DarkFighter Explosion Network Position system – DS-2DY9236I-CWX(W/316L)",
+"href": "/9-inch-2mp-36x-darkfighter-explosion-network-position-system-ds-2dy9236i-cwxw316l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DY9236I-CWXW_316L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2DF6223-CX (W316L) – 6-inch 23x Explosion-proof Network Speed Dome",
+"href": "/ds-2df6223-cx-w316l-6-inch-23x-explosion-proof-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DF6223-CX-W316L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR 23x Bullet Explosion-proof Network Camera – DS-2DB4223I-CX",
+"href": "/exir-23x-bullet-explosion-proof-network-camera-ds-2db4223i-cx/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DB4223I-CX-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP Anti – Corrosion Network Dome Camera Hikvision DS-2XC6142FWD-IS",
+"href": "/ds-2xc6142fwd-4mp-anti-corrosion-network-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/ds-2xc6122fwd-is-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 6-inch 23x Anti-corrosion Network Speed Dome – DS-2DT6223-AELY",
+"href": "/6-inch-23x-anti-corrosion-network-speed-dome-ds-2dt6223-aely/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DT6223-AELY-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Dome Anti-Corrosion Network Camera – DS-2CD6626DS-IZ(H)S",
+"href": "/exir-motorized-varifocal-dome-anti-corrosion-network-camera-ds-2cd6626ds-izhs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6626DS-IZHS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Bullet Underwater Network Camera – DS-2XC6224G0-L",
+"href": "/exir-bullet-underwater-network-camera-ds-2xc6224g0-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XC6224G0-L-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Anti – Corrosion Network Dome Camera Hikvision DS-2XC6122FWD-IS",
+"href": "/ds-2xc6122fwd-2-mp-anti-corrosion-network-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/ds-2xc6122fwd-is-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "EXIR Motorized Varifocal Bullet Anti-Corrosion Network Camera Hikvision DS-2CD6626B-IZH(R)S",
+"href": "/ds-2cd6626b-izhrs-exir-motorized-varifocal-bullet-anti-corrosion-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CD6626B-IZHRS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DarkFighter series 2MP Anti-corrosion IR Bullet network camera Hikvision DS-2CD6652B-IZHS",
+"href": "/ds-2cd6652b-izhs-darkfighter-series-2mp-anti-corrsion-ir-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD6626B-IZHS-500x455.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi IP 32 kênh Hikvision DS-ALS32-S16",
+"href": "/dau-ghi-ip-32-kenh-hiikvision-ds-als32-s16/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-ALS32-S16.jpg",
+"price": "67.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP Hikvision DS-2CD1067G3-LIUF",
+"href": "/camera-ip-6mp-hikvision-ds-2cd1067g3-liuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2CD1067G3-LIUF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình hiển thị hình ảnh Hikvision SH-M4300H",
+"href": "/man-hinh-may-tinh-hikvision-sh-m4300h/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-M4300H.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công khuôn mặt + vân tay + Thẻ Mifare Hikvision SH-K1T9343MFWX",
+"href": "/may-cham-cong-khuon-mat-van-tay-the-mifare-hikvision-sh-k1t9343mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9343MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay và thẻ từ Hikvision SH-K1T9803MF",
+"href": "/may-cham-cong-van-tay-va-the-tu-hikvision-sh-k1t9803mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9803MF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ lưu điện UPS Hikvision DS-UPS600",
+"href": "/bo-luu-dien-ups-hikvision-ds-ups600/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/ds-ups-600.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cáp mạng CAT5 8 Lõi đồng Hikvision DS-1LN5EUECO",
+"href": "/cap-mang-cat5-8-loi-dong-hikvision-ds-1ln5eueco/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/cat5.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ColorVu 2.0 Megapixel Hikvision DS-2CD1T27G2-LUF",
+"href": "/camera-ip-colorvu-2-0-megapixel-hikvision-ds-2cd1t27g2-luf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-2CD1T27G2-LUF.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP thân trụ Hikvision DS-2CD1047G2-L",
+"href": "/camera-ip-4mp-than-tru-hikvision-ds-2cd1047g2-luf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-2CD1047G2-L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ lưu điện Hikvision DS-UPS1000",
+"href": "/bo-luu-dien-hikvision-ds-ups1000/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-UPS1000.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ thu phát sóng không dây cho thang máy Hikvision",
+"href": "/bo-thu-phat-song-khong-day-cho-thang-may-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-5WF200CT-2N.jpg",
+"price": "4.906.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá treo màn hình Hikvision",
+"href": "/gia-treo-man-hinh-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-DM4255W.jpg",
+"price": "1.005.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuyên dụng 55 inch Hikvision",
+"href": "/man-hinh-chuyen-dung-55-inch-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-D5055UC-C.jpeg",
+"price": "46.150.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bản quyền phần mềm cho 1 thiết bị",
+"href": "/ban-quyen-phan-mem-cho-1-thiet-bi/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/HikCentral-P-VSS-Base16Ch.png",
+"price": "2.965.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bản quyền phần mềm quản lý camera",
+"href": "/ban-quyen-phan-mem-quan-ly-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/HikCentral-P-VSS-Base16Ch.png",
+"price": "55.200.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome DS-2DE7A225IW-AEB",
+"href": "/camera-ip-speed-dome-ds-2de7a225iw-aeb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2DE7A425IW-AEB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome DS-2DE7A232IW-AEB",
+"href": "/camera-ip-speed-dome-ds-2de7a232iw-aeb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2DE7A425IW-AEB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome hồng ngoại 4.0 Megapixel Hikvision DS-2DE7A425IW-AEB",
+"href": "/camera-ip-speed-dome-hong-ngoai-4-0-megapixel-hikvision-ds-2de7a425iw-aeb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2DE7A425IW-AEB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision iDS-7216HUHI-M2/S 16-ch 5 MP 1U H.265 AcuSense DVR",
+"href": "/ids-7216huhi-m2s-16-ch-5-mp-1u-h-265-acusense-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/iDS-7216HUHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu hồng ngoại 6MP Hikvision DS-2CD2163G2-IU",
+"href": "/camera-ip-ban-cau-hong-ngoai-6mp-hikvision-ds-2cd2163g2-iu/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2CD2163G2-IU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome COLORVU Lite DS-2CD1347G0-LUF(C)",
+"href": "/camera-ip-dome-colorvu-lite-ds-2cd1347g0-lufc/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2CD1343G0-IUF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Colorvu 4MP Hikvision DS-2CD1047G0-LUF",
+"href": "/camera-ip-colorvu-4mp-hikvision-ds-2cd1047g0-luf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2CD1047G0-LUF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP Fixed Turret Network Camera DS-2CD1343G0-UF",
+"href": "/4-mp-fixed-turret-network-camera-ds-2cd1343g0-iuf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2CD1343G0-IUF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CAMERA DS-2CD3645G0-IZS",
+"href": "/camera-ds-2cd3645g0-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/36xxG0-IZS-Bulletno-tail-type.png.thumb_.1280.1280-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CAMERA iDS-TCM203-A",
+"href": "/camera-ids-tcm203/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/Camera-giam-sat-thong-minh-iDS-TCM203-A-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2723Q1-IZP",
+"href": "/camera-ip-hikvision-ds-2cd2723q1-izp/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/HIKVISION-DS-2CD2723G1-IZS-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IPC-TB3645G0-IZ",
+"href": "/camera-ipc-tb3645g0-iz/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/IPC.TB3645G0.IZ_-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision SH-2VT8DF25IX-AELW",
+"href": "/sh-2vt8df25ix-aelw/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/01/DS-2DF8225IX-AELW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-3E0505D-E",
+"href": "/ds-3e0505d-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-3E0505D-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0108D-E",
+"href": "/ds-3e0108d-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-3E0108D-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-KB2421-IM",
+"href": "/ds-kb2421-im/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/Untitled-1-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera chuông cửa IP Hikvision DS-KV6113-PE1",
+"href": "/camera-chuong-cua-ip-hikvision-ds-kv6113-pe1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KV6113-WPE1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision iDS-7216HQHI-M2/S",
+"href": "/ids-7216hqhi-m2s/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision iDS-7208HQHI-M2/S",
+"href": "/ids-7208hqhi-m2s/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 128 kênh Hikvision SH-DT96128-AVD",
+"href": "/dau-ghi-hinh-camera-ip-128-kenh-hikvision-sh-dt96128-avd/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/09/456-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome hồng ngoại 4.0 Megapixel Hikvision SH-DT5432-AVD",
+"href": "/camera-ip-speed-dome-hong-ngoai-4-0-megapixel-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/09/123-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 Megapixel Hikvision SH-DT1023IU-AVD",
+"href": "/sh-dt1023iu-avd/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-2CD2T21G1-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision SH-DT1123-AVD 2.0 Megapixel",
+"href": "/camera-ip-hikvision-ds-sh-dt1123-avd-2-0-megapixel/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/SH-2TC1630F1-E-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 32 kênh IP H.265+ Hikvision SH-4232MI-Q4",
+"href": "/dau-ghi-32-kenh-ip-h-265-hikvision-sh-4232mi-q4-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/Untitled-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision SH-2TC1520F1-E",
+"href": "/camera-ip-2mp-hikvision-sh-2tc1520f1-e-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/SH-2TC1520F1-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision SH-2TC1630F1-E",
+"href": "/camera-ip-2mp-hikvision-sh-2tc1630f1-e-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/SH-2TC1630F1-E-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2TE127-F4A",
+"href": "/ds-2te127-f4a/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TE127-F4A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị phụ trợ đo ảnh nhiệt Hikvision DS-2908ZJ",
+"href": "/thiet-bi-phu-tro-anh-nhiet-hikvision-ds-2908zj/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2908ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/7208HUHI-K1/UHK",
+"href": "/ds-7200huhi-k1/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD2T46G1-4I/SL",
+"href": "/ds-2cd2t46g1-4isl/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/DS-2CD2T46G1-4I_SL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision plus HKI-2CD2346KL-SIR",
+"href": "/camera-ip-4mp-hikvision-plus-hki-2cd2346kl-sir/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/HKI-2CD2346KL-SIR-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision HKI-2TC6225B0-KP",
+"href": "/hki-2tc6225b0-kp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/11/p_23837_HIKVISION-DS-2CD2643G0-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision HKI-2TC5223NA-PM",
+"href": "/hki-2tc5223na-pm/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/11/DS-2CD2143G0-IS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision plus HKI-2CD2326KL-SIR",
+"href": "/camera-ip-2mp-hikvision-plus-hki-2cd2326kl-sir/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/11/DS-2CD5A26G0-IZHS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision SH-DT23T4-AVD",
+"href": "/sh-dt23t4-avd/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/10/SH-DT23T4-AVD-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 5MP Hikvision HIK-2CD2555FWD-SH",
+"href": "/camera-ip-5mp-hikvision-hik-2cd2555fwd-sh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/10/HIK-2CD2555FWD-SH-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 5MP Hikvision HIK-2TC3320TA-SH",
+"href": "/camera-ip-5mp-hikvision-hik-2tc3320ta-sh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/10/HIK-2TC3320TA-sh.-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch POE Công Nghiệp HKI-SH3T1421P",
+"href": "/switch-poe-cong-nghiep-hki-sh3t1421p/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/09/HKI-SH3T1421P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera speed dome IP 5MP HKI-2DE5703IW-SH",
+"href": "/camera-speed-dome-ip-5mp-hki-2de5703iw-sh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/09/HKI-2DE5703IW-SH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP VF Bullet Network Camera Hikvision HKI-2CD3326KL-SIR",
+"href": "/hki-2cd3326kl-sir-4mp-vf-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/09/DS-2CD2655FWD-IZS2.8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ( hình trụ) hồng ngoại 2 MP chuẩn nén H.265+ Hikvision HKI-9920F-I3L2ZS",
+"href": "/hki-9920f-i3l2zs-camera-ip-hinh-tru-hong-ngoai-2-mp-chuan-nen-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CD2621G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision SH-AZB231G0-I",
+"href": "/sh-azb231g0-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB551TFWD-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision Sh – NVR300-I8 serier NVR",
+"href": "/sh-nvr300-i8-serier-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/SH-822xK-I6_2_0-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision SH-AZB23TG0- I5",
+"href": "/sh-azb23tg0-i5/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/08/SH-AZB23TG0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 32 kênh Hikvision SH-8632N0-K4",
+"href": "/sh-8632n0-k4-dau-ghi-hinh-camera-ip-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/SH-8632N0-K4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 4x Network IR PTZ Camera Hikvision DS-2DE4A404IW",
+"href": "/ds-2de4a404iw-4mp-4x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DE4A425IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ – 2MP Hikvision DS-2CD2623G1-IZ",
+"href": "/ds-2cd2623g1-iz-camera-than-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ – 2MP Hikvision DS-2CD2623G1-I",
+"href": "/ds-2cd2623g1-i-camera-than-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thể thao chuyên nghiệp S6 (CS-SP208 – P0 – 6C12WFBS)",
+"href": "/camera-thao-chuyen-nghiep-s6-cs-sp208-p0-6c12wfbs/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-6708-16HQHI-SATA-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera không dây wifi dùng pin CS-C3A",
+"href": "/camera-khong-day-wifi-dung-pin-cs-c3a/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-SMT-MOTORBIKEA-gia-gan-camera-tren-motorbike-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quay quét wifi 1MP có cổng mạng EZVIZ C6CN",
+"href": "/c6cn-camera-quay-quet-wifi-1mp-co-cong-mang-cs-cv246-b0-1c1wfr/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/c6cn-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá Ezviz (CS-CV346) C6P",
+"href": "/c6p-camera-mat-ca-ezviz-cs-cv346/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/c6p-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "C6B 1.3 megapixel Wi-Fi Indoor PT Camera (CS-CV240-B0-21WFR)",
+"href": "/c6b-1-3-megapixel-wi-fi-indoor-pt-camera-cs-cv240-b0-21wfr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/10/c6b-ezviz-nha-an-toan-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Action camera S3 (CS-SP206-C0-68WFBS)",
+"href": "/action-camera-s3-cs-sp206-c0-68wfbs/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/S2-camera-hanh-trinh-s3-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera wifi mini 360 plus C6T with RF (CS-CV248-A3-32WMFR)",
+"href": "/camera-wifi-mini-360-plus-c6t-rf-cs-cv248-a3-32wmfr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/C6T-RF-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi Indoor Cloud C2C Panoramic (CS-CV206-A0-1B2W2FR)",
+"href": "/camera-wi-fi-indoor-cloud-c2c-panoramic-cs-cv206-a0-1b2w2fr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1080p Wi-Fi Indoor Cloud Camera (CS-CV200-A0-52WFR) Ezviz Mini Plus",
+"href": "/mini-plus-1080p-wi-fi-indoor-cloud-camera-cs-cv200-a0-52wfr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/Mini-Plus-ezviz-CS-CV200-A0-52WFRWhite-nha-an-toan-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "giá gắn camera lên motorbike Hikvision CS-SMT-MOTORBIKEA",
+"href": "/cs-smt-motorbikea-gia-gan-camera-len-motorbike/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-SMT-MOTORBIKEA-gia-gan-camera-tren-motorbike.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ chống nước cho S1C Hikvision Waterproof Case(S1C)",
+"href": "/waterproof-cases1c-vo-chong-nuoc-cho-s1c/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Waterproof-CaseS1C-Vo-chong-nuoc-cho-S1C-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá gắn camera Hikvision CS-SMT-Helmet Bracket",
+"href": "/cs-smt-helmet-bracket-gia-gan-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Gia-gan-camera-EZVIZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá gắn camera – kẹp vào dây đeo balo Hikvision CS-SMT-Backpack Clip",
+"href": "/cs-smt-backpack-clip-gia-gan-camera-kep-vao-day-deo-balo/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Gia-gan-camera-kep-vao-day-deo-balo-EZVIZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khung gắn cho camera Hikvision CS-SMT-FRAME",
+"href": "/cs-smt-frame-khung-gan-cho-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Khung-gan-cho-camera-EZVIZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin dự phòng cho S5 Plus Hikvision CS-SMT-BATTERY-5P",
+"href": "/cs-smt-battery-5p-pin-du-phong-cho-s5-plus/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Pin-du-phong-cho-S5-S1C-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin dự phòng cho S5/S1C Hikvision CS-SMT-BATTERY-5",
+"href": "/cs-smt-battery-5-pin-du-phong-cho-s5s1c/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Pin-du-phong-cho-S5-S1C-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nắp che ống kính – Lens Cover",
+"href": "/nap-che-ong-kinh-lens-cover/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Nap-che-ong-kinh-Lens-Cover-EZVIZ-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đế sạc cho pin – Charge",
+"href": "/de-sac-cho-pin-charge/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/sac-cho-chan-de-camera-chager-ezviz-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình 5MP HD-TVI 8 kênh Hikvision DS-7308HUHI-K4",
+"href": "/ds-7308huhi-k4-dau-ghi-hinh-5mp-hd-tvi-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-7304HUHI-K4-500x483.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP 1/1.8” Progressive Scan CCD Camera Hikvision VCU-7012-ITIR",
+"href": "/vcu-7012-itir-3mp-11-8-progressive-scan-ccd-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/VCU-7012-ITIR-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá 360 độ 4.0MP Hikvision DS-2CD2942F-IW",
+"href": "/ds-2cd2942f-iw-camera-mat-ca-360-4-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2942-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-6708/16HQHI-SATA Encoder",
+"href": "/ds-670816hqhi-sata-encoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-6708-16HQHI-SATA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 5MP Hikvision HIK-IP6052-I",
+"href": "/hik-ip6052-camera-tru-ip-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6052-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tủ trung tâm báo động Hikvision DS-19S08-4F",
+"href": "/ds-19s08-4f-tu-trung-tam-bao-dong-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-19s08-4f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP 32 Kênh 4 Ổ Cứng Hikvision DS-7732NXI-K4/vPro",
+"href": "/dau-ghi-hinh-ip-32-kenh-4-o-cung-hikvision-ds-7732nxi-k4-vpro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-7732NXI-K4-VPro.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP 16 Kênh 4 Ổ Cứng Hikvision DS-7716NXI-K4/vPro",
+"href": "/dau-ghi-hinh-ip-16-kenh-4-o-cung-hikvision-ds-7716nxi-k4-vpro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-7716nxi-k4-vpro.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP 32 Kênh Hikvision DS-7632NXI-K2/vPro",
+"href": "/dau-ghi-hinh-ip-32-kenh-hikvision-ds-7632nxi-k2-vpro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-7632NXI-K2-VPro.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP 16 Kênh Hikvision DS-7616NXI-K2/VPro",
+"href": "/dau-ghi-hinh-ip-16-kenh-hikvision-ds-7616nxi-k2-vpro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-7616nxi-k2-vpro.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP 8 Kênh Hikvision DS-7608NXI-K2/vPro",
+"href": "/dau-ghi-hinh-ip-8-kenh-hikvision-ds-7608nxi-k2-vpro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-7608NXI-K2-vPro.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu Ghi Hình IP Hikvision 32 Kênh HE-N8732NIX-S2",
+"href": "/dau-ghi-hinh-ip-hikvision-32-kenh-he-n8732nix-s2/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/HE-N8732NIX-S2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR cao cấp 64 kênh – 8 ổ cứng",
+"href": "/dau-ghi-hinh-nvr-cao-cap-64-kenh-8-o-cung/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-9A8064-TB.jpg",
+"price": "46.296.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 32 kênh Hikvision DS-SH932NI-AD",
+"href": "/dau-ghi-hinh-camera-ip-32-kenh-hikvision-ds-sh932ni-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-SH932NI-AD.jpg",
+"price": "18.200.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình 32 kênh IP",
+"href": "/dau-ghi-hinh-32-kenh-ip/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/05/TS-NH9632H8.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-VT632IP-K2",
+"href": "/sh-vt632ip-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/UciN1_p-26029-hikvision-ds-7632ni-k2-16p-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-VT616IP-K2",
+"href": "/sh-vt616ip-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/p_19407_HIKVISION-DS-7616NI-K2-500x227.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR Acusense 16 kênh PoE – 2 ổ cứng Hikvision SH-NVR716-I2/16P",
+"href": "/dau-ghi-hinh-nvr-acusense-16-kenh-poe-2-o-cung-hikvision-sh-nvr716-i2-16p/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-NVR716-I2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 32 kênh IP Hikvision DS-7632NI-K2/16P",
+"href": "/dau-ghi-32-kenh-ip-hikvision-ds-7632ni-k216p/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/nat1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 8 kênh Hikvision DS-7608NI-K1/8P(B)",
+"href": "/ds-7608ni-k18pb-dau-ghi-hinh-camera-ip-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 8 kênh Hikvision DS-7608NI-K1(B)",
+"href": "/ds-7604ni-k1b4p-dau-ghi-hinh-camera-ip-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 4 kênh Hikvision DS-7604NI-K1/4P(B)",
+"href": "/ds-7604ni-k1b-dau-ghi-hinh-camera-ip-4-kenh-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 4 kênh Hikvision DS-7604NI-K1(B)",
+"href": "/ds-7604ni-k1b-dau-ghi-hinh-camera-ip-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Embedded 4K NVR Hikvision DS-7608NI-K2",
+"href": "/ds-7608ni-k2-embedded-4k-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7608-16-32ni-k2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 4K 32 kênh Hikvision DS-7632NI-K2",
+"href": "/ds-7632ni-k2-dau-ghi-hinh-nvr-4k-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7608-16-32ni-k2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision NVR Embedded entry level H265+ 4K 1U PoE",
+"href": "/nvr-embedded-entry-level-h265-4k-1u-poe/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7616NI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play 4K Hikvision DS-7616NI-K2/16P",
+"href": "/ds-7616ni-k216p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS7608NII28P-500x333.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision NVR Embedded Plug & Play 4K – DS-7608NI-K2/8P",
+"href": "/ds-7608ni-k28p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS7608NII28P-500x333.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 8/16/32 kênh Hikvision DS-7600NI-K2/P",
+"href": "/ds-7600ni-k2p-dau-ghi-nvr-81632-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-7608-7616-7632NI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 4K Hikvision DS-7616NI-K2",
+"href": "/ds-7616ni-k2-dau-ghi-hinh-nvr-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7616NI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Cao cấp IP 128 kênh – 16 ổ cứng",
+"href": "/dau-ghi-hinh-cao-cap-ip-128-kenh-16-o-cung/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/4.-dau-ghi-HIKVISION-DS-96128NI-I16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded H.265+ 4K 2U Hikvision DS-9632/64NI-I8",
+"href": "/ds-963264ni-i8-nvr-embedded-h-265-4k-2u/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-963264NII8-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Super NVR Embedded H.265+S 4K Hikvision DS-96128NI-I16-DS-96256NI-I16H",
+"href": "/ds-96128ni-i16-ds-96256ni-i16h-super-nvr-embedded-h-265s-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded H.265+ 4K 3U Hikvision DS-963264NI-I16NVR",
+"href": "/ds-963264ni-i16nvr-embedded-h-265-4k-3u/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-9632NII16.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded H.265+ 4K Super NVR Hikvision DS-96128NI-I16-96256NI-I16-I24",
+"href": "/ds-96128ni-i16-96256ni-i16-i24-nvr-embedded-h-265-4k-super-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR X86 open platform for software developers and integrators Hikvision DS-9600NI-H8",
+"href": "/ds-9600ni-h8-x86-open-platform-software-developers-integrators/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-9600NI-H8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 128 kênh Hikvision DS-96128NI-F16",
+"href": "/ds-96128ni-f16-dau-ghi-nvr-128-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 256 kênh Hikvision DS-96256NI-F16",
+"href": "/ds-96256ni-f16-dau-ghi-nvr-256-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-96256NI-F16.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision DS-9632NI-ST",
+"href": "/ds-9632ni-st-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-9664ni-st-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 64 kênh Hikvision DS-9664NI-ST",
+"href": "/ds-9664ni-st-dau-ghi-nvr-64-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-9664ni-st-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision DS-7716NI-K4/16P",
+"href": "/dau-ghi-hinh-ip-hikvision-ds-7716ni-k416p/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7716NI-K4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP 4K Hikvision DS-7716NI-K4",
+"href": "/dau-ghi-hinh-ip-4k-hikvision-ds-7716ni-k4/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7716NI-K4.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision DS-7732NI-K4",
+"href": "/ds-7732ni-k416p-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7732NI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision DS-7732NI-K4/16P",
+"href": "/ds-7732ni-k416p-dau-ghi-nvr-4k-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7732NI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 16 kênh_DS-7716NI-I4",
+"href": "/ds-7716ni-i4-dau-ghi-nvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7732ni-i4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh_DS-7732NI-I4",
+"href": "/ds-7732ni-i4-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7732ni-i4-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1.5U 4K DeepinMind NVR Hikvision iDS-7732NXI-I4/X-32-ch",
+"href": "/ids-7732nxi-i4x-32-ch-1-5u-4k-deepinmind-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/iDS-7732NXI-I4_X-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DeepinMind NVR Hikvision iDS-9632NXI-I8/16S",
+"href": "/ids-9632nxi-i816s-deepinmind-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/08/iDS-9632NXI-I8-16S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi IP 8 kênh Hikvision DS-7108NI-Q1/8P",
+"href": "/dau-ghi-ip-8-kenh-hikvision-ds-7108ni-q18p/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7104NI-Q1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi IP 8 kênh Hikvision DS-7108NI-Q1",
+"href": "/dau-ghi-ip-8-kenh-hikvision-ds-7108ni-q1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7104NI-Q1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi IP 4 kênh Hikvision DS-7104NI-Q1/4P",
+"href": "/dau-ghi-ip-4-kenh-hikvision-ds-7104ni-q14p/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7104NI-Q1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi IP 4 kênh Hikvision DS-7104NI-Q1",
+"href": "/dau-ghi-ip-4-kenh-hikvision-ds-7104ni-q1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-7104NI-Q1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision DS-7100NI-K1/W/M(C)",
+"href": "/ds-7100ni-k1wm-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-7100NI-K1WM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision DS-7104HUHI-K1(S)",
+"href": "/ds-7104huhi-k1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-7104NI-Q1-M-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Lite Hikvision DS-7104NI-Q1/4P/M",
+"href": "/ds-7104ni-q14pm-dau-ghi-nvr-lite/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-7108NI-P-Q1-M-DS-7104NI-P-Q1-M-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Lite Hikvision DS-7108NI-Q1/8P/M",
+"href": "/ds-7108ni-q18pm-dau-ghi-nvr-lite/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-7108NI-P-Q1-M-DS-7104NI-P-Q1-M-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Lite Hikvision DS-7108NI-Q1/M",
+"href": "/ds-7108ni-q1m-dau-ghi-nvr-lite/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-7108NI-Q1-M-DS-7104NI-Q1-M-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Lite Hikvision DS-7104NI-Q1/M",
+"href": "/ds-7104ni-q1m-dau-ghi-nvr-lite/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-7108NI-Q1-M-DS-7104NI-Q1-M-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-866XK-I24 SERIES NVR",
+"href": "/sh-866xk-i24-series-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/SH-822xK-I6_2_0-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-822xK-I6 SERIES NVR",
+"href": "/sh-822xk-i6-series-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/nvr2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 16 kênh Hikvision DS-8616NI-K8",
+"href": "/ds-8616ni-k8-dau-ghi-hinh-nvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8632NI-K8-DS-8616NI-K8-DS-8608NI-K8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 8 kênh Hikvision DS-8608NI-K8",
+"href": "/ds-8608ni-k8-dau-ghi-hinh-nvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8632NI-K8-DS-8616NI-K8-DS-8608NI-K8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 32 kênh Hikvision DS-8632NI-K8",
+"href": "/ds-8632ni-k8-dau-ghi-hinh-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8632NI-K8-DS-8616NI-K8-DS-8608NI-K8.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome 4MP Hikvision DS-2DE4425IWG1-E",
+"href": "/camera-ip-speed-dome-4mp-hikvision-ds-2de4425iwg1-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-2DE4425IWG1-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ TandemVu 8-inch Panoramic 4 MP 25X DarkFighter Network Speed Dome",
+"href": "/camera-ptz-tandemvu-8-inch-panoramic-4-mp-25x-darkfighter-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/6.-DS-2SF8C425MXS-DLW-e1660107135867.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision DS-2DE5232IW-AE(B)",
+"href": "/camera-ip-ptz-2mp-hikvision-ds-2de5232iw-aeb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DE5232IW-AEB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4A425IW-DE(B)",
+"href": "/ds-2de4a425iw-deb/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DE4A425IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE7425IW-AE(B) 4MP 25× Network IR Speed Dome",
+"href": "/ds-2de7425iw-aeb/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE7225TI-AD-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE5225IW-AE(C)",
+"href": "/ds-2de5225iw-aec/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2DE5232IW-AEB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE5232IW-AE(C)",
+"href": "/ds-2de5232iw-aec/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2DE5232IW-AEC-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4215W-DE (C)",
+"href": "/ds-2de4215w-de-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4215W-DE3(C)",
+"href": "/ds-2de4215w-de3c/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4225IW-DE(E)",
+"href": "/ds-2de4225iw-de-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/Untitled-1DS-2DE4225IW-DE-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4225W-DE3(B)",
+"href": "/ds-2de4225w-de3b/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4225W-DE(B)",
+"href": "/ds-2de4225w-deb/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 15x Network IR PTZ Camera Hikvision DS-2DE4A215IW-DE",
+"href": "/ds-2de4a215iw-de-2mp-15x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DE4A425IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 15X Network IR PTZ Camera Hikvision DS-2DE4215IW-DE",
+"href": "/ds-2de4215iw-de-2mp-15x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE4425IW-DE-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 15x Network IR PTZ Camera Hikvision DS-2DE4415IW-DE",
+"href": "/ds-2de4415iw-de-4mp-15x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE4425IW-DE-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 25x Network IR PTZ Camera Hikvision DS-2DE4425IW-DE",
+"href": "/ds-2de4425iw-de-4mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE4425IW-DE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4425W-DE(B)",
+"href": "/ds-2de4425w-deb-4mp-25x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds_2de4225w_de-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 15x Network PTZ Camera Hikvision DS-2DE4415W-DE3(D)",
+"href": "/ds-2de4415w-de3d4mp-15x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds-2de4415w-de3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network PTZ Camera Hikvision DS-2DE4225W-DE",
+"href": "/ds-2de4225w-de-2mp-25x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds_2de4225w_de.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP 30X Network PTZ Camera Hikvision DS-2DE5330W-AE",
+"href": "/ds-2de5330w-ae-3mp-30x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425W-AE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE5425W-AE(B) 4MP 25× Network Speed Dome",
+"href": "/ds-2de5425w-aeb-4mp-25x-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425W-AE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "25X Network IR PTZ Camera Hikvision DS-2DE5225IW-AE2MP",
+"href": "/ds-2de5225iw-ae2mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425IW-AE-B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed Dome IP Hikvision DS-2DE4A225IW-DE",
+"href": "/ds-2de4a225iw-de-camera-speed-dome-ip/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds-2de4a220iw-de_pic-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome hồng ngoại 4.0 Hikvision DS-2DE5425IW-AE (B)",
+"href": "/ds-2de5425iw-ae-camera-ip-speed-dome-hong-ngoai-4-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425IW-AE-B-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini PTZ Dome Camera 2MP 4X/20X Hikvision DS-2DE4A204IW-DE",
+"href": "/ds-2de4a204iw-de-mini-ptz-dome-camera-2mp-4x20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4A204IW-DE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP SpeedDome 4MP Hikvision DS-2DE3A404IW-DE/W",
+"href": "/camera-ip-speeddome-4mp-hikvision-ds-2de3a404iw-dew/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/DS-2DE3A404IW-DEW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "(2.8-12MM) 2MP 4× IR Network PTZ Camera Hikvision SH-DT2A204-AVD",
+"href": "/sh-dt2a204-avd2-8-12mm-2mp-4x-ir-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204IW-DE32.8-12MM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.0 MP Network IR Mini PTZ Camera Hikvision DS-2DE2204IW",
+"href": "/ds-2de2204iw-2-0-mp-network-ir-mini-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DE2204IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE2A404IW-DE3(2.8-12mm)(C)",
+"href": "/ds-2de2a404iw-de32-8-12mmc2-8-12mm-4mp-4x-ir-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A404IW-DE32.8-12mm-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 4× IR Network PTZ Camera Hikvision DS-2DE2A204IW-DE3(2.8-12MM)(C)",
+"href": "/ds-2de2a204iw-de32-8-12mmc-2mp-4x-ir-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204IW-DE32.8-12MM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini PTZ Camera 2MP 4X Hikvision DS-2DE2204IW-DE3",
+"href": "/ds-2de2204iw-de3-mini-ptz-camera-2mp-4x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE2204IW-DE3-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Máy chấm công khuôn mặt Hikvision SH-K1T9673DX",
+"href": "/may-cham-cong-khuon-mat-hikvision-sh-k1t9673dx/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/SH-K1T9673DX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công đo thân nhiệt, nhận diện khuôn mặt, thẻ EM Hikvision DS-K1T671TM-3XF",
+"href": "/may-cham-cong-do-than-nhiet-nhan-dien-khuon-mat-the-em-hikvision-ds-k1t671tm-3xf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T671TM-3XF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công đo thân nhiệt, nhận diện khuôn mặt, thẻ EM Hikvision DS-K1TA70MI-T",
+"href": "/may-cham-cong-do-than-nhiet-nhan-dien-khuon-mat-the-em-hikvision-ds-k1ta70mi-t/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1TA70MI-T.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công đo thân nhiệt, nhận diên khuôn mặt + thẻ EM DS-K1T341BMWI-T",
+"href": "/may-cham-cong-nhiet-nhan-dien-khuon-mat-em-ds-k1t341bmwi-t/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T341BMWI-T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, thẻ từ Hikvision DS-K1T671TMW",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-the-tu-hikvision-ds-k1t671tmw/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T671TMW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay, thẻ từ Hikvision DS-K1T671MF",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-the-tu-hikvision-ds-k1t671mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T671MF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt + Vân tay + Thẻ DS-K1T642MFW",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-ds-k1t642mfw/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T642MFW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công khuôn mặt, vân tay, thẻ Mifare Hikvision DS-K1T341CMF",
+"href": "/may-cham-cong-khuon-mat-van-tay-the-mifare-hikvision-ds-k1t341cmf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T341CMF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay Hikvision DS-K1A340FWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-hikvision-ds-k1a340fwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1A340FWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công khuôn mặt Hikvision DS-K1T321MFWX",
+"href": "/may-cham-cong-khuon-mat-hikvision-ds-k1t321mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T321MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay Hikvision DS-K1T320MFWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-hikvision-ds-k1t320mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T320MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ khai báo đa chức năng DS-SH600U-D6E-F",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-ds-sh600u-d6e-f/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/DS-K1F600U-D6E-F-e1669022602294.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị đầu cuối truy cập khuôn mặt chuyên nghiệp DS-K1T671SH",
+"href": "/thiet-bi-dau-cuoi-truy-cap-khuon-mat-chuyen-nghiep-ds-k1t671sh/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/DS-K1T671SH-nhan-dien-khuon-mat-van-tay-the-tu.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị đầu cuối nhận diện khuôn mặt Ultra Series DS-SH673TDX",
+"href": "/thiet-bi-dau-cuoi-nhan-dien-khuon-mat-ultra-series-ds-sh673tdx/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/DS-SH673TDX-may-cham-cong-khuon-mat-tich-hop-do-than-nhiet.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị đầu cuối nhận dạng khuôn mặt cho Barrier DS-K5671-ZU",
+"href": "/thiet-bi-dau-cuoi-nhan-dang-khuon-mat-cho-barrier-ds-k5671-zu/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K5671-ZU-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị nhận dạng khuôn mặt cho Barrier Hikvision DS-K5671-ZH",
+"href": "/thiet-bi-nhan-dang-khuon-mat-cho-barrier-hikvision-ds-k5671-zh/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K5671-ZH-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị đầu cuối nhận dạng khuôn mặt cho Barrier Hikvision DS-K5671-ZV",
+"href": "/ds-k5671-zv-thiet-bi-dau-cuoi-nhan-dang-khuon-mat-cho-barrier/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K5671-ZV-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt + vân tay + thẻ EM DS-K1T341AMF",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-em-ds-k1t341amf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T341AMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt + vân tay + thẻ EM DS-K1T342MFWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-em-ds-k1t342mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T342MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt DS-K1T331W",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-ds-k1t331w/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T331-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt DS-K1T331",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-ds-k1t331/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T331-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Máy chấm công khuôn mặt Hikvision SH-K1T9673DWX",
+"href": "/may-cham-cong-khuon-mat-hikvision-sh-k1t9673dwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/08/SH-K1T9673DWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay Hikvision SH-K1T9804BMF",
+"href": "/may-cham-cong-van-tay-hikvision-sh-k1t9804bmf/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/SH-K1T9804BMF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay, thẻ Mifare Hikvision DS-K1201MF",
+"href": "/may-cham-cong-van-tay-the-mifare-hikvision-ds-k1201mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1201MF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay, kiểm soát ra vào Hikvision DS-K1T804AMF [Có Wifi]",
+"href": "/may-cham-cong-van-tay-kiem-soat-ra-vao-hikvision-ds-k1t804amf-co-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T804AMF-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay Hikvision DS-K1T8003F",
+"href": "/may-cham-cong-van-tay-hikvision-ds-k1t8003f-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K1T8003F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Vân Tay Màn hình LCD 2.4 inch DS-K1T804BMF",
+"href": "/may-cham-cong-van-tay-man-hinh-lcd-2-4-inch-ds-k1t804bmf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T804BMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay Hikvision DS-K1A802AMF",
+"href": "/may-cham-cong-van-tay-hikvision-ds-k1a802amf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1A802AMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Vân Tay + Card Mifare, Màn hình LCD 2.4 inch DS-K1A8503MF",
+"href": "/may-cham-cong-van-tay-card-mifare-man-hinh-lcd-2-4-inch-ds-k1a8503mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T8003F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay Hikvision DS-K1A8503F",
+"href": "/may-cham-cong-van-tay-hikvision-ds-k1a8503f/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T8003F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Vân Tay + Card mifare Màn hình LCD 2.4 inch DS-K1T8003MF",
+"href": "/may-cham-cong-van-tay-card-mifare-man-hinh-lcd-2-4-inch-ds-k1t8003mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-K1T8003F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Hikvision Fingerprint Card Issuer",
+"href": "/thiet-bi-kiem-soat-ra-vao-hikvision-fingerprint-card-issuer/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1F800-F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Time Attendance Terminal Hikvision DS-K1A801MF/EF",
+"href": "/ds-k1a801mfef-fingerprint-time-attendance-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1A801F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Time Attendance Terminal Hikvision DS-K1A801F",
+"href": "/ds-k1a801f-fingerprint-time-attendance-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1A801F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Access Control Terminal Hikvision DS-K1T803MF/EF",
+"href": "/ds-k1t803mfef-fingerprint-access-control-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T803F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Card Reader Hikvision DS-K1200EF/MF",
+"href": "/ds-k1200efmf-fingerprint-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1200EFMF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Máy chấm công khuôn mặt Hikvision SH-K1T9342MWX",
+"href": "/may-cham-cong-khuon-mat-hikvision-sh-k1t9342mwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/04/SH-K1T9342MWX-.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323EBWX-QRE1",
+"href": "/may-cham-cong-hikvision-ds-k1t323ebwx-qre1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323EBWX-QRE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323EBFWX-E1",
+"href": "/may-cham-cong-hikvision-ds-k1t323ebfwx-e1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323EBFWX-E1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323EBWX-E1",
+"href": "/may-cham-cong-hikvision-ds-k1t323ebwx-e1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323EBWX-E1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323MBWX-QRE1",
+"href": "/may-cham-cong-hikvision-ds-k1t323mbwx-qre1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323MBWX-QRE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323MBFWX-E1",
+"href": "/may-cham-cong-hikvision-ds-k1t323mbfwx-e1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323MBFWX-E1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công Hikvision DS-K1T323MBWX-E1",
+"href": "/may-cham-cong-hikvision-ds-k1t323mbwx-e1/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-K1T323MBWX-E1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay, kiểm soát ra vào Hikvision SH-K1T9804AMF [Có Wifi]",
+"href": "/may-cham-cong-van-tay-kiem-soat-ra-vao-hikvision-sh-k1t9804amf-co-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-K1T9804AMF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công vân tay Hikvision SH-K1T9803F",
+"href": "/may-cham-cong-van-tay-hikvision-sh-k1t9803f/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/K1T8003F-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay Hikvision SH-K1T9320MFWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-hikvision-sh-k1t9320mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-K1T9320MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Kit chuông của có hình IP Hikvision SH-KIS6601-WE",
+"href": "/bo-kit-chuong-cua-co-hinh-ip-hikvision-sh-kis6601-we/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-KIS6601-WE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuông cửa IP không dây 7 inch Hikvision SH-KH620-LE",
+"href": "/man-hinh-chuong-cua-ip-khong-day-7-inch-hikvision-sh-kh620-le/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-KH620-LE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay, thẻ EM Hikvision SH-K1T9342MFX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-the-em-hikvision-sh-k1t9342mfx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9342MFX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt, vân tay, thẻ EM Hikvision SH-K1T9342MFWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-the-em-hikvision-sh-k1t9342mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9342MFWX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ cấp nguồn Hikvision SH-K9M-AW224",
+"href": "/bo-cap-nguon-hikvision-sh-k9m-aw224/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-K9M-AW224.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ gá khóa LZ Hikvision SH-K4H455-LZ",
+"href": "/bo-ga-khoa-lz-hikvision-sh-k4h455-lz/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-K4H455-LZ.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa hút nam châm Hikvision SH-K4H455S",
+"href": "/khoa-hut-nam-cham-hikvision-sh-k4h455s/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-K4H455S.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa cửa từ đơn Hikvision DS-K4H250S",
+"href": "/ds-k4h250s-khoa-cua-tu-don/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K4H250S.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cổng xoay 3 càng Hikvision DS-K3G301LX",
+"href": "/cong-xoay-3-cang-hikvision-ds-k3g301lx/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/DS-K3G301LX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Hikvision DS-K3B601 Facial Swing Barrier",
+"href": "/ds-k3b601-facial-swing-barrier/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/04/DS-K3B601DS-K5603-Z-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Module Kiểm Soát Cửa Hikvision DS-K2M061",
+"href": "/module-kiem-soat-cua-hikvision-ds-k2m061/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2M061.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Cấp Nguồn Kiểm Soát Cửa DS-K7M-AW100",
+"href": "/bo-cap-nguon-kiem-soat-cua-ds-k7m-aw100/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K7M-AW100.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ nguồn 50W Hikvision DS-K7M-AW50",
+"href": "/bo-nguon-50w-hikvision-ds-k7m-aw50/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K7M-AW50.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra 4 cửa Hikvision DS-K2814",
+"href": "/bo-kiem-soat-vao-ra-4-cua-hikvision-ds-k2814/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2814.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra 2 cửa Hikvision DS-K2812",
+"href": "/bo-kiem-soat-vao-ra-2-cua-hikvision-ds-k2812/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2812.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra 1 cửa Hikvision DS-K2811",
+"href": "/bo-kiem-soat-vao-ra-1-cua-hikvision-ds-k2811/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2811.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra 4 cửa Hikvision DS-K2804",
+"href": "/bo-kiem-soat-vao-ra-4-cua-hikvision-ds-k2804/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2804.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra 2 cửa Hikvision DS-K2802",
+"href": "/bo-kiem-soat-vao-ra-2-cua-hikvision-ds-k2802/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K2802.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1801E Đầu đọc thẻ EM",
+"href": "/sh-k2801e-dau-doc-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/SH-K2801MK-EK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1801MK Đầu đọc thẻ Mifare",
+"href": "/sh-k2801mk-dau-doc-mifare/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/SH-K2801MK-EK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1802E Đầu đọc thẻ EM",
+"href": "/sh-k2802e-dau-doc-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/SH-K2802M-SH-K2802E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1801EK Đầu đọc thẻ EM",
+"href": "/sh-k2801ek-dau-doc-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/SH-K2801MK-EK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1802EK Đầu đọc thẻ EM",
+"href": "/sh-k2802ek/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/SH-K2802MK-SH-K2802EK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Time & Attendance and Access Control Terminal Hikvision DS-K1T802M/E",
+"href": "/ds-k1t802me-time-attendance-access-control-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T802ME.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Time & Attendance and Access Control Terminal Hikvision DS-K1T801M/E",
+"href": "/ds-k1t801me-time-attendance-access-control-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T801ME.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1107M/MK",
+"href": "/ds-k1107mmk-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1107MMK.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Hikvision DS-K1107E/EK",
+"href": "/ds-k1107eek/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1107EEK.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu đọc thẻ DS-K1101MK",
+"href": "/dau-doc-the-ds-k1102-1/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-k1101mk-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 55 inch uhd 60Hz va DS-SH55UC",
+"href": "/man-hinh-55-inch-uhd-60hz-va-ds-sh55uc/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/DS-SH55UC.jpg",
+"price": "46.050.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình Hikvision DS-D5050UC-C",
+"href": "/man-hinh-hikvision-ds-d5050uc-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/03/DS-D5050UC-C.jpg",
+"price": "30.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình Hikvision IPC-4300H",
+"href": "/ipc-4300h/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/06/IPC-4300h-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 84” LED Monitor Hikvision DS-D5084UL",
+"href": "/ds-d5084ul-84-led-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5032FC-500x357.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 55” LCD Monitor Hikvision DS-D5055FL",
+"href": "/ds-d5055fl-55-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D5055FL-500x369.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 55” LCD Monitor Hikvision DS-D5055UL",
+"href": "/ds-d5055ul-55-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D5055FL-500x369.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình Hikvision 42” LCD Monitor",
+"href": "/42-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5042FL-500x467.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 32” LCD Monitor Hikvision DS-D5032FL",
+"href": "/ds-d5032fl-32-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5032FL-500x399.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 43” LED Monitor Hikvision DS-D5043FC",
+"href": "/ds-d5043fc-43-led-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5032FC-500x357.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 32” LED Monitor Hikvision DS-D5032FC",
+"href": "/ds-d5032fc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5032FC-500x357.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 22’’LCD Monitor Hikvision DS-D5022QE-B",
+"href": "/ds-d5022qe-b-22lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5019QE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 22” LCD Monitor Hikvision DS-D5022FC",
+"href": "/ds-d5022fc-22-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5019QE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình 19” LED Monitor Hikvision DS-D5019QE-B",
+"href": "/ds-d5019qe-b-19-led-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5019QE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình LCD Monitor Hikvision DS-D5019QE 19”",
+"href": "/ds-d5019qe-19-lcd-monitor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSD5019QE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân ngoài trời 2MP HS-6N5T23A3-LM",
+"href": "/camera-ip-than-ngoai-troi-2mp-hs-6n5t23a3-lm/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/HS-6N5T23A3-LM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ hồng ngoại 4MP HN 30m chuẩn nén H.265+ ok 4mm",
+"href": "/camera-ip-tru-hong-ngoai-4mp-hn-30m-chuan-nen-h-265-ok-4mm/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/HIKVISON-DS-2CD1043G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP Network Dome Camera Hikvision SH-IB551TFWD-I",
+"href": "/sh-ib551tfwd-5mp-network-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB551TFWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ hồng ngoại 5MP chuẩn nén H.265+ Hikvision SH-IB550FWD-I",
+"href": "/sh-ib550fwd-i-camera-ip-tru-hong-ngoai-5mp-chuan-nen-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB250FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome ( bán cầu) hồng ngoại 2 MP chuẩn nén H.264 Hikvision SH-IB207F-I",
+"href": "/sh-ib207f-i-camera-ip-dome-ban-cau-hong-ngoai-2-mp-chuan-nen-h-264/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB207F-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ( hình trụ) hồng ngoại 2 MP chuẩn nén H.264 Hikvision SH-IB206F-I",
+"href": "/sh-ib206f-i-camera-ip-hinh-tru-hong-ngoai-2-mp-chuan-nen-h-264/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB206F-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP trụ hồng ngoại 2 MP chuẩn nén H.264+ Hikvision SH-IB22TWD-I8",
+"href": "/sh-ib22twd-i8-camera-ip-tru-hong-ngoai-2-mp-chuan-nen-h-264/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB22TWD-I8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ hồng ngoại 2MP chuẩn nén H.265+ Hikvision SH-IB21TG0-I",
+"href": "/sh-ib21tg0-i-camera-ip-tru-hong-ngoai-2mp-chuan-nen-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB21TG0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome hồng ngoại 2MP chuẩn nén H.265+ Hikvision SH-IB211G0-I",
+"href": "/sh-ib211g0-i-camera-ip-dome-hong-ngoai-2mp-chuan-nen-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-IB211G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP camera 64 kênh SH-NVR664-S8",
+"href": "/dau-ghi-hinh-ip-camera-64-kenh-sh-nvr664-s8/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/DS-9664NI-I8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 32 kênh Hikvision HIK-7732IP-K4",
+"href": "/hik-7732ip-k4-dau-ghi-hinh-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/08/HIK-7732IP-K4-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 64 kênh Hikvision SH-NVR364-I8",
+"href": "/sh-nvr364-i8-dau-ghi-hinh-nvr-64-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-9664ni-st-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2323G0-I",
+"href": "/ds-2cd2323g0-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2363-43-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 8MP Hikvision DS-2CD2383G0-I",
+"href": "/ds-2cd2383g0-camera-ban-cau-exir-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2363-43-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "SH-IP1005 Bàn điều khiển (USB)",
+"href": "/sh-ip1005/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/SH-IP1005-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision SH-NVR332-I8",
+"href": "/sh-nvr332-i8-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/SH-NVR332-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7604-E1",
+"href": "/hik-ip7604-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7604-7608-7616-E1-E2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP 16 kênh Hikvision HIK-IP7716-E4",
+"href": "/hik-ip7716-e4-dau-ghi-hinh-ip-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP7732-E4-HIK-IP7716-E4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP 32 kênh Hikvision HIK-IP7732-E4",
+"href": "/hik-ip7732-e4-dau-ghi-hinh-ip-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP7732-E4-HIK-IP7716-E4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Embedded NVR Hikvision HIK-IP96256-F16",
+"href": "/hik-ip96256-f16-dau-ghi-embedded-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP96128NI-F16-HIK-IP96256NI-F16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Embedded NVR Hikvision HIK-IP96128-F16",
+"href": "/hik-ip96128-f16-dau-ghi-embedded-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP96128NI-F16-HIK-IP96256NI-F16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi cao cấp NVR Hikvision HIK-IP9664-XT",
+"href": "/hik-ip9664-xt-dau-ghi-high-end-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP9632-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi cao cấp NVR Hikvision HIK-IP9632-XT",
+"href": "/hik-ip9632-xt-dau-ghi-high-end-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP9632-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 4K Hikvision HIK-IP9664-I8",
+"href": "/hik-ip9664-i8-dau-ghi-hinh-nvr-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP9632-I8-HIK-IP9664-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 4K Hikvision HIK-IP9632-I8",
+"href": "/hik-ip9632-i8-dau-ghi-hinh-nvr-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP9632-I8-HIK-IP9664-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision HIK-IP7732-I4",
+"href": "/hik-ip7732-i4-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7716-E4.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7716-I4",
+"href": "/hik-ip7716-i4-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7716-E4.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7608-E2",
+"href": "/hik-ip7608-e2-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7604-7608-7616-E1-E2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7616-E2",
+"href": "/hik-ip7616-e2-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7604-7608-7616-E1-E2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7616-E1",
+"href": "/hik-ip7616-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7604-7608-7616-E1-E2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7608-E1",
+"href": "/hik-ip7608-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7604-7608-7616-E1-E2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7104-SN",
+"href": "/hik-ip7104-sn-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7104-SN.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7116-SN",
+"href": "/hik-ip7116-sn-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7104-SN.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision HIK-IP7108-SN",
+"href": "/hik-ip7108-sn-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7104-SN.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Wifi Hikvision HIK-IP7108-E1/V/W",
+"href": "/hik-ip7108-e1vw-dau-ghi-nvr-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7108-E1-V-W.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE4425W-DE3(B)",
+"href": "/ds-2de4425w-de3b/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE7225TI-A(D)",
+"href": "/ds-2ae7225ti-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE7225TI-AD-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4225T-D3(D)",
+"href": "/ds-2ae4225t-d3d/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4225TI-D(E)",
+"href": "/ds-2ae4225ti-d/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4215TI-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed dome HD-TVI 2MP ngoài trời Hikvision HIK-TV8223TI",
+"href": "/hik-tv8223ti-camera-speed-dome-hd-tvi-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-TV8123TI-8223TI-A.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện DS-2907 ZJ Tripod Hikvision",
+"href": "/ds-2907-zj-tripod-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2907-ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-2TP31-3AUF",
+"href": "/ds-2tp31-3auf/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TP31B-3AUF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-2TP21B-6AVF/W",
+"href": "/ds-2tp21b-6avfw/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TP21B-6AVF.W-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged PoE Switch Hikvision HG18-3E0109P-E/M",
+"href": "/hg18-3e0109p-em-unmanaged-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/HG18-3E0109P-E-M-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HIK-IP1005 Bàn điều khiển (network keyboard)",
+"href": "/hik-ip1005-ban-dieu-khien-network-keyboard/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/09/HIK-1005-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision HIK-IP1100 Network Keyboard",
+"href": "/hik-ip1100-network-keyboard/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP1100-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network IR PTZ Camera Hikvision SH-DT5522-AVD",
+"href": "/sh-dt5522-avd-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425IW-AE-B-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Network Mini PTZ Dome Camera Hikvision DS-2DE3204W-DE2MP",
+"href": "/ds-2de3204w-de2mp-network-mini-ptz-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE3204W-DE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network PTZ Camera Hikvision DS-2DE5225W-AE",
+"href": "/ds-2de5225w-ae-2mp-25x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425W-AE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "32X Network PTZ Camera Hikvision DS-2DE5232W-AE2MP",
+"href": "/ds-2de5232w-ae2mp-32x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425W-AE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP 20X Network PTZ Camera Hikvision DS-2DE5320W-AE",
+"href": "/ds-2de5320w-ae33mp-20x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE5425W-AE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 32X Network IR PTZ Camera Hikvision DS-2DE5232IW",
+"href": "/ds-2de5232iw-2mp-32x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/ds-2de5432iw-ae-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-HQ-7322IW 2MP 15× Network Speed Dome",
+"href": "/sh-hq-7322iw-2mp-15x-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-2DE4215W-DE3-w.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 2MP 20x Hikvision HIK-IP9220IW-AE",
+"href": "/hik-ip9220iw-ae-camera-ptz-ip-2mp-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP9220IW-AE-HIK-IP9120IW-AE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 2MP 20x Hikvision HIK-IP8220IW-D",
+"href": "/hik-ip8220iw-d-camera-ptz-ip-2mp-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP8220IW-D-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 1.3MP 20x Hikvision HIK-IP9120IW-AE",
+"href": "/hik-ip9120iw-ae-camera-ptz/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP9220IW-AE-HIK-IP9120IW-AE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 1.3MP 20X Hikvision HIK-IP8120I-D",
+"href": "/hik-ip8120i-d-camera-ptz-ip-1-3mp-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP8120I-D-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision HIK-IP8220-AE/(AE3)",
+"href": "/hik-ip8220-ae-camera-ip-ptz-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP8220-AE3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision HIK-IP5220I-AE",
+"href": "/hik-ip5220i-ae-camera-ip-ptz-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP5220I-AE--500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 1.3MP Hikvision HIK-IP5120I-AE",
+"href": "/hik-ip5120i-ae-camera-ip-ptz-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE3204W-DE-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision HIK-IP6202-DE3/W",
+"href": "/hik-ip6202-de3w-camera-ip-ptz-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6202I-DE3-W-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 1MP Hikvision HIK-IP6103-DE3/W",
+"href": "/hik-ip6103-de3w-camera-ip-ptz-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6202I-DE3-W-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 1MP Hikvision HIK-IP6103I-DE3/W",
+"href": "/hik-ip6103i-de3w-camera-ip-ptz-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6202I-DE3-W-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 2MP Hikvision HIK-IP6202I-DE3/W",
+"href": "/hik-ip6202i-de3w-camera-ip-ptz-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6202I-DE3-W-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 5MP Hikvision SH-IB55TFWD-I8",
+"href": "/sh-ib55tfwd-i8-camera-ip-tru-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu chống ngược sáng 5MP Hikvision SH-IB551TFWD-I (S)",
+"href": "/sh-ib551tfwd-camera-ban-cau-chong-nguoc-sang-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/SH-IB551TFWD-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP tiêu cự thay đổi Hikvision HIK-IP6752F-IZS",
+"href": "/hik-ip6752f-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6752F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 5MP tiêu cự thay đổi Hikvision HIK-IP6652F-IZS",
+"href": "/hik-ip6652f-izs-camera-tru-5mp-tieu-cu-thay-doi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6652F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu mini 5MP Hikvision HIK-IP6552F-IS",
+"href": "/hik-ip6552f-camera-ban-cau-mini-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6552F-IS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP cube 5MP Hikvision HIK-IP6452F-IW",
+"href": "/hik-ip6452f-iw-camera-ip-cube-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6452F-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 5MP Hikvision HIK-IP6152F-IS",
+"href": "/hik-ip6152f-camera-tru-ip-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-I-.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP EXIR 5MP Hikvision HIK-IP6T52-I5",
+"href": "/hik-ip6t52-i5-camera-tru-ip-exir-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6T52.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Ultra-Low Light Network Bullet Camera Hikvision SH-IB25TFWD-I8",
+"href": "/sh-ib25tfwd-i8-2-mp-ultra-low-light-network-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB23TG0-I8-SH-IB23TG0-I5-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP IR Mini Bullet Network Camera Hikvision SH-IB210-IAX",
+"href": "/sh-ib210-iax-2mp-ir-mini-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB210-IAX-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra-Low Light Network Bullet Camera Hikvision SH-IB250FWD-I",
+"href": "/sh-ib250fwd-2mp-ultra-low-light-network-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB250FWD-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP IR Fixed Bullet Network Camera Hikvision SH-IB23TG0-I5",
+"href": "/sh-ib23tg0-i5-2mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB23TG0-I8-SH-IB23TG0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP IR Fixed Bullet Network Camera Hikvision SH-IB23TG0-I8",
+"href": "/sh-ib23tg0-i8-2-mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB23TG0-I8-SH-IB23TG0-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Ultra-Low Light Network Dome Camera Hikvision SH-IB251FWD-I (S)",
+"href": "/sh-ib251fwd-s-2-mp-ultra-low-light-network-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/SH-IB251FWD-I-S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu H.265+ Hikvision HIK-IP6125FHWD-I (S)",
+"href": "/hik-ip6125fhwd-s-camera-ban-cau-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-1-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP thay đổi tiêu cự 2MP Hikvision HIK-IP6720F-I(Z)(S)",
+"href": "/hik-ip6720f-izs-camera-ban-cau-ip-thay-doi-tieu-cu-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6720F-IZS-HIK-IP6742FWD-I-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 2MP thay đổi tiêu cự Hikvision HIK-IP6620F",
+"href": "/hik-ip6620f-camera-tru-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6620F-IZS-HIK-IP6610fF-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP chống ngược sáng thực Hikvision HIK-IP6722FWD-IZS",
+"href": "/hik-ip6722fwd-izs-camera-ban-cau-2mp-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6752F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP chống ngược sáng thực Hikvision HIK-IP6622FWD-IZS",
+"href": "/hik-ip6622fwd-izs-camera-tru-2mp-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6652F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4MP chống ngược sáng Hikvision HIK-IP6522FWD-IWS",
+"href": "/hik-ip6522fwd-iws-camera-ban-cau-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6522FWD-I-HIK-IP6542FWD-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP EXIR 2MP chống ngược sáng Hikvision HIK-IP6322WD",
+"href": "/hik-ip6322wd-camera-ban-cau-ip-exir-2mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6322WD-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 2MP (wifi) – chống ngược sáng Hikvision HIK-IP6122FWD-IS",
+"href": "/hik-ip6122fwd-iws-camera-ban-cau-ip-2mp-wifi-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6122FWD-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 2MP – chống ngược sáng Hikvision HIK-IP6022WD-I",
+"href": "/hik-ip6022wd-camera-tru-ip-2mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6042WD-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR IP 2MP – Chống ngược sáng Hikvision HIK-IP6T22WD-I8/I5/I3",
+"href": "/hik-ip6t22wd-i8i5i3-camera-tru-exir-ip-2mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6T42WD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mini dome IP 2MP Hikvision HIK-IP6520F",
+"href": "/hik-ip6520f-camera-mini-dome-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6520F-1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera cube IP 2MP (wifi) Hikvision HIK-IP6420F-IW",
+"href": "/hik-ip6420f-iw-camera-cube-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6420F-IW-HIK-IP6410F-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 2MP (Wifi) Hikvision HIK-IP6120F-IW",
+"href": "/hik-ip6120f-iw-camera-ban-cau-ip-2mp-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6120F-I.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 2MP (Wifi) Hikvision HIK-IP6120F-IWS",
+"href": "/hik-ip6120f-iws-camera-ban-cau-ip-2mp-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-IWS-HIK-IP6120F-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 2MP Hikvision HIK-IP6120F-I",
+"href": "/hik-ip6120f-camera-ban-cau-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6120F-I.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 2MP Hikvision HIK-IP6020F-I",
+"href": "/hik-ip6020f-camera-tru-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6122FWD-IWS-200x200.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP Wifi 2MP Hikvision HIK-IP6020F-IW",
+"href": "/hik-ip6020f-iw-camera-tru-ip-wifi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6020F-IW-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP IR Fixed Bullet Network Camera Hikvision SH-IB430G0-I",
+"href": "/sh-ib430g0-4-mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB430G0-I-png-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP IR Fixed Dome Network Camera Hikvision SH-IB431G0-I",
+"href": "/sh-ib431g0-4-mp-ir-fixed-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB431G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP IR Fixed Bullet Network Camera Hikvision SH-IB43TG0-I5",
+"href": "/sh-ib43tg0-i5-4-mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB43TG0-I8-SH-IB43TG0-I5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP IR Fixed Bullet Network Camera Hikvision SH-IB43TG0-I8",
+"href": "/sh-ib43tg0-i8-4-mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IB43TG0-I8-SH-IB43TG0-I5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4MP chống ngược sáng thực Hikvision HIK-IP6742FWD-IZS",
+"href": "/hik-ip6742fwd-izs-camera-ban-cau-4mp-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6752F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 4MP chống ngược sáng thực Hikvision HIK-IP6642FWD-IZS",
+"href": "/hik-ip6642fwd-izs-camera-tru-4mp-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6652F-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4MP chống ngược sáng Hikvision HIK-IP6542FWD-IWS",
+"href": "/hik-ip6542fwd-iws-camera-ban-cau-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6542FWD-IWS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP cube 4MP chống ngược sáng Hikvision HIK-IP6442FWD-IW",
+"href": "/hik-ip6442fwd-iw-camera-ip-cube-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6452F-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP EXIR 4MP chống ngược sáng Hikvision HIK-IP6342WD-I",
+"href": "/hik-ip6342wd-camera-ban-cau-ip-exir-3mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6652F-IZS-200x200.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 4MP (wifi) – chống ngược sáng Hikvision HIK-IP6142FWD-IWS",
+"href": "/hik-ip6142fwd-iws-camera-ban-cau-ip-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6142FWD-IWS-2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 4MP – chống ngược sáng Hikvision HIK-IP6042WD",
+"href": "/hik-ip6042wd-camera-tru-ip-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6042WD-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR IP 4MP – Chống ngược sáng Hikvision HIK-IP6T42WD-I8/I5/I3",
+"href": "/hik-ip6t42wd-i8i5i3camera-than-tru-exir-ip-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6T42WD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed dome TVI quay quét 2MP ngoài trời",
+"href": "/camera-speed-dome-tvi-quay-quet-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-PTE232IR-A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Starlight 2MP trụ hồng ngoại 80m Hikvision SH-1728T-I5",
+"href": "/camera-hd-tvi-starlight-2mp-tru-hong-ngoai-80m-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-1728T-I5-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Starlight 2MP bán cầu hồng ngoại 40m",
+"href": "/camera-hd-tvi-starlight-2mp-ban-cau-hong-ngoai-40m/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-5720T-I3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Starlight 2MP Bán cầu hồng ngoại 20m",
+"href": "/camera-hd-tvi-starlight-2mp-ban-cau-hong-ngoai-20m/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-5728T-IM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI hình trụ hồng ngoại 80m ngoài trời 2MP",
+"href": "/camera-hd-tvi-hinh-tru-hong-ngoai-80m-ngoai-troi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-1720T-I5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI hình trụ hồng ngoại 20m ngoài trời 2MP – lõi thép. Hikvision SH-1720T-I",
+"href": "/sh-1720t-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-1720T-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu hồng ngoại 20m trong nhà 2MP (lõi thép)",
+"href": "/camera-ban-cau-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-5720T-I-smartline-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IR",
+"href": "/hik-56c6t-ir-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IR.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Starlight 2MP trụ hồng ngoại 20m ngoài trời",
+"href": "/camera-hd-tvi-starlight-2mp-tru-hong-ngoai-20m-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-1728T-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP (hồng ngoại 40m)",
+"href": "/camera-hd-tvi-ban-cau-2mp-hong-ngoai-40m/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-5720T-I3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine 2MP Hikvision HIK-56D6T-IRP",
+"href": "/hik-56d6t-irp-camera-ban-cau-smartline-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-56D6T-IRP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine 2Mp Hikvision HIK-16D6T-IT3",
+"href": "/hik-16d6t-it3-camera-tru-smartline-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16D6T-IT3-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu hồng ngoại HD-TVI 2MP Hikvision HIK-56D6T-IT3",
+"href": "/hik-56d6t-it3-camera-ban-cau-hong-ngoai-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-56D6T-IT3.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ HD-TVI 2MP Hikvision HIK-16D6T-IT5",
+"href": "/hik-16d6t-it5-camera-tru-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16D6T-IT5.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine 2Mp Hikvision HIK-16D6T- IRP",
+"href": "/hik-16d6t-irp-camera-tru-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/DS-2CE16D0T-IRP.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine 2Mp Hikvision HIK-16D6T-IR",
+"href": "/hik-16d6t-ir-camera-tru-smartline-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16D6T-IR.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD- TVI 2MP",
+"href": "/camera-ban-cau-smartline-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D0T-IRM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu HD-TVI 2MP Hikvision HIK-56D6T-IR",
+"href": "/hik-56d6t-irp-camera-ban-cau-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56D6T-IR-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 1MP Hikvision HIK-IP5002D",
+"href": "/hik-ip5002d-camera-ip-tru-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/HIK-IP5002-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 1MP Hikvision HIK-IP5301D",
+"href": "/hik-ip5301d-camera-ip-ban-cau-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/HIK-IP5301-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 1MP Hikvision HIK-IP5201-I3I5",
+"href": "/hik-ip5201-i3i5-camera-ip-tru-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/HIK-IP5201-I3-I5-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu thay đổi tiêu cự 1.3MP Hikvision HIK-IP6710F",
+"href": "/hik-ip6710f-camera-ip-ban-cau-thay-doi-tieu-cu-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6710F-IZS-HIK-IP6720-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Recessed Mount IP 2MP Hikvision HIK-IP6E20F-W",
+"href": "/hik-ip6e20f-w-camera-recessed-mount-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6E20F-W.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mini dome IP 1.3MP Hikvision HIK-IP6510F",
+"href": "/hik-ip6510f-camera-mini-dome-ip-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6520F-1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera cube IP 1.3MP (wifi) Hikvision HIK-IP6410F-IW",
+"href": "/hik-ip6410f-iw-camera-cube-ip-1-3mp-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6420F-IW-HIK-IP6410F-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 1.3MP (Wifi) Hikvision HIK-IP6110F-IWS",
+"href": "/hik-ip6110f-iws-camera-ban-cau-ip-1-3mp-wifi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-IWS-HIK-IP6120F-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 1.3MP Hikvision HIK-IP6110F",
+"href": "/hik-ip6110f-camera-ban-cau-ip-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-I-.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP Wifi 1.3MP Hikvision HIK-IP6010F-IW",
+"href": "/hik-ip6010f-iw-camera-tru-ip-wifi-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-IP6710F-IZS-HIK-IP6720-IZS-200x200.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ Wifi 1.3MP Hikvision DS-2CD2010F-IW",
+"href": "/ds-2cd2010f-iw-camera-ip-tru-wifi-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 1.3MP Hikvision HIK-IP6010F-I",
+"href": "/hik-ip6010f-camera-tru-ip-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6110F-IWS-HIK-IP6120F-IWS-200x200.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu Smartline 3MP Hikvision HIK-56S1T-ITM",
+"href": "/hik-56s1t-itm-camera-ban-cau-smartline-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-56S1T-ITM-smartline-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ Smartline 3MP Hikvision HIK-16S1T-IT",
+"href": "/hik-16s1t-camera-tru-smartline-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-16S1T-IT-SMARTLINE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu Smartline 3MP Hikvision HIK-56S1T-IT3",
+"href": "/hik-56s1t-it3-camera-ban-cau-smartline-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-56S1T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ Smartline 3MP Hikvision HIK-16S1T-IT3",
+"href": "/hik-16s1t-it3-camera-tru-smartline-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-16S1T-IT3-IT5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine 3MP Hikvision HIK-16S1T-IT5",
+"href": "/hik-16s1t-it5-camera-tru-smartline-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-16S1T-IT3-IT5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu hồng ngoại 40m HD-TVI 3MP Hikvision HIK-56S7T-IT3",
+"href": "/hik-56s7t-it3-camera-ban-cau-hong-ngoai-40m-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-56S7T-IT1-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 20m HD-TVI 3MP Hikvision HIK-56S7T-ITM",
+"href": "/hik-56s7t-itm-camera-ban-cau-hong-ngoai-20m-exir-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-56S7T-ITM.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại 40m HD-TVI 3MP Hikvision HIK-16S7T-IT3Z",
+"href": "/hik-16s7t-it3z-camera-tru-hong-ngoai-40m-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16S7T-IT3Z-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu hồng ngoại 40m HD-TVI 3MP Hikvision HIK-56S7T-IT3Z",
+"href": "/hik-56s7t-it3z-camera-ban-cau-hong-ngoai-40m-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-56S7T-IT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại 80m HD-TVI 3MP Hikvision HIK-16S7T-IT5",
+"href": "/hik-16s7t-it5-camera-tru-hong-ngoai-80m-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16S7T-IT5.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại 40m HD-TVI 3MP Hikvision HIK-16S7T-IT3",
+"href": "/hik-16s7t-it3-camera-tru-hong-ngoai-40m-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16S7T-IT3.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại HD-TVI 3MP Hikvision HIK-16S7T",
+"href": "/hik-16s7t-camera-tru-hong-ngoai-hd-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-16S7T-IT.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed dome HD-TVI 2MP Ngoài trời Hikvision HIK-TV5223T",
+"href": "/hik-tv5223t-camera-speed-dome-hd-tvi-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-TV5123TI-5223TI-A--500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed dome HD-TVI 1.3MP Ngoài trời Hikvision HIK-TV5123TI",
+"href": "/hik-tv5123ti-camera-speed-dome-hd-tvi-1-3mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-TV5123TI-5223TI-A--500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD-TVI 2MP Hikvision HIK-TV8223TI-D",
+"href": "/hik-tv8223ti-d-camera-ptz-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-TV8123TI-8223TI-D-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD-TVI 1MP Hikvision HIK-TV8123TI-D",
+"href": "/hik-tv8123ti-d-camera-ptz-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-TV8123TI-8223TI-D-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD-TVI HD1080P Hikvision HIK-TV7230TI-A",
+"href": "/hik-tv7230ti-camera-ptz-hd-tvi-hd1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/HIK-TV7230TI-A-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7104SH-F1",
+"href": "/hik-7104-sh-f1dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SH-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision HIK-7108SH-F1",
+"href": "/hik-7108-sh-f1-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SH-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7116SH-F1",
+"href": "/hik-7116-sh-f1-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SH-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh Hikvision HIK-7104SQ-F1",
+"href": "/hik-7104sq-f1-dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SQ-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision HIK-7108SQ-F1",
+"href": "/hik-7108-sq-f1-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SQ-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7116SQ-F1",
+"href": "/hik-7116sq-f1-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7104-7108-7116SQ-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh Hikvision HIK-7204SQ-F1/N",
+"href": "/hik-7204sq-f1n-dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SQ-F1-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision HIK-7208SQ-F1/N",
+"href": "/hik-7208sq-f1n-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SQ-F1-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7216SQ-F1/N",
+"href": "/hik-7216sq-f1n-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SQ-F1-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7216SQ-F2/N",
+"href": "/hik-7216-sq-f2n-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SQ-F1-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision HIK-7208SU-F1/N",
+"href": "/hik-7208su-f1n-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SU-F1-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision HIK-7208SU-F2/N",
+"href": "/hik-7208su-f2n-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SU-F1-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision HIK-7216SU-F2/N",
+"href": "/hik-7216su-f2n-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SU-F1-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 4 kênh Hikvision HIK-7304 SQ-F4/N",
+"href": "/hik-7304-sq-f4n-dau-ghi-hd-turbo-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7304-7308-7316SQ-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 8 kênh Hikvision HIK-7308SQ-F4/N",
+"href": "/hik-7308sq-f4n-dau-ghi-hd-turbo-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7304-7308-7316SQ-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 16 kênh Hikvision HIK-7316SQ-F4/N",
+"href": "/hik-7316sq-f4n-dau-ghi-hd-turbo-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7304-7308-7316SQ-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision HIK-7324SH-E4",
+"href": "/hik-7324sh-e4-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7332SH-E4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision HIK-8104 SQ-F8/N",
+"href": "/hik-8104-sq-f8n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-8104-SQ-F8N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision HIK-8108SQ-F8/N",
+"href": "/hik-8108sq-f8n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-8104-8108-8116SQ-F8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision HIK-8116SQ-F8/N",
+"href": "/hik-8116sq-f8n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-8104-8108-8116SQ-F8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh Hikvision HIK-7204SU-F1/N",
+"href": "/hik-7204-su-f1n-dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-7204-7208-7216SU-F1-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá 4MP 360độ Hikvision HIK-IP6942F-IWS",
+"href": "/hik-ip6942f-iws-camera-mat-ca-4mp-360-do/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6942F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quay quét IP 4MP – Chống ngược sáng Hikvision HIK-IP6F42FWD",
+"href": "/hik-ip6f42fwd-camera-quay-quet-ip-4mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6F42FWD-IWS-HIK-IP6F22FWD-IWD-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quay quét IP 2MP- Chống ngược sáng Hikvision HIK-IP6F22FWD-IWS",
+"href": "/hik-ip6f22fwd-iws-camera-quay-quet-ip-2mp-chong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6F42FWD-IWS-HIK-IP6F22FWD-IWD-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quay quét hồng ngoại IP 5MP Hikvision HIK-IP6F52F-IS",
+"href": "/hik-ip6f52f-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6F52F-IS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP quay quét Pan/Tilt 1MP Hikvision HIK-IP6Q10FD-IW",
+"href": "/hik-ip6q10fd-iw-camera-ip-quay-quet-pantilt-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6Q10FD-IW-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bí mật (Pinhole) IP 1.0MP Hikvision HIK-IP6D14WD",
+"href": "/hik-ip6d14wd-camera-bi-mat-ip-1-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP6D14WD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IT3",
+"href": "/hik-56c6t-it3-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IT1",
+"href": "/hik-56c6t-it1-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine HD-TVI 1MP Hikvision HIK-16C6T-IT5",
+"href": "/hik-16c6t-it5-camera-tru-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-16C6T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine HD-TVI 1MP Hikvision HIK-16C6T-IT3",
+"href": "/hik-16c6t-it3-camera-tru-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-16C6T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine HD-TVI 1MP Hikvision HIK-16C6T-IT1",
+"href": "/hik-16c6t-it1-camera-tru-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-16C6T-IT1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IRM",
+"href": "/hik-56c6t-irm-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IRM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine HD-TVI 1MP Hikvision HIK-16C6T-IR",
+"href": "/hik-16c6t-ir-camera-tru-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-16C6T-IR-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ SmartLine HD-TVI 1MP Hikvision HIK-16C6T-IRP",
+"href": "/hik-16c6t-irp-camera-tru-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-16C6T-IRP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IRMM",
+"href": "/hik-56c6t-irmm-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IRMM-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu SmartLine HD-TVI 1MP Hikvision HIK-56C6T-IRP",
+"href": "/hik-56c6t-irp-camera-ban-cau-smartline-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/HIK-56C6T-IR.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP HS-6N5D23A3-LM",
+"href": "/camera-ip-ban-cau-2mp-hs-6n5d23a3-lm/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/10/HS-6N5D23A3-LM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Thân Trụ 8MP Hikvision DS-2CD2683G2-LIZS2UHUN",
+"href": "/camera-ip-than-tru-8mp-hikvision-ds-2cd2683g2-lizs2uhun/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/09/DS-2CD2683G2-LIZS2UHUN.jpg",
+"price": "17.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed Dome nhiệt, tích hợp công nghệ nhiệt và quang học (bi-spectrum) Hikvision DS-2SH8242T",
+"href": "/camera-speed-dome-nhiet-tich-hop-cong-nghe-nhiet-va-quang-hoc-bi-spectrum-hikvision-ds-2sh8242t/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/08/DS-2SH8242T.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hình trụ lớn 4MP Hikvision DS-VTA142T-LIU",
+"href": "/camera-ip-hinh-tru-lon-4mp-hikvision-ds-vta142t-liu/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/DS-VTA142T-LIU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ốp trần hồng ngoại 2MP Hikvision HIK-2CD2D24G4-VN",
+"href": "/camera-ip-op-tran-hong-ngoai-2mp-hikvision-hik-2cd2d24g4-vn/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/2CD2D24G4-VN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 6MP thân trụ Hikvision DS-3VN3365-W-6I(Z)",
+"href": "/camera-ip-6mp-than-tru-hikvision-ds-3vn3365-w-6iz/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/DS-3VN3365-W-6IZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP thân trụ Hikvision DS-3VN3345-W-4I(Z)-V2",
+"href": "/camera-ip-4mp-than-tru-hikvision-ds-3vn3345-w-4iz-v2/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/DS-3VN3345-W-4IZ-V2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome hồng ngoại 4.0 Megapixel Hikvision DS-2SH2A3G2-IZS",
+"href": "/camera-ip-dome-hong-ngoai-4-0-megapixel-hikvision-ds-2sh2a3g2-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/09/DS-2SH2A3G2-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision SH-IB6027P0-IZS",
+"href": "/camera-ip-hikvision-sh-ib6027p0-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/03/SH-IB6027P0-IZS.jpg",
+"price": "20.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision SH-FE426DW-IZS",
+"href": "/camera-ip-hikvision-sh-fe426dw-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/03/SH-FE426DW-IZS.jpg",
+"price": "40.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-3SH4797H3-OXD 8MP",
+"href": "/camera-hikvision-ds-3sh4797h3-oxd-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2025/02/DS-3SH4797H3-OXD.jpg",
+"price": "8.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2SE2C200MWG-E/14",
+"href": "/camera-hikvision-ds-2se2c200mwg-e-14/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/12/DS-2SE2C200MWG-E14.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 8MP Hikvision DS-2SH9V953OCH-RZE",
+"href": "/camera-ip-ptz-8mp-hikvision-ds-2sh9v953och-rze/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/11/DS-2SH9V953OCH-RZE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 2MP Hikvision DS-2SHA36AD-IZS",
+"href": "/camera-ip-than-tru-2mp-hikvision-ds-2sha36ad-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-2SHA36AD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera DarkFighter 2MP 25X Hikvision DS-2DF8225IX-AELW",
+"href": "/camera-darkfighter-2mp-25x-hikvision-ds-2df8225ix-aelw/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-2DF8225IX-AELW.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP đo nhiệt độ Hikvision DS-2SH117-3/TA",
+"href": "/camera-ip-do-nhiet-do-hikvision-ds-2sh117-3-ta/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-2SH117-3-TA.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2.0 MP Hikvision DS-SH362AD-IZS",
+"href": "/camera-ip-hong-ngoai-2-0-mp-hikvision-ds-sh362ad-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-SH362AD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision DS-SH372AD-IZS",
+"href": "/camera-ip-2mp-hikvision-ds-sh372ad-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-SH372AD-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2CD3021G0-IMF",
+"href": "/camera-ip-hikvision-ds-2cd3021g0-imf/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-2CD3021G0-IMF.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ 2MP Hikvision DS-2SH6336OC-TG",
+"href": "/camera-ptz-2mp-hikvision-ds-2sh6336oc-tg/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/DS-2SH6336OC-TG.png",
+"price": "87.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP dưới nước Hikvision DS-2SH7356H1-Z",
+"href": "/camera-ip-duoi-nuoc-hikvision-ds-2sh7356h1-z/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/cam-nuoc.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Mini pt Smart Hybird Light 2MP Hikvision DS-2DE2C200MWG-4G",
+"href": "/camera-ip-mini-pt-smart-hybird-light-2mp-hikvision-ds-2de2c200mwg-4g/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-2DE2C200MWG-4G.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2SH6336OC-FQ",
+"href": "/camera-hikvision-ds-2sh6336oc-fq/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-2SH6336OC-FQ.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ Hikvision 2MP HE-2N5T23A2-LM",
+"href": "/camera-than-tru-hikvision-2mp-he-2n5t23a2-lm/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/HE-2N5T23A2-LM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 32 kênh H.265 Hikvision DS-7732NI-I4(B)",
+"href": "/dau-ghi-hinh-camera-ip-32-kenh-h-265-hikvision-ds-7732ni-i4b/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/05/DS-7732NI-I4.jpg",
+"price": "21.500.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ 6MP Hikvision DS-2DE7A632IWG-EB",
+"href": "/camera-ptz-6mp-hikvision-ds-2de7a632iwg-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/05/DS-2DE7A632IWG-EB.jpg",
+"price": "29.900.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thân Trụ 4MP – Nhận Diện Biển Số Xe Hikvision IDS-TCM403-BI",
+"href": "/camera-than-tru-4mp-nhan-dien-bien-so-xe-hikvision-ids-tcm403-bi/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/05/IDS-TCM403-BI.jpg",
+"price": "49.900.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP speed dome có màu 4MP Hikvision DS-2DE2C400SCG-E",
+"href": "/camera-ip-speed-dome-co-mau-4mp-hikvision-ds-2de2c400scg-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/04/DS-2DE2C400SCG-E.jpg",
+"price": "4.540.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI đếm người/nhận diện khuôn mặt Hikvision IDS-2SH6B6G0-IZS",
+"href": "/camera-ai-dem-nguoi-nhan-dien-khuon-mat-hikvision-ids-2sh6b6g0-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/IDS-2SH6B6G0-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2SH6617-AD",
+"href": "/camera-ip-hikvision-ds-2sh6617-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/DS-2SH6617-AD.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2SH6617-10/AD",
+"href": "/camera-ip-hikvision-ds-2sh6617-10-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/DS-2SH6617-10-AD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hồng ngoại 2MP Hikvision DS-2SH261GC-I",
+"href": "/camera-ip-hong-ngoai-2mp-hikvision-ds-2sh261gc-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CD3621G0-IZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu lắp thang máy",
+"href": "/camera-ip-ban-cau-lap-thang-may/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-2GN655-V.jpg",
+"price": "8.085.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ có màu 24/7",
+"href": "/camera-ip-tru-co-mau-24-7/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-2GN5780-HH.jpeg",
+"price": "4.635.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP gắn trần có màu 24/7",
+"href": "/camera-ip-gan-tran-co-mau-24-7/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-2GN5750-HH.jpg",
+"price": "4.335.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ hồng ngoại 8MP chuẩn nén H.265+ SH-IP2832-G4",
+"href": "/camera-ip-tru-hong-ngoai-8mp-chuan-nen-h-265-sh-ip2832-g4/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/SH-IP2832-G4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision SH-2CD1201-I3",
+"href": "/sh-2cd1201-i3/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/6084ce2f349290cd2c34286a6634691e-500x500.jpg",
+"price": "2.050.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision SH-2CD1301-I",
+"href": "/sh-2cd1301-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/camera-ip-hikvision.jpg",
+"price": "1.980.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP Box Network Camera Hikvision iDS-2CD7026G0(-AP)",
+"href": "/ids-2cd7026g0-ap-2-mp-box-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/08/DS-2CD7026G0-AP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "camera IP 2MP Hikvision plus HKI-8321-I3L2",
+"href": "/hki-8321-i3l2-camera-ip-2mp-hikvision-plus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/HKI-8321-I3L2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "camera IP 2MP Hikvision plus HKI-8221-I3L4",
+"href": "/hki-8221-i3l4-camera-ip-2mp-hikvision-plus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/HKI-8221-I3L4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2SE2C400MWG-E/14",
+"href": "/camera-hikvision-ds-2se2c400mwg-e-14/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/12/DS-2SE2C200MWG-E14-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Mini pt Smart Hybird Light 4MP Hikvision DS-2DE2C400MWG-4G",
+"href": "/camera-ip-mini-pt-smart-hybird-light-4mp-hikvision-ds-2de2c400mwg-4g/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-2DE2C200MWG-4G-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP IR Cube Camera Hikvision DS-2CD2442FWD-IW",
+"href": "/ds-2cd2442fwd-iw-4mp-ir-cube-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/10/hikvision-ds-2cd2422f-iw-ga3213-9413-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP/4MP WDR IR Cube Network Camera Hikvision DS-2CD2422/42FWD-IW",
+"href": "/ds-2cd242242fwd-iw-2mp4mp-wdr-ir-cube-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2410-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Cube 1.0MP",
+"href": "/camera-cube-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2410-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Cube 3.0MP",
+"href": "/camera-ip-cube-wifi-hong-ngoai-2-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2410-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Cube 2.0MP Hikvision DS-2CD2420F-IW",
+"href": "/ds-2cd2420f-iw2mp-ir-cube-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2410-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 4MP Hikvision HE-2N5D43A2-LM",
+"href": "/camera-ip-ban-cau-4mp-hikvision-he-2n5d43a2-lm/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/11/HE-2N5D43A2-LM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4MP Hikvision HE-2N5T43A2-LM",
+"href": "/camera-ip-4mp-hikvision-he-2n5t43a2-lm/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/11/HE-2N5T43A2-LM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision HE-2NP8D23A2-IM",
+"href": "/camera-ip-2mp-hikvision-he-2np8d23a2-im/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/HE-2NP8D23A2-IM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Thân trụ 6MP Hikvision DS-2CD3T63G2-2IS",
+"href": "/camera-ip-than-tru-6mp-hikvision-ds-2cd3t63g2-2is/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/05/DS-2CD3T63G2-2IS.png",
+"price": "7.250.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 4MP thay đổi tiêu cự Hikvision SH-IPC0343T-IZ",
+"href": "/camera-ip-than-tru-4mp-thay-doi-tieu-cu-hikvision-sh-ipc0343t-iz/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-IPC0343T-IZ.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 2MP High Resolution Exir Hikvision DS-2CD2325FHWD",
+"href": "/ds-2cd2325fhwd-camera-turret-2mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 2MP high resolution Hikvision DS-2CD2T25FHWD-I8",
+"href": "/ds-2cd2t25fhwd-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 3MP Vari-focal Exir Hikvision DS-2CD2H35FWD-IZ(S)",
+"href": "/ds-2cd2h35fwd-izs-camera-turret-3mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2H85FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 2MP Vari-focal Exir Hikvision DS-2CD2H25FWD-IZ(S)",
+"href": "/ds-2cd2h25fwd-izs-camera-turret-2mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2H85FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 5MP Vari-focal Exir Hikvision DS-2CD2H55FWD-IZ(S)",
+"href": "/ds-2cd2h55fwd-izs-camera-turret-5mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2H85FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 8MP Vari-focal Exir Hikvision DS-2CD2H85FWD-IZ(S)",
+"href": "/ds-2cd2h85fwd-izs-camera-turret-8mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2H85FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 2MP Vari-focal Exir Hikvision DS-2CD2725FWD-IZ(S)",
+"href": "/ds-2cd2725fwd-izs-camera-dome-2mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2785FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 3MP Vari-focal Exir Hikvision DS-2CD2735FWD-IZ(S)",
+"href": "/ds-2cd2735fwd-izs-camera-bullet-3mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2785FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 5MP Vari-focal Exir Hikvision DS-2CD2755FWD-IZ(S)",
+"href": "/ds-2cd2755fwd-izs-camera-dome-5mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2785FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 8MP Vari-focal Exir Hikvision DS-2CD2785FWD-IZ(S)",
+"href": "/ds-2cd2785fwd-izs-camera-dome-8mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2785FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 2MP Vari-focal Exir Hikvision DS-2CD2625FWD-IZ(S)",
+"href": "/ds-2cd2625fwd-izs-camera-bullet-2mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2685FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 3MP Vari-focal Exir Hikvision DS-2CD2635FWD-IZ(S)",
+"href": "/ds-2cd2635fwd-izs-camera-bullet-3mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2685FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 5MP Vari-focal Exir Hikvision DS-2CD2655FWD-IZ(S)",
+"href": "/ds-2cd2655fwd-izs-camera-bullet-5mp-vari-focal-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2685FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 8MP Vari-focal Exir Hikvision DS-2CD2685FWD-IZ(S)",
+"href": "/ds-2cd2685fwd-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2685FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 3MP High resolution IR 50m-80m Hikvision DS-2CD2T35FWD-I(5/8)",
+"href": "/ds-2cd2t35fwd-i58-camera-bullet-3mp-high-resolution-ir-50m-80m/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 5MP High resolution IR 50m-80m Hikvision DS-2CD2T55FWD-I(5/8)",
+"href": "/ds-2cd2t55fwd-i58-camera-bullet-5mp-high-resolution-ir-50m-80m/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 4K Ultra-HD IR 50m-80m Hikvision DS-2CD2T85FWD-I(5/8)",
+"href": "/ds-2cd2t85fwd-i58-camera-bullet-4k-ultra-hd-ir-50m-80m/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2T85FWD-I58.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 2MP High Resolution Exir Hikvision DS-2CD2325FWD",
+"href": "/ds-2cd2325fwd-camera-turret-2mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 3MP High resolution EXIR Hikvision DS-2CD2335FWD",
+"href": "/ds-2cd2335fwd-camera-turret-3mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 5MP high resolution Exir Hikvision DS-2CD2355FWD",
+"href": "/ds-2cd2355fwd-camera-turret-5mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Turret 4K Ultra-HD Exir Hikvision DS-2CD2385FWD",
+"href": "/ds-2cd2385fwd-camera-turret-4k-ultra-hd-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2385FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 3MP high resolution Exir Hikvision DS-2CD2135FWD",
+"href": "/ds-2cd2135fwd-camera-dome-3mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 5MP High resolution Exir Hikvision DS-2CD2155FWD",
+"href": "/ds-2cd2155fwd-camera-dome-5mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4K Ultra-HD Exir Hikvision DS-2CD2185FWD",
+"href": "/ds-2cd2185fwd-dome-camera-4k-ultra-hd-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2185FWD-IS-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Bullet Camera 2MP Exir Hikvision DS-2CD2025FWD",
+"href": "/ds-2cd2025fwd-mini-bullet-camera-2mp-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2085FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Bullet Camera 3MP Exir Hikvision DS-2CD2035FWD",
+"href": "/ds-2cd2035fwd-mini-bullet-camera-3mp-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2085FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Bullet Camera 5MP Exir Hikvision DS-2CD2055FWD",
+"href": "/ds-2cd2055fwd-mini-bullet-camera-5mp-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2085FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Camera Bullet 8MP EXIR Hikvision DS-2CD2085FWD",
+"href": "/ds-2cd2085fwd-mini-camera-bullet-8mp-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2085FWD-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 4MP Hikvision DS-2SH3Y5H3-ZDI/DZ",
+"href": "/camera-than-tru-4mp-hikvision-ds-2sh3y5h3-zdi-dz/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-2SH3Y5H3.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP thân trụ Hikvision DS-2CD1021G0-I",
+"href": "/camera-ip-2mp-than-tru-hikvision-ds-2cd1021g0-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-2CD1021G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại mini Hikvision SH-2CD2021-IAX",
+"href": "/sh-2cd2021-iax-camera-than-tru-hong-ngoai-mini-sao/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2021G0-w2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2TD1217B-3/PA",
+"href": "/ds-2td1217b-3pa/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD1217B-6PA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2TD1217B-6/PA",
+"href": "/ds-2td1217b-6pa/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD1217B-6PA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2TD2636B-15/P",
+"href": "/ds-2td2636b-15p/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD2637B-10.P-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision DS-2TD2637B-10/P",
+"href": "/ds-2td2637b-10p/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TD2637B-10.P-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 4MP Hikvision DS-2CD2T46G1-2I",
+"href": "/ds-2cd2t46g1-2i-camera-ip-than-tru-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP Hikvision DS-2CD2T26G1-2I",
+"href": "/ds-2cd2t26g1-2i-camera-than-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 4MP Hikvision DS-2CD2T46G1-4I",
+"href": "/ds-2cd2t46g1-4i-camera-ip-tru-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP Hikvision DS-2CD2T26G1-4I",
+"href": "/ds-2cd2t26g1-4i/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD2623G1-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ Hikvision DS-2CD1001-I",
+"href": "/ds-2cd1001-camera-ip-tru/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CD1001-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ ColorVu Hikvision DS-2CD2T47G3E-L",
+"href": "/ds-2cd2t47g3e-l-camera-ip-tru-colorvu/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/45390_hd_paragon_37.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ ColorVu Hikvision DS-2CD2T27G3E-L",
+"href": "/ds-2cd2t27g3e-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/45390_hd_paragon_37-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hình trụ hồng ngoại 2 MP Hikvision DS-B3200VN",
+"href": "/ds-b3200vn-camera-ip-hinh-tru-hong-ngoai-2-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-B3200VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP hình trụ hồng ngoại 1 MP Hikvision DS-B3100VN",
+"href": "/ds-b3100vn-camera-ip-hinh-tru-hong-ngoai-1-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-B3100VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP IR Fixed Bullet Network Camera Hikvision HG20-2CD2T23G0-I8",
+"href": "/hg20-2cd2t23g0-i8-2-mp-ir-fixed-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/HG18-2CD2T23G0-I8-500x500.jpg",
+"price": "5.680.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 2MP Hikvision DS-2CD1021-I",
+"href": "/ds-2cd1021-i-camera-tru-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/ds-2cd1021-i-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "H265+ Camera IP thân trụ 2MP Hikvision HKI-9520F-I3L4",
+"href": "/hki-9520f-i3l4-h265-camera-ip-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CD2021G1-IDW-DS-2CD2021G1-I-DS-2CD2021G1-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 2MP Hikvision HKI-9520F-I3L4-H265+",
+"href": "/camera-ip-2mp-hikvision-hki-9520f-i3l4-h265/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/HKI-9520F-I3L4-H265-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 2MP Hikvision DS-2CD2623G0-IZS",
+"href": "/ds-2cd2623g0-izs-camera-tru-thay-doi-tieu-cu-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2683-63-43-23G0-IZS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 4MP Hikvision DS-2CD2643G0-IZS",
+"href": "/ds-2cd2643g0-izs-camera-tru-thay-doi-tieu-cu-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2683-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 6MP Hikvision DS-2CD2663G0-IZS",
+"href": "/ds-2cd2663g0-izs-camera-tru-thay-doi-tieu-cu-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2683-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 8MP Hikvision DS-2CD2683G0-IZS",
+"href": "/ds-2cd2683g0-izs-camera-tru-thay-doi-tieu-cu-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2683-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ mini EXIR 8MP Hikvision DS-2CD2083G0-I",
+"href": "/ds-2cd2083g0-camera-tru-mini-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2083-63-53-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ Hikvision SH-IB21TG0-IS",
+"href": "/sh-ib21tg0-camera-ip-tru-hikvision-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2T21G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ hồng ngoại mini Hikvision DS-2CD2021-IAX",
+"href": "/ds-2cd2021-iax-camera-tru-hong-ngoai-mini/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2021G0-w2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP Hikvision DS-2CD1221-I3",
+"href": "/ds-2cd1221-i3-camera-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-B3200VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Indoor Box LightFighter Series 2MP Hikvision DS-2CD4025FWD(-AP)",
+"href": "/ds-2cd4025fwd-ap-camera-indoor-box-lightfighter-series-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 2MP/4MP WDR Hikvision DS-2CD2022/42WD-I(W)(S)",
+"href": "/ds-2cd202242wd-iws-camera-ip-tru-2mp4mp-wdr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2042WD-I-DS-2CD2022-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 4MP – Chống ngược sáng cao Hikvision DS-2CD2T42WD-I8",
+"href": "/ds-2cd2t42wd-i8-camera-than-tru-4mp-chong-nguoc-sang-cao/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/02/DS-2CD2T42-I8.-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ IP 4MP – Chống ngược sáng cao Hikvision DS-2CD2042WD-I",
+"href": "/ds-2cd2042wd-i-camera-than-tru-ip-4mp-chong-nguoc-sang-cuc-manh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-2CD2042WD-I-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 3.0MP Hikvision DS-2CD2T32- I8",
+"href": "/ds-2cd2t32-i8-camera-than-tru-exir-3-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 2MP Hikvision DS-2CD2T22-I8",
+"href": "/ds-2cd2t22-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 1.3MP Hikvision DS-2CD2T12-I8",
+"href": "/ds-2cd2t12-i8/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 3MP Hikvision DS-2CD2032F-I",
+"href": "/ds-2cd2032f-i-camera-ip-than-tru-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ wifi 2MP Hikvision DS-2CD2020F-IW",
+"href": "/ds-2cd2020f-iw-camera-ip-than-tru-wifi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 2MP Hikvision DS-2CD2020F-I",
+"href": "/ds-2cd2020f-i-camera-ip-than-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ wifi 1.3MP Hikvision DS-2CD2012F-I(W)",
+"href": "/ds-2cd2012f-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 1.3MP Hikvision DS-2CD2010F-I",
+"href": "/ds-2cd2010f-i-camera-ip-than-tru-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2010f-i-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvison DS-2CD63C5G1-IVS",
+"href": "/camera-hikvison-ds-2cd63c5g1-ivs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/DS-2CD63C5G1-IVS.jpg",
+"price": "31.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP Network Fisheye Camera Hikvision SH-2KS3966B-FWD(S)",
+"href": "/sh-2ks3966b-fwds-5mp-network-fisheye-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/SH-2KS3966B-FWD-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá -SH-IB595FWD-I",
+"href": "/camera-fisheye-5mp-high-resolution-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/06/SR-2CD2955FWD-IS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bí mật 1MP ống kính pinhole DS-2CD2Dx1G0/M-D/NF",
+"href": "/camera-ip-bi-mat-1mp-ong-kinh-pinhole-ds-2cd2dx1g0m-dnf/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/08/DS-2CD2D11G0-D-NF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bí mật 1MP Hikvision DS-2CD2D14WD",
+"href": "/camera-bi-mat-1mp-ds-2cd2d14wd/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2d14wwd-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá 360 độ 4.0MP Hikvision DS-2CD2942F-I",
+"href": "/ds-2cd2942f-i-camera-mat-ca-360-do-4-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2942-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá 360 độ 4.0MP Hikvision DS-2CD2942F-(I)(W)(S)",
+"href": "/ds-2cd2942f-iws-camera-mat-ca-360-do-4-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2942-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-2CD1121-I",
+"href": "/camera-hikvision-ds-2cd1121-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/10/DS-2CD1121G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision SH-2CD2321G0-I/NF",
+"href": "/sh-2cd2321g0-inf-camera-ip-ban-cau-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2321G0-I-NF-500x500.png",
+"price": "3.385.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision SH-DT2523-AVD",
+"href": "/sh-dt2523-avd-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision SH-DT2143-AVD",
+"href": "/ds-2cd2143g0-i-camera-ban-cau-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision SH-DT2123-AVD",
+"href": "/ds-2cd2123g0-i-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP Hikvision DS-2CD2723G1-IZ",
+"href": "/ds-2cd2723g1-iz-camera-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/ds-2cd2723g1-izs-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP Hikvision DS-2CD2723G1-I",
+"href": "/ds-2cd2723g1-i-camera-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/ds-2cd2723g1-izs-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP 2MP Hikvision DS-2CD2723G1-IZS",
+"href": "/ds-2cd2723g1-izs-camera-ban-cau-2mp-nha-an-toan/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/ds-2cd2723g1-izs-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision DS-2CD1101-I",
+"href": "/ds-2cd1101-camera-ip-ban-cau/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/Hikvision_Camera_1mp_DS-2CD1101-I_Dome_grande-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu hồng ngoại 1 MP Hikvision DS-D3100VN",
+"href": "/ds-d3100vn-camera-ip-ban-cau-hong-ngoai-1-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-D3100VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4 MP IR Vari-focal Dome Network Camera Hikvision HG20-2CD2735FWD-IZS",
+"href": "/hg20-2cd2735fwd-izs-3-mp-ir-vari-focal-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/HG18-2CD2735FWD-IZS-500x500.jpg",
+"price": "12.030.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 6MP Hikvision DS-2CD2763G0-IZS",
+"href": "/ds-2cd2763g0-izs-camera-ban-cau-thay-doi-tieu-cu-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2783-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 8MP Hikvision DS-2CD2783G0-IZS",
+"href": "/ds-2cd2783g0-izs-camera-ban-cau-thay-doi-tieu-cu-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2783-63-43-23G0-IZS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2543G0-I",
+"href": "/ds-2cd2543g0-camera-ban-cau-exir-4mp-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2543G0-IS",
+"href": "/ds-2cd2543g0-camera-ban-cau-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/Capture-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2543G0-IW",
+"href": "/ds-2cd2543g0-iw-camera-ban-cau-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2543G0-IWS",
+"href": "/ds-2cd2543g0-iws-camera-ban-cau-exir-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2563G0-I",
+"href": "/ds-2cd2563g0-camera-ban-cau-exir-6mp-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2563G0-IS",
+"href": "/ds-2cd2563g0-camera-ban-cau-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2563G0-IW",
+"href": "/ds-2cd2563g0-iw-camera-ban-cau-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2563G0-IWS",
+"href": "/ds-2cd2563g0-iws-camera-ban-cau-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2563-43-23G0-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 6MP Hikvision DS-2CD2363G0-I",
+"href": "/ds-2cd2363g0-camera-ban-cau-exir-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2363-43-23G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2123G0-I",
+"href": "/ds-2cd2123g0-camera-ban-cau-exir-2mp-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 2MP Hikvision DS-2CD2123G0-IS",
+"href": "/ds-2cd2123g0-camera-ban-cau-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 4MP Hikvision DS-2CD2143G0-I",
+"href": "/ds-2cd2143g0-camera-ban-cau-exir-4mp-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 8MP Hikvision DS-2CD2183G0-I",
+"href": "/ds-2cd2183g0-camera-ban-cau-exir-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR 8MP Hikvision DS-2CD2183G0-IS",
+"href": "/ds-2cd2183g0-is-camera-ban-cau-exir-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2183-63-43-23G0-IS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision HKI-9620F-I3L2",
+"href": "/hki-9620f-i3l2-camera-ip-ban-cau-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2121G0-w-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision SH-IB211G0-IS",
+"href": "/sh-ib211g0-camera-ip-ban-cau-hikvision-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2121G0-w-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision DS-2CD2121G0-IW",
+"href": "/ds-2cd2121g0-iw-camera-ban-cau-mini/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2121G0-w-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision DS-2CD2121G0-IWS",
+"href": "/ds-2cd2121g0-iws-camera-ban-cau-mini/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2121G0-w-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu IP 2MP Hikvision DS-2CD1321-I",
+"href": "/ds-2cd1321-camera-ban-cau-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-D3200VN-camera-hikvision-thi-truong-viet-nam-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 1MP Hikvision DS-2CD1110-(I)",
+"href": "/ds-2cd1110-camera-ban-cau-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/Ds-2cd1110-i-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome ( bán cầu) hồng ngoại 2 MP chuẩn nén H.265+ Hikvision HKI-9820F-I3L2ZS",
+"href": "/hki-9820f-i3l2zs-camera-ip-dome-ban-cau-hong-ngoai-2-mp-chuan-nen-h-265/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/Capture-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 2MP/4MP real-time resolution WDR IR Hikvision DS-2CD2122/42WD-I(W)(S)",
+"href": "/ds-2cd212242wd-iws-camera-dome-2mp4mp-wdr-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD212242WD-IWS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP/4MP WDR Hikvision DS-2CD2522FWD-IWS",
+"href": "/ds-2cd2522fwd-iws-camera-ip-ban-cau-2mp4mp-wdr/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2512f-is-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP/4MP WDR EXIR Hikvision DS-2CD232242WD",
+"href": "/ds-2cd232242wd-camera-ip-ban-cau-2mp4mp-wdr-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD2352-I-DS-2CD2322-i.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP/4MP WDR Hikvision DS-2CD2122F-I(W)(S)",
+"href": "/ds-2cd2122f-iws-camera-ip-ban-cau-2mp4mp-wdr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD212242WD-IWS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu Recessed Mount 1.3MP Hikvision DS-2CD2E10F (-W)",
+"href": "/ds-2cd2e10f-w-camera-ban-cau-recessed-mount-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/05/ds-2cd2e10f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu wifi 4MP Hikvision DS-2CD2142FWD-I(W)(S)",
+"href": "/camera-ban-cau-wifi-4mp-ds-2cd2142fwd-iws/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CD2142FWD-IWS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera P/T 1MP Hikvision DS-2CD2Q10FD-I(W)",
+"href": "/camera-pt-1mp-ds-2cd2q10fd-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2q10-c2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 3MP Hikvision DS-2CD2132F-I",
+"href": "/ds-2cd2132f-i-camera-ip-ban-cau-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP Hikvision DS-2CD2120F-I",
+"href": "/ds-2cd2120f-i-camera-ip-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP Hikvision DS-2CD2120F-I(W)(S)",
+"href": "/ds-2cd2120f-iws-camera-ip-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 1.3MP Hikvision DS-2CD2110F-I",
+"href": "/ds-2cd2110f-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 1.3MP Hikvision DS-2CD2110F-I(W)(S)",
+"href": "/ds-2cd2110f-iws/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4MP Hikvision DS-2CD2142FWD-I",
+"href": "/camera-ban-cau-4mp-ds-2cd2142fwd-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CD2142FWD-IWS.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu mini 3.0MP Hikvision DS-2CD2532F-I(W)(S)",
+"href": "/ds-2cd2532f-iws-camera-ban-cau-mini-3-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2512f-is-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu mini 1.3MP",
+"href": "/camera-ban-cau-mini-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2512f-is-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 3.0MP Hikvision DS-2CD2132F-I(W)(S)",
+"href": "/ds-2cd2132f-iws/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2cd2110-c-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision iDS-2CD7085G0(-AP)",
+"href": "/ids-2cd7085g0-ap/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/iDS-2CD7046G0-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP trụ hồng ngoại thông minh 2MP ngoài trời – chống ngược sáng thực",
+"href": "/camera-ip-tru-hong-ngoai-thong-minh-2mp-ngoai-troi-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CD4A26FWD-IZH-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Box 12MP Ultra-HD Full smart feature-set Hikvision DS-2CD40C5F",
+"href": "/ds-2cd40c5f-camera-box-12mp-ultra-hd-full-smart-feature-set/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Smart Box 6MP Super Digital WDR Hikvision DS-2CD4065F(-AP)",
+"href": "/ds-2cd4065f-ap-camera-smart-box-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Box Indoor 4K Ultra- HD Hikvision DS-2CD4085F-(A)(P)",
+"href": "/ds-2cd4085f-ap-camera-box-indoor-4k-ultra-hd/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật thông minh 3MP Hikvision DS-2CD4035FWD-(A)",
+"href": "/ds-2cd4035fwd-a-camera-than-chu-nhat-thong-minh-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd4012fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật thông minh 3MP (WDR) Hikvision DS-2CD4032FWD-(A)(P)(W)",
+"href": "/ds-2cd4032fwd-apw-camera-than-chu-nhat-thong-minh-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd4012fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật thông minh 2MP Hikvision DS-2CD4024F-(A)(P)(W)",
+"href": "/ds-2cd4024f-apw-camera-than-chu-nhat-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd4012fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật thông minh 1.3MP Hikvision DS-2CD4012F-(A)(P)(W)",
+"href": "/ds-2cd4012f-apw-camera-than-chu-nhat-thong-minh-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd4012fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật thông minh 1.3MP (WDR) Hikvision DS-2CD4012FWD-(A)(P)(W)",
+"href": "/ds-2cd4012fwd-apw-camera-than-chu-nhat-thong-minh-1-3mp-wdr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd4012fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Trụ hồng ngoại 4MP chuẩn nén H.265+ Hikvision SH-2CD205FWD- I",
+"href": "/sh-2cd205fwd-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/SH-2CD205FWD-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Vandal-proof 6MP Hikvision DS-2CD4665F-IZ(H)(S)",
+"href": "/ds-2cd4665f-izhs-camera-bullet-6mp-full-smart-feature-set/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4665F-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 2MP 20X Smart Focus Hikvision DS-2CD4A24FWD-IZ(H)(S)",
+"href": "/ds-2cd4a24fwd-izhs-camera-bullet-2mp-20x-smart-focus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 3MP thân trụ Hikvision DS-2CD4A35FWD-IZ(H)(S)",
+"href": "/ds-2cd4a35fwd-izhs-camera-ip-3mp-tru/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4A25FWD-IZHS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4.0 MP CMOS Network Turret Camera Hikvision DS-2CD1343G0-I",
+"href": "/ds-2cd1343g0-4-0-mp-cmos-network-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/Screenshot-18-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera tháp pháo 2MP Hikvision DS-2CD1323G0E-I (L)",
+"href": "/ds-2cd1323g0e-camera-thap-phao-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/Screenshot-18.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 2MP chất lượng cao Hikvision DS-2CD1123G0-I",
+"href": "/ds-2cd1123g0-i-camera-ip-ban-cau-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CD1143G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 4MP Hikvision DS-2CD1143G0-I",
+"href": "/ds-2cd1143g0-i-camera-ip-ban-cau-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CD1143G0-I-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu Hikvision SH-AT311G0-I",
+"href": "/sh-at311g0-i-camera-ip-ban-cau-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/10/SH-AT311G0-I-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 4× Network PTZ Camera Hikvision DS-2DE2A204W-DE3(2.8-12MM)",
+"href": "/ds-2de2a204w-de32-8-12mm-2mp-4x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204W-DE32.8-12MM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini PT 1MP Hikvision DS-2CV2Q01FD-IW",
+"href": "/ds-2cv2q01fd-iw-camera-ip-mini-pt-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2Q01EFD-IW-DS-2CV2Q21FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini PT 1MP Hikvision DS-2CV2Q01EFD-IW",
+"href": "/ds-2cv2q01efd-iw-camera-ip-mini-pt/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2Q01EFD-IW-DS-2CV2Q21FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini cube 2MP Hikvision DS-2CV2U21FD-IW",
+"href": "/ds-2cv2u21fd-iw-camera-ip-mini-cube-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2U01EFD-IW-DS-2CV2U01FD-IW-DS-2CV2U21FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP mini cube 1MP Hikvision DS-2CV2U01FD-IW",
+"href": "/ds-2cv2u01fd-iw-camera-ip-mini-cube-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2U01EFD-IW-DS-2CV2U01FD-IW-DS-2CV2U21FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mini cube 1MP Hikvision DS-2CV2U01EFD-IW",
+"href": "/ds-2cv2u01efd-iw-camera-mini-cube-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2U01EFD-IW-DS-2CV2U01FD-IW-DS-2CV2U21FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mini cube ngoài trời Hikvision DS-2CV2U24FD-IW",
+"href": "/ds-2cv2u24fd-iw-camera-mini-cube-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2U24FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Wifi toàn cảnh 180° 3MP Hikvision DS-2CV2U32FD-IW",
+"href": "/ds-2cv2u32fd-iw-camera-ip-wifi-toan-canh-180-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CV2U32FD-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera dome 2MP EXIR 50fps/60fps(1920×1080)",
+"href": "/ds-2cd2125fhwd-camera-dome-2mp-exir-50fps60fps1920x1080/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD2185FWD-IS-.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 1MP Hikvision DS-2CD1201(D)-I3/I5",
+"href": "/ds-2cd1201d-i3i5-camera-ip-tru-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/12/DS-2CD1201D-I3I6-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu 1MP Hikvision DS-2CD1301(D)-I",
+"href": "/ds-2cd1301d-camera-ip-ban-cau-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/12/DS-2CD1301D-I-800x800-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thân trụ 1MP Hikvision DS-2CD1002(D)-I",
+"href": "/ds-2cd1002d-camera-ip-tru-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-2CD1002D-I-800x800-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 4× Network PTZ Camera Hikvision DS-2DE2A404W-DE3(2.8-12MM)",
+"href": "/ds-2de2a404w-de32-8-12mm-4mp-4x-network-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204IW-DE32.8-12mm-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PanoVu series 130°panoramic + PTZ camera Hikvision DS-2PT3122IZ-DE3",
+"href": "/ds-2pt3122iz-de3-panovu-series-130panoramic-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2PT3122IZ-DE3-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PanoVu + PTZ camera Hikvision DS-2PT3326IZ-DE3",
+"href": "/ds-2pt3326iz-de3-panovu-series-360panoramic-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2PT3326IZ-DE3.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera Panovu 8MP 180 Panoramic 2MP 23X Hikvision DS-2DP0818Z-D",
+"href": "/ds-2dp0818z-d-ptz-camera-panovu-8mp-180-panoramic-2mp-23x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DP1636Z-D.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera PanoVu 16MP 360 panoramic 2MP 23X Hikvision DS-2DP1636Z-D",
+"href": "/ds-2dp1636z-d-panovu-series-360panoramicptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DP1636Z-D.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP WDR Vari-focal Bullet Network Camera",
+"href": "/4mp-wdr-vari-focal-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD2642FWD-IZS-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP WDR Vari-focal Bullet Network Camera Hikvision DS-2CD2642FWD-I(Z)(S)",
+"href": "/ds-2cd2642fwd-izs-4mp-wdr-vari-focal-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD2642FWD-IZS-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP – Chống ngược sáng thực Hikvision DS-2CD2622FWD-IZ",
+"href": "/ds-2cd2622fwd-iz-camera-than-tru-2mp-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/02/DS-2CD2622FWD-IZ.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 3MP Hikvision DS-2CD2632F-I",
+"href": "/ds-2cd2632f-icamera-than-tru-thay-doi-tieu-cu-3-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-2CD2610-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 2MP Hikvision DS-2CD2620F-I",
+"href": "/ds-2cd2620f-i-camera-than-tru-thay-doi-tieu-cu-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-2CD2610-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự 1.3MP Hikvision DS-2CD2610F-I",
+"href": "/ds-2cd2610f-i-camera-than-tru-thay-doi-tieu-cu-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-2CD2610-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 3MP Hikvision DS-2CD2732F",
+"href": "/ds-2cd2732f-camera-ban-cau-3-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 3MP Hikvision DS-2CD2732F-I(S)",
+"href": "/ds-2cd2732f-is-camera-ban-cau-3-0mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 1.3MP Hikvision DS-2CD2710F-I",
+"href": "/camera-ban-cau-1-3mp-ds-2cd2710f-i/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 1.3MP Hikvision DS-2CD2710F-I(S)",
+"href": "/ds-2cd2710f-iscamera-ban-cau-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision Smart Q1-FHD SH-IPB21QF-IW",
+"href": "/hikvision-smart-q1-fhd-sh-ipb21qf-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IPB01QEF-IW-SH-IPB21QF-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision Smart Q1-HD SH-IPB01QEF-IW",
+"href": "/hikvision-smart-q1-hd-sh-ipb01qef-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IPB01QEF-IW-SH-IPB21QF-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision Smart U1-HD SH-IVB01UEF-IW",
+"href": "/hikvision-smart-u1-hd-sh-ivb01uef-iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/SH-IVB01UEF-IW-SH-IVB21UF-IW-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera mắt cá thông minh 3MP Hikvision DS-2CD6332FWD-I(V)(S)",
+"href": "/ds-2cd6332fwd-ivs-camera-mat-ca-thong-minh-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd6332fwd-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DarkFighter series 2MP Anti-corrosion IR Bullet network camera Hikvision DS-2CD6626B-IZHS",
+"href": "/ds-2cd6626b-izhs-darkfighter-series-2mp-anti-corrsion-ir-bullet-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD6626B-IZHS-500x455.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Hikvision 2MP Explosion-Proof Network Speed Dome",
+"href": "/2mp-explosion-proof-network-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2DF6223-CXW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Explosion Proof Dome network camera Hikvision DS-2XE6222F-2MP",
+"href": "/ds-2xe6222f-2mp-explosion-proof-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6626BE-HIR5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP Explosion Proof Dome network camera Hikvision DS-2XE6242F-2MP",
+"href": "/ds-2xe6242f-2mp-explosion-proof-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6626BE-HIR5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DarkFighter Mini Bullet Covert Network Camera Hikvision DS-2CD6426FWD-50",
+"href": "/ds-2cd6426fwd-50-2-mp-sep-rated-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6426FWD-50-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD6026FHWD",
+"href": "/ds-2cd6026fhwd-camera-thong-minh-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6026FHWD-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ultra Low-Light& WDR Anti-Corrosion Bullet Camera Hikvision DS-2CD6626BS-R",
+"href": "/ds-2cd6626bs-r-2mp-ultra-low-light-wdr-anti-corrosion-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6626BS-R-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ultra Low-Light& WDR Anti-Corrosion Bullet Camera Hikvision DS-2CD6626B/E",
+"href": "/ds-2cd6626be-hirair5-2-mp-ultra-low-light-wdr-anti-corrosion-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6626BE-HIR5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera đếm người vào/ra chuyên dụng Hikvision IDS-2CD6412FWD-30C",
+"href": "/ids-2cd6412fwd-30c-camera-dem-nguoi-vaora-chuyen-dung/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ids-2cd6412fwd-30c-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 2MP Hikvision iDS-2CD6124FWD-I(Z)/H",
+"href": "/ids-2cd6124fwd-izh-camera-ban-cau-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ids-2cd6124fwd-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 2MP Hikvision iDS-2CD6124FWD-I(Z)/B",
+"href": "/ids-2cd6124fwd-izb-camera-ban-cau-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ids-2cd6124fwd-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera chữ nhật thông minh Hikvision iDS-2CD6024FWD/F",
+"href": "/ids-2cd6024fwdf-camera-chu-nhat-thong-minh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ids-2cd6024fwd-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "6MP Fisheye Network Camera Hikvision DS-2CD6362F-IVS",
+"href": "/ds-2cd6362f-ivs-6mp-fisheye-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6362F-IVS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật siêu nhạy sáng 2MP Hikvision DS-2CD6026FHWD-(A)",
+"href": "/ds-2cd6026fhwd-a-camera-than-chu-nhat-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd6026fhwd-a-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP chuẩn nén H265+ Hikvision DS-2CD1023G0-I",
+"href": "/ds-2cd1023g0-i-camera-tru-2mp-chuan-nen-h265/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CD1043G0-I-500x475.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 4MP chuẩn nén H265+ Hikvision DS-2CD1043G0-I",
+"href": "/ds-2cd1043g0-i-camera-tru-4mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CD1043G0-I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu PTZ thông minh 2MP Hikvision DS-2CD4324F-PTZ(S)",
+"href": "/ds-2cd4324f-ptzs-camera-ban-cau-ptz-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4324F-PTZS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu PTZ thông minh 3MP Hikvision DS-2CD4332FWD-PTZ(S)",
+"href": "/ds-2cd4332fwd-ptzs-camera-ban-cau-ptz-thong-minh-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4332FWD-PTZS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu PTZ thông minh 1.3MP Hikvision DS-2CD4312FWD-PTZ(S)",
+"href": "/ds-2cd4312fwd-ptzs-camera-ban-cau-ptz-thong-minh-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4312FWD-PTZS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu PTZ thông minh 1.3MP Hikvision DS-2CD4312F-PTZ(S)",
+"href": "/ds-2cd4312f-ptzs-camera-ban-cau-ptz-thong-minh-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4312F-PTZS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 3MP Hikvision DS-2CD4535FWD-IZ(H)",
+"href": "/ds-2cd4535fwd-izh-camera-ban-cau-thong-minh-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4535FWD-IZH-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 2MP Hikvision DS-2CD4324F-I(Z)(H)(S)",
+"href": "/ds-2cd4324f-izhs-camera-ban-cau-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4324F-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh chống ngược sáng 3MP Hikvision DS-2CD4332FWD-I(Z)(H)(S)",
+"href": "/ds-2cd4332fwd-izhs-camera-ban-cau-thong-minh-chong-nguoc-sang-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4332FWD-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 1.3MP Hikvision DS-2CD4312F-I(Z)(H)(S)",
+"href": "/ds-2cd4312f-izhs-camera-ban-cau-thong-minh-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4312F-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh chống ngược sáng 1.3MP Hikvision DS-2CD4312FWD-I(Z)(H)(S)",
+"href": "/ds-2cd4312fwd-izhs-camera-ban-cau-thong-minh-chong-nguoc-sang-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4312FWD-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh chống ngược sáng 3MP Hikvision DS-2CD4135FWD-IZ",
+"href": "/ds-2cd4135fwd-iz-camera-ban-cau-thong-minh-chong-nguoc-sang-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4135FWD-IZ-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh chống ngược sáng 3MP Hikvision DS-2CD4132FWD-I(Z)",
+"href": "/ds-2cd4132fwd-iz-camera-ban-cau-thong-minh-chong-nguoc-sang-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4132FWD-IZ-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh 2MP Hikvision DS-2CD4125FWD-IZ",
+"href": "/ds-2cd4125fwd-iz-camera-ban-cau-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4125FWD-IZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh chống ngược sáng 1.3MP Hikvision DS-2CD4112FWD-I(Z)",
+"href": "/ds-2cd4112fwd-iz-camera-ban-cau-thong-minh-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4112FWD-IZ-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thông minh siêu nhạy sáng 1.3MP Hikvision DS-2CD4112F-I(Z)",
+"href": "/ds-2cd4112f-iz-camera-ban-cau-thong-minh-sieu-nhay-sang-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4112F-IZ-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Bullet LPR Camera Hikvision DS-2CD4626FWD-IZ(HS)/P (2.8-12mm)",
+"href": "/ds-2cd4626fwd-izhsp-2-8-12mm-2mp-low-light-smart-bullet-lpr-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4665F-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Bullet LPR Camera Hikvision DS-2CD4A26FWD-LZS/P (2.8-12mm)",
+"href": "/ds-2cd4a26fwd-lzsp-2-8-12mm-2mp-low-light-smart-bullet-lpr-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Bullet LPR Camera Hikvision DS-2CD4A26FWD-IZ(S)(H)/P (2.8-12mm)/(8-32mm)(-WG)",
+"href": "/ds-2cd4a26fwd-izshp-2-8-12mm8-32mm-wg-2mp-low-light-smart-bullet-lpr-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Box LPR Camera with housing Hikvision DS-2CD4026FWD/P-L",
+"href": "/ds-2cd4026fwdp-l-3-8-16mm11-40mm7-33mm-2mp-low-light-smart-box-lpr-camera-housing/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4026FWDE-HIR5IRA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Box LPR Camera with housing Hikvision DS-2CD4026FWD/P-(H)I(N)RA (11-40mm)",
+"href": "/ds-2cd4026fwdp-hinra-11-40mm-2mp-low-light-smart-box-lpr-camera-housing/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4026FWDE-HIR5IRA-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Box LPR Camera with housing Hikvision DS-2CD4026FWDP-IR5-3-8-16MM-IRA11-40MM-2MP-LOW",
+"href": "/ds-2cd4026fwdp-ir5-3-8-16mm-ira11-40mm-2mp-low-light-smart-box-lpr-camera-housing/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4026FWDE-HIR5IRA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Covert Network Camera Hikvision DS-2CD6424FWD-40/E1(E2)",
+"href": "/ds-2cd6424fwd-40e1e2-2mp-covert-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6424FWD.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP WDR Pinhole Covert Network Camera Hikvision DS-2CD6424FWD-10’20’30’40",
+"href": "/ds-2cd6424fwd-10203040-2mp-wdr-pinhole-covert-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6424FWD-10’20’30’40-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh bí mật 1.3MP Hikvision DS-2CD6412FWD",
+"href": "/ds-2cd6412fwd-camera-thong-minh-bi-mat-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2cd6412-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4k Ultra-HD Motorized lens with Smart Focus Hikvision DS-2CD45C5F-IZ(H)",
+"href": "/ds-2cd45c5f-izh-camera-dome-4k-ultra-hd-motorized-lens-smart-focus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 12MP Motorized lens with Smart Focus Hikvision DS-2CD4AC5F",
+"href": "/ds-2cd4ac5f-camera-bullet-12mp-motorized-lens-with-smart-focus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 12MP Ultra-HD Full Smart Feature-set Hikvision DS-2CD41C5F-IZ",
+"href": "/ds-2cd41c5f-iz-camera-dome-12mp-ultra-hd-full-smart-feature-set/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Low Light Smart Camera Hikvision DS-2CD4026FWD/E-(H/IR5/IRA)",
+"href": "/ds-2cd4026fwde-hir5ira-2mp-low-light-smart-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4026FWDE-HIR5IRA-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4K Ultra-HD Motorized lens Hikvision DS-2CD4585F-IZH",
+"href": "/ds-2cd4585f-izh-camera-dome-4k-ultra-hd-motorized-lens/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 4K Ultra-HD Motorized Lens Hikvision DS-2CD4685F-IZ",
+"href": "/ds-2cd4685f-iz-camera-bullet-4k-ultra-hd-motorized-lens/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4665F-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 4k Ultra-HD Motorized lens Hikvision DS-2CD4A85F-IZ(H)(S)",
+"href": "/ds-2cd4a85f-izhs-camera-bullet-4k-ultra-hd-motorized-lens/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4K Ultra-HD Motorized lens Hikvision DS-2CD4185FWD-IZ",
+"href": "/ds-2cd4185fwd-iz-camera-dome-4k-ultra-hd-resolution/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet 6MP Motorized lens with Smart Focus Hikvision DS-2CD4A65F-IZH",
+"href": "/ds-2cd4a65f-izhs-camera-bullet-6mp-motorized-lens-smart-focus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 6MP Motorized lens with Smart Focus Hikvision DS-2CD4165FWD-IZ",
+"href": "/ds-2cd4165fwd-iz-camera-dome-6mp-motorized-lens-smart-focus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-2CD4565F-IZ(H)- Camera IP bán cầu 6MP",
+"href": "/ds-2cd4565f-izh-camera-ip-ban-cau-6mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4565F-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome LightFighter Series 2MP Hikvision DS-2CD4526FWD-IZH",
+"href": "/ds-2cd4526fwd-izh-camera-dome-lightfighter-series-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4526FWD-IZH.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh chống ngược sáng 2MP Hikvision DS-2CD4A25FWD-IZ(H)(S)",
+"href": "/ds-2cd4a25fwd-izhs-camera-thong-minh-chong-nguoc-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4A25FWD-IZHS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome DarkFighter Lite Series 1.3MP Hikvision DS-2CD4D16FWD-IZ(S)",
+"href": "/ds-2cd4d16fwd-izs-camera-dome-darkfighter-lite-series-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4D26FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome DarkFighter Lite Series 2MP",
+"href": "/camera-dome-darkfighter-lite-series-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4D26FWD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Box DarkFighter Series 2MP Hikvision DS-2CD4C26FWD-(AP)",
+"href": "/ds-2cd4c26fwd-ap-camera-box-darkfighter-series-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Box DarkFighter Series 3MP Hikvision DS-2CD4C36FWD-(AP)",
+"href": "/ds-2cd4c36fwd-ap-camera-box-darkfighter-series-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4C36FWD-AP-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet DarkFighter Lite Series 1.3MP Hikvision DS-2CD4B16FWD-IZ(S)",
+"href": "/ds-2cd4b16fwd-izs-camera-bullet-darkfighter-lite-series-1-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4B26FWD-IZS-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet DarkFighter Lite Series 2MP Hikvision DS-2CD4B26FWD-IZ(S)",
+"href": "/ds-2cd4b26fwd-izs-camera-bullet-darkfighter-lite-series-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4B26FWD-IZS-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD4626FWD-IZ(H)(S)",
+"href": "/ds-2cd4626fwd-izhs-camera-thong-minh-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4626FWD-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD4126FWD-IZ",
+"href": "/ds-2cd4126fwd-iz-camera-thong-minh-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4126FWD-IZ-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD4026FWD-(A)(P)",
+"href": "/ds-2cd4026fwd-ap-camera-thong-minh-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4026FWD-AP-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD4A26FWD-IZ(H)(S)",
+"href": "/ds-2cd4a26fwd-izhs-camera-thong-minh-sieu-nhay-sang-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD4A26FWD-IZHS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Separated Network Camera Hikvision DS-2CD6424FWD-10/20/30",
+"href": "/ds-2cd6424fwd-10-2mp-separated-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6424FWD-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "12 MP Fisheye Network Camera Hikvision DS-2CD63C2F-I(V)(S)",
+"href": "/ds-2cd63c2f-ivs-12-mp-fisheye-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD63C2F-IVS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP ly thân 2MP Hikvision DS-2CD6426F-50",
+"href": "/ds-2cd6426f-50-2mp-separated-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6426F-50-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light Anti-Corrosion Dome Camera Hikvision DS-2CD6626DS-IZ(H)",
+"href": "/ds-2cd6626ds-izh-2-mp-ultra-low-light-icr-daynight-anti-corrosion-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6626DS-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Multi-SensorPanoramic Dome Camera Hikvision DS-2CD6986F-(H)",
+"href": "/ds-2cd6986f-h-multi-sensorpanoramic-dome-camera/",
+"image": "http://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6986F-H-c2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1.3MP CMOS Stereo Desktop Camera Hikvision DS-2CD6812D(-W)",
+"href": "/ds-2cd6812d-w-1-3mp-cmos-stereo-desktop-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6812D-C1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1.3MP Outer-vehicle Network Camera Hikvision DS-2CD6510DT-I(O)",
+"href": "/ds-2cd6510dt-io-1-3mp-outer-vehicle-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6510-6520DT-IO-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Outer-vehicle Network Camera Hikvision DS-2CD6520DT-I(O)",
+"href": "/ds-2cd6520dt-io-2mp-outer-vehicle-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6510-6520DT-IO-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1.3MP Outer-vehicle Network Camera Hikvision DS-2CD6510-I(O)",
+"href": "/ds-2cd6510-io/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6510-IO-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Outer-vehicle Network Camera Hikvision DS-2CD6520ET-I(",
+"href": "/ds-2cd6520et-io-2mp-outer-vehicle-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD6520ET-IO-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP bán cầu thay đổi tiêu cự 2MP WDR Hikvision DS-2CD2722FWD-I(Z)(S)",
+"href": "/ds-2cd2722fwd-izs-camera-ip-ban-cau-thay-doi-tieu-cu-2mp4mp-wdr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2cd2742FWD-DS-2CD2722FWD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP 4Mp WDR thay đổi tiêu cự,chống ngược sáng Hikvision DS-2CD2742FWD-I(Z)(S)",
+"href": "/ds-2cd2742fwd-izs-camera-ip-4mp-wdr-thay-doi-tieu-cuchong-nguoc-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2cd2742FWD-DS-2CD2722FWD.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thông minh siêu nhạy sáng 2MP Hikvision DS-2CD6026FWD",
+"href": "/ds-2cd6026fwd-camera-thong-minh-sieu-nhay-sang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2CD6026FWD-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch POE 8 cổng Hikvision DS-3E0409P-EI/M",
+"href": "/switch-poe-8-cong-hikvision-ds-3e0409p-ei-m/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/DS-3E0409P-EI-M-01-scaled-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Gigabit Smart PoE 24 cổng Hikvision DS-3S1526P-SI-PRO",
+"href": "/switch-gigabit-smart-poe-24-cong-hikvision-ds-3s1526p-si-pro/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/05/Sw-01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision HG-3E0318P-E/M",
+"href": "/hg-3e0318p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0318P-E-M.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch POE Hikvision DS-3E0310P-E/M",
+"href": "/switch-poe-hikvision-ds-3e0310p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-3E0310P-EM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị mạng hub -switch PoE Hikvision DS-3E0106P-E/M",
+"href": "/thiet-bi-mang-hub-switch-poe-hikvision-ds-3e0106p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-3E0106P-EM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0105P-E/M(B)",
+"href": "/ds-3e0105p-emb/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-3E0105P-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0109P-E(C)",
+"href": "/ds-3e0109p-ec/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-3E0109P-EC-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0105P-E(B)",
+"href": "/ds-3e0105p-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-3E0105P-EB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0326P-E(B)",
+"href": "/ds-3e0326p-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0326P-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0318P-E/M",
+"href": "/ds-3e0318p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0318P-E-M.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0318P-E(B)",
+"href": "/ds-3e0318p-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0318P-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0326P-E/M(B)",
+"href": "/ds-3e0326p-emb/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0326P-E-MB.jpg",
+"price": "16.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0109P-E/M",
+"href": "/ds-3e0109p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0109P-E-M.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0105P-E/M",
+"href": "/ds-3e0105p-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0105P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ định tuyến và tường lửa cho hệ thống",
+"href": "/bo-dinh-tuyen-va-tuong-lua-cho-thong/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/8b.-USG-FLEX-700.jpeg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ định tuyến và VPN",
+"href": "/bo-dinh-tuyen-va-vpn/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/4.-WAC500H-500x498.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3WR12GC wireless router băng tần kép chuẩn AC1200",
+"href": "/ds-3wr12gc-wireless-router-bang-tan-kep-chuan-ac1200/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/DS-3WR12GC.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3WR3N wireless router chuẩn N tốc độ 300MBPS",
+"href": "/ds-3wr3n-wireless-router-chuan-n-toc-300mbps/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/02/DS_3WR3N-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3WR12C",
+"href": "/ds-3wr12c/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/10/9182_ds_3wr12c-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch công nghiệp chuyên dụng VT-3T0506-IDT",
+"href": "/switch-cong-nghiep-chuyen-dung-vt-3t0506-idt/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/9.-HIKVISION-DS-3T0506HP-E-HS-500x400.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Gigabit 24 cổng VT-3E1524-EI",
+"href": "/switch-gigabit-24-cong-vt-3e1524-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/5.-HIKVISION-DS-3E1524-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "16-port 10/100/1000Mbps Switch Hikvision DS-3E0516-E(B)",
+"href": "/16-port-101001000mbps-switch-hikvision-ds-3e0516-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-3E0516-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "24 Port Gigabit Unmanaged Switch_DS-3E0524-E(B)",
+"href": "/24-port-gigabit-unmanaged-switch-ds-3e0524-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-3E0524-EB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-port 10/100/1000Mbps Switch Hikvision DS-3E0508-E(B)",
+"href": "/8-port-101001000mbps-switch-hikvision-ds-3e0508-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-3E0508-EB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0516-E",
+"href": "/ds-3e0516-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0516-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0524-E",
+"href": "/ds-3e0524-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0524-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0109P-E(B)",
+"href": "/ds-3e0109p-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/12/DS-3E0109P-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged L2 PoE Switch Hikvision DS-3E0318P-E",
+"href": "/ds-3e0318p-e-unmanaged-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E0318P-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged L2 PoE Switch Hikvision DS-3E0109P-E",
+"href": "/ds-3e0109p-e-unmanaged-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E0109P-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch 5 Cổng Hikvision DS-3E0105D-E",
+"href": "/ds-3e0105d-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/10/DS-3E0105D-E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E1318P-EI",
+"href": "/ds-3e1318p-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1318P-EI.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E1326P-EI",
+"href": "/ds-3e1326p-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1326P-EI.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch POE 8 cổng Hikvision DS-3E1309P-EI",
+"href": "/switch-poe-8-cong-hikvision-ds-3e1309p-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1309P-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch thông minh Hikvision _ DS-3E1105P-EI",
+"href": "/switch-thong-minh-hikvision-ds-3e1105p-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1105P-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ thu phát Wifi cho thang máy Hikvision DS-5WF200CT-2N",
+"href": "/ds-5wf200ct-2n/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-5WF200CT-2N-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Máy chấm công khuôn mặt Hikvision SH-K1T9343MWX",
+"href": "/may-cham-cong-khuon-mat-hikvision-sh-k1t9343mwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2026/04/SH-K1T9343MWX-.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diên khuôn mặt, vân tay và Thẻ Hikvision SH-K1T9321MFWX",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-van-tay-va-the-hikvision-sh-k1t9321mfwx/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9321MFWX.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá đỡ cho khóa chốt điện từ Hikvision DS-K4T100-U2",
+"href": "/gia-do-cho-khoa-chot-dien-tu-hikvision-ds-k4t100-u2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4T100-U2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa Chốt Rơi Hikvision DS-K4T108",
+"href": "/khoa-chot-roi-hikvision-ds-k4t108/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4T108.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa cửa điện từ lắp ngoài trời Hikvision DS-K4E100",
+"href": "/khoa-cua-dien-tu-lap-ngoai-troi-hikvision-ds-k4e100/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4E100.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Exit Button Hikvision DS-K7P03/04",
+"href": "/ds-k7p0304/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K7P0304.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Accessories of Electric Bolt Hikvision DS-K4T100-U1/2",
+"href": "/ds-k4t100-u12-accessories-electric-bolt/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K4T100-U12.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Magnetic Lock Hikvision DS-K4H250D",
+"href": "/ds-k4h250d-magnetic-lock/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K4H250D-500x321.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1102M(K)",
+"href": "/ds-k1102mk-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1102MK.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Enrollment Station Hikvision DS-K1F100-D8E",
+"href": "/ds-k1f100-d8e-card-enrollment-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1F100-D8E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1801M/E",
+"href": "/ds-k1801me-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1801ME.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1801MK/EK",
+"href": "/ds-k1801mkek-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1801MKEK.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Secure Module Hikvision DS-K2M060",
+"href": "/ds-k2m060-secure-module/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K2M060.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Access Control Terminal Hikvision DS-K1T803F",
+"href": "/ds-k1t803f-fingerprint-access-control-terminal/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1T803F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Issuer Hikvision DS-K1F180-D8E",
+"href": "/ds-k1f180-d8e-card-issuer/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-K1F180-D8E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1802MK/EK",
+"href": "/ds-k1802mkek-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSK1802MKEK.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Fingerprint Card Issuer Hikvision DS-K1F810-F",
+"href": "/ds-k1f810-f-fingerprint-card-issuer/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSK1F810F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát ra vào Card Reader Hikvision DS-K1802M/E",
+"href": "/ds-k1802me-card-reader/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSK1802ME.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra cho 1/2/4 cửa Hikvision DS-K2601/02/04",
+"href": "/ds-k26010204-bo-kiem-soat-vao-ra-cho-124-cua/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K260x-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra cho 1/2/4 cửa Hikvision DS-K2801/02/04",
+"href": "/ds-k28010204-bo-kiem-soat-vao-ra-cho-124-cua/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K280x-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1101/02M(K) Thẻ Mifare",
+"href": "/ds-k110102mk-mifare/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K1101-02MK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1102E(K) Thẻ EM",
+"href": "/ds-k1102ek-em/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K1102EK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-K1104M(K) Thẻ Mifare",
+"href": "/ds-k1104mk-mifare/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K1104MK-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát vào ra đơn Hikvision DS-K1T105M/E(-C)",
+"href": "/ds-k1t105me-c-bo-kiem-soat-vao-ra-don/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K1T105M-C-E-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kiểm soát bằng vân tay hệ IP Hikvision DS-KT200MF/EF(-C)",
+"href": "/ds-kt200mfef-c-bo-kiem-soat-bang-van-tay-ip/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K1T200MF-EF-C-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "IC S50 Thẻ Mifare thông minh không tiếp xúc",
+"href": "/ic-s50-mifare-thong-minh-khong-tiep-xuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/IC-S50-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-KEM125 Thẻ EM thông minh không tiếp xúc",
+"href": "/ds-kem125-em-thong-minh-khong-tiep-xuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-KEM125-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa chốt rơi Hikvision DS-K4T100",
+"href": "/ds-k4t100-khoa-chot-roi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K4T100-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khung giá cho khóa DS-K4T100 Hikvision DS-K4T100-U1/U2",
+"href": "/ds-k4t100-u1u2-khung-gia-cho-khoa-ds-k4t100/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K4T100-U1U2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khung giá cho khóa DS-K4H250 Hikvision DS-K4H250-LZ/U",
+"href": "/ds-k4h250-lzu-khung-gia-cho-khoa-ds-k4h250/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K4H250-LZU-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn mở khóa Hikvision DS-K7P01",
+"href": "/ds-k7p01-nut-mo-khoa/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K7P01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn mở khóa Hikvision DS-K7P05",
+"href": "/ds-k7p05-nut-mo-khoa/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K7P05-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn khẩn cấp Hikvision DS-K7PEB",
+"href": "/ds-k7peb-nut-khan-cap/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-K7PEB-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ truyền tải video không dây cho thang máy Hikvision DS-3WF0EC-5ACT DS-3WF0EC-5ACT(B)",
+"href": "/bo-truyen-tai-video-khong-day-cho-thang-may-hikvision-ds-3wf0ec-5act/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/12/DS-3WF0EC-5ACTB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 2MP Hikvision DS-SH363AD-IZS",
+"href": "/camera-2mp-hikvision-ds-sh363ad-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-2CD3623G2-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Dome 2MP Hikvision DS-SH373AD-IZS",
+"href": "/camera-ip-dome-2mp-hikvision-ds-sh373ad-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-SH373AD-IZS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa thông báo IP 7W Hikvision DS-SH631-AD",
+"href": "/loa-thong-bao-ip-7w-hikvision-ds-sh631-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-SH631-AD.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa IP âm trần Hikvision DS-SH621-AD",
+"href": "/loa-ip-am-tran-hikvision-ds-sh621-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/12/DS-5WF200CT-2N.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa phụ mở rộng âm trần 6W Hikvision DS-SH620-AD",
+"href": "/loa-phu-mo-rong-am-tran-6w-hikvision-ds-sh620-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-SH620-AD.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hội nghị thông minh Hikvision SH-SUVC-X28",
+"href": "/camera-hoi-nghi-thong-minh-hikvision-sh-suvc-x28/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-SUVC-X28.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Webcam tích hợp loa Hikvision SH-SUVC-X12",
+"href": "/webcam-tich-hop-loa-hikvision-sh-suvc-x12/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-SUVC-X12.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Wifi Combo Hikvision DS-J142I/NKS424W03H",
+"href": "/bo-wifi-combo-hikvision-ds-j142i-nks424w03h/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-J142ISTD.NKS422W03H.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Wifi Combo Hikvision DS-J142I/NKS422W02H",
+"href": "/bo-wifi-combo-hikvision-ds-j142i-nks422w02h/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/DS-J142I.NKS422W02H.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Wifi Combo Hikvision DS-J142I/NKS422W0H",
+"href": "/bo-wifi-combo-hikvision-ds-j142i-nks422w0h/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/HIKVISION-DS-J142I.NKS422W0H.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn Hình Tương Tác Hikvision DS-SH65RB-AD",
+"href": "/man-hinh-tuong-tac-hikvision-ds-sh65rb-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/DS-SH65RB-AD.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ máy tính phục vụ nghiệp vụ giám sát",
+"href": "/bo-may-tinh-phuc-vu-nghiep-vu-giam-sat/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/13b.-pc_dell_inspiron-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị chống sét lan truyền đường tín hiệu",
+"href": "/thiet-bi-chong-set-lan-truyen-duong-tin-hieu/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/15.-PNET1GB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Kit chuông hình IP Hikvision SH-KIS9650-S",
+"href": "/bo-kit-chuong-hinh-ip-hikvision-sh-kis9650-s/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/12/SH-KIS9650-S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị kiểm soát vào ra – máy chấm công nhận diện khuôn mặt và vân tay Hikvision SH-K1T9344MBFWX-E1",
+"href": "/may-cham-cong-nhan-dien-khuon-mat-va-van-tay-hikvision-sh-k1t9344mbfwx-e1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/10/SH-K1T9344MBFWX-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa Hikvision SH-KV6136-WME1",
+"href": "/chuong-cua-hikvision-sh-kv6136-wme1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-KV6136-WME1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa có hình Hikvision SH-KIS6650-WTE",
+"href": "/chuong-cua-co-hinh-hikvision-sh-kis6650-wte/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-KIS6650-WTE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn camera chuông cửa Hikvision SH-KV6116-WPE1",
+"href": "/nut-an-camera-chuong-cua-hikvision-sh-kv6116-wpe1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KV6116-WPE1.webp",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 2 cổng cho villa Hikvision SH-KV8116-WME1",
+"href": "/nut-bam-ip-2-cong-cho-villa-hikvision-sh-kv8116-wme1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KV8116-WME1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 4 cổng cho villa Hikvision DS-KV8413-WME1(B)",
+"href": "/nut-bam-ip-4-cong-cho-villa-hikvision-ds-kv8413-wme1b/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KV8413-WME1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 2 cổng cho villa Hikvision DS-KV8213-WME1(B)",
+"href": "/nut-bam-ip-2-cong-cho-villa-hikvision-ds-kv8213-wme1b/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KV8213-WME1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình căn hộ thông minh cao cấp 10.1 inch Hikvision DS-KH9510-WTE1(B)",
+"href": "/man-hinh-can-ho-thong-minh-cao-cap-10-1-inch-hikvision-ds-kh9510-wte1b/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KH9510-WTE1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP cổng tích hợp nhận diện khuôn mặt cao cấp Hikvision DS-KV9503-WBE1",
+"href": "/nut-bam-ip-cong-tich-hop-nhan-dien-khuon-mat-cao-cap-hikvision-ds-kv9503-wbe1/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KV9503-WBE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn camera chuông cửa Hikvision DS-KV6113-WPE1(B)",
+"href": "/nut-an-camera-chuong-cua-hikvision-ds-kv6113-wpe1b/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KV6113-WPE1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP Hikviison SH-VDP603-PE",
+"href": "/nut-bam-ip-hikviison-sh-vdp603-pe/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/SH-VDP603-PE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuông cửa IP không dây 7 inch Hikvision SH-KH630-TE",
+"href": "/man-hinh-chuong-cua-ip-khong-day-7-inch-hikvision-sh-kh630-te/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/SH-KH630-TE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuông cửa có hình IP Hikvision SH-KIS6813-WTE",
+"href": "/bo-chuong-cua-co-hinh-ip-hikvision-sh-kis6813-wte/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/SH-KIS6813-WTE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuông cửa màn hình IP Hikvision SH-KIS6213-WTDE",
+"href": "/bo-chuong-cua-man-hinh-ip-hikvision-sh-kis6213-wtde/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/SH-KIS6213-WTDE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuông của có hình IP Hikvision SH-KIS6613-WTE",
+"href": "/bo-chuong-cua-co-hinh-ip-hikvision-sh-kis6613-wte/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/chuong-cua-co-hinh-SH-KIS6613-WTE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera chuông cửa IP không dây Hikvision DS-KV6113-WPE1",
+"href": "/camera-chuong-cua-ip-khong-day-hikvision-ds-kv6113-wpe1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KV6113-WPE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình DS-KH6320-TE1",
+"href": "/chuong-cua-man-hinh-ds-kh6320-te1/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/11/DS-KH6320-WTE1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình DS-KH6320-WTE1",
+"href": "/chuong-cua-man-hinh-ds-kh6320-wte1/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/11/DS-KH6320-WTE1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Video Intercom Indoor Station with 7-inch Touch Screen Hikvision DS-KH8300-T",
+"href": "/ds-kh8300-t-video-intercom-indoor-station-7-inch-touch-screen/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KH8301-WT-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Video Intercom Indoor Station with 7-inch Touch Screen Hikvision DS-KH8301-WT",
+"href": "/ds-kh8301-wtvideo-intercom-indoor-station-7-inch-touch-screen/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KH8301-WT.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Plastic Villa Door Station Hikvision DS-KV8102-IP/VP",
+"href": "/ds-kv8102-ipvp-plastic-villa-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KV8102-IP.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Metal Villa Door Station Hikvision DS-KV81/2/402-IM",
+"href": "/ds-kv812402-im-metal-villa-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KV812402-IM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP cổng tích hợp nhận diện khuôn mặt cao cấp Hikvision SH-KV9506-WBE1",
+"href": "/nut-bam-ip-cong-tich-hop-nhan-dien-khuon-mat-cao-cap-hikvision-sh-kv9506-wbe1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/07/SH-KV9506-WBE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình Hikvision SH-KH8522-WTE1",
+"href": "/man-hinh-hikvision-sh-kh8522-wte1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KH8522-WTE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuông cửa Hikvision SH-KH6352-WTE1",
+"href": "/man-hinh-chuong-cua-hikvision-sh-kh6352-wte1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KH6352-WTE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuông cửa IP không dây Hikvision SH-KH6322-WTE1",
+"href": "/man-hinh-chuong-cua-ip-khong-day-hikvision-sh-kh6322-wte1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KH6322-WTE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuông cửa có hình IP Hikvision SH-KIS6603-LE",
+"href": "/bo-chuong-cua-co-hinh-ip-hikvision-sh-kis6603-le/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-KIS6603-LE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình căn hộ thông minh cao cấp 10.1 inch Hikvision SH-KH9512-WTE1",
+"href": "/man-hinh-can-ho-thong-minh-cao-cap-10-1-inch-hikvision-sh-kh9512-wte1/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/06/SH-KH9512-WTE1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn sảnh chuông hình có màn hình 3.5 inch Hikvision DS-KD8102-2",
+"href": "/nut-an-sanh-chuong-hinh-co-man-hinh-3-5-inch-hikvision-ds-kd8102-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KD8102-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa IP Hikvision DS-KD8023-E6",
+"href": "/chuong-cua-ip-hikvision-ds-kd8023-e6/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KD8023-E6.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KD9203-FE6 – Facial Door Station",
+"href": "/ds-kd9203-fe6-facial-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD9203-FE6-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KD8103-E6 – 3.5inch Plastic IP Door Station",
+"href": "/ds-kd8103-e6-3-5inch-plastic-ip-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD8103-E6-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KD8003-IME1/S",
+"href": "/ds-kd8003-ime1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD8003-IME1_NS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KD8003-IME1/NS – KD8 Series Pro Modular Door Station",
+"href": "/ds-kd8003-ime1ns-kd8-series-pro-modular-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD8003-IME1_NS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KD8003-IME1FLUSH",
+"href": "/ds-kd8003-ime1flush/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD8003-IME1-Flush-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera chuông cửa IP Hikvision DS-KD8003-IME1",
+"href": "/camera-chuong-cua-ip-hikvision-ds-kd8003-ime1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KD8003-IME1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-K5603-Z Facial Swing Barrier",
+"href": "/ds-k5603-z-facial-swing-barrier/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/04/DS-k5603-z-2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn chuông cửa có hình analog Hikvision DS-KB2411-IM",
+"href": "/ds-kb2411-im-nut-an-chuong-cua-co-hinh-analog-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-KB2411-IM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Video Intercom Indoor Station with 7-inch Touch Screen Hikvision DS-KH6310-W",
+"href": "/ds-kh6310-w-video-intercom-indoor-station-7-inch-touch-screen/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KH6310-W.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình chuông cửa analog Hikvision DS-KH2200",
+"href": "/ds-kh2200-man-hinh-chuong-cua-analog-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-KH2200--500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình Digital Signage Hikvision DS-D6122TH-D/C",
+"href": "/man-hinh-digital-signage-hikvision-ds-d6122th-d-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-D6122TH-D-C.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình kỹ thuật số 65 inch Hikvision DS-D6065UN",
+"href": "/man-hinh-ky-thuat-so-65-inch-hikvision-ds-d6065un/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/09/DS-D6065UN.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác 86-inch Hikvision SH-D8B86RB/EL",
+"href": "/man-hinh-tuong-tac-86-inch-hikvision-sh-d8b86rb-el/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-D8B65RB.jpg",
+"price": "54.000.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác 75-inch Hikvision SH-D8B75RB/EL",
+"href": "/man-hinh-tuong-tac-75-inch-hikvision-sh-d8b75rb-el/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-D8B65RB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác 65-inch Hikvision SH-D8B65RB/EL",
+"href": "/man-hinh-tuong-tac-65-inch-hikvision-sh-d8b65rb-el/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-D8B65RB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình giám sát thông minh 24 inch Hikvision DS-D5024FC-C",
+"href": "/man-hinh-giam-sat-thong-minh-24-inch-hikvision-ds-d5024fc-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/man-hinh-DS-D5024FC-C.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình giám sát thông minh 22 inch Hikvision DS-D5022FC-C",
+"href": "/man-hinh-giam-sat-thong-minh-22-inch-hikvision-ds-d5022fc-c/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/man-hinh-DS-D5022FC-C.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình ghép 55 inch chuyên dụng 2×2 (55 inch x 4)",
+"href": "/man-hinh-ghep-55-inch-chuyen-dung-2x2-55-inch-x-4/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/1b.-DS-D2055LE-G.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình hiển thị 50-inch 4K VT-50UHD",
+"href": "/man-hinh-hien-thi-50-inch-4k-vt-50uhd/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/1.-man-hinh-led-ds-d5043uc-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá đỡ màn hình Hikvision SH-D8ABKY2-M",
+"href": "/gia-do-man-hinh-hikvision-sh-d8abky2-m/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-D8ABKY2-S.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Giá đỡ màn hình Hikvision SH-D8ABKY2-S",
+"href": "/gia-do-man-hinh-hikvision-sh-d8abky2-s/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/08/SH-D8ABKY2-S.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gá LZ cho khóa từ Hikvision DS-K4H258-LZ",
+"href": "/ga-lz-cho-khoa-tu-hikvision-ds-k4h258-lz/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4H258-LZ.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa Điện Từ Hikvision DS-K4H258S",
+"href": "/khoa-dien-tu-hikvision-ds-k4h258s/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4H258S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dây cáp HDMI 2M",
+"href": "/day-cap-hdmi-2m/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/hdmi-2m-hik-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn điều khiển camera IP Speed Dome Hikvision SH-RCK120I",
+"href": "/ban-dieu-khien-camera-ip-speed-dome-hikvision-sh-rck120i/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-RCK120I.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gá chữ U cho khóa chốt rơi Hikvision DS-K4T108-U1",
+"href": "/ga-chu-u-cho-khoa-chot-roi-hikvision-ds-k4t108-u1/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-K4T108-U1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-2909ZJ",
+"href": "/ds-2909zj/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2908ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged PoE Switch Hikvision HG18-3E0326P-E/M",
+"href": "/hg18-3e0326p-em-unmanaged-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/HG18-3E0326P-E-M-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ che nút nhấn chuông hình Hikvision DS-KABV8113-RS/Flush",
+"href": "/vo-che-nut-nhan-chuong-hinh-hikvision-ds-kabv8113-rs-flush/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-KABV8113-RS-Flush.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ che lắp ngoài trời với kính chắn gió, gạt nước, quạt gió và bộ phận sưởi ấm Hikvision DS-1322HZ-HW",
+"href": "/ds-1322hz-hw-vo-che-lap-ngoai-troi-voi-kinh-chan-gio-gat-nuoc-quat-gio-va-bo-phan-suoi-am/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1322hz-cw-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ che lắp ngoài trời với quạt gió Hikvision DS-1322HZ-C",
+"href": "/ds-1322hz-c-vo-che-lap-ngoai-troi-voi-quat-gio/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1322hz-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ che lắp ngoài trời với kính chắn gió, gạt nước quạt gió Hikvision DS-1322HZ-CW",
+"href": "/ds-1322hz-cw-vo-che-lap-ngoai-troi-voi-kinh-chan-gio-gat-nuoc-quat-gio/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1322hz-cw-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vỏ che lắp ngoài trời với quạt gió và bộ phận sưởi ấm Hikvision DS-1322HZ-H",
+"href": "/ds-1322hz-hvo-che-lap-ngoai-troi-voi-quat-gio-va-bo-phan-suoi-am/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1322hz-c-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế gắn trần cho camera PTZ",
+"href": "/chan-de-gan-tran-cho-camera-ptz/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1644zj-c1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision ST-IR030814Z2MP IR& 2Megapixel",
+"href": "/st-ir030814z2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/st-ir030814z2mp-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision ST-IR0812F2MP IR & 2Megapixel",
+"href": "/st-ir0812f2mp-ir-2megapixel/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/st-ir0812f2mp-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision ST-IR0612F2MP IR & 2Megapixel",
+"href": "/st-ir0612f2mp-ir-2megapixel/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/st-ir0612f2mp-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ 4MP DS-2SH4428IX-AEL",
+"href": "/camera-ip-ptz-4mp-ds-2sh4428ix-ael/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/DS-2SH4428IX-AEL.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-2KS6226IF-AE 2MP 25× Network IR Speed Dome",
+"href": "/sh-2ks6226if-ae/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/SH-2KS6226IF-AE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-IB7232IW",
+"href": "/sh-ib7232iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/10/20130704162615396931.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network IR PTZ Camera Hikvision DS-2DE5225IW",
+"href": "/ds-2de5225iw-2mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/ds-2de5432iw-ae-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 32X Network IR PTZ Camera Hikvision DS-2DE5432IW",
+"href": "/ds-2de5432iw-4mp-32x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/ds-2de5432iw-ae-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network IR PTZ Camera Hikvision SH-HQ-7332IW",
+"href": "/sh-hq-7332iw-2mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2DE4425IW-DE-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "4MP 25x Network IR PTZ Camera Hikvision DS-2DE4A425IW",
+"href": "/ds-2de4a425iw-4mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DE4A425IW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 25X Network IR PTZ Camera Hikvision SH-VT6336IW-AE",
+"href": "/sh-vt6336iw-ae-2mp-25x-network-ir-ptz-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/SH-VT6336IW-AE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-IP4220-12V 2MP 20X Network IR PTZ",
+"href": "/sh-ip4220-12v-2mp-20x-network-ir-ptz/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/20150828211930208.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 2MP/1.3MP 20X Hikvision DS-2DE4220/4120-AE(3)",
+"href": "/ds-2de42204120-ae3-ptz-camera-2mp1-3mp-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220W4120-AE3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 1.3MP 20X Optical Zoom Hikvision DS-2DE4120I-D",
+"href": "/ds-2de4120i-d-ptz-camera-1-3mp-20x-optical-zoom/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220IW-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 2MP real-time 20X optical zoom Hikvision DS-2DE4220IW-D",
+"href": "/ds-2de4220iw-d-ptz-camera-2mp-20x-optical-zoom/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220IW-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 2MP real-time 20X optical zoom Hikvision DS-2DE5220IW-AE",
+"href": "/ds-2de5220iw-ae-ptz-camera-2mp-real-time-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE5220IW-AE-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Dome Camera 1.3MP 30X/20X Hikvision DS-2DE5130/5120W-AE(3)",
+"href": "/ds-2de51305120w-ae3/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE52305220W-AE3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 1.3MP 20X Optical Zoom Hikvision DS-2DE7120IW-AE",
+"href": "/ds-2de7120iw-ae-ptz-camera-1-3mp-20x-optical-zoom/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE7120IW-AE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Dome Camera 2MP 30X/20X Hikvision DS-2DE5230/5220W-AE(3)",
+"href": "/ds-2de52305220w-ae3-ptz-dome-camera-2mp-30x20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE52305220W-AE3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 2MP 30X/20X IR Hikvision DS-2DE7230/7220IW-AE",
+"href": "/ds-2de72307220iw-ae-ptz-camera-2mp-30x20x-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE7230IW-AE-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini PTZ Camera 3MP/ 2MP 4X Hikvision DS-2DE3304W3204W-DE",
+"href": "/ds-2de3304w3204w-de-mini-ptz-camera-3mp-2mp-4x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE3304W3204-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Bullet Camera 3MP/2MP real time 20X IR Hikvision DS-2DY3320/3220-DE(4)",
+"href": "/ds-2dy33203220-de4-ptz-bullet-camera-3mp2mp-20x-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DY33203220-DE4.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini PTZ Dome Camera 3MP/2MP real time 20X Hikvision DS-2DE4A320/4A220IW-DE",
+"href": "/ds-2de4a3204a220iw-de-mini-ptz-dome-camera-3mp2mp-20x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4A3204A220IW-DE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP PTZ Mini 1MP/2MP Hikvision DS-2DE2103I/2202I-DE3W",
+"href": "/ds-2de2103i2202i-de3w-camera-ip-ptz-mini-1mp2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2DE2202I-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 2MP Hikvision DS-2DE5220I-AE",
+"href": "/ds-2de5220i-ae-camera-ptz-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2de5220i-ae1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP trong nhà 2MP Hikvision DS-2DE4220-AE3",
+"href": "/ds-2de4220-ae3-camera-ptz-ip-trong-nha-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2de4220-ae3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 2MP Hikvision DS-2DE7184-A",
+"href": "/ds-2de7184-a-camera-ptz-ip-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2de7174-a-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP 1MP Hikvision DS-2DE7174-A",
+"href": "/ds-2de7174-a-camera-ptz-ip-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2de7174-a-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ iDS-2CD75465G0-IZ(H)SY Hikvision iDS-2CD7565G0-IZ(H)SY",
+"href": "/ids-2cd7565g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7526G0-IZHSY.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision iDS-2CD75485G0-IZ(H)SY",
+"href": "/ids-2cd75485g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7526G0-IZHSY-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision iDS-2CD7546G0-IZ(H)SY",
+"href": "/ids-2cd7546g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7526G0-IZHSY-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision iDS-2CD7526G0-IZ(H)SY",
+"href": "/ids-2cd7526g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7526G0-IZHSY-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision iDS-2CD7185G0-IZS",
+"href": "/camera-ptz-hikvision-ids-2cd7185g0-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7165G0-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision iDS-2CD7165G0-IZS",
+"href": "/ids-2cd7165g0-izs/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7165G0-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "iDS-2CD7146G0-IZS: 4 MP DeepinView Indoor Moto Varifocal Dome Camera",
+"href": "/ids-2cd7146g0-izs-4-mp-deepinview-indoor-moto-varifocal-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/iDS-2CD7146G0-IZS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DF9C435IH-DLW",
+"href": "/ds-2df9c435ih-dlw/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2DF9C435IH-DLW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2DE3204W-DE(B)",
+"href": "/ds-2de5232iw-ae/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2DE3204W-DE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-HQ-5025IW",
+"href": "/sh-hq-5025iw/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4215TI-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5225TI-A(D)",
+"href": "/ds-2ae5225ti-ad/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE5225TI-A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5225T-A (D)",
+"href": "/ds-2ae5225t-a-d/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE5225T-A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4215T-D3 (D)",
+"href": "/ds-2ae4215t-d3d/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4215T-D(D)",
+"href": "/ds-2ae4215t-d/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4225T-D(D)",
+"href": "/ds-2ae4225t-dd/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4225T-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4215TI-D(E)",
+"href": "/ds-2ae4215ti-de/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2AE4215TI-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP Speed Dome hồng ngoại 2 MP ( quay quét) thông minh Hikvision HKI-9720F-I10L4Z",
+"href": "/hki-9720f-i10l4z-camera-ip-speed-dome-hong-ngoai-2-mp-quay-quet-thong-minh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2df7284-ael-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision SH-3DF9536IX-KSYW Network IR Speed Dome",
+"href": "/sh-3df9536ix-ksyw-network-ir-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/04/DS-2DF8436IX-AELW4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Smart Dome Camera 3MP 36X Hikvision DS-2DF6336V-AEL",
+"href": "/ds-2df6336v-ael-ptz-smart-dome-camera-3mp-36x/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF6336V-AEL-800x800-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Smart Camera Ultra-low Light 2MP Hikvision DS-2DF6223-AEL",
+"href": "/ds-2df6223-ael-ptz-smart-camera-ultra-low-light-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF6223-AEL-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Smart Camera DarkFighter 2MP Hikvision DS-2DF6236-AEL",
+"href": "/ds-2df6236-ael-ptz-smart-camera-darkfighter-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF6236-AEL-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Smart Camera 3MP High Frame Rate Hikvision DS-2DF8336IV-AEL(W)",
+"href": "/ds-2df8336iv-aelw-ptz-smart-camera-3mp-high-frame-rate/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8836IV-AELW-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Smart camera 2MP Ultra-low Light Hikvision DS-2DF8236I-AELW",
+"href": "/ds-2df8236i-aelw-ptz-smart-camera-2mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8223I-AELW-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 4MP 36X IR Hikvision DS-2DF8436IX-AEL(W)",
+"href": "/ds-2df8436ix-aelw-camera-quay-quet-4mp-36x-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8436IX-AELW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera 4K Ultra HD resolution 36X Optical zoom Hikvision DS-2DF8836IV-AELW",
+"href": "/ds-2df8836iv-aelw-camera-quay-quet-4k-36x-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8836IV-AELW-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera Darkfighter 2MP 36X IR Hikvision DS-2DF8236IX-AEL(W)",
+"href": "/ds-2df8236ix-aelw-darkfighter-2mp-36x-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DF8436IX-AELW-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ IP thông minh 3MP Hikvision DS-2DF8336IV-AEL",
+"href": "/camera-ptz-ip-thong-minh-3mp-ds-2df8336iv-ael/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/02/DS-2DF8336IV-AEL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ thông minh 2MP Hikvision DS-2DF7284-AEL",
+"href": "/ds-2df7284-ael-camera-ptz-thong-minh-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-2df7284-ael-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ siêu nhạy sáng (Darkfighter) 2MP Hikvision DS-2DF8223I-AEL(W)",
+"href": "/ds-2df8223i-aelw-camera-ptz-sieu-nhay-sang-darkfighter-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/DS-2DF8223I-AEL-c1-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4225T-D2 MP Turbo 4-Inch Speed Dome",
+"href": "/ds-2ae4225t-d2-mp-turbo-4-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds_2de4225w_de-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4215TI-D 2MP IR Turbo 4-Inch Speed Dome",
+"href": "/ds-2ae4215ti-d-2mp-ir-turbo-4-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2AE4225TI-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE4225TI-D 2MP IR Turbo 4-Inch Speed Dome",
+"href": "/ds-2ae4225ti-d-2mp-ir-turbo-4-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2AE4225TI-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5232T-A 2MP Turbo 5-Inch Speed Dome",
+"href": "/ds-2ae5232t-2mp-turbo-5-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds_2ae5232t_a-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5225TI-A 2MP IR Turbo 5-Inch Speed Dome",
+"href": "/ds-2ae5225ti-2mp-ir-turbo-5-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2AE5225TI-A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5232TI-A 2MP IR Turbo 5-Inch Speed Dome",
+"href": "/ds-2ae5232ti-2mp-ir-turbo-5-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2AE5232TI-A2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE5232TI-A2 MP IR Turbo 5-Inch Speed Dome",
+"href": "/ds-2ae5232ti-a2-mp-ir-turbo-5-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/DS-2AE5232TI-A2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE7225TI-A 2MP IR Turbo 7-Inch Speed Dome",
+"href": "/ds-2ae7225ti-a2-mp-ir-turbo-7-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds-2ae7230ti-a_side2_3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Hikvision DS-2AE7232TI-A2 MP IR Turbo 7-Inch Speed Dome",
+"href": "/ds-2ae7232ti-a2-mp-ir-turbo-7-inch-speed-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/ds-2ae7230ti-a_side2_3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Analog Dome Camera TurboHD 720P",
+"href": "/ptz-analog-dome-camera-turbohd-720p/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE52305220W-AE3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Dome Camera Turbo IR Hikvision DS-2AE4223TI/4123TI-D",
+"href": "/ds-2ae4223ti4123ti-d-ptz-dome-camera-turbo-ir/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220IW-D-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI PTZ 720P/1080P Hikvision DS-2AE4123TI/4223TI-D",
+"href": "/ds-2ae4123ti4223ti-d-camera-hd-tvi-ptz-720p1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2AE4123TI-4223TI-D-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI PTZ HD1080P Hikvision DS-2AE7230TI",
+"href": "/ds-2ae7230ti-camera-hd-tvi-ptz-hd1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2AE7230TI-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI PTZ 1080P Hikvision DS-2AE5230T",
+"href": "/ds-2ae5230t-camera-hd-tvi-ptz-1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2AE5230T-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD TVI 720P Hikvision DS-2AE4123T",
+"href": "/ds-2ae4123t-camera-ptz-hd-tvi-720p/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/06/DS-2AE4123T-A-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD TVI 720P – Lắp trong nhà Hikvision DS-2AE4123T-A3",
+"href": "/camera-ptz-hd-tvi-720p-ds-2ae4123t-a3/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/02/DS-2AE4123T-a3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD TVI 2MP/1.3MP Hikvision DS-2AE5223TI5123TI-A",
+"href": "/ds-2ae5223ti5123ti-a-camera-ptz-hd-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/Ds-2AE5123ti-A-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD TVI 1MP Hikvision DS-2AE5123TI-A",
+"href": "/ds-2ae5123ti-a-camera-ptz-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ae5123ti-a-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ HD TVI 1MP Hikvision DS-2AE7123TI",
+"href": "/ds-2ae7123ti-camera-ptz-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ae7123ti-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ 2MP 32X Laser Positioning System Hikvision DS-2DY9187-AI8",
+"href": "/ds-2dy9187-ai8-2mp-32x-laser-positioning-system/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2DY9187-AI8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera Darkfighter 2MP 36X Pan-Tilt Positioning Hikvision DS-2DY9188-(AI2)",
+"href": "/ds-2dy9188-ai2-ptz-camera-darkfighter-2mp-36x-pan-tilt-positioning/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DY9188-AI2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera DarkFighter 2MP 23X Pan-Tilt Positioning Hikvision DS-2DY9185-PTZ",
+"href": "/ds-2dy9185-ptz-camera-darkfighter-2mp-23x-pan-tilt-positioning/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DY9185-A.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "PTZ Camera DarkFighter 2MP 23X Pan-Tilt Positioning Hikvision DS-2DY 5223IW-AE PTZ",
+"href": "/ds-2dy5223iw-ae-ptz-camera-darkfighter-2mp-23x-pan-tilt-positioning/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DY5223IW-AE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến từ có dây Hikvision SH-PD200-WS",
+"href": "/cam-bien-tu-co-day-hikvision-sh-pd200-ws/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PD200-WS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến từ có dây Hikvision SH-PD400-RS",
+"href": "/cam-bien-tu-co-day-hikvision-sh-pd400-rs/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PD400-RS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến từ có dây Hikvision SH-PD300-MS",
+"href": "/cam-bien-tu-co-day-hikvision-sh-pd300-ms/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PD300-MSS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại Hikvision SH-PDP618-EG2",
+"href": "/cam-bien-hong-ngoai-hikvision-sh-pdp618-eg2/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PDP618-EG2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Còi kiêm đèn chớp Hikvision SH-PS661-R",
+"href": "/coi-kiem-den-chop-hikvision-sh-ps661-r/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PS661-R.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến kính vỡ Hikvision DS-PD1-BG9",
+"href": "/cam-bien-kinh-vo-hikvision-ds-pd1-bg9/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-BG9.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm khẩn cấp Hikvision DS-PD1-EB",
+"href": "/nut-bam-khan-cap-hikvision-ds-pd1-eb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-EB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu báo kính vỡ không dây 433 MHz Hikvision DS-PDBG8-EG2-WB",
+"href": "/dau-bao-kinh-vo-khong-day-433-mhz-hikvision-ds-pdbg8-eg2-wb-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDBG8-EG2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến rung Hikvision ds-pdsk-p",
+"href": "/cam-bien-rung-hikvision-ds-pdsk-p/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDSK-P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến rung Hikvision DS-PD1-SKM",
+"href": "/cam-bien-rung-hikvision-ds-pd1-skm/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-SKM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại không dây Hikvision DS-PDD12P-EG2-WB",
+"href": "/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdd12p-eg2-wb-3/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDD12P-EG2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến phát hiện chuyển động Dual-Tech Hikvision DS-PDD15AM-EG2",
+"href": "/cam-bien-phat-hien-chuyen-dong-dual-tech-hikvision-ds-pdd15am-eg2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDD15AM-EG2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến từ có dây Hikvision DS-PD1-MC-WS",
+"href": "/cam-bien-tu-co-day-hikvision-ds-pd1-mc-ws/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-MC-WS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu báo rung không dây Hikvision DS-PDMCK-EG2-WB",
+"href": "/dau-bao-rung-khong-day-hikvision-ds-pdmck-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDMCK-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Công tắc từ không dây 433 MHz Hikvision DS-PDMCS-EG2-WB",
+"href": "/cong-tac-tu-khong-day-433-mhz-hikvision-ds-pdmcs-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDMCS-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đế cho cảm biến hồng ngoại ngoài trời Hikvision DS-PDB-EX-Wallbracket",
+"href": "/de-cho-cam-bien-hong-ngoai-ngoai-troi-hikvision-ds-pdb-ex-wallbracket/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-EX-Wallbracket.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm khẩn cấp Hikvision DS-PD1-EB-WR",
+"href": "/nut-bam-khan-cap-hikvision-ds-pd1-eb-wr/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-EB-WR.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi có dây thành không dây Hikvision DS-PM-WI1",
+"href": "/bo-chuyen-doi-co-day-thanh-khong-day-hikvision-ds-pm-wi1/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PM-WI1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu báo khói Hikvision DS-PD1-SMK-W",
+"href": "/dau-bao-khoi-hikvision-ds-pd1-smk-w/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-SMK-W.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa báo động không dây trong nhà Hikvision DS-PSG-WI-433",
+"href": "/loa-bao-dong-khong-day-trong-nha-hikvision-ds-psg-wi-433/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PSG-WI-433.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa báo động ngoài trời Hikvision DS-PSG-WO-433",
+"href": "/loa-bao-dong-ngoai-troi-hikvision-ds-psg-wo-433/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/HIKVISION-DS-PSG-WO-433.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa báo động trong nhà Hikvision ds-pma-wbell",
+"href": "/loa-bao-dong-trong-nha-hikvision-ds-pma-wbell/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PMA-WBELL.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Remote điều khiển không dây Hikvision DS-19K00-Y",
+"href": "/remote-dieu-khien-khong-day-hikvision-ds-19k00-y/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-19K00-Y.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại ngoài trời Hikvision DS-PD2-T12P-WEL",
+"href": "/cam-bien-hong-ngoai-ngoai-troi-hikvision-ds-pd2-t12p-wel/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/HIKVISION-DS-PD2-T12P-WEL.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại không dây Hikvision DS-PD2-P10P-W",
+"href": "/cam-bien-hong-ngoai-khong-day-hikvision-ds-pd2-p10p-w/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD2-P10P-W.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Công tắc cửa từ không dây Hikvision DS-PD1-MC-WWS",
+"href": "/cong-tac-cua-tu-khong-day-hikvision-ds-pd1-mc-wws/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PD1-MC-WWS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Trung tâm báo động không dây Hikvision DS-PWA32-HS",
+"href": "/trung-tam-bao-dong-khong-day-hikvision-ds-pwa32-hs/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PWA32-HS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ thu không dây Hikvision DS-PM-RSWR-433",
+"href": "/bo-thu-khong-day-hikvision-ds-pm-rswr-433/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PM-RSWR-433.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ mở rộng đầu ra báo động Hikvision DS-PM-RSO8",
+"href": "/bo-mo-rong-dau-ra-bao-dong-hikvision-ds-pm-rso8/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PM-RSO8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ mở rộng đầu vào báo động Hikvision DS-PM-RSI8",
+"href": "/bo-mo-rong-dau-vao-bao-dong-hikvision-ds-pm-rsi8/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PM-RSI8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Module kết nối mạng 3G/4G Hikvision DS-PMA-S2",
+"href": "/module-ket-noi-mang-3g-4g-hikvision-ds-pma-s2/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PMA-S2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn phím lập trình có dây Hikvision ds-pk-lrt",
+"href": "/ban-phim-lap-trinh-co-day-hikvision-ds-pk-lrt/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PK-LRT.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho đầu báo hồng ngoại Hikvision DS-PDB-IN-cellingbracket",
+"href": "/chan-de-cho-dau-bao-hong-ngoai-hikvision-ds-pdb-in-cellingbracket/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-IN-cellingbracket.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho công tắc từ không dây Hikvision DS-PDB-MC-adaptor",
+"href": "/chan-de-cho-cong-tac-tu-khong-day-hikvision-ds-pdb-mc-adaptor/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-MC-adaptor.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho đầu báo hồng ngoại Hikvision DS-PDB-IN-wallbracket",
+"href": "/chan-de-cho-dau-bao-hong-ngoai-hikvision-ds-pdb-in-wallbracket/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-IN-wallbracket.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho công tắc từ không dây Hikvision DS-PDB-MCS-Adapter",
+"href": "/chan-de-cho-cong-tac-tu-khong-day-hikvision-ds-pdb-mcs-adapter/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-MCS-Adapter.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Vòng đeo tay cho nút ấn khẩn Hikvision DS-PDB-IN-Wristband",
+"href": "/vong-deo-tay-cho-nut-an-khan-hikvision-ds-pdb-in-wristband/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDB-IN-Wristband.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn báo động khẩn cấp Hikvision DS-PDEB1-EG2-WB",
+"href": "/nut-an-bao-dong-khan-cap-hikvision-ds-pdeb1-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDEB1-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị pgm không dây Hikvision DS-PM1-O1H-WB",
+"href": "/thiet-bi-pgm-khong-day-hikvision-ds-pm1-o1h-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PM1-O1H-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa báo động không dây ngoài trời Hikvision DS-PS1-E-WB",
+"href": "/loa-bao-dong-khong-day-ngoai-troi-hikvision-ds-ps1-e-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PS1-E-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Loa báo động không dây trong nhà Hikvision DS-PS1-I-WB",
+"href": "/loa-bao-dong-khong-day-trong-nha-hikvision-ds-ps1-i-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PS1-I-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ khuếch đại tín hiệu không dây Hikvision DS-PR1-WB",
+"href": "/bo-khuech-dai-tin-hieu-khong-day-hikvision-ds-pr1-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PR1-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến báo khói không dây Hikvision ds-pdsmk-s-wb",
+"href": "/cam-bien-bao-khoi-khong-day-hikvision-ds-pdsmk-s-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDSMK-S-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hồng ngoại + Báo vỡ kính không dây Hikvision DS-PDPG12P-EG2-WB",
+"href": "/hong-ngoai-bao-vo-kinh-khong-day-hikvision-ds-pdpg12p-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDPG12P-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại không dây Hikvision DS-PDPC12PF-EG2-WB",
+"href": "/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdpc12pf-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDPC12PF-EG2-W.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hồng ngoại không dây kèm camera Hikvision DS-PDPC12P-EG2-WB",
+"href": "/hong-ngoai-khong-day-kem-camera-hikvision-ds-pdpc12p-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDPC12P-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại không dây Hikvision DS-PDP15P-EG2-WB",
+"href": "/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdp15p-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDP15P-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại không dây Hikvision DS-PDC15-EG2-WB",
+"href": "/cam-bien-hong-ngoai-khong-day-hikvision-ds-pdc15-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDC15-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Công tắc từ kết nối đầu báo có dây Hikvision DS-PDMC-EG2-WB",
+"href": "/cong-tac-tu-ket-noi-dau-bao-co-day-hikvision-ds-pdmc-eg2-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PDMC-EG2-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn phím lập trình không dây Hikvision DS-PK1-E-WB",
+"href": "/ban-phim-lap-trinh-khong-day-hikvision-ds-pk1-e-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PK1-E-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Điều khiển từ xa Hikvision DS-PKF1-WB",
+"href": "/dieu-khien-tu-xa-hikvision-ds-pkf1-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PKF1-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn phím điều khiển có dây Hikvision DS-PKG-H8L",
+"href": "/ban-phim-dieu-khien-co-day-hikvision-ds-pkg-h8l/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PKG-H8L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị báo động LED Alarm Keypad Hikvision DS-19K00-B(X)",
+"href": "/ds-19k00-bx-led-alarm-keypad/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-19K00-BX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị báo động LCD Alarm Keypad Hikvision DS-19K00-BL",
+"href": "/ds-19k00-bl-lcd-alarm-keypad/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-19K00-BL.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bảng điều khiển ax hybrid pro Hikvision SH-PHA6640-LP",
+"href": "/bang-dieu-khien-ax-hybrid-pro-hikvision-sh-pha6640-lp/",
+"image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-PHA6640-LP.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ báo động Aolin AL-8088 GSM",
+"href": "/bo-bao-dong-aolin-al-8088-gsm/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/AL-8088-GSM.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tủ báo động ax Hybrid Panel 96 vùng Hikvision DS-PWA96-M2H-WB",
+"href": "/tu-bao-dong-ax-hybrid-panel-96-vung-hikvision-ds-pwa96-m2h-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PWA96-M2H-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Báo động có dây Hikvision Combo AX Hybrid PHA64",
+"href": "/bao-dong-co-day-hikvision-combo-ax-hybrid-pha64/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/Combo-AX-Hybrid-PHA64.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tủ báo động ax Hybrid Panel 64 vùng Hikvision DS-PHA64-M",
+"href": "/tu-bao-dong-ax-hybrid-panel-64-vung-hikvision-ds-pha64-m/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PHA64-M.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ báo động thông minh Aolin AL-9088",
+"href": "/bo-bao-dong-thong-minh-aolin-al-9088/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/AL-9088.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kit báo động 96 vùng không dây Hikvision DS-PWA96-Kit-WB",
+"href": "/bo-kit-bao-dong-96-vung-khong-day-hikvision-ds-pwa96-kit-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/08/DS-PWA96-Kit-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kit báo động 64 vùng không dây Hikvision DS-PWA64-Kit-WB",
+"href": "/bo-kit-bao-dong-64-vung-khong-day-hikvision-ds-pwa64-kit-wb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/11/bao-dong-DS-PWA64-kit-WB.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị báo động Hikvision DS-PWA32-KS",
+"href": "/ds-pwa32-ks/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/01/DS-PWA32-KS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tủ trung tâm báo động Hikvision",
+"href": "/tu-trung-tam-bao-dong-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-19s08-4f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng hdd wd Purple 8TB WD101PURA",
+"href": "/o-cung-hdd-wd-purple-8tb-wd101pura/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/WD101PURA.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng hdd wd Purple 8TB WD84PURU",
+"href": "/o-cung-hdd-wd-purple-8tb-wd84puru/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/WD84PURU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng hdd wd Purple 6TB WD63PURU",
+"href": "/o-cung-hdd-wd-purple-6tb-wd63puru/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/WD63PURU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng hdd wd Purple 4TB WD42PURU",
+"href": "/o-cung-hdd-wd-purple-4tb-wd42puru/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/WD42PURU.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng Seagate Skyhawk AI 18TB ST18000VE002",
+"href": "/o-cung-seagate-skyhawk-ai-18tb-st18000ve002/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/ST18000VE002.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng Seagate Skyhawk AI 12Tb ST12000VE001",
+"href": "/o-cung-seagate-skyhawk-ai-12tb-st12000ve001/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/ST12000VE0001.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng seagate skyhawk 4TB ST4000VX013/ST4000VX016",
+"href": "/o-cung-seagate-skyhawk-4tb-st4000vx013-st4000vx016/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/ST4000VX013.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng Seagate Skyhawk 2TB ST2000VX015",
+"href": "/o-cung-seagate-skyhawk-2tb-st2000vx015/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/12/ST2000VX015.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Smart Hybrid light Hikvision DS-2CE76D0T-EXLMF 2MP",
+"href": "/camera-smart-hybrid-light-hikvision-ds-2ce76d0t-exlmf-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CE76D0T-EXLMF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera trong nhà Smart Hybrid light Hikvision DS-2CE76D0T-EXLPF 2MP",
+"href": "/camera-trong-nha-smart-hybrid-light-hikvision-ds-2ce76d0t-exlpf-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CE76D0T-EXLPF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Smart Hybrid light Hikvision DS-2CE17D0T-EXLF 2MP",
+"href": "/camera-smart-hybrid-light-hikvision-ds-2ce17d0t-exlf-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CE17D0T-EXLF.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera ngoài trời Smart Hybrid light Hikvision DS-2CE16D0T-EXLF 2MP",
+"href": "/camera-ngoai-troi-smart-hybrid-light-hikvision-ds-2ce16d0t-exlf-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CE16D0T-EXLF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera ngoài trời Smart Hybrid light Hikvision DS-2CE16D0T-EXLPF",
+"href": "/camera-ngoai-troi-smart-hybrid-light-hikvision-ds-2ce16d0t-exlpf/",
+"image": "https://hikvision.vn/wp-content/uploads/2023/11/DS-2CE16D0T-EXLPF.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thông minh DS-2CD7A46G0-IZ(H)S(Y)",
+"href": "/camera-ip-thong-minh-ds-2cd7a46g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7A46G0-IZHS-500x486.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera IP thông minh DS-2CD7A26G0-IZ(H)S(Y)",
+"href": "/camera-ip-thong-minh-ds-2cd7a26g0-izhsy/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-2CD7A26G0-IZ_H_SY-removebg-preview-500x363.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP Ultra-Low Light Camera Hikvision DS-2CE19H8T-AIT3ZF",
+"href": "/ds-2ce19h8t-ait3zf-5-mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE19H8T-AIT3ZF-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE19H8T-IT3Z 5MP Ultra Low Light",
+"href": "/ds-2ce19h8t-it3z/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE19H8T-IT3Z-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE16H8T-IT 5MP Ultra Low Light",
+"href": "/ds-2ce16h8t-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE16H8T-IT-3.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP PIR Bullet Camera Hikvision DS-2CE12H0T-PIRL",
+"href": "/ds-2ce12h0t-pirl-5-mp-pir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE12H0T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu hồng ngoại 20m ngoài trời 5MP – vỏ nhựa Hikvision DS-2CE56H0T-ITPF",
+"href": "/ds-2ce56h0t-itpf-camera-hd-tvi-ban-cau-hong-ngoai-20m-ngoai-troi-5mp-vo-nhua/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE56H0T-ITPF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ hồng ngoại 80m ngoài trời 5MP Hikvision DS-2CE16H0T-IT5F",
+"href": "/ds-2ce16h0t-it5f-camera-hd-tvi-tru-hong-ngoai-80m-ngoai-troi-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE16H0T-IT3F-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ hồng ngoại 40m ngoài trời 5MP Hikvision DS-2CE16H0T-IT3F",
+"href": "/ds-2ce16h0t-it3f-camera-hd-tvi-tru-hong-ngoai-40m-ngoai-troi-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE16H0T-IT3F-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ hồng ngoại 20m ngoài trời 5MP Hikvision DS-2CE16H0T-ITF",
+"href": "/ds-2ce16h0t-itf-camera-hd-tvi-tru-hong-ngoai-20m-ngoai-troi-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE16H0T-ITPF-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD EXIR Bullet Camera Hikvision DS-2CE16H1T-5MP",
+"href": "/ds-2ce16h1t-5mp-hd-exir-bullet-camera-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD EXIR Bullet Camera Hikvision DS-2CE16H1T-IT3",
+"href": "/ds-2ce16h1t-it3-mp-hd-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD EXIR Bullet Camera Hikvision DS-2CE16H1T-IT5",
+"href": "/ds-2ce16h1t-it5-mp-hd-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE72D0T-PIRXF",
+"href": "/ds-2ce72d0t-pirxf/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2CE72DFT-PIRXOF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE72DFT-PIRXOF",
+"href": "/ds-2ce72dft-pirxof/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2CE72DFT-PIRXOF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu thay đổi tiêu cự 2MP Hikvision DS-2CE5AD8T-VPIT3ZE",
+"href": "/ds-2ce5ad8t-vpit3ze-camera-hd-tvi-ban-cau-thay-doi-tieu-cu-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-2CE5AD8T-VPIT3ZE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời, thay đổi tiêu cự Hikvision DS-2CE5AD3T-AVPIT3ZF",
+"href": "/camera-hd-tvi-ban-cau-2mp-ngoai-troi-ds-2ce5ad3t-avpit3zf/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE5AD3T-VPIT3ZF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời Hikvision DS-2CE79D3T-IT3ZF",
+"href": "/ds-2ce79d3t-it3zf-camera-hd-tvi-ban-cau-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE79D3T-IT3ZF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời",
+"href": "/camera-hd-tvi-ban-cau-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE57D3T-VPITF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 2 MP Full Time Color Turret Hikvision DS-2CE72DFT-F",
+"href": "/ds-2ce72dft-f-camera-tvi-2-mp-full-time-color-turret/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE72DFT-F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "camera ultra lowlight Hikvision DS-2CE5AD8T-AVPIT3Z",
+"href": "/ds-2ce5ad8t-avpit3z-camera-ultra-lowlight/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE5AD8T-VPIT3Z-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "camera ultra lowlight value Hikvision DS-2CE5AD8T-VPIT3Z",
+"href": "/ds-2ce5ad8t-vpit3z-camera-ultra-lowlight-value/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE5AD8T-VPIT3Z-3.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE56D0T-IT1E",
+"href": "/ds-2ce56d0t-it1e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE56D0T-IT3E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE56D0T-VFIR3E",
+"href": "/ds-2ce56d0t-vfir3e/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE56D0T-VFIR3E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP thay đổi tiêu cự Hikvision DS-2CE56D0T-VFIRE",
+"href": "/ds-2ce56d0t-vfire/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE56D0T-VFIRE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự 2MP Hikvision DS-2CE56D0T-VPIR3E",
+"href": "/ds-2ce56d0t-vpir3e/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE56D0T-VPIR3E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE56D8T-(A)ITZE",
+"href": "/ds-2ce56d8t-aitze-camera-ban-cau-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-AITZE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE56D8T-IT3E",
+"href": "/ds-2ce56d8t-it3e-2mp-ultra-low-light-poc-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-IT3E-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE56D8T-IT3ZE",
+"href": "/ds-2ce56d8t-it3ze-2mp-ultra-low-light-vf-poc-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-IT3ZE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE56D8T-ITME",
+"href": "/ds-2ce56d8t-itme-camera-ban-cau-cap-nguon-qua-cap-dong-truc-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-ITME-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trụ 2MP Hikvision DS-2CE56D8T-VPITE",
+"href": "/ds-2ce56d8t-vpite-camera-ban-cau-cap-nguon-qua-cap-dong-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-VPITE-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Turret Camera Hikvision DS-2CE56D8T-IT1/IT3",
+"href": "/ds-2ce56d8t-it1it3-2mp-ultra-low-light-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-IT3E-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light VF EXIR Turret Camera Hikvision DS-2CE56D8T-IT3Z",
+"href": "/ds-2ce56d8t-it3z-2mp-ultra-low-light-vf-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE56D8T-IT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Dome Camera Hikvision DS-2CE56D8T-VPIT",
+"href": "/ds-2ce56d8t-vpit-2mp-ultra-low-light-exir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE56D8T-VPIT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light VF EXIR Dome Camera Hikvision DS-2CE56D8T-(A)ITZ",
+"href": "/ds-2ce56d8t-aitz-2mp-ultra-low-light-vf-exir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE56D8T-AITZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light VF EXIR Dome Camera Hikvision DS-2CE56D8T-(A)VPIT3Z",
+"href": "/ds-2ce56d8t-avpit3z-2mp-ultra-low-light-vf-exir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE56D8T-AVPIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI HD1080P Starlight+ POC Eyeball Hikvision DS-2CC52D9T-IT3",
+"href": "/ds-2cc52d9t-it3-hd1080p-starlight-poc-eyeball/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CE56F1T-IT1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD1080P WDR Vandal Proof IR Dome Camera Hikvision DS-2CE56D5T-(A)VPIR3",
+"href": "/ds-2ce56d5t-avpir3-hd1080p-wdr-vandal-proof-ir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AITZ-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D7T-ITM",
+"href": "/ds-2ce56d7t-itm-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D7T-ITM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR TVI 2MP Hikvision DS-2CE56D7T-IT1",
+"href": "/ds-2ce56d7t-it1camera-ban-cau-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce56d7t-it3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR TVI 2MP Hikvision DS-2CE56D7T-IT3",
+"href": "/ds-2ce56d7t-it3-camera-ban-cau-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce56d7t-it3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D0T-IRM",
+"href": "/ds-2ce56d0t-irm-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D0T-IRM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI EXIR 2MP Hikvision DS-2CE56D0T-IT1",
+"href": "/ds-2ce56d0t-it1-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce56d0t-it1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D0T-IRMM",
+"href": "/ds-2ce56d0t-irmm-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D0T-IRMM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR TVI 2MP",
+"href": "/camera-ban-cau-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56d1t-it3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ngoài trời TVI 2MP Hikvision DS-2CE56D1T-IRM",
+"href": "/ds-2ce56d1t-irm-camera-ban-cau-ngoai-troi-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56d1t-irm-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ngoài trời TVI 2MP Hikvision DS-2CE56D1T-IR",
+"href": "/ds-2ce56d1t-ir-camera-ban-cau-ngoai-troi-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56d1t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu trong nhà TVI 2MP Hikvision DS-2CE56D1T-IRP",
+"href": "/ds-2ce56d1t-irp-camera-ban-cau-trong-nha-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56d1t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE12D0T-PIRXF",
+"href": "/ds-2ce12d0t-pirxf/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2CE12DFT-PIRXOF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE12DFT-PIRXOF",
+"href": "/ds-2ce12dft-pirxof/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2CE12DFT-PIRXOF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP starlight chống ngược sáng thực Hikvision DS-2CE16D8T-ITPF",
+"href": "/ds-2ce16d8t-itpf-camera-hd-tvi-2mp-starlight-chong-nguoc-sang-thuc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE16D8T-ITE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP thân trụ, thay đổi tiêu cự Hikvision DS-2CE19D3T-AIT3ZF",
+"href": "/ds-2ce19d3t-ait3zf-camera-hd-tvi-2mp-tru-thay-doi-tieu-cu/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE19D3T-IT3ZF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP thân trụ, ngoài trời",
+"href": "/camera-hd-tvi-2mp-tru-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE19D3T-IT3ZF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ HD-TVI 2MP ngoài trời Hikvision DS-2CE16D3T-I3F",
+"href": "/ds-2ce16d3t-i3f-camera-tru-hd-tvi-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE16D3T-I3F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ HD-TVI 2MP ngoài trời Hikvision DS-2CE16D3T-I3PF",
+"href": "/ds-2ce16d3t-i3pf-camera-tru-hd-tvi-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE16D3T-I3PF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI thân trụ 2MP Hikvision DS-2CE16D0T-I3F",
+"href": "/ds-2ce16d0t-i3f-camera-tvi-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-2CE16D0T-I3F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 2 MP Full Time Color Hikvision DS-2CE12DFT-F",
+"href": "/ds-2ce10dft-f-camera-tvi-2-mp-full-time-color-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE12DFT-F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 2 MP Full Time Color Hikvision DS-2CE10DFT-F",
+"href": "/ds-2ce10dft-f-camera-tvi-2-mp-full-time-color/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE10DFT-F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-IRE",
+"href": "/ds-2ce16d0t-ire-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-IRE-IRPE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-IT1E",
+"href": "/ds-2ce16d0t-it1e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-IT5E-IT3E-IT1E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-VFIR3E",
+"href": "/ds-2ce16d0t-vfir3e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-VFIR3E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD 1080p White Supplement Light Bullet Camera Hikvision DS-2CE16D0T-WL5",
+"href": "/ds-2ce16d0t-wl5-hd-1080p-white-supplement-light-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-WL5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD 1080p White Supplement Light Bullet Camera Hikvision DS-2CE16D0T-WL3",
+"href": "/ds-2ce16d0t-wl3-hd-1080p-white-supplement-light-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-WL3-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ cấp nguồn qua cáp đồng trụ 2MP Hikvision DS-2CE16D8T-ITE",
+"href": "/ds-2ce16d8t-ite-camera-tru-cap-nguon-qua-cap-dong-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE16D8T-ITE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ cấp nguồn qua cáp đồng trụ 2MP Hikvision DS-2CE16D8T-IT3E",
+"href": "/ds-2ce16d8t-it3e-camera-tru-cap-nguon-qua-cap-dong-tru-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE16D8T-IT3E-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ cấp nguồn qua cáp đồng trụ 2MP Hikvision DS-2CE16D8T-IT5E",
+"href": "/ds-2ce16d8t-it5e/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE16D8T-IT5E-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Bullet Camera Hikvision DS-2CE16D8T-IT",
+"href": "/ds-2ce16d8t-2mp-ultra-low-light-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE16D8T-ITP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Bullet Camera Hikvision DS-2CE16D8T-IT1/IT3/IT5",
+"href": "/ds-2ce16d8t-it1it3it5/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE16D8T-IT1-IT3-IT5-500x365.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI HD1080P Starlight+ POC Bullet Hikvision DS-2CC12D9T-IT3",
+"href": "/ds-2cc12d9t-it3-hd1080p-starlight-poc-bullet/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CC12D9T-IT3.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 2MP Hikvision DS-2CE16D7T",
+"href": "/ds-2ce16d7t-camera-tru-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D7T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR TVI 2MP Hikvision DS-2CE16D7T-IT1",
+"href": "/ds-2ce16d7t-it1-camera-tru-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16d7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR TVI 2MP Hikvision DS-2CE16D7T-IT3",
+"href": "/ds-2ce16d7t-it3-camera-tru-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16d7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR TVI 2MP Hikvision DS-2CE16D7T-IT5",
+"href": "/ds-2ce16d7t-it5-camera-tru-exir-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16d7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI EXIR 2MP Hikvision DS-2CE16D0T-IT1",
+"href": "/ds-2ce16d0t-it1-camera-tru-tvi-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D0T-IT1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 2MP (vỏ nhựa)",
+"href": "/camera-than-tru-tvi-2mp-vo-nhua/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce16d1tt-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 2MP Hikvision DS-2CE16D1T-IR",
+"href": "/ds-2ce16d1t-ir-camera-than-tru-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce16d1t-irp-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP Ultra-Low Light Camera Hikvision DS-2CE76H8T-ITMF",
+"href": "/ds-2ce76h8t-itmf-5mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE76H8T-ITMF-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP Ultra-Low Light Camera Hikvision DS-2CE78H8T-IT3F",
+"href": "/ds-2ce78h8t-it3f-5-mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE78H8T-IT1F-DS-2CE78H8T-IT3F-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP Turret Camera Hikvision DS-2CE79H8T-IT3ZF",
+"href": "/ds-2ce79h8t-it3zf-5mp-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE79H8T-IT3ZF-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE5AH8T-AVPIT3Z",
+"href": "/ds-2ce5ah8t-vpit3z-camera-tvi-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE5AH8T-VPIT3Z-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE5AH8T-VPIT3Z",
+"href": "/ds-2ce5ah8t-vpit3z-camera-tvi-5mp-ultra-low-light-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE5AH8T-VPIT3Z-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE59H8T-AVPIT3Z",
+"href": "/ds-2ce59h8t-vpit3z-camera-tvi-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE56H8T-ITZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE59H8T-VPIT3Z",
+"href": "/ds-2ce59h8t-vpit3z-camera-tvi-5mp-ultra-low-light-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE56H8T-ITZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE56H8T-AITZ",
+"href": "/ds-2ce56h8t-aitz-camera-tvi-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE56H8T-ITZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE79H8T-IT3Z",
+"href": "/ds-2ce79h8t-it3z-camera-tvi-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE79H8T-IT3Z.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE78H8T-IT1 5MP Ultra Low Light",
+"href": "/ds-2ce78h8t-it1-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE78H8T-ITM-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE78H8T-IT3 5MP Ultra Low Light",
+"href": "/ds-2ce78h8t-it3-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE78H8T-ITM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE76H8T-ITM 5MP Ultra Low Light",
+"href": "/ds-2ce76h8t-itm-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE76H8T-ITM-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE57H8T-VPIT 5MP Ultra Low Light Series",
+"href": "/ds-2ce57h8t-vpit-5mp-ultra-low-light-series/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE57H8T-VPIT-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu hồng ngoại 40m ngoài trời 5MP",
+"href": "/camera-hd-tvi-ban-cau-hong-ngoai-40m-ngoai-troi-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE56H0T-IT3F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu hồng ngoại 20m ngoài trời 5MP",
+"href": "/camera-hd-tvi-ban-cau-hong-ngoai-20m-ngoai-troi-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE56H0T-ITMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD EXIR Turret Camera Hikvision DS-2",
+"href": "/5mp-hd-exir-turret-camera-hikvision-ds-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-ITM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD EXIR Turret Camera Hikvision DS-2CE56H1T-IT3",
+"href": "/ds-2ce56h1t-it3-5-mp-hd-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8 MP Bullet Camera Hikvision DS-2CE16U1T-ITF",
+"href": "/ds-2ce16u1t-itf-8-mp-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE16U1T-ITF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8 MP Bullet Camera Hikvision DS-2CE16U1T-IT5F",
+"href": "/ds-2ce16u1t-it5f-8-mp-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE16U1T-IT5F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8MP Bullet Camera Hikvision DS-2CE16U1T-IT3F",
+"href": "/ds-2ce16u1t-it3f-8mp-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE16U1T-IT3F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bullet Camera 8MP Hikvision DS-2CE19U1T-IT3ZF",
+"href": "/ds-2ce19u1t-it3zf-bullet-camera-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/camera_hikvision_ds_2ce19u1t_it3zf-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8MP Turret Camera Hikvision DS-2CE78U1T-IT3F",
+"href": "/ds-2ce78u1t-it3f-8mp-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/camera_hikvision_ds_2ce78u1t_it3f-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Turret Camera 8MP Hikvision DS-2CE79U1T-IT3ZF",
+"href": "/ds-2ce79u1t-it3zf-8-mp-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE19U7T-IT3ZF-camera-hdtvi-4k-8mp-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4K Hikvision DS-2CE5AU7T-(A)VPIT3ZF",
+"href": "/ds-2ce5au7t-avpit3zf-camera-ban-cau-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE5AU7T-VPIT3ZF-hikvision-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 4K Hikvision DS-2CE5AU7T-VPIT3ZF",
+"href": "/ds-2ce5au7t-vpit3zf-camera-ban-cau-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-2CE5AU7T-VPIT3ZF-hikvision-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera TVI 5MP Ultra Low Light Hikvision DS-2CE56H8T-ITZ",
+"href": "/ds-2ce56h8t-itz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE56H8T-ITZ.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP HD Motorized VF EXIR Bullet Camera Hikvision DS-2CE16H1T-(A)IT3Z",
+"href": "/ds-2ce16h1t-ait3z-5-mp-hd-motorized-vf-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CE16D9T-AIRAZH-500x391.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD Motorized VF EXIR Turret Camera Hikvision DS-2CE56H1T-IT3Z",
+"href": "/ds-2ce56h1t-it3z-5-mp-hd-motorized-vf-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CE56H1T-IT3Z-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP HD Motorized VF EXIR Dome Camera Hikvision DS-2CE56H1T-(A)ITZ",
+"href": "/ds-2ce56h1t-aitz-5-mp-hd-motorized-vf-exir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AITZ-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-IRPE",
+"href": "/ds-2ce16d0t-irpe-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-IRE-IRPE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Bullet Camera Hikvision DS-2CE16D8T-ITP",
+"href": "/ds-2ce16d8t-itp-2mp-ultra-low-light-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE16D8T-ITP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Bullet Camera Hikvision DS-2CE16D8T-(A)IT3Z",
+"href": "/ds-2ce16d8t-ait3z-2mp-ultra-low-light-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE16D8T-AIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật TVI 2MP Hikvision DS-2CC12D9T-E",
+"href": "/ds-2cc12d9t-e-camera-than-chu-nhat-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cc12d9t-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân chữ nhật TVI 2MP Hikvision DS-2CC12D9T",
+"href": "/ds-2cc12d9t-camera-than-chu-nhat-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cc12d9t-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu cấp nguồn qua cáp đồng trục thay đổi tiêu cự 2MP Hikvision DS-2CE56D8T-(A)VPIT3ZE",
+"href": "/ds-2ce56d8t-avpit3ze-camera-ban-cau-cap-nguon-qua-cap-dong-truc-thay-doi-tieu-cu/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/DS-2CE56D8T-VPIT3ZE-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ cấp nguồn qua cáp đồng trục 2MP Hikvision DS-2CE16D8T-(A)IT3ZE",
+"href": "/ds-2ce16d8t-ait3ze-camera-tru-cap-nguon-qua-cap-dong-truc-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/ds-2ce16D8T-IT3ZE.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light PoC Dome Camera Hikvision DS-2CC52D9T-AITZE",
+"href": "/ds-2cc52d9t-aitze-2mp-ultra-low-light-poc-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CC52D9T-AVPIT3ZE-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light PoC Dome Camera Hikvision DS-2CC52D9T-AVPIT3ZE",
+"href": "/ds-2cc52d9t-avpit3ze-2mp-ultra-low-light-poc-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CC52D9T-AVPIT3ZE.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light PoC Bullet Camera Hikvision DS-2CC12D9T-AIT3ZE",
+"href": "/ds-2cc12d9t-ait3ze2mp-ultra-low-light-poc-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CD4A24FWD-IZHS-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI TurboHD Outdoor Bullet Hikvision DS-2CE16D9T-AIRAZH",
+"href": "/ds-2ce16d9t-airazh-turbohd-outdoor-bullet/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CE16D9T-AIRAZH-500x391.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD1080P WDR Motorized VF Vandal Proof IR Dome Camera Hikvision DS-2CE56D5T-(A)VPIR3ZH",
+"href": "/ds-2ce56d5t-avpir3zh-hd1080p-wdr-motorized-vf-vandal-proof-ir-dome-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AITZ-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD1080P WDR Motorized VF Vandal Proof EXIR Dome Camera Hikvision DS-2CE56D7T-VPIT3Z",
+"href": "/ds-2ce56d7t-vpit3z-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D7T-AVPIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D7T-AVPIT3Z",
+"href": "/ds-2ce56d7t-avpit3z-camera-ban-cau-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D7T-AVPIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D7T-ITZ",
+"href": "/ds-2ce56d7t-itz-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D7T-AITZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D7T-AITZ",
+"href": "/ds-2ce56d7t-aitz-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56D7T-AITZ-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 2MP Hikvision DS-2CE16D7T-AIT3Z",
+"href": "/ds-2ce16d7t-ait3z-camera-tru-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D7T-IT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR 2MP Hikvision DS-2CE16F7T-IT3Z",
+"href": "/ds-2ce16f7t-it3z-camera-than-tru-exir/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D7T-IT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự TVI 2MP Hikvision DS-2CE16D1T-(A)VFIR3",
+"href": "/ds-2ce16d1t-avfir3-camera-than-tru-thay-doi-tieu-cu-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce16d1t-vfir3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu thay đổi tiêu cự TVI 2MP Hikvision DS-2CE56D1T-VFIR3",
+"href": "/ds-2ce56d1t-vfir3-camera-ban-cau-thay-doi-tieu-cu-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE56D1T-VFIR3-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Turret Camera Hikvision DS-2CE56F1T-IT1",
+"href": "/ds-2ce56f1t-it1-3mp-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CE56F1T-IT1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Outdoor Vandalproof EXIR Dome Hikvision DS-2CE56F7T-VPIT",
+"href": "/ds-2ce56f7t-vpit-outdoor-vandalproof-exir-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-2CE56F7T-VPIT.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Turret Camera Hikvision DS-2CE56F1T-IT3",
+"href": "/ds-2ce56f1t-it3-3mp-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Turret Camera Hikvision DS-2CE56F1T-ITM",
+"href": "/ds-2ce56f1t-itm-3mp-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-ITM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP",
+"href": "/camera-ban-cau-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-ITM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE56F7T-IT1",
+"href": "/ds-2ce56f7t-it1-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE56F7T-IT3",
+"href": "/ds-2ce56f7t-it3-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Bullet Camera Hikvision DS-2CE16F1T-IT3",
+"href": "/ds-2ce16f1t-it3-3mp-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Bullet Camera Hikvision DS-2CE16F1T-IT5",
+"href": "/ds-2ce16f1t-it1it3it5-3mp-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP EXIR Bullet Camera Hikvision DS-2CE16F1T-IT",
+"href": "/ds-2ce16f1t-3mp-exir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CE16H1T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP Hikvision DS-2CE16F7T",
+"href": "/ds-2ce16f7t-camera-tru-tvi-3mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16F7T-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE16F7T-IT1",
+"href": "/ds-2ce16f7t-it1-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE16F7T-IT3",
+"href": "/ds-2ce16f7t-it3-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE16F7T-IT5",
+"href": "/ds-2ce16f7t-it5-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce16F7t-it5-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 3MP (3.0) Hikvision DS-2CE16F7T-AIT3Z",
+"href": "/ds-2ce16f7t-ait3z-camera-tru-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16F7T-AIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP (3.0) Hikvision DS-2CE56F7T-IT3Z",
+"href": "/ds-2ce56f7t-it3z-camera-ban-cau-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-IT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP (3.0) Hikvision DS-2CE56F7T-VPIT3Z",
+"href": "/ds-2ce56f7t-vpit3z-camera-ban-cau-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AVPIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP (3.0) Hikvision DS-2CE56F7T-AVPIT3Z",
+"href": "/ds-2ce56f7t-avpit3z-camera-ban-cau-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AVPIT3Z-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP (3.0) Hikvision DS-2CE56F7T-ITZ",
+"href": "/ds-2ce56f7t-itz-camera-ban-cau-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AITZ-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 3MP (3.0) Hikvision DS-2CE56F7T-AITZ",
+"href": "/ds-2ce56f7t-aitz-camera-ban-cau-tvi-3mp-3-0/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE56F7T-AITZ-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ thay đổi tiêu cự TVI 1MP Hikvision DS-2CE16C2T-VFIR3",
+"href": "/ds-2ce16c2t-vfir3-camera-than-tru-thay-doi-tieu-cu-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C2T-VFIR3-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR TVI 1MP Hikvision DS-2CE16C0T-IT5",
+"href": "/ds-2ce16c0t-it5camera-than-tru-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ EXIR TVI 1MP Hikvision DS-2CE16C0T-IT3",
+"href": "/ds-2ce16c0t-it3camera-than-tru-exir-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2CE16C0T-IT3-C-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 1MP",
+"href": "/camera-than-tru-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2ce16c0t-ir-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 1MP (vỏ nhựa) Hikvision DS-2CE16C0T-IR",
+"href": "/ds-2ce16c0t-ir-camera-than-tru-ngoai-troi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/DS-2ce16c0t-ir-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu EXIR TVI 1MP",
+"href": "/camera-ban-cau-exir-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56c0t-it3-c2-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ngoài trời TVI 1MP Hikvision DS-2CE56C0T-IRM",
+"href": "/camera-ban-cau-hd-tvi-1mp-ds-2ce56c0t-irm/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56c0t-irm-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ngoài trời TVI 1MP Hikvision DS-2CE56C2T-IR",
+"href": "/ds-2ce56c2t-ir-camera-ban-cau-ngoai-troi-hd-tvi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56c0t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu ngoài trời TVI 1MP Hikvision DS-2CE56C0T-IR",
+"href": "/ds-2ce56c0t-ir-camera-ban-cau-ngoai-troi-1mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56c0t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu trong nhà TVI 1MP Hikvision DS-2CE56C0T-IRP",
+"href": "/ds-2ce56c0t-irp-camera-ban-cau-trong-nha-1mp-vo-nhua/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2ce56c0t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Lưu trữ trực tiếp chuyên dụng cho giám sát",
+"href": "/luu-tru-truc-tiep-chuyen-dung-cho-giam-sat/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/12b.-DS-AT1000S240-500x500.png",
+"price": "423.048.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Decoder – Bộ giải mã",
+"href": "/decoder-bo-giai-ma/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/2b.-DS-6916UDIB.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6412HDI-T",
+"href": "/ds-6412hdi-t/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6416HDI-T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6416HDI-T",
+"href": "/ds-6416hdi-t/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6416HDI-T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6908UDI",
+"href": "/ds-6908udi/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6912UDI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6910UDI",
+"href": "/ds-6910udi/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6912UDI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6912UDI",
+"href": "/ds-6912udi/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6912UDI.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-6916UDI",
+"href": "/ds-6916udi/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/05/DS-6916UDI.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bản quyền tường lửa 1 năm",
+"href": "/ban-quyen-tuong-lua-1-nam/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/9b.-ban-quyen-tuong-lua.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "License kết nối và hiển thị trên Videowall",
+"href": "/license-ket-noi-va-hien-thi-tren-videowall/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/5b.-License-camera-co-ban-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "License camera nhận diện biển số",
+"href": "/license-camera-nhan-dien-bien/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/5b.-License-camera-co-ban-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "License cơ bản cho 1 camera",
+"href": "/license-co-ban-cho-1-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/09/5b.-License-camera-co-ban.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "License cơ bản cho 1 camera ảnh nhiệt",
+"href": "/license-co-ban-cho-1-camera-anh-nhiet/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/8.-License-camera-co-ban-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "License Camera cơ bản cho 1 Camera",
+"href": "/license-camera-co-ban-cho-1-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/8.-License-camera-co-ban-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bản quyền phần mềm quản lý Camera tập trung",
+"href": "/ban-quyen-phan-mem-quan-ly-camera-tap-trung/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/8.-License-camera-co-ban.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn điều khiển camera PTZ Network Keyboard",
+"href": "/ban-dieu-khien-camera-ptz-network-keyboard/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/08/3.-ban-dieu-khien-hikvision-ds-1006ki-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-1006KI Network Keyboard",
+"href": "/ds-1006ki-network-keyboard/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-1006KI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-1200KI Network Keyboard",
+"href": "/ds-1200ki-network-keyboard/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-1200KI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-1600KI Network Keyboard",
+"href": "/ds-1600ki-network-keybord/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-1600KI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn điều khiển IP (Network Keyboard) Hikvision DS-1100KI",
+"href": "/ban-dieu-khien-ip-network-keyboard-ds-1100ki/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1100ki-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn điều khiển USB Hikvision DS-1005KI",
+"href": "/ban-dieu-khien-ip-usb-network-keyboard-ds-1005ki/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1005-ki.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bàn điều khiển RS-485 DS-1003KI",
+"href": "/ds-1003ki-ban-dieu-khien-rs-485/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1003ki-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế camera Hikvision DS-1663ZJ",
+"href": "/chan-de-camera-hikvision-ds-1663zj/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-1663ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế camera Speed Dome Hikvision DS-1662ZJ",
+"href": "/chan-de-camera-speed-dome-hikvision-ds-1662zj/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-1662ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế camera Speed Dome Hikvision DS-1661ZJ",
+"href": "/chan-de-camera-speed-dome-hikvision-ds-1661zj/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-1661ZJ-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho vỏ che Hikvision DS-1293ZJ",
+"href": "/ds-1293zj-chan-de-cho-vo-che/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1293zj-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế cho camera PTZ Hikvision DS-1602ZJ",
+"href": "/ds-1602zj-chan-de-cho-camera-ptz/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-1602zj-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cáp mạng CAT6 u/utp Hikvision DS-1LN6U-G",
+"href": "/cap-mang-cat6-uutp-hikvision-ds-1ln6u-g/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/10/DS-1LN6U-G.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cáp mạng CAT5E UTP Hikvision DS-1LN5EU-SCO",
+"href": "/cap-mang-cat5e-utp-hikvision-ds-1ln5eu-sco/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/10/DS-1LN5EU-SC0-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision UTP-VAB100T-NP/UTP-VAB100R-NP",
+"href": "/utp-vab100t-nputp-vab100r-np/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/utp-vab100t-np-utp-vab100r-np-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision UTPSP-VPB100LP A2",
+"href": "/utpsp-vpb100lp-a2/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/utpsp-vpb100lp-a2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision UTPSP-VPB100 A1",
+"href": "/utpsp-vpb100-a1/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/utpsp-vpb100-a1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Adapter 12v-1A Hikvision",
+"href": "/adapter-12v-1a-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/adapter-12v-1a.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 2MP Hikvision tích hợp MIC 2MP DS-2CE16D0T-LFS",
+"href": "/camera-2mp-hikvision-tich-hop-mic-2mp-ds-2ce17d0t-lfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/DS-2CE17D0T-LFS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 2MP DS-2CE17D0T-LFS",
+"href": "/camera-hikvision-2mp-ds-2ce17d0t-lfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/DS-2CE17D0T-LFS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4 in 1 hồng ngoại 2.0 Megapixel Hikvision DS-2CE78D0T-IT3FS",
+"href": "/camera-dome-4-1-hong-ngoai-2-0-megapixel-hikvision-ds-2ce78d0t-it3fs-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE78D0T-IT3FS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hdtvi 2MP có mic Hikvision DS-2CE16D0T-ITFS",
+"href": "/camera-hdtvi-2mp-co-mic-hikvision-ds-2ce16d0t-itfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE16D0T-ITFS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thông số kĩ thuật camera DS-2CE76D0T-ITPFS",
+"href": "/thong-ki-thuat-camera-ds-2ce76d0t-itpfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE76D0T-ITPFS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hdtvi 2MP Hikvision DS-2CE76D0T-ITMFS",
+"href": "/camera-hdtvi-2mp-hikvision-ds-2ce76d0t-itmfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE17D0T-IT3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thân hồng ngoại 2.0M Hikvision DS-2CE17D0T-IT5",
+"href": "/camera-hong-ngoai-2-0m-hikvision-ds-2ce17d0t-it5/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE17D0T-IT5-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hd-tvi hồng ngoại 2.0 Megapixel Hikvision DS-2CE17D0T-IT3",
+"href": "/camera-hd-tvi-hong-ngoai-2-0-megapixel-hikvision-ds-2ce17d0t-it3/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE17D0T-IT3-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hdtvi 2MP Hikvision DS-2CE16D0T-ITF",
+"href": "/camera-hdtvi-2mp-hikvision-ds-2ce16d0t-itf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE16D0T-ITF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Dome 4 in 1 hồng ngoại 2.0 Megapixel Hikvision DS-2CE76D3T-ITPF",
+"href": "/camera-dome-4-1-hong-ngoai-2-0-megapixel-hikvision-ds-2ce76d3t-itpf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE76D3T-ITPF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quan sát analog HD Hikvision DS-2CE56B2-IF",
+"href": "/camera-quan-sat-analog-hd-hikvision-ds-2ce56b2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE56B2-IF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hdtvi 2MP Hikvision DS-2CE16B2-IF",
+"href": "/camera-hdtvi-2mp-hikvision-ds-2ce16b2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE16B2-IF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD1080P Indoor IR Turret Camera Hikvision DS-2CE56B2-IPF",
+"href": "/ds-2ce56d0t-ipf-hd1080p-indoor-ir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/nhanantoan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 1080P Bullet CCTV Camera Hikvision DS-2CE16B2-IPF",
+"href": "/hikvision-ds-2ce16d0t-ipf-2mp-1080p-20m-bullet-cctv-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/07/hikvision-ds-2ce16d0t-ipf-4-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời Hikvision DS-2CE5AD3T-VPIT3ZF",
+"href": "/ds-2ce5ad3t-vpit3zf-camera-hd-tvi-ban-cau-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE5AD3T-VPIT3ZF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời Hikvision DS-2CE76D3T-ITMF",
+"href": "/ds-2ce76d3t-itmf/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE76D3T-ITMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ 2MP ngoài trời Hikvision DS-2CE16D3T-IT3F",
+"href": "/ds-2ce16d3t-it3f-camera-hd-tvi-tru-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE16D3T-IT3F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI bán cầu 2MP ngoài trời Hikvision DS-2CE78D3T-IT3F",
+"href": "/ds-2ce78d3t-it3f/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE78D3T-IT3F.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ 2MP ngoài trời Hikvision DS-2CE16D3T-ITF",
+"href": "/ds-2ce16d3t-itf-camera-hd-tvi-tru-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE16D3T-ITPF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ 2MP ngoài trời",
+"href": "/camera-hd-tvi-tru-2mp-ngoai-troi/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-2CE16D3T-ITPF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP PIR Turret Camera Hikvision DS-2CE71D0T-PIRL",
+"href": "/ds-2ce71d0t-pirl-2-mp-pir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE71D0T-PIRL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP PIR Bullet Camera Hikvision DS-2CE12D0T-PIRL",
+"href": "/ds-2ce12d0t-pirl-2-mp-pir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE12D0T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP PIR Bullet Camera Hikvision DS-2CE11D0T-PIRL",
+"href": "/ds-2ce11d0t-pirl-2-mp-pir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE11D0T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-IT3E",
+"href": "/ds-2ce16d0t-it3e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-IT5E-IT3E-IT1E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE16D0T-IT5E",
+"href": "/ds-2ce16d0t-it5e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE16D0T-IT5E-IT3E-IT1E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 2MP cấp nguồn qua cáp đồng trục Hikvision DS-2CE56D0T-IT3E",
+"href": "/ds-2ce56d0t-it3e-camera-hd-tvi-2mp-cap-nguon-qua-cap-dong-truc/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/10/DS-2CE56D0T-IT3E.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP (vỏ nhựa) Hikvision DS-2CE56D0T-IRP",
+"href": "/ds-2ce56d0t-irp-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2ce56d0t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI 2MP Hikvision DS-2CE56D0T-IR",
+"href": "/ds-2ce56d0t-ir-camera-ban-cau-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2ce56d0t-ir-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu TVI EXIR 2MP Hikvision DS-2CE56D0T-IT3",
+"href": "/ds-2ce56d0t-it3-camera-tru-tvi-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/ds-2ce56d0t-it1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI EXIR 2MP Hikvision DS-2CE16D0T-IT3",
+"href": "/ds-2ce16d0t-it3-camera-tru-tvi-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D0T-IT1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI EXIR 2MP Hikvision DS-2CE16D0T-IT5",
+"href": "/ds-2ce16d0t-it5-camera-tru-tvi-exir-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D0T-IT1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ 2MP (vỏ nhựa) Hikvision DS-2CE16D0T-IRP",
+"href": "/ds-2ce16d0t-irp-camera-tru-2mp-vo-nhua/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2CE16D0T-IRP-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera thân trụ TVI 2MP Hikvision DS-2CE16D0T-IR",
+"href": "/ds-2ce16d0t-ir-camera-than-tru-tvi-2mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-2ce16d0t-ir.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2XS2T47G0-LD(W)H/4G/C18S40",
+"href": "/ds-2xs2t47g0-ldwh4gc18s40/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/cameradiennangluong-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera cube tích hợp báo động chống trộm Hikvision DS-2CE38D8T-PIR",
+"href": "/ds-2ce38d8t-pir-camera-cube-tich-hop-bao-dong-chong-trom/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CE38D8T-PIR-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "HD 5MP IR Fisheye Camera Hikvision DS-2CC52H1T-FITS",
+"href": "/ds-2cc52h1t-fits-hd-5mp-ir-fisheye-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-2CC52H1T-FITS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu 2MP Hikvision DS-2CD2720F-I",
+"href": "/camera-ban-cau-2-0mp-ds-2cd2720f-i-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2015/12/ds-2cd2710f-i-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI 5MP-DS-2CE56H0T-IRMMF",
+"href": "/camera-hd-tvi-5mp-ds-2ce56h0t-irmmf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/DS-2CE56H0T-IRMMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE72KF0T-FS",
+"href": "/ds-2ce72kf0t-fs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/07/2CE70KF0T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE70KF0T-MFS",
+"href": "/ds-2ce70kf0t-mfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/07/2CE70KF0T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE12KF0T-FS",
+"href": "/ds-2ce12kf0t-fs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/07/2CE12KF0T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE10KF0T-FS",
+"href": "/ds-2ce10kf0t-fs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/07/2CE12KF0T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP PIR Turret Camera Hikvision DS-2CE71H0T-PIRL",
+"href": "/ds-2ce71h0t-pirl-5-mp-pir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE71H0T-PIRL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP PIR Bullet Camera Hikvision DS-2CE11H0T-PIRL",
+"href": "/ds-2ce11h0t-pirl-5-mp-pir-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/05/DS-2CE11H0T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ 5MP Hikvision DS-2CE16H0T-ITPF",
+"href": "/ds-2ce16h0t-itpf-camera-hd-tvi-tru-5mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-2CE16H0T-ITPF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu có màu ban đêm 2MP (ColorVu) DS-2CE70DF0T-PF",
+"href": "/camera-ban-cau-co-mau-ban-dem-2mp-colorvu-ds-2ce70df0t-pf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/DS-2CE70DF0T-PF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hình trụ có màu ban đêm 2MP – DS-2CE10DF0T-PF",
+"href": "/camera-hinh-tru-co-mau-ban-dem-2mp-ds-2ce10df0t-pf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/11/DS-2CE10DF0T-PF-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera hdtvi ColorVu 2MP bán cầu Hikvision DS-2CE72DF0T-F",
+"href": "/camera-hdtvi-colorvu-2mp-ban-cau-hikvision-ds-2ce72df0t-f/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CE72DF0T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE70DF0T-MF",
+"href": "/ds-2ce70df0t-mf/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CE70DF0T-MF.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE12DF0T-F",
+"href": "/ds-2ce12df0t-f/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CE12DF0T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE10DF0T-F",
+"href": "/ds-2ce10df0t-f/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-2CE10DF0T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Audio Fixed Turret Camera Hikvision DS-2CE72DF3T-FS",
+"href": "/ds-2ce72df3t-fs-2-mp-colorvu-audio-fixed-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-PFS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Indoor Audio Fixed Turret Camera Hikvision DS-2CE70DF3T-PFS",
+"href": "/ds-2ce70df3t-pfs-2-mp-colorvu-indoor-audio-fixed-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-PFS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Audio Fixed Bullet Camera Hikvision DS-2CE12DF3T-FS",
+"href": "/ds-2ce12df3t-fs/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE12DF3T-FS_0808-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Audio Fixed Turret Camera Hikvision DS-2CE70DF3T-MFS",
+"href": "/ds-2ce70df3t-mfs/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-MFS_audio-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Audio Fixed Mini Bullet Camera Hikvision DS-2CE10DF3T-FS",
+"href": "/ds-2ce10df3t-fs-2-mp-colorvu-audio-fixed-mini-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE10DF3T-FS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Turret Camera Hikvision DS-2CE72DF3T-F",
+"href": "/ds-2ce72df3t-f-2-mp-colorvu-fixed-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-MF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Indoor Fixed Turret Camera Hikvision DS-2CE70DF3T-PF",
+"href": "/ds-2ce70df3t-pf-2-mp-colorvu-indoor-fixed-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-MF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Bullet Camera Hikvision DS-2CE12DF3T-F",
+"href": "/ds-2ce12df3t-f-2-mp-colorvu-fixed-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE12DF3T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Mini Bullet Camera Hikvision DS-2CE10DF3T-F",
+"href": "/ds-2ce10df3t-f/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE10DF3T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5MP Ultra-Low Light Camera Hikvision DS-2CE16H8T-ITF",
+"href": "/ds-2ce16h8t-itf-5mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE16H8T-ITF-nhaantoan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP Ultra-Low Light Camera Hikvision DS-2CE16H8T-IT3F",
+"href": "/ds-2ce16h8t-it3f-5-mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE16H8T-IT5F-DS-2CE16H8T-IT3F-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5 MP Ultra-Low Light Camera Hikvision DS-2CE16H8T-IT5F",
+"href": "/ds-2ce16h8t-it5f-5-mp-ultra-low-light-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/01/DS-2CE16H8T-IT5F-DS-2CE16H8T-IT3F-nha-an-toan-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE16H8T-IT5 5MP Ultra Low Light Series",
+"href": "/ds-2ce16h8t-it5-5mp-ultra-low-light-series/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE19H8T-IT3Z-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE16H8T-IT3 5MP Ultra Low Light Series",
+"href": "/ds-2ce16h8t-it3-5mp-ultra-low-light-series/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE16H8T-IT-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Hikvision DS-2CE16H8T-IT1 5MP Ultra Low Light",
+"href": "/ds-2ce16h8t-it1-5mp-ultra-low-light/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2CE16H8T-IT-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu Ultra-Low Light tích hợp hồng ngoại chống trộm Hikvision DS-2CE12D8T-PIRL",
+"href": "/ds-2ce12d8t-pirl-camera-ban-cau-ultra-low-light-tich-hop-hong-ngoai-chong-trom/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CE12D8T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera bán cầu Ultra-Lowlight tích hợp hồng ngoại chống trộm Hikvision DS-2CE71D8T-PIRL",
+"href": "/ds-2ce71d8t-pirl-camera-ban-cau-ultra-lowlight-tich-hop-hong-ngoai-chong-trom/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CE11D8T-PIRL-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI thân trụ tích hợp hồng ngoại chống trộm Hikvision DS-2CE11D8T-PIRL",
+"href": "/ds-2ce11d8t-pirl-camera-hd-tvi-tich-hop-hong-ngoai-chong-trom/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/DS-2CE11D8T-PIRL-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Turret Camera 8MP Hikvision DS-2CE76U1T-ITMF",
+"href": "/ds-2ce76u1t-itmf-turret-camera-8mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/camera-tvi-hikvision-4k-DS-2CE76U1T-ITMF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 8 kênh Turbo AcuSense Hikvision iDS-7208HUHI-M1/S",
+"href": "/dau-ghi-8-kenh-turbo-acusense-hikvision-ids-7208huhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/06/iDS-7208HUHI-M1_S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP 16 kênh AcuSense Hikvision DS-7616NXI-K2",
+"href": "/ds-7616nxi-k2s/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/09/dau-ghi-hinh-ip-hikvision-ds-7616nxi-k2-s-2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP 8 kênh AcuSense Hikvision DS-7608NXI-K2",
+"href": "/ds-7608nxi-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/09/dau-ghi-hinh-ip-hikvision-ds-7608nxi-k2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7216HQHI-M2/FA",
+"href": "/ids-7216hqhi-m2fa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7208HQHI-M2/FA",
+"href": "/ids-7208hqhi-m2fa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7216HQHI-M1/FA",
+"href": "/ids-7216hqhi-m1fa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7208HQHI-M1/FA",
+"href": "/ids-7208hqhi-m1fa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7204HQHI-M1/FA",
+"href": "/ids-7204hqhi-m1fa/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/01/hik_iDS_7208HQHI-M2_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision iDS-7208HUHI-M2/S",
+"href": "/ids-7204huhi-m2s/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/iDS-7204HUHI-M1_S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision IDS-7204HUHI-M1/S",
+"href": "/ids-7204huhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/iDS-7204HUHI-M1_S.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision iDS-7204HQHI-M1/S",
+"href": "/ids-7204hqhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/iDS-7204HQHI-M1-S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 16 kênh Turbo HD 3.0 Hikvision DS-7216HGHI-K1",
+"href": "/dau-ghi-16-kenh-turbo-hd-3-0-hikvision-ds-7216hghi-k1/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/HIKVISION-DS-7216HGHI-K1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD-TVI 16 kênh Hikvision DS-7216HGHI-K2",
+"href": "/ds-7216hghi-k2-dau-ghi-hd-tvi-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-7232HGHI-K2-DS-7224HGHI-K2-DS-7216HGHI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD-TVI 32 kênh Hikvision DS-7232HGHI-K2",
+"href": "/ds-7232hghi-k2-dau-ghi-hd-tvi-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-7232HGHI-K2-DS-7224HGHI-K2-DS-7216HGHI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghiHD-TVI 24 kênh Hikvision DS-7224HGHI-K2",
+"href": "/ds-7224hghi-k2-dau-ghihd-tvi-24-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-7232HGHI-K2-DS-7224HGHI-K2-DS-7216HGHI-K2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Turbo 4.0 HD-TVI 32 kênh Hikvision DS-7232HQHI-K2",
+"href": "/ds-7232hqhi-k2-dau-ghi-hinh-turbo-4-0-hd-tvi-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-7224HQHI-K2-DS-7232HQHI-K2-dau-ghi-hinh-DVR-24-32-kenh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Turbo 4.0 HD-TVI 24 kênh Hikvision DS-7224HQHI-K2",
+"href": "/ds-7224hqhi-k2-dau-ghi-hinh-turbo-4-0-hd-tvi-24-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/DS-7224HQHI-K2-DS-7232HQHI-K2-dau-ghi-hinh-DVR-24-32-kenh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7116HQHI-K1(S) Turbo HD DVR",
+"href": "/ds-7116hqhi-k1s-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7104-7108-7116HQHI-K1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7104/7108/7118HQHI-K1 Turbo HD DVR",
+"href": "/ds-710471087118hqhi-k1-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7104-7108-7116HQHI-K1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7108HQHI-K1(S) Turbo HD DVR",
+"href": "/dds-7108hqhi-k1s-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7104-7108-7116HQHI-K1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7104HQHI-K1(S) Turbo HD DVR",
+"href": "/ds-7104hqhi-k1-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7104-7108-7116HQHI-K1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/7208/7216HQHI-K1 Turbo HD DVR",
+"href": "/ds-720472087216hqhi-k1-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/Ds-7204.08-k.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7324HGHI-SH",
+"href": "/ds-7324-hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7300hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD-TVI 24 kênh cao cấp_DS-8124HQHI-K8",
+"href": "/ds-8124hqhi-k8-dau-ghi-turbo-hd-tvi-24-kenh-cao-cap/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8116HQHI-K8-DS-8124HQHI-K8-DS-8132HQHI-K8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD-TVI 16 kênh cao cấp_DS-8116HQHI-K8",
+"href": "/ds-8116hqhi-k8-dau-ghi-turbo-hd-tvi-16-kenh-cao-cap/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8116HQHI-K8-DS-8124HQHI-K8-DS-8132HQHI-K8.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD-TVI 32 kênh cao cấp_DS-8132HQHI-K8",
+"href": "/ds-8132hqhi-k8-dau-ghi-turbo-hd-tvi-32-kenh-cao-cap/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-8116HQHI-K8-DS-8124HQHI-K8-DS-8132HQHI-K8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 32 kênh_DS-8132HUHI-K8 Hikvision DS-8132HUHI-K8",
+"href": "/ds-8132huhi-k8-dau-ghi-turbo-hd-dvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-8124HUHI-K8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 24 kênh Hikvision DS-8124HUHI-K8",
+"href": "/ds-8124huhi-k8-dau-ghi-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-8124HUHI-K8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-8104/8108/8116HQHI-F8/N Turbo HD DVR",
+"href": "/ds-810481088116hqhi-f8n-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-8100HUHI-F8-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-8104/8108/8116HUHI-F8/N Turbo HD DVR",
+"href": "/ds-810481088116huhi-f8n-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-8100HQHI-F8-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8104HQHI-SH",
+"href": "/ds-8104hqhi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8108HQHI-SH",
+"href": "/ds-8108hqhi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hqhi-sh-c1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8116HQHI-SH",
+"href": "/ds-8116hqhi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8108HGHI-SH",
+"href": "/ds-8108hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hghi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8116HGHI-SH",
+"href": "/dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hghi-sh-c1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR_DS-8104HGHI-SH",
+"href": "/ds-8104hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-8100hghi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh_DS-7104HGHI-F1",
+"href": "/ds-7104hghi-f1-dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7104HGHI-F.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh_DS-7116HGHI-F1",
+"href": "/ds-7116hghi-f1-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7116HGHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh_DS-7108HGHI-F1",
+"href": "/ds-7108hghi-f1-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7108HGHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh_DS-7204HGHI-F1",
+"href": "/ds-7204hghi-f1-dau-ghi-turbo-hd-dvr-4-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7204HGHI-F1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh_DS-7208HGHI-F1",
+"href": "/ds-7208hghi-f1-dau-ghi-turbo-hd-dvr-8kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7208HGHI-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5186TS/P",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5186tsp/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/DS-D5B75RB-A.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5175TS/P",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5175tsp/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/DS-D5B75RB-A-500x321.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision 65 inch DS-D5165TS/P",
+"href": "/man-hinh-tuong-tac-hikvision-65-inch-ds-d5165tsp/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/02/DS-D5165TS_P-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5B55RB/B",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5b55rbb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/55寸带摄像头-1.png.thumb_.1280.1280-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5B65RB/B",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5b65rbb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/55寸带摄像头-1.png.thumb_.1280.1280-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5B75RB/B",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5b75rbb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/55寸带摄像头-1.png.thumb_.1280.1280-1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình tương tác Hikvision DS-D5B86RB/B",
+"href": "/man-hinh-tuong-tac-hikvision-ds-d5b86rbb/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/03/55寸带摄像头.png.thumb_.1280.1280-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Webcam HD1080P Hikvision DS-U102",
+"href": "/webcam-hd1080p-hikvision-ds-u102/",
+"image": "https://hikvision.vn/wp-content/uploads/2022/02/DS-U102.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Hikvision DS-D5022QE-E",
+"href": "/ds-d5022qe-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/DS-D5022QE-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Wi-Fi Pan-Tilt Camera CS-CV246 1080P Ezviz C6C 1080P",
+"href": "/c6c-1080p-wi-fi-pan-tilt-camera-cs-cv246-1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/ez360-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera wifi đa năng 1MegaPixel – Chân đế có gắn nam châm C2C 720p",
+"href": "/c2c-720p-mini-o-cv-206/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/mini-o-cv-206-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera wifi đa năng 2 MegaPixel – Chân đế thiết kế đặc biệt C2C 1080p",
+"href": "/mini-o-plus-cv-206-1080p/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/mini-o-cv-206-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Acction camera S2 Starter Kit CS-SP206-B0-68WFBS",
+"href": "/acction-camera-s2-starter-kit-cs-sp206-b0-68wfbs/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/s2-starter-kit-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi ngoài trời 2 MegaPixel – tích hợp còi – đèn chớp C3W 1080p",
+"href": "/husky-air-1080p-cs-cv310/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/husky-air-cs-cv310-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi ngoài trời 1 MegaPixel – tích hợp còi – đèn chớp C3W 720p",
+"href": "/husky-air-720p-cs-cv310/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/husky-air-cs-cv310-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi Ezviz C6T Mini 360 Plus CS-CV248",
+"href": "/c6t-mini-360-plus-cs-cv248/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/C6T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera quay quét wifi 1 MegaPixel- Hỗ trợ theo dõi chuyển động thông minh C6C 720p",
+"href": "/c6c-720p-ez360-wi-fi-pan-tilt-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/ez360-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "giá đeo – giúp gắn camera lên đầu Hikvision HEAD STRAP",
+"href": "/head-strap-gia-deo-giup-gan-camera-len-dau/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/DS-2CD2083-63-53-23G0-I-200x200.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "giá đeo – gắn camera trước ngực Hikvision CHEST HARNESS",
+"href": "/chest-harness-gia-deo-gan-camera-truoc-nguc/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Chest-Harness-gia-deo-gan-camera-truoc-nguc.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "giá gắn camera lên ghiđông xe đạp Hikvision ROLL BAR MOUNT",
+"href": "/roll-bar-mount-gia-gan-camera-len-ghidong-xe-dap/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Roll-bar-mount.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Selfie stick gậy selfie",
+"href": "/selfie-stick-gay-selfie/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Selfie-Stick.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chân đế chuyên dụng cho camera hành động Hikvision CS-SMT-CARA",
+"href": "/cs-smt-cara-chan-de-chuyen-dung-cho-camera-hanh-dong/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-SMT-CARA-chan-de-chuyen-dung-cho-camera-hanh-dong.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "vỏ chống nước cho S5 PLUS/S5 Hikvision Waterproof Case(S5)",
+"href": "/waterproof-cases5-vo-chong-nuoc-cho-s5-pluss5/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Waterproof-CaseS1C-Vo-chong-nuoc-cho-S1C-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến hồng ngoại PIR không dây T1 – loại trừ báo động giả do vật nuôi CS-T1-C/12M (APEC)",
+"href": "/cam-bien-hong-ngoai-pir-khong-day-t1-loai-tru-bao-dong-gia-vat-nuoi-cs-t1-c12m-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Cam-bien-hong-ngoai-PIR-khong-day-CS-T1-C-12M-APEC-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ kit báo động – combo BS-113A (APEC)",
+"href": "/bo-kit-bao-dong-combo-bs-113a-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Bo-kit-bao-dong-Combo-BS-113A-APEC.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến từ không dây T2 CS-T2-A (APEC)",
+"href": "/cam-bien-tu-khong-day-t2-cs-t2-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/Cm-bien-tu-khong-day-T2-CS-T2-A-APEC-500x488.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm khẩn cấp không dây T3 CS-T3-A (APEC)",
+"href": "/nut-bam-khan-cap-khong-day-t3-cs-t3-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-T3-A-APEC-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến phát hiện cửa đóng mở không dây T6 CS-T6-A (APEC)",
+"href": "/cam-bien-phat-hien-cua-dong-mo-khong-day-t6-cs-t6-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-T6-A-APEC.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Còi báo động không dây T9 CS-T9-A (APEC)",
+"href": "/coi-bao-dong-khong-day-t9-cs-t9-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-T9-A-APEC-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Điều khiển từ xa K2 CS-K2-A (APEC)",
+"href": "/dieu-khien-tu-xa-k2-cs-k2-apec/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-K2-A-APEC-1-490x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ trung tâm báo động – có kết nối internet A1 CS-A1-32W (APEC)",
+"href": "/cs-a1-32w-apec-bo-trung-tam-bao-dong-co-ket-noi-internet-a1/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/CS-A1-32W-APEC-A1-bo-trung-tam-bao-dong-co-ket-noi-internet-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "NK44W0H(D) 4MP H.265 Bullet WiFi Kit",
+"href": "/nk44w0hd-4mp-h-265-bullet-wifi-kit/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/10/4MP-H.265-Bullet-WiFi-Kit-01-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "NK42W0H(D) 2MP H.265 Bullet WiFi Kit",
+"href": "/nk42w0hd-2mp-h-265-bullet-wifi-kit/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/10/2MP-H.265-Bullet-WiFi-Kit-01-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Kit Wifi 4 Camera IP HD1080P Hikvision NK42E0H-L",
+"href": "/bo-kit-wifi-4-camera-ip-hd1080p-hikvision-nk42e0h-l/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/NK42E0H-L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Kit NK44W0H(D) – Bộ 4 Camera Wifi Hikvision 4.0 MP",
+"href": "/bo-kit-nk44w0hd-bo-4-camera-wifi-hikvision-4-0-mp/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/bo-kit-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Bullet PoE Kit_NK42E0H",
+"href": "/2mp-bullet-poe-kit-nk42e0h/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/NK42E0H-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thẻ nhớ Hikvision Mirco SD 128GB",
+"href": "/nho-hikvision-mirco-sd-128gb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/128-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thẻ nhớ Hikvision Mirco SD 32GB 92MB/s",
+"href": "/nho-hikvision-mirco-sd-32gb-92mbs/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/32-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thẻ Nhớ Camera Hikvision 64Gb",
+"href": "/nho-camera-hikvision-64gb/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/64-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mobile Dual-lens Mini Dome network Camera Hikvision DS-2XM6D52G0-I(M)(S)(/ND)",
+"href": "/ds-2xm6d52g0-imsnd-mobile-dual-lens-mini-dome-network-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XM6D52G0-IMS_ND-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mobile Indoor Mini Dome Network Camera Hikvision DS-2XM6122G0-I(D)(M)(/ND)",
+"href": "/ds-2xm6122g0-idmnd-mobile-indoor-mini-dome-network-camera-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2XM6122G0-IDM_ND-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 4-ch 1080p, H.265, 1xHDD/SSD Mobile DVR – DS-MP5604",
+"href": "/4-ch-1080p-h-265-1xhddssd-mobile-dvr-ds-mp5604/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-MP5604-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision DS-MP5504 – 4-ch 1080p, H.264, 1 x HDD/SSD Mobile DVR",
+"href": "/ds-mp5504-4-ch-1080p-h-264-1-x-hddssd-mobile-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-M5504HM-T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision 4-ch 720p, H.264, 1 x HDD/SSD Mobile DVR – DS-M5504HM-T",
+"href": "/4-ch-720p-h-264-1-x-hddssd-mobile-dvr-ds-m5504hm-t/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-M5504HM-T-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 4-Channel Mobile NVR Hikvision DS-M5504HNI",
+"href": "/ds-m5504hni-4-channel-mobile-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSM5504HNI-500x400.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch mạng Gigabit 24 cổng Hikvision DS-3E1524-EI",
+"href": "/ds-3e1524-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1524-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E1516-EI",
+"href": "/ds-3e1516-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1516-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E1508-EI",
+"href": "/ds-3e1508-ei/",
+"image": "https://hikvision.vn/wp-content/uploads/2021/03/DS-3E1508-EI-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0508D-E",
+"href": "/ds-3e0508d-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-3E0505D-E-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Hikvision DS-3E0106HP-E",
+"href": "/ds-3e0106hp-e/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/Untitled-1-2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3T0310PSwitch",
+"href": "/ds-3t0310pswitch/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/Untitled-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3T0306PSwitch",
+"href": "/ds-3t0306pswitch/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/DS-3T0306P-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Managed L2 PoE Switch Hikvision DS-3E1326P-E",
+"href": "/ds-3e1326p-e-managed-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E1326P-E-500x347.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Managed L2 PoE Switch Hikvision DS-3E1318P-E",
+"href": "/ds-3e1318p-e-managed-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E1318P-E-500x310.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged L2 PoE Switch Hikvision DS-3E0326P-E",
+"href": "/ds-3e0326p-e-unmanaged-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E0326P-E-500x488.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Managed L2 PoE Switch Hikvision DS-3E1310P-E",
+"href": "/ds-3e1310p-e-managed-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E1310P-E-500x482.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Unmanaged L2 PoE Switch Hikvision DS-3E0105P-E",
+"href": "/ds-3e0105p-e-unmanaged-l2-poe-switch/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3E0105P-E-1-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3D2000 Multiservice Gigabit Ethernet PoE Switch Series Hikvision DS-3D2228P",
+"href": "/ds-3d2228p-ds-3d2000-multiservice-gigabit-ethernet-poe-switch-series/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3D2208P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "DS-3D2000 Multiservice Gigabit Ethernet PoE Switch Series Hikvision DS-3D2208P",
+"href": "/ds-3d2208pds-3d2000-multiservice-gigabit-ethernet-poe-switch-series/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-3D2208P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình NVR 4K Hikvision SH-DT7616-AVD",
+"href": "/sh-dt7616-avd-dau-ghi-hinh-nvr-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7616NI-K2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 8 kênh HG20-7608NI-K2",
+"href": "/dau-ghi-nvr-8-kenh-hg20-7608ni-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/DS-7608-7616-7632NI-K2.png",
+"price": "5.570.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 4 kênh Hikvision HG20-7604NI-K1(B)",
+"href": "/hg20-7604ni-k1b-dau-ghi-hinh-camera-ip-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "3.480.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 16 kênh Hikvision DS-7616NI-K1(B)",
+"href": "/ds-7616ni-k1b-dau-ghi-hinh-camera-ip-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/DS-7604NI-K1B.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 16 kênh Turbo HD 3.0 Hikvision plus HKD-7216K2-S2N2",
+"href": "/hkd-7216k2-s2n2-dau-ghi-16-kenh-turbo-hd-3-0-hikvision-plus/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/11/dau-ghi-HKD-7216K2-S2N2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded 1U 4G/3G Hikvision DS-7616NI-E2/GW",
+"href": "/ds-7616ni-e2gw-nvr-embedded-1u-4g3g/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded 1U 4G/3G Hikvision DS-7608NI-E2/GW",
+"href": "/ds-7608ni-e2gw-nvr-embedded-1u-4g3g/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded 1U 4G/3G Hikvision DS-7604NI-E1/GW",
+"href": "/ds-7604ni-e1gw-nvr-embedded-1u-4g3g/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play Hikvision DS-7604NI-E1(/4P)",
+"href": "/ds-7604ni-e14p-nvr-embedded-plug-play/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play Hikvision DS-7616NI-E2/16P",
+"href": "/ds-7616ni-e216p-nvr-embedded-plug-play/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play Hikvision DS-7608NI-E2/8P",
+"href": "/ds-7608ni-e28p-nvr-embedded-plug-play/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7604NIK14P-1-500x367.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play 4K Hikvision DS-7616NI-I2/16P",
+"href": "/ds-7616ni-i216p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS7608NII28P-500x333.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play 4K Hikvision DS-7608NI-I2(/8P)",
+"href": "/ds-7608ni-i28p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS7608NII28P-500x333.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR X86 open platform for software developers and integrators, PoE port Hikvision DS-7600NI-H2/4P(8P)",
+"href": "/ds-7600ni-h24p8p-nvr-x86-open-platform-software-developers-integrators-poe-port/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-9600NI-H8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 16 kênh Hikvision DS-7616NI-ST",
+"href": "/ds-7616ni-st-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7600ni-st-c1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 8 kênh Hikvision DS-7608NI-ST",
+"href": "/ds-7608ni-st-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7600ni-st-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 16 kênh Hikvision DS-7616NI-E2",
+"href": "/ds-7616ni-e2-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7604ni-e1-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 16 kênh Hikvision DS-7616NI-E1",
+"href": "/ds-7616ni-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7604ni-e1-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 8 kênh Hikvision DS-7608NI-E2",
+"href": "/ds-7608ni-e2-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7604ni-e1-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 8 kênh Hikvision DS-7608NI-E1",
+"href": "/ds-7608ni-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7604ni-e1-c1.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 4 kênh Hikvision DS-7604NI-E1",
+"href": "/ds-7604ni-e1-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7604ni-e1-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-7616NI-K2",
+"href": "/ds-7616ni-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/07/DS-7616NI-K2.jpg",
+"price": "8.500.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7204HUHI-M2/S",
+"href": "/ids-7204huhi-m2s-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/iDS-7204HUHI-M1_S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision SH-7632NI-K2",
+"href": "/sh-7632ni-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/dau-ghi-hinh-ip-hikvision-ds-7632ni-k2-2.jpg",
+"price": "12.500.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7216HQHI-M1/S",
+"href": "/ids-7216hqhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/iDS-7204HQHI-M1-S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7208HQHI-M1/S",
+"href": "/ids-7208hqhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/04/iDS-7204HQHI-M1-S-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7204/08HUHI-M2/S",
+"href": "/ids-720408huhi-m2s/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7204/08HUHI-M1/S",
+"href": "/ids-720408huhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7208/16HQHI-M2/S",
+"href": "/ids-72040816hqhi-m1s/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision iDS-7204/08/16HQHI-M1/S",
+"href": "/ids-72040816hqhi-m1s-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi 16 kênh IP 4K Hikvision Plus HKN-1616K4-S4N8",
+"href": "/dau-ghi-16-kenh-ip-4k-hikvision-plus-hkn-1616k4-s4n8/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/07/HKN-1616K4-S4N8-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 32 kênh Hikvision HKN-1632K4-S4N8",
+"href": "/hkn-1632k4-s4n8-dau-ghi-hinh-camera-ip-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7732NI-I416P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP camera 128 kênh Hikvision HKN-16128K4-S16N12",
+"href": "/hkn-16128k4-s16n12-dau-ghi-hinh-ip-camera-128-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-96128ni-i16-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP camera 64 kênh Hikvision HKN-1664K4-S8N12",
+"href": "/hkn-1664k4-s8n12-dau-ghi-hinh-ip-camera-64-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/DS-9632NI-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình camera IP 16 kênh Hikvision HKN-1616K4-S2N8",
+"href": "/hkn-1616k4-s2n8-dau-ghi-hinh-camera-ip-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7608-16-32ni-k2.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR+X86 , compatible with third-party VMS and worked as a workstation, Redundant power supply Hikvision DS-9000AI-S16-D",
+"href": "/ds-9000ai-s16-d-nvrx86-compatible-third-party-vms-worked-workstation-redundant-power-supply/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-9000AI-S16-D.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR Hikvision DS-7100NI-K1/W/M",
+"href": "/ds-7100ni-k1wm-dau-ghi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/DS-7100NI-K1WM-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision SH-NVR332-I4",
+"href": "/sh-nvr332-i4-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/10/SH-NVR332-I4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision HG18-7716NI-K4 Embedded 4K NVR",
+"href": "/hg18-7716ni-k4-embedded-4k-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/07/HG18-7716NI-K4-500x500.jpg",
+"price": "12.720.000 đ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Embedded Plug & Play 4K NVR Hikvision DS-7700NI-I4/16P",
+"href": "/ds-7700ni-i416p-embedded-plug-play-4k-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7732NI-I416P.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Embedded 4K NVR Hikvision DS-7716/7732NI-K4",
+"href": "/ds-77167732ni-k4-embedded-4k-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-7732NI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play Hikvision DS-7716/7732NI-E4/16P",
+"href": "/ds-77167732ni-e416p-nvr-embedded-plug-play/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS7716NIE416P-500x420.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR Embedded Plug & Play 4K Hikvision DS-7716/7732NI-K4/16P",
+"href": "/ds-77167732ni-k416p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-7732NIK416P-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Hikvision DS-7716(32)NI-I4/16P NVR Embedded Plug & Play 4K",
+"href": "/ds-7700ni-i416p-nvr-embedded-plug-play-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-771632NII416P--500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP NVR X86 open platform for software developers and integrators, PoE port Hikvision DS-7700NI-H4/8P(16P)",
+"href": "/ds-7700ni-h48p16p-nvr-x86-open-platform-software-developers-integrators-poe-port/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-9600NI-H8.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 32 kênh Hikvision DS-7732NI-E4",
+"href": "/ds-7732ni-e4-dau-ghi-nvr-32-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7732ni-41.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi NVR 4K Hikvision DS-9632NI-I8",
+"href": "/ds-9632ni-i8-dau-ghi-nvr-4k/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/DS-9632NI-I8-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Audio Fixed Mini Bullet Camera Hikvision DS-2CE10DF3T-PFS",
+"href": "/ds-2ce10df3t-pfs-2-mp-colorvu-audio-fixed-mini-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE10DF3T-FS-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Moto Varifocal Turret Camera Hikvision DS-2CE79DF3T-AZF",
+"href": "/ds-2ce79df3t-azf-2-mp-colorvu-moto-varifocal-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-MF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Turret Camera Hikvision DS-2CE70DF3T-MF",
+"href": "/ds-2ce70df3t-mf-2-mp-colorvu-fixed-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE70DF3T-MF-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Moto Varifocal Bullet Camera Hikvision DS-2CE19DF3T-AZF",
+"href": "/ds-2ce19df3t-azf-2-mp-colorvu-moto-varifocal-bullet-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE12DF3T-F-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2 MP ColorVu Fixed Mini Bullet Camera Hikvision DS-2CE10DF3T-PF",
+"href": "/ds-2ce10df3t-pf/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/08/DS-2CE10DF3T-F-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa vân tay thông minh DL10",
+"href": "/khoa-van-tay-thong-minh-dl10/",
+"image": "https://hikvision.vn/wp-content/uploads/2019/03/15df09d35da7818359a82ae0b8c4ae45-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa thông minh CS-DB1",
+"href": "/chuong-cua-wifi-thong-minh-ezviz-cs-db1/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/05/HIKVISION-DS-PWA32-KST-1-200x200.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wifi Ezviz DP1 Smart Video Door Viewer (CS-DP1-A0-4A1WPFBSR)",
+"href": "/cs-dp1-smart-video-door-viewer-cs-dp1-a0-4a1wpfbsr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/11/DP1-nha-an-toan-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nguồn ELG-150-48A",
+"href": "/nguon-elg-150-48a/",
+"image": "https://hikvision.vn/wp-content/uploads/2020/03/ELG-150-48A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Network Storage System Hikvision DS-A80624S",
+"href": "/ds-a80624s-network-storage-system/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSA80624S-500x339.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Network Storage Device Hikvision DS-A81016S",
+"href": "/ds-a81016s-network-storage-device/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-A81016S-500x450.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Network Storage System Hikvision DS-A82024D",
+"href": "/ds-a82024d-network-storage-system/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-A81024D-500x406.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình IP Network Storage System Hikvision DS-A81024D",
+"href": "/ds-a81024d-network-storage-system/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-A81024D-500x406.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204HTHI-K1 4K H265+ TURBO HD DVR",
+"href": "/ds-7204hthi-k1-4k-h265-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204HTHI-K2 4K H265+ TURBO HD DVR",
+"href": "/ds-7204hthi-k2-4k-h265-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7208HTHI-K2 4K H265+ TURBO HD DVR",
+"href": "/ds-7208hthi-k2-4k-h265-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/12/DS-7204HTHI-K1-DS-7208HTHI-K1-DS-7208HTHI-K2-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7208HUHI-K2/P Turbo HD DVR",
+"href": "/ds-7208huhi-k2p-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-7204-08-16huhi-k-p-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204HUHI-F1/S 5MP 1U TURBO HD DVR",
+"href": "/ds-7204huhi-f1s-5mp-1u-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7216HUHI-F2/S Turbo HD DVR",
+"href": "/ds-7216huhi-f2s-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP Ultra Low-Light EXIR Turret Camera Hikvision DS-2CE56D8T-ITM",
+"href": "/ds-2ce56d8t-itm-2mp-ultra-low-light-exir-turret-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/DS-2CE56D8T-ITM.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/7208/7216HUHI-K2",
+"href": "/ds-720472087216huhi-k2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/ds-7204-08-16huhi-k-p-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/7208HQHI-K/P Turbo HD DVR",
+"href": "/dau-ghi-hinh-hikvision-ds-7204-7208hqhi-k-p-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/06/Ds-7204.08-k-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh (mới) Hikvision DS-7204HUHI-F1/N",
+"href": "/ds-7204huhi-f1n-dau-ghi-turbo-hd-dvr-4-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/Ds-7204HUHI-Fn-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/08/16HUHI-F2/S 5MP 1U Turbo HD DVR",
+"href": "/ds-72040816huhi-f2s-5mp-1u-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7204/08HUHI-F1/S 5MP 1U Turbo HD DVR",
+"href": "/ds-720408huhi-f1s-5mp-1u-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7204-08HUHI-F1-S-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Turbo DVR Hikvision DS-7216HUHI-F2/N",
+"href": "/ds-7216huhi-f2n-dau-ghi-hinh-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/Ds-7204HUHI-F2-DS-7208HUHI-F2-DS-7216HUHI-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh (mới) Hikvision DS-7216HGHI-F1",
+"href": "/ds-7216hghi-f1-dau-ghi-turbo-hd-dvr-16-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7216HGHI-F1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh (mới) Hikvision DS-7208HGHI-F2",
+"href": "/ds-7208hghi-f2-dau-ghi-turbo-hd-dvr-8-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7208HGHI-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh (mới) Hikvision DS-7204HQHI-F1/N",
+"href": "/ds-7204hqhi-f1n-dau-ghi-turbo-hd-dvr-4-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7204hqhi-f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh (mới) Hikvision DS-7216HGHI-F2",
+"href": "/ds-7216hghi-f2-dau-ghi-turbo-hd-dvr-16-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7216HGHI-F2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh (mới) Hikvision DS-7208HQHI-F1/N",
+"href": "/ds-7208hqhi-f1ndau-ghi-turbo-hd-dvr-8-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7208hqhi-f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh (mới) Hikvision DS-7216HQHI-F1/N",
+"href": "/ds-7216hqhi-f1ndau-ghi-turbo-hd-dvr-16-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7216hqhi-f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh (mới) Hikvision DS-7208HQHI-F2/N",
+"href": "/ds-7208hqhi-f2n-dau-ghi-turbo-hd-dvr-8-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7208hqhi-f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh (mới) Hikvision DS-7216HQHI-F2",
+"href": "/ds-7216hqhi-f2-dau-ghi-turbo-hd-dvr-16-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7216hqhi-f-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR kênh (mới) Hikvision DS-7208HUHI-F1/N",
+"href": "/ds-7208huhi-f1n-dau-ghi-turbo-hd-dvr-8-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/Ds-7208HUHI-Fn-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh (mới) Hikvision DS-7204HUHI-F2/N",
+"href": "/ds-7204huhi-f2n-dau-ghi-turbo-hd-dvr-4-kenh-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/Ds-7204HUHI-Fn-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh (mới) Hikvision DS-7208HUHI-F2/N",
+"href": "/ds-7208huhi-f2n-dau-ghi-turbo-hd-dvr-moi/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/Ds-7208HUHI-Fn-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI 1MP/analog/IP) Hikvision DS-7208HGHI-E1",
+"href": "/ds-7208hghi-e1dau-ghi-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7200hghi-e1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI 1MP/analog/IP) Hikvision DS-7216HGHI-E1",
+"href": "/ds-7216hghi-e1-dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-1mpanalogip/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7200hghi-e1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR Hikvision DS-7204HGHI-SH",
+"href": "/ds-7204hghi-sh-dau-ghi-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7200hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR Hikvision DS-7208HGHI-SH",
+"href": "/ds-7208hghi-sh-dau-ghi-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7200hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR Hikvision DS-7216HGHI-SH",
+"href": "/ds-7216hghi-sh-dau-ghi-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7200hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 4 kênh Hikvision DS-7204HQHI-SH",
+"href": "/ds-7204hqhi-sh-dau-ghi-hd-turbo-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7204hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 8 kênh Hikvision DS-7208HQHI-SH",
+"href": "/ds-7208hqhi-shdau-ghi-hd-turbo-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7204hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 16 kênh Hikvision DS-7216HQHI-SH",
+"href": "/ds-7216hqhi-sh-dau-ghi-hd-turbo-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7204hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình 5MP HD-TVI 16 kênh Hikvision DS-7316HUHI-K4",
+"href": "/ds-7316huhi-k4-dau-ghi-hinh-5mp-hd-tvi-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-7304HUHI-K4-500x483.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình 5MP HD-TVI 4 kênh Hikvision DS-7304HUHI-K4",
+"href": "/ds-7304huhi-k4-dau-ghi-hinh-5mp-hd-tvi-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/03/DS-7304HUHI-K4-500x483.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7316HQHI-K4 Turbo HD DVR",
+"href": "/ds-7316hqhi-k4-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7304-7308-7316HQHI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7304HQHI-K4 Turbo HD DVR",
+"href": "/ds-7304hqhi-k4-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7304-7308-7316HQHI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7304/7308/7316HQHI-K4 Turbo HD DVR",
+"href": "/ds-730473087316hqhi-k4-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-7304-7308-7316HQHI-K4-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7316HUHI-F4/N Turbo HD DVR",
+"href": "/ds-7316huhi-f4n-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7304-08-16HUHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7304/7308/7316HUHI-F4/N Turbo HD DVR",
+"href": "/ds-730473087316huhi-f4n-turbo-hd-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7304-08-16HUHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7304/7308/7316HQHI-F4/N Turbo HD DVR",
+"href": "/ds-730473087316hqhi-f4n-turbo-hd-dvr-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/DS-7304HQHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7316HQHI-F4/N",
+"href": "/ds-7316hqhi-f4n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/DS-7304HQHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7308HQHI-F4/N",
+"href": "/ds-7308hqhi-f4n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/DS-7304HQHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7304HQHI-F4/N",
+"href": "/ds-7304hqhi-f4n-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/08/DS-7304HQHI-F4-N-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 4 kênh Hikvision DS-7304HQHI-SH",
+"href": "/ds-7304hqhi-sh-dau-ghi-hd-turbo-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7304hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 8 kênh Hikvision DS-7308HQHI-SH",
+"href": "/ds-7308hqhi-sh-dau-ghi-hd-turbo-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7304hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR 16 kênh Hikvision DS-7316HQHI-SH",
+"href": "/ds-7316hqhi-sh-dau-ghi-hd-turbo-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7304hqhi-sh-c1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7332HGHI-SH",
+"href": "/ds-7332hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7300hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7316HGHI-SH",
+"href": "/ds-7316hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7300hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7308HGHI-SH",
+"href": "/ds-7308hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7300hghi-sh.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi HD Turbo DVR Hikvision DS-7304HGHI-SH",
+"href": "/ds-7304hghi-sh-dau-ghi-hd-turbo-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7300hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo Hybrid Hikvision DS-7608/16HUHI-F2/N",
+"href": "/ds-7608-7616huhi-f1n-dau-ghi-turbo-hybrid/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/Ds-7604-7608-7616huhi-f-n-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo Hybrid Hikvision DS-7604HUHI-F1/N",
+"href": "/ds-7604huhi-f1n-dau-ghi-turbo-hybrid/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/Ds-7604-7608-7616huhi-f-n-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7600NI-E1/A All-in-One NVR",
+"href": "/ds-7600ni-e1a-one-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7600NI-E1-A-c-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7108NI-E1/V/W Embedded MIni Wifi NVR",
+"href": "/ds-7108ni-e1vw-embedded-mini-wifi-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-7108NI-E1-V-W-c-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7104NI-SN(/N) Embedded Mini Plug & Play NVR",
+"href": "/ds-7104ni-snn-embedded-mini-plug-play-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/07/HIK-IP7104-SN.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7108NI-SN(/N) Embedded Mini Plug & Play NVR",
+"href": "/ds-7108ni-snn-embedded-mini-plug-play-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7108HGHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi hình Hikvision DS-7116NI-SN(/N) Embedded Mini Plug & Play NVR",
+"href": "/ds-7116ni-snn-embedded-mini-plug-play-nvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7116HGHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 4 kênh Hikvision DS-7104HQHI-F1/N",
+"href": "/ds-7104hqhi-f1n-dau-ghi-turbo-hd-dvr-4-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7104HQHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 8 kênh Hikvision DS-7108HQHI-F1/N",
+"href": "/ds-7108hqhi-f1n-dau-ghi-turbo-hd-dvr-8-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7108HQHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR 16 kênh Hikvision DS-7116HQHI-F1/N",
+"href": "/ds-7116hqhi-f1n-dau-ghi-turbo-hd-dvr-16-kenh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/04/DS-7116HQHI-F-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI 1MP và analog) Hikvision DS-7104HGHI-E1",
+"href": "/ds-7104hghi-e1dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-1mp-va-analog/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7100hghi-e1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI 1MP và analog) Hikvision DS-7108HGHI-E1",
+"href": "/ds-7108hghi-e1-dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-1mp-va-analog/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7100hghi-e1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI và analog) Hikvision DS-7104HGHI-SH",
+"href": "/ds-7104hghi-sh-dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-va-analog/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7100hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI và analog) Hikvision DS-7108HGHI-SH",
+"href": "/ds-7108hghi-sh-dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-va-analog/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7100hghi-sh-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đầu ghi Turbo HD DVR (dùng cho camera TVI 1MP và analog) Hikvision DS-7116HGHI-E1",
+"href": "/ds-7116hghi-e1-dau-ghi-turbo-hd-dvr-dung-cho-camera-tvi-1mp-va-analog/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-7100hghi-e1-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ điện thoại gọi cửa có hình Analog Hikvision DS-KIS204",
+"href": "/ds-kis204-bo-dien-thoai-goi-cua-co-hinh-analog-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/10/kis204-hikvision-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Máy chấm công vân tay – nhận diện khuông mặt Hikvision DS-K1T605 Series",
+"href": "/ds-k1t605-series-may-cham-cong-van-tay-nhan-dien-khuong-mat/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/04/DS-K1T605-Series-2-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KB6403-WIP WIFI Doorbell",
+"href": "/ds-kb6403-wip-wifi-doorbell/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/04/DS-KB6003-WIP-DS-KB6403-WIP-wifi-doorbell-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KB6003-WIP WIFI Doorbell",
+"href": "/ds-kb6003-wip-wifi-doorbell/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/04/DS-KB6003-WIP-DS-KB6403-WIP-wifi-doorbell-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Hikvision DS-KIS203 Video Door Phone",
+"href": "/ds-kis203-video-door-phone/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/09/DS-KIS203-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ điện thoại gọi cửa có hình Analog Hikvision DS-KIS202",
+"href": "/ds-kis202-bo-dien-thoai-goi-cua-co-hinh-analog-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/04/DS-KIS202-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Protective Shield Hikvision DS-KAB02",
+"href": "/ds-kab02-protective-shield/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAB02.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Protective Shield Hikvision DS-KAB01",
+"href": "/ds-kab01-protective-shield/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAB01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Power Supply Hikvision DS-KAW50-1N",
+"href": "/ds-kaw50-1n-power-supply/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAW50-1N.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Power supply for door station Hikvision DS-KAW50-1",
+"href": "/ds-kaw50-1power-supply-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAW50-1.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Video Intercom Master Station Hikvision DS-KM8301",
+"href": "/ds-km8301/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KM8301.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Distributor Hikvision DS-KAD606/612",
+"href": "/ds-kad606612/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAD606612.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Metal Door Station Hikvision DS-KD8002-VM",
+"href": "/ds-kd8002-vm-metal-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KD8002-VM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Video Intercom D Series Door Station Hikvision DS-KD8102-V",
+"href": "/ds-kd8102-v-plastic-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KD8102-V.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Distributor Hikvision DS-KAD606-N",
+"href": "/ds-kad606-n-distributor/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KAD606-N-500x460.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông cửa màn hình Vandal-proof villa door station Hikvision DS-KB8112-IM",
+"href": "/ds-kb8112-im-vandal-proof-villa-door-station/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-KB8112-IM.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ điện thoại gọi cửa có hình Analog Hikvision",
+"href": "/bo-chuong-cua-co-hinh-analog-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/DS-KIS201-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình căn hộ điện thoại gọi cửa có hình Hikvision HIK-VDM4000T",
+"href": "/hik-vdm4000t-man-hinh-can-ho-dien-thoai-goi-cua-co-hinh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-VDM4000T-HIK-VDM4000WT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình căn hộ điện thoại gọi cửa có hình Hikvision HIK-VDM2000",
+"href": "/hik-vdm2000-man-hinh-can-ho-dien-thoai-goi-cua-co-hinh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-VDM2000-HIKVDM3000T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Màn hình căn hộ điện thoại gọi cửa có hình Hikvision HIK-VDM3000T",
+"href": "/hik-vdm3000t-man-hinh-can-ho-dien-thoai-goi-cua-co-hinh/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-VDM2000-HIKVDM3000T-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 1 cổng cho biệt thự Hikvision HIK-IP8000VLS",
+"href": "/hik-ip8000vls-nut-bam-ip-1-cong-cho-biet-thu/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-IP8000VLS-HIK-IP8000IRS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 4 cổng cho biệt thự Hikvision HIK-IP8004IM",
+"href": "/hik-ip8004im-nut-bam-ip-4-cong-cho-biet-thu/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-IP8004IM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm IP 1 cổng cho biệt thự Hikvision HIK-IP8000IRS",
+"href": "/hik-ip8000irs-nut-bam-ip-1-cong-cho-biet-thu/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-IP8000VLS-HIK-IP8000IRS-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút bấm sảnh chất liệu nhựa Hikvision HIK-IP9102-V",
+"href": "/hik-ip9102-v-nut-bam-sanh-chuong-cua-co-hinh-hikvision/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-IP9102-V-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Nút ấn sảnh – vỏ hợp kim nhôm sang trọng Hikvision HIK-IP9002-VM",
+"href": "/hik-ip9002-vm-nut-sanh-vo-hop-kim-nhom-sang-trong/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-IP9002-VM-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ điện thoại trung tâm Hikvision HIK-VD8301",
+"href": "/hik-vd8301-bo-dien-thoai-trung-tam/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-VD8301-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu (bộ phân tầng) Hikvision HIK-606KAD",
+"href": "/hik-606kad-bo-chia-tin-hieu-bo-phan-tang/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/10/HIK-606KAD-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu (bộ phân tầng) Hikvision HIK-612KVD",
+"href": "/hik-612kvd-bo-chia-tin-hieu-bo-phan-tang-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/11/HIK-612KVD-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng chuyên dụng WD Purple 6TB WD60PUR",
+"href": "/o-cung-chuyen-dung-wd-purple-6tb-wd60pur/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_6-TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng chuyên dụng WD Purple 4TB WD40PUR",
+"href": "/o-cung-chuyen-dung-wd-purple-4tb-wd40pur/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_4-TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng chuyên dụng WD Purple 3TB WD30PURZ",
+"href": "/o-cung-chuyen-dung-wd-purple-3tb-wd30purz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_3-TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng chuyên dụng WD Purple 2TB WD20PURZ",
+"href": "/o-cung-chuyen-dung-wd-purple-2tb-wd20purz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_2-TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng chuyên dụng WD Purple 1TB WD10PURZ",
+"href": "/o-cung-wd-purple-1tb-wd10purz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_1-TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng WD Purple 10TB WD100PURZ",
+"href": "/o-cung-wd-purple-10tb-wd100purz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_10TB-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng WD Purple 8TB WD80PURZ",
+"href": "/o-cung-wd-purple-8tb-wd80purz/",
+"image": "https://hikvision.vn/wp-content/uploads/2018/01/o_cung_camera_wd_purple_8tb_wd80purz-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng 6TB Hikvision – WD Purple HV78",
+"href": "/o-cung-6tb-hikvision-wd-purple-hv78/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/wd-purple-hv78-6tb-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng 4TB Hikvision – WD Purple HV78",
+"href": "/o-cung-4tb-hikvision-wd-purple-hv78/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/wd-purple-hv78-4tb-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng 3TB Hikvision – WD Purple HV78",
+"href": "/o-cung-3tb-hikvision-wd-purple-hv78/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/wd-purple-hv78-3tb-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng 2TB Hikvision – WD Purple HV78",
+"href": "/o-cung-2tb-hikvision-wd-purple-hv78/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/wd-purple-hv78-2tb-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ cứng 1TB Hikvision – WD Purple HV78",
+"href": "/o-cung-1tb-hikvision-wd/",
+"image": "https://hikvision.vn/wp-content/uploads/2016/01/wd-purple-hv78-1tb-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2MP 1/1.8″CMOS Traffic Camera Hikvision iDS-TCD200-A",
+"href": "/ids-tcd200-2mp-11-8cmos-traffic-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/iDS-TCD200-A-500x500.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Hikvision iDS-TCD215 Traffic Flow Unit",
+"href": "/ids-tcd215-traffic-flow-unit/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/iDS-TCD215-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "7MP 1” Progressive Scan CCD Camera Hikvision ECU-A046-IT",
+"href": "/ecu-a046-7mp-1-progressive-scan-ccd-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/ECU-A046-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3MP 1/1.8” Progressive Scan CCD Camera Hikvision ECU-7044-IT",
+"href": "/ecu-7044-3mp-11-8-progressive-scan-ccd-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/ECU-7044-IT-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "7MP 1” Progressive Scan CCD Camera Hikvision VCU-A014-ITIR",
+"href": "/vcu-a014-itir-7mp-1-progressive-scan-ccd-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/08/VCU-A014-ITIR-500x500.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Compression Card Hikvision DS-4308/4316HFVI-E",
+"href": "/ds-43084316hfvi-e-compression-card/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-43084316HFVI-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Full 960H Compression Card Hikvision DS-430816HWI-E",
+"href": "/ds-430816hwi-e-compression-card/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-430816HWI-E-500x457.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện High Definition Compression Card Hikvision DS-4304HFHI-E",
+"href": "/ds-4304hfhi-e-high-definition-compression-card/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-4304HFHI-E.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Trigger Extension Module Hikvision DS-19M00-RO",
+"href": "/ds-19m00-ro-trigger-extension-module/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-19M00-RO.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị báo động 8/16 Zone Video Control Panel Hikvision DS-19A00-BN",
+"href": "/ds-19a00-bn-816-zone-video-control-panel/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS19S00N04SGx.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết bị báo động 8 Zone Video Security Control Panel Hikvision DS-19S08N-04F/Kx(Gx)",
+"href": "/ds-19s08n-04fkxgx-8-zone-video-security-control-panel/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-19S08N-04FKxGx.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Portable PTZ Dome Hikvision DS-MH6171",
+"href": "/ds-mh6171-portable-ptz-dome/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-MH6171.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Portable Video Recorder Hikvision DS-6102 HLI/GW",
+"href": "/ds-6102-hligw-portable-video-recorder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS6102-HLIGW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện VMS All-in-One Server Hikvision Blazer Pro 256/128",
+"href": "/blazer-pro-256128-vms-one-server/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/Blazer-Pro-256128-500x353.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện A Simple iVMS Station With Enormous Potential Hikvision Blazer Express",
+"href": "/blazer-express-simple-ivms-station-enormous-potential-blazer-pro-256128-vms-one-server-centralized-equipment-user-management-support-anpr-anpr-based-parkin/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/Blazer-Express-500x345.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Ultra High Definition Decoder Hikvision DS-D6912UDI",
+"href": "/ds-d6912udi-ultra-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D6910UDI-500x360.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Ultra High Definition Decoder Hikvision DS-D6908UDI",
+"href": "/ds-d6908udi-ultra-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D6904UDI-500x319.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Ultra High Definition Decoder Hikvision DS-D6910UDI",
+"href": "/ds-d6910udi-ultra-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D6910UDI-500x360.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Ultra High Definition Decoder Hikvision DS-D6904UDI",
+"href": "/ds-d6904udi-ultra-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D6904UDI-500x319.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Ultra High Definition Decoder Hikvision DS-D6901UDI",
+"href": "/ds-d6901udi-ultra-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS-D6901UDI-500x301.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện High Definition Decoder Hikvision DS-D6400HDI-T Series",
+"href": "/ds-d6400hdi-t-series-high-definition-decoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/hikvision_ds_6404hdi_t_high_definition_video_1163533-500x407.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera HD-TVI Mobile DVR Hikvision DS-MP7504",
+"href": "/ds-mp7504-hd-tvi-mobile-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSMP7504-500x455.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 4-Channel Mobile DVR Hikvision DS-M5504HMI",
+"href": "/ds-m5504hmi-4-channel-mobile-dvr/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSM5504HNI-500x400.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 4-Channel Mobile DVR Hikvision DS-M5504HMI-SD",
+"href": "/ds-m5504hmi-sd/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSM5504HNI-500x400.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera On-board Network Recorder Hikvision DS-MP3516-RS/GW",
+"href": "/ds-mp3516-rsgw-board-network-recorder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DSMP3516RSGW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện ATCA Standard Encoder Hikvision DS-6600HFI-JX",
+"href": "/ds-6600hfi-jx-atca-standard-encoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS6600HFIJX.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện Full 4CIF/960H Encoder Hikvision DS-6701/04/08/16HFI/HWI(-SATA)",
+"href": "/ds-6701040816hfihwi-sata-full-4cif960h-encoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS6716HFIHWIATA-500x383.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Phụ kiện HD1080P Encoder Hikvision DS-670816HQHI",
+"href": "/ds-670816hqhi-sata-hd1080p-encoder/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/02/DS670816HQHISATA-1-500x480.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thermal Handheld Observational Hikvision DS-2TS03-35UM/W",
+"href": "/ds-2ts03-35umw-camera-thermal-handheld-observational-2/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TS0325UMW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ series Observable Thermal + Optical Bi-spectrum Hikvision DS-2TD8166 series",
+"href": "/ds-2td8166-series-camera-ptz-series-observable-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD8135.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Thermometric Thermal + Optical Bi-spectrum Hikvision DS-2TD6166T-25/50A2L",
+"href": "/ds-2td6166t-2550a2l-camera-ptz-thermometric-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD61355075B2L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Observable Thermal + Optical Bi-spectrum Hikvision DS-2TD6166-50/75B2L",
+"href": "/ds-2td6166-5075b2l-camera-ptz-observable-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD61355075B2L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2166152535",
+"href": "/ds-2td2166152535/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2CD4A24FWD-IZHS.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2136T-10/15/25",
+"href": "/ds-2td2136t-101525-camera-bullet-thermal-network-single-len/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD2136101525.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thermal Handheld Thermometric Hikvision DS-2TP03-15VM/W",
+"href": "/ds-2tp03-15vmw-handheld-thermometric-thermal-camera/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TP0315VMW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thermal Handheld Observational Hikvision DS-2TS03-25UM/W",
+"href": "/ds-2ts03-25umw-camera-thermal-handheld-observational/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TS0325UMW.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Speed Dome Thermal + Optical Bi-spectrum",
+"href": "/camera-speed-dome-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD4035D2550.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal + Optical Bispectrum Hikvision DS-2TD2235D-25/50",
+"href": "/ds-2td2235d-2550-camera-bullet-thermal-optical-bispectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD2235D2550-500x400.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ series Observable Thermal + Optical Bi-spectrum Hikvision DS-2TD8135",
+"href": "/ds-2td8135-camera-ptz-series-observable-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD8135.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Observable Thermal + Optical Bi-spectrum Hikvision DS-2TD6135-50B2L/75B2L",
+"href": "/ds-2td6135-50b2l75b2l-camera-ptz-observable-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD61355075B2L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera PTZ Thermometric Thermal + Optical Bi-spectrum Hikvision DS-2TD6135T-25/50A2L",
+"href": "/ds-2td6135t-2550a2l-camera-ptz-thermometric-thermal-optical-bi-spectrum/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD61355075B2L.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2336-50/75/100",
+"href": "/ds-2td2336-5075100-camera-bullet-thermal-network-single-len/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD23365075100.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2366-50/75/100",
+"href": "/ds-2td2366-5075100-camera-bullet-thermal-network-single-len/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD23365075100.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Bullet Thermal Network single-len Hikvision DS-2TD2136-10/15/25",
+"href": "/ds-2td2136-101525-camera-bullet-thermal-network-single-len/",
+"image": "https://hikvision.vn/wp-content/uploads/2017/01/DS-2TD2136101525.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out TP-Link TL-SG1005P-PD",
+"href": "/mang-van-phong-soho-tplink-tl-sg1005p-pd/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1005p-pd/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot hút bụi và lau nhà với lực hút siêu mạnh 5300Pa + Dock tự động xả thông minh TP-Link Tapo RV30 Max Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv30-max-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 Băng Tần Kép BE3600 TP-Link Archer BE220",
+"href": "/router-wifi-tplink-archer-be220/",
+"image": "assets/img/products/router-wifi-tplink-archer-be220/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI 4K An Ninh Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C660 KIT",
+"href": "/camera-wifi-tplink-tapo-c660-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c660-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Hai Ống Kính TP-Link Tapo C675D KIT",
+"href": "/camera-wifi-tplink-tapo-c675d-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c675d-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét TP-Link TC71",
+"href": "/camera-wifi-tplink-tc71/",
+"image": "assets/img/products/camera-wifi-tplink-tc71/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Cho Gia Đình TP-Link Tapo C110",
+"href": "/camera-wifi-tplink-tapo-c110/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c110/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét Ngoài Trời TP-Link TC40",
+"href": "/camera-wifi-tplink-tc40/",
+"image": "assets/img/products/camera-wifi-tplink-tc40/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera An Ninh Wi-Fi Cho Gia Đình TP-Link Tapo C100",
+"href": "/camera-wifi-tplink-tapo-c100/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Ngoài Trời TP-Link Tapo C310",
+"href": "/camera-wifi-tplink-tapo-c310/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c310/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dải Đèn LED Dây Wi-Fi Thông Minh Đa Màu Sắc TP-Link Tapo L930-5",
+"href": "/nha-thong-minh-tplink-tapo-l930-5/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l930-5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Mesh Wi-Fi 7 BE33000 Bốn Băng Tần Cho Gia Đình TP-Link Deco BE95",
+"href": "/he-thong-wifi-mesh-tplink-deco-be95/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be95/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh Wi-Fi 7 BE11000 cho gia đình TP-Link Deco BE65 Pro",
+"href": "/he-thong-wifi-mesh-tplink-deco-be65-pro/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-pro/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card Mạng PCIe Wi-Fi 7 BE9300 & Bluetooth 5.4 TP-Link Archer TBE550E",
+"href": "/wifi-adapter-tplink-archer-tbe550e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tbe550e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh Wi-Fi 7 Ba Băng Tần BE11000 5G cho gia đình TP-Link Deco BE65-5G",
+"href": "/he-thong-wifi-mesh-tplink-deco-be65-5g/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-5g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình TP-Link Deco BE63",
+"href": "/he-thong-wifi-mesh-tplink-deco-be63/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be63/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 BE9300 Ba Băng Tần TP-Link Archer BE550",
+"href": "/router-wifi-tplink-archer-be550/",
+"image": "assets/img/products/router-wifi-tplink-archer-be550/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gaming Router Wi-Fi 7 BE19000 Ba Băng Tần TP-Link Archer GE800",
+"href": "/router-wifi-tplink-archer-ge800/",
+"image": "assets/img/products/router-wifi-tplink-archer-ge800/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 BE24000 Bốn Băng Tần TP-Link Archer BE900",
+"href": "/router-wifi-tplink-archer-be900/",
+"image": "assets/img/products/router-wifi-tplink-archer-be900/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 Ba Băng Tần BE12000 TP-Link Archer BE670",
+"href": "/router-wifi-tplink-archer-be670/",
+"image": "assets/img/products/router-wifi-tplink-archer-be670/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 Ba Băng Tần BE9700 TP-Link Archer BE600",
+"href": "/router-wifi-tplink-archer-be600/",
+"image": "assets/img/products/router-wifi-tplink-archer-be600/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gaming Router Wi-Fi 7 BE9300 Ba Băng Tần TP-Link Archer GE550",
+"href": "/router-wifi-tplink-archer-ge550/",
+"image": "assets/img/products/router-wifi-tplink-archer-ge550/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "BE6500 Dual-Band Wi-Fi 7 Gaming Router TP-Link Archer GE400",
+"href": "/router-wifi-tplink-archer-ge400/",
+"image": "assets/img/products/router-wifi-tplink-archer-ge400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gaming Router Wi-Fi 7 BE11000 Ba Băng Tần TP-Link Archer GE650",
+"href": "/router-wifi-tplink-archer-ge650/",
+"image": "assets/img/products/router-wifi-tplink-archer-ge650/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 7 Băng Tần Kép BE3600 TP-Link Archer BE230",
+"href": "/router-wifi-tplink-archer-be230/",
+"image": "assets/img/products/router-wifi-tplink-archer-be230/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Thế Hệ Kế Tiếp AX6000 TP-Link Archer AX6000",
+"href": "/router-wifi-tplink-archer-ax6000/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax6000/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6E Băng Tần Kép AXE5400 Gigabit TP-Link Archer AXE75",
+"href": "/router-wifi-tplink-archer-axe75/",
+"image": "assets/img/products/router-wifi-tplink-archer-axe75/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Gaming Router Wi-Fi 6 AX11000 Ba Băng Tần TP-Link Archer AX11000",
+"href": "/router-wifi-tplink-archer-ax11000/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax11000/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 AX3000 Air Mesh Băng Tần Kép (3-pack) TP-Link Archer Air R5",
+"href": "/router-wifi-tplink-archer-air-r5/",
+"image": "assets/img/products/router-wifi-tplink-archer-air-r5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 AX6000 8 luồng với cổng 2.5G TP-Link Archer AX80",
+"href": "/router-wifi-tplink-archer-ax80/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax80/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 AX5400 Gigabit Băng Tần Kép TP-Link Archer AX73 V2",
+"href": "/router-wifi-tplink-archer-ax73-v2/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax73-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX5400 TP-Link Archer AX72",
+"href": "/router-wifi-tplink-archer-ax72/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax72/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 AX3000 Multi-Gigabit với hai cổng 2.5G TP-Link Archer AX55 Pro",
+"href": "/router-wifi-tplink-archer-ax55-pro/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax55-pro/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Băng Tần Kép AX3000 TP-Link Archer AX55",
+"href": "/router-wifi-tplink-archer-ax55/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax55/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit AX3000 TP-Link Archer AX56 (US) V1",
+"href": "/router-wifi-tplink-archer-ax56-us-v1/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax56-us-v1/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình TP-Link Deco X60 V3.20",
+"href": "/he-thong-wifi-mesh-tplink-deco-x60-v3-20/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-x60-v3-20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Wi-Fi Mesh cho Gia đình AX6600 TP-Link Deco X90",
+"href": "/he-thong-wifi-mesh-tplink-deco-x90/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-x90/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX3000 Dual-Band Wi-Fi 6 Air Range Extender TP-Link Archer Air E5",
+"href": "/bo-mo-rong-wifi-tplink-archer-air-e5/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-archer-air-e5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000 TP-Link RE700X",
+"href": "/bo-mo-rong-wifi-tplink-re700x/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-re700x/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2 TP-Link Archer TX50E V2",
+"href": "/wifi-adapter-tplink-archer-tx50e-v2/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx50e-v2/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit Ba Băng Tần AX6600 TP-Link Archer AX90",
+"href": "/router-wifi-tplink-archer-ax90/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax90/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link Archer AX53",
+"href": "/router-wifi-tplink-archer-ax53/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax53/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link Archer AX50",
+"href": "/router-wifi-tplink-archer-ax50/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax50/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX1800 Dual-Band Wi-Fi 6 Router TP-Link Archer AX20",
+"href": "/router-wifi-tplink-archer-ax20/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX1500 Wi-Fi 6 Router TP-Link Archer AX10",
+"href": "/router-wifi-tplink-archer-ax10/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax10/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.3 TP-Link Archer TX3000E",
+"href": "/wifi-adapter-tplink-archer-tx3000e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx3000e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Gaming Wi-Fi 6 Băng Tần Kép AX6600 TP-Link Archer GX90",
+"href": "/router-wifi-tplink-archer-gx90/",
+"image": "assets/img/products/router-wifi-tplink-archer-gx90/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX1500 Wi-Fi 6 Router TP-Link Archer AX1500 V2",
+"href": "/router-wifi-tplink-archer-ax1500-v2/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax1500-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO Gigabit AC2300 TP-Link Archer C2300",
+"href": "/router-wifi-tplink-archer-c2300/",
+"image": "assets/img/products/router-wifi-tplink-archer-c2300/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO Gigabit 3 Băng Tần AC5400 TP-Link Archer C5400",
+"href": "/router-wifi-tplink-archer-c5400/",
+"image": "assets/img/products/router-wifi-tplink-archer-c5400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Mesh Toàn Nhà Wi-Fi 7 BE11000 TP-Link Deco BE65",
+"href": "/he-thong-wifi-mesh-tplink-deco-be65/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "BE11000 Whole Home Mesh WiFi 7 System with PoE TP-Link Deco BE65-PoE",
+"href": "/he-thong-wifi-mesh-tplink-deco-be65-poe/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-poe/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh WiFi 7 BE11000 Toàn Bộ Nhà TP-Link Deco BE11000",
+"href": "/he-thong-wifi-mesh-tplink-deco-be11000/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be11000/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh Wi-Fi 7 BE3600 Cho Gia Đình TP-Link Deco BE22",
+"href": "/he-thong-wifi-mesh-tplink-deco-be22/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be22/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "BE11000 Outdoor Whole Home Mesh WiFi 7 Unit TP-Link Deco BE65-Outdoor",
+"href": "/he-thong-wifi-mesh-tplink-deco-be65-outdoor/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-outdoor/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Mesh Ba Băng Tần Trong Nhà & Ngoài Trời BE11000 TP-Link Deco BM65",
+"href": "/he-thong-wifi-mesh-tplink-deco-bm65/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-bm65/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX1800 Router Wi-Fi 6 Băng Tần Kép TP-Link Archer AX23",
+"href": "/router-wifi-tplink-archer-ax23/",
+"image": "assets/img/products/router-wifi-tplink-archer-ax23/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO AC1900 TP-Link Archer A8",
+"href": "/router-wifi-tplink-archer-a8/",
+"image": "assets/img/products/router-wifi-tplink-archer-a8/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO AC1900 TP-Link Archer C86",
+"href": "/router-wifi-tplink-archer-c86/",
+"image": "assets/img/products/router-wifi-tplink-archer-c86/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO AC1900 TP-Link Archer C80",
+"href": "/router-wifi-tplink-archer-c80/",
+"image": "assets/img/products/router-wifi-tplink-archer-c80/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Gigabit Băng Tần Kép AC1750 TP-Link Archer C7",
+"href": "/router-wifi-tplink-archer-c7/",
+"image": "assets/img/products/router-wifi-tplink-archer-c7/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO AC1350 TP-Link Archer C59 V4",
+"href": "/router-wifi-tplink-archer-c59-v4/",
+"image": "assets/img/products/router-wifi-tplink-archer-c59-v4/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Gigabit MU-MIMO Không Dây AC1200 TP-Link Archer C6 V4",
+"href": "/router-wifi-tplink-archer-c6-v4/",
+"image": "assets/img/products/router-wifi-tplink-archer-c6-v4/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router WiFi AC1200 MU-MIMO TP-Link Archer A64",
+"href": "/router-wifi-tplink-archer-a64/",
+"image": "assets/img/products/router-wifi-tplink-archer-a64/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Băng tần kép AC1350 TP-Link Archer C60 V3",
+"href": "/router-wifi-tplink-archer-c60-v3/",
+"image": "assets/img/products/router-wifi-tplink-archer-c60-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC1200 Wireless Dual Band Router TP-Link Archer A5 V4",
+"href": "/router-wifi-tplink-archer-a5-v4/",
+"image": "assets/img/products/router-wifi-tplink-archer-a5-v4/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC750 Dual-Band Wi-Fi Router TP-Link Archer C24 V2",
+"href": "/router-wifi-tplink-archer-c24-v2/",
+"image": "assets/img/products/router-wifi-tplink-archer-c24-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Băng Tần Kép AC750 TP-Link Archer C20",
+"href": "/router-wifi-tplink-archer-c20/",
+"image": "assets/img/products/router-wifi-tplink-archer-c20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Modem ADSL2+ Wi-Fi Gigabit Băng Tần Kép AC1750 TP-Link Archer D7",
+"href": "/router-modem-tplink-archer-d7/",
+"image": "assets/img/products/router-modem-tplink-archer-d7/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router 5G AX1800 Wi-Fi Gigabit Băng Tần Kép TP-Link Archer NX200",
+"href": "/router-modem-tplink-archer-nx200/",
+"image": "assets/img/products/router-modem-tplink-archer-nx200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Gigabit Băng Tần Kép 4G+ Cat6 AC1200 TP-Link Archer MR600",
+"href": "/router-modem-tplink-archer-mr600/",
+"image": "assets/img/products/router-modem-tplink-archer-mr600/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router 4G LTE AC1200 Băng Tần Kép TP-Link Archer MR402",
+"href": "/router-modem-tplink-archer-mr402/",
+"image": "assets/img/products/router-modem-tplink-archer-mr402/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Băng Tần Kép 4G LTE AC750 TP-Link Archer MR200 V5",
+"href": "/router-modem-tplink-archer-mr200-v5/",
+"image": "assets/img/products/router-modem-tplink-archer-mr200-v5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router 4G LTE Chuẩn N Tốc độ 300 Mbps TP-Link TL-MR101",
+"href": "/router-modem-tplink-tl-mr101/",
+"image": "assets/img/products/router-modem-tplink-tl-mr101/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Mở Rộng Sóng Wi-Fi 7 BE3600 Hai Băng Tần TP-Link RE225BE",
+"href": "/bo-mo-rong-wifi-tplink-re225be/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-re225be/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "BE11000 Tri-Band Wi-Fi 7 Range Extender TP-Link RE655BE",
+"href": "/bo-mo-rong-wifi-tplink-re655be/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-re655be/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Mở Rộng Sóng Wi-Fi AC2600 TP-Link RE650",
+"href": "/bo-mo-rong-wifi-tplink-re650/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-re650/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750 TP-Link RE450",
+"href": "/bo-mo-rong-wifi-tplink-re450/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-re450/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Kit Mở Rộng Sóng Wi-Fi AC Powerline AV1000 Gigabit Kèm Ổ Cắm Điện TP-Link TL-WPA7617 KIT",
+"href": "/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "TP-Link M8550",
+"href": "/wifi-di-dong-tplink-m8550/",
+"image": "assets/img/products/wifi-di-dong-tplink-m8550/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "600 Mbps LTE-Advanced Mobile Wi-Fi TP-Link M7750",
+"href": "/wifi-di-dong-tplink-m7750/",
+"image": "assets/img/products/wifi-di-dong-tplink-m7750/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "TP-Link M8200",
+"href": "/wifi-di-dong-tplink-m8200/",
+"image": "assets/img/products/wifi-di-dong-tplink-m8200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Wi-Fi Di Động 4G LTE-Advanced 300 Mbps TP-Link M7450",
+"href": "/wifi-di-dong-tplink-m7450/",
+"image": "assets/img/products/wifi-di-dong-tplink-m7450/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Wi-Fi Di Động 4G LTE TP-Link M7005",
+"href": "/wifi-di-dong-tplink-m7005/",
+"image": "assets/img/products/wifi-di-dong-tplink-m7005/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Wi-Fi Di động 4G LTE TP-Link M7200",
+"href": "/wifi-di-dong-tplink-m7200/",
+"image": "assets/img/products/wifi-di-dong-tplink-m7200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi 6 Băng Tần Kép AX1800 TP-Link Archer TX20U",
+"href": "/wifi-adapter-tplink-archer-tx20u/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx20u/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi 7 Mini Băng tần kép BE3600 TP-Link Archer TBE230U",
+"href": "/wifi-adapter-tplink-archer-tbe230u/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tbe230u/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi 6 AX900 & Bluetooth 5.3 Nano TP-Link Archer TX10UB Nano",
+"href": "/wifi-adapter-tplink-archer-tx10ub-nano/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx10ub-nano/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi AC600 & Bluetooth 4.2 Nano TP-Link Archer T2UB Nano",
+"href": "/wifi-adapter-tplink-archer-t2ub-nano/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t2ub-nano/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi MU-MIMO Mini AC1300 TP-Link Archer T3U",
+"href": "/wifi-adapter-tplink-archer-t3u/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t3u/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Băng Tần Kép AC600 TP-Link Archer T2U V3",
+"href": "/wifi-adapter-tplink-archer-t2u-v3/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t2u-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Nano AC600 TP-Link Archer T2U Nano",
+"href": "/wifi-adapter-tplink-archer-t2u-nano/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t2u-nano/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Bluetooth 4.0 Nano TP-Link UB400",
+"href": "/wifi-adapter-tplink-ub400/",
+"image": "assets/img/products/wifi-adapter-tplink-ub400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Bluetooth 5.4 Nano TP-Link UB500 V3",
+"href": "/wifi-adapter-tplink-ub500-v3/",
+"image": "assets/img/products/wifi-adapter-tplink-ub500-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi AC1300 Hai Ăng-ten Độ Lợi Cao TP-Link Archer T5U Plus",
+"href": "/wifi-adapter-tplink-archer-t5u-plus/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t5u-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi AX1800 Hai Ăng-ten Hiệu Suất Cao TP-Link Archer TX30U Plus",
+"href": "/wifi-adapter-tplink-archer-tx30u-plus/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx30u-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao Ăng Ten Kép AX1800 TP-Link Archer TX20U Plus",
+"href": "/wifi-adapter-tplink-archer-tx20u-plus/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx20u-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao Băng Tần Kép AC1900 TP-Link Archer T9UH",
+"href": "/wifi-adapter-tplink-archer-t9uh/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t9uh/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao Băng Tần Kép AC1300 TP-Link Archer T4U V5",
+"href": "/wifi-adapter-tplink-archer-t4u-v5/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t4u-v5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao Băng Tần Kép AC1300 TP-Link Archer T3U Plus",
+"href": "/wifi-adapter-tplink-archer-t3u-plus/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t3u-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao Băng Tần Kép AC600 TP-Link Archer T2U Plus",
+"href": "/wifi-adapter-tplink-archer-t2u-plus/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t2u-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao 300Mbps TP-Link TL-WN822N V6",
+"href": "/wifi-adapter-tplink-tl-wn822n-v6/",
+"image": "assets/img/products/wifi-adapter-tplink-tl-wn822n-v6/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB Wi-Fi Độ Lợi Cao 150Mbps TP-Link TL-WN722N",
+"href": "/wifi-adapter-tplink-tl-wn722n/",
+"image": "assets/img/products/wifi-adapter-tplink-tl-wn722n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express 10 Gigabit TP-Link TX401",
+"href": "/wifi-adapter-tplink-tx401/",
+"image": "assets/img/products/wifi-adapter-tplink-tx401/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCIe Wi-Fi 6 AX3000 & Bluetooth 5.2 TP-Link Archer TX55E",
+"href": "/wifi-adapter-tplink-archer-tx55e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx55e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCIe Wi-Fi 6 AX1800 & Bluetooth 5.2 TP-Link Archer TX20E",
+"href": "/wifi-adapter-tplink-archer-tx20e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-tx20e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1900 TP-Link Archer T9E",
+"href": "/wifi-adapter-tplink-archer-t9e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t9e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC1300 TP-Link Archer T6E",
+"href": "/wifi-adapter-tplink-archer-t6e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t6e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCIe Wi-Fi AC1200 & Bluetooth 4.2 TP-Link Archer T5E",
+"href": "/wifi-adapter-tplink-archer-t5e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t5e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi PCIe Wi-Fi Bluetooth không dây AC1200 TP-Link Archer T4E V3",
+"href": "/wifi-adapter-tplink-archer-t4e-v3/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t4e-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express Wi-Fi Băng Tần Kép AC600 TP-Link Archer T2E",
+"href": "/wifi-adapter-tplink-archer-t2e/",
+"image": "assets/img/products/wifi-adapter-tplink-archer-t2e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express Wi-Fi 300Mbps TP-Link TL-WN881ND",
+"href": "/wifi-adapter-tplink-tl-wn881nd/",
+"image": "assets/img/products/wifi-adapter-tplink-tl-wn881nd/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng PCI Express Gigabit TP-Link TG-3468",
+"href": "/wifi-adapter-tplink-tg-3468/",
+"image": "assets/img/products/wifi-adapter-tplink-tg-3468/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Adapter Mạng Gigabit Ethernet USB Type-C sang RJ45 TP-Link UE310C",
+"href": "/phu-kien-tplink-ue310c/",
+"image": "assets/img/products/phu-kien-tplink-ue310c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB 3.0 Type-C to SD & microSD 4.0 Card Reader TP-Link UA440C",
+"href": "/phu-kien-tplink-ua440c/",
+"image": "assets/img/products/phu-kien-tplink-ua440c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub USB Type-C 7 cổng TP-Link UH7020C",
+"href": "/phu-kien-tplink-uh7020c/",
+"image": "assets/img/products/phu-kien-tplink-uh7020c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub USB Type-C 6 Cổng TP-Link UH6120C",
+"href": "/phu-kien-tplink-uh6120c/",
+"image": "assets/img/products/phu-kien-tplink-uh6120c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub USB Type-C 5 cổng TP-Link UH5020C",
+"href": "/phu-kien-tplink-uh5020c/",
+"image": "assets/img/products/phu-kien-tplink-uh5020c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub USB Type-C 3 Cổng TP-Link UH3020C",
+"href": "/phu-kien-tplink-uh3020c/",
+"image": "assets/img/products/phu-kien-tplink-uh3020c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Adapter USB Type-C sang Ethernet 2.5 Gigabit TP-Link UE302C",
+"href": "/phu-kien-tplink-ue302c/",
+"image": "assets/img/products/phu-kien-tplink-ue302c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi USB Type-C sang Ethernet RJ45 Gigabit TP-Link UE300C",
+"href": "/phu-kien-tplink-ue300c/",
+"image": "assets/img/products/phu-kien-tplink-ue300c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia USB 3.0 7 cổng TP-Link UH700",
+"href": "/phu-kien-tplink-uh700/",
+"image": "assets/img/products/phu-kien-tplink-uh700/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chia Cổng USB-A ra 3 cổng USB-A 3.0 & Mạng Gigabit Ethernet TP-Link UE330",
+"href": "/phu-kien-tplink-ue330/",
+"image": "assets/img/products/phu-kien-tplink-ue330/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia 4 cổng USB 3.0 TP-Link UH400",
+"href": "/phu-kien-tplink-uh400/",
+"image": "assets/img/products/phu-kien-tplink-uh400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi USB 3.0 sang Ethernet Gigabit TP-Link UE300 V4",
+"href": "/phu-kien-tplink-ue300-v4/",
+"image": "assets/img/products/phu-kien-tplink-ue300-v4/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi USB 2.0 sang LAN RJ45 100Mbps TP-Link UE200",
+"href": "/phu-kien-tplink-ue200/",
+"image": "assets/img/products/phu-kien-tplink-ue200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bluetooth Music Receiver TP-Link HA100",
+"href": "/nha-thong-minh-tplink-ha100/",
+"image": "assets/img/products/nha-thong-minh-tplink-ha100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia mạng Gigabit 1 ra 3 TP-Link EH310",
+"href": "/phu-kien-tplink-eh310/",
+"image": "assets/img/products/phu-kien-tplink-eh310/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+ TP-Link TL-SG108PE V4.20",
+"href": "/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Easy Smart 16 Cổng Gigabit TP-Link TL-SG116E",
+"href": "/mang-van-phong-soho-tplink-tl-sg116e/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg116e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Easy Smart 5 cổng Gigabit TP-Link TL-SG105E",
+"href": "/mang-van-phong-soho-tplink-tl-sg105e/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Easy Smart Switch Gigabit 18 cổng (có 16 cổng PoE+) TP-Link TL-SG1218MPE",
+"href": "/mang-van-phong-soho-tplink-tl-sg1218mpe/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1218mpe/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Easy Smart Switch Gigabit 28 cổng (có 24 cổng PoE+) TP-Link TL-SG1428PE",
+"href": "/mang-van-phong-soho-tplink-tl-sg1428pe/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1428pe/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Easy Smart 8 cổng Gigabit TP-Link TL-SG108E V6",
+"href": "/mang-van-phong-soho-tplink-tl-sg108e-v6/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108e-v6/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu thông minh dễ dàng 16 Port Gigabit TP-Link TL-SG1016DE",
+"href": "/mang-van-phong-soho-tplink-tl-sg1016de/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1016de/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-Port 2.5G Multi-Gigabit Desktop Switch TP-Link TL-SG108S-M2",
+"href": "/mang-van-phong-soho-tplink-tl-sg108s-m2/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108s-m2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chia Tín Hiệu Để Bàn 5 cổng 10/100Mbps TP-Link TL-SF1005D",
+"href": "/mang-van-phong-soho-tplink-tl-sf1005d/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1005d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5-Cổng 2.5G TP-Link TL-SG105-M2",
+"href": "/mang-van-phong-soho-tplink-tl-sg105-m2/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105-m2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SL1311MP",
+"href": "/mang-van-phong-soho-tplink-tl-sl1311mp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1311mp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+ TP-Link TL-SL1218P",
+"href": "/mang-van-phong-soho-tplink-tl-sl1218p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1218p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "24-Port 10/100Mbps + 2-Port Gigabit Unmanaged PoE+ Switch TP-Link TL-SL1226P",
+"href": "/mang-van-phong-soho-tplink-tl-sl1226p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1226p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-Port 10G Desktop/Rackmount Switch TP-Link TL-SX1008",
+"href": "/mang-van-phong-soho-tplink-tl-sx1008/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sx1008/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10/100/1000Mbps TP-Link LS1005G",
+"href": "/mang-van-phong-soho-tplink-ls1005g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1005g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8 Cổng 10/100/1000Mbps TP-Link LS1008G",
+"href": "/mang-van-phong-soho-tplink-ls1008g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1008g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE TP-Link TL-SF1005LP",
+"href": "/mang-van-phong-soho-tplink-tl-sf1005lp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1005lp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng Gigabit với 4 Cổng PoE+ TP-Link TL-SG1005LP",
+"href": "/mang-van-phong-soho-tplink-tl-sg1005lp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1005lp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 6 Cổng 10/100Mbps với 4 Cổng PoE+ TP-Link TL-SF1006P",
+"href": "/mang-van-phong-soho-tplink-tl-sf1006p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1006p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+ TP-Link TL-SF1009P",
+"href": "/mang-van-phong-soho-tplink-tl-sf1009p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1009p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chia Tín Hiệu Desktop/Rackmount 24 Cổng Gigabit TP-Link TL-SG1024D",
+"href": "/mang-van-phong-soho-tplink-tl-sg1024d/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1024d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8 Cổng 10/100/1000Mbps TP-Link LS108G",
+"href": "/mang-van-phong-soho-tplink-ls108g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls108g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10/100/1000Mbps TP-Link LS105G",
+"href": "/mang-van-phong-soho-tplink-ls105g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls105g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5-Port 2.5G Multi-Gigabit Desktop Switch TP-Link TL-SG105S-M2",
+"href": "/mang-van-phong-soho-tplink-tl-sg105s-m2/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105s-m2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Desktop 8 cổng Gigabit với 4 cổng PoE TP-Link TL-SG1008P",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sg1008p/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg1008p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8 Cổng 10/100Mbps TP-Link LS1008",
+"href": "/mang-van-phong-soho-tplink-ls1008/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1008/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10/100Mbps TP-Link LS1005",
+"href": "/mang-van-phong-soho-tplink-ls1005/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1005/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "16-Port 10/100 Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+ TP-Link TL-SL1218MP",
+"href": "/mang-van-phong-soho-tplink-tl-sl1218mp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1218mp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "10-Port Gigabit Desktop Switch with 6-Port PoE+ and 2-Port PoE++ TP-Link TL-SG1210PP Bán chạy",
+"href": "/mang-van-phong-soho-tplink-tl-sg1210pp-ban-chay/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1210pp-ban-chay/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch để bàn 10 cổng Gigabit với 8 cổng PoE+ TP-Link TL-SG1210P",
+"href": "/mang-van-phong-soho-tplink-tl-sg1210p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1210p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SL1311P Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-tl-sl1311p-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sl1311p-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "18-Port Gigabit Rackmount Switch with 16 PoE+ TP-Link TL-SG1218MP",
+"href": "/mang-van-phong-soho-tplink-tl-sg1218mp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1218mp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10G TP-Link TL-SX105",
+"href": "/mang-van-phong-soho-tplink-tl-sx105/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sx105/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch 48 cổng Gigabit TP-Link TL-SG1048",
+"href": "/mang-van-phong-soho-tplink-tl-sg1048/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1048/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8 Cổng 10/100Mbps với 4-Cổng PoE TP-Link TL-SF1008LP",
+"href": "/mang-van-phong-soho-tplink-tl-sf1008lp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1008lp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu 16 cổng Gigabit TP-Link TL-SG1016",
+"href": "/mang-van-phong-soho-tplink-tl-sg1016/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1016/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch 8 cổng 10/100/1000Mbps desktop TP-Link TL-SG108",
+"href": "/mang-van-phong-soho-tplink-tl-sg108/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch để bàn Gigabit 16 cổng TP-Link TL-SG116",
+"href": "/mang-van-phong-soho-tplink-tl-sg116/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg116/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chuyển đổi tín hiệu 8 cổng Gigabit TP-Link TL-SG1008",
+"href": "/mang-van-phong-soho-tplink-tl-sg1008/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1008/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn Gigabit 10 Cổng với 8 Cổng PoE+ TP-Link LS1210GP Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-ls1210gp-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1210gp-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch 24 Cổng Gigabit Để Bàn / Gắn Rack TP-Link LS1024G",
+"href": "/mang-van-phong-soho-tplink-ls1024g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1024g/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn Gigabit 8 Cổng với 8 Cổng PoE+ TP-Link LS108GP",
+"href": "/mang-van-phong-soho-tplink-ls108gp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls108gp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch 16 Cổng Gigabit Để Bàn / Gắn Rack TP-Link LS1016G",
+"href": "/mang-van-phong-soho-tplink-ls1016g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls1016g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn Gigabit 5 Cổng với 4 Cổng PoE+ TP-Link LS105GP Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-ls105gp-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls105gp-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 9 Cổng 10/100Mbps với 8 Cổng PoE+ TP-Link LS109P Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-ls109p-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls109p-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 6 Cổng 10/100Mbps với 4 Cổng PoE TP-Link LS106LP V2 LS106LP V1 LS106LP V2 Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-ls106lp-v2-ls106lp-v1-ls106lp-v2-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls106lp-v2-ls106lp-v1-ls106lp-v2-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 Cổng 10/100Mbps với 4 Cổng PoE TP-Link LS105LP V2 LS105LP V1 LS105LP V2 Mới ra mắt",
+"href": "/mang-van-phong-soho-tplink-ls105lp-v2-ls105lp-v1-ls105lp-v2-moi-ra-mat/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-ls105lp-v2-ls105lp-v1-ls105lp-v2-moi-ra-mat/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 cổng 10/100/1000Mbps TP-Link TL-SG105",
+"href": "/mang-van-phong-soho-tplink-tl-sg105/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Chia Tín Hiệu 24 cổng có giá treo 10/100Mbps TP-Link TL-SF1024",
+"href": "/mang-van-phong-soho-tplink-tl-sf1024/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1024/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Chia Tín Hiệu 24 cổng 10/100Mbps TP-Link TL-SF1024D",
+"href": "/mang-van-phong-soho-tplink-tl-sf1024d/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1024d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Chia Tín Hiệu 16 cổng 10/100Mbps TP-Link TL-SF1016",
+"href": "/mang-van-phong-soho-tplink-tl-sf1016/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1016/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch chia tín hiệu để bàn 16 cổng 10/100Mbps TP-Link TL-SF1016D",
+"href": "/mang-van-phong-soho-tplink-tl-sf1016d/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1016d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Chia Tín Hiệu 16 cổng 10/100Mbps TP-Link TL-SF1016DS",
+"href": "/mang-van-phong-soho-tplink-tl-sf1016ds/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1016ds/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chia Tín Hiệu Để Bàn 8 Cổng 10/100Mbps TP-Link TL-SF1008D",
+"href": "/mang-van-phong-soho-tplink-tl-sf1008d/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1008d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8 cổng 10/100Mpbs với 4 cổng PoE+ TP-Link TL-SF1008P",
+"href": "/mang-van-phong-soho-tplink-tl-sf1008p/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sf1008p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 5 cổng 10/100Mbps với 4 cổng PoE+ TP-Link TL-SF1005P V2",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sf1005p-v2/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sf1005p-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "10-Port Gigabit Desktop Switch with 8-Port PoE+ TP-Link TL-SG1210MP V2",
+"href": "/mang-van-phong-soho-tplink-tl-sg1210mp-v2/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1210mp-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CPE Outdoor 23dBi Tốc Độ 300Mbps Băng Tần 5GHz TP-Link CPE610 V2",
+"href": "/giai-phap-doanh-nghiep-tplink-cpe610-v2/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe610-v2/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CPE Ngoài Trời 23dBi Tốc Độ AC 867Mbps Băng Tần 5GHz TP-Link CPE710",
+"href": "/giai-phap-doanh-nghiep-tplink-cpe710/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe710/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CPE Ngoài Trời 13dBi Tốc Độ 300Mbps Tần Số 5GHz TP-Link CPE510 V3.20",
+"href": "/giai-phap-doanh-nghiep-tplink-cpe510-v3-20/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe510-v3-20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CPE Outdoor 9dBi Tốc Độ 300Mbps Băng Tần 2.4GHz TP-Link CPE210 V3",
+"href": "/giai-phap-doanh-nghiep-tplink-cpe210-v3/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-cpe210-v3/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 9dBi Outdoor Directional Antenna TP-Link TL-ANT2409B",
+"href": "/phu-kien-tplink-tl-ant2409b/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2409b/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 9dBi Directional Antenna TP-Link TL-ANT2409A",
+"href": "/phu-kien-tplink-tl-ant2409a/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2409a/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 14dBi Outdoor Directional Antenna TP-Link TL-ANT2414B",
+"href": "/phu-kien-tplink-tl-ant2414b/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2414b/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 14dBi Outdoor Directional Antenna TP-Link TL-ANT2414A",
+"href": "/phu-kien-tplink-tl-ant2414a/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2414a/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 24dBi Grid Parabolic Antenna TP-Link TL-ANT2424B",
+"href": "/phu-kien-tplink-tl-ant2424b/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2424b/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5GHz 23dBi Outdoor Panel Antenna TP-Link TL-ANT5823B",
+"href": "/phu-kien-tplink-tl-ant5823b/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant5823b/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5GHz 30dBi Outdoor Grid Parabolic Antenna TP-Link TL-ANT5830B",
+"href": "/phu-kien-tplink-tl-ant5830b/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant5830b/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ăng ten Đẳng Hướng Ngoài Trời 12dBi 2.4GHz TP-Link TL-ANT2412D",
+"href": "/phu-kien-tplink-tl-ant2412d/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2412d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 15dBi Outdoor Omni-directional Antenna TP-Link TL-ANT2415D",
+"href": "/phu-kien-tplink-tl-ant2415d/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2415d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "3 Meters Antenna Extension Cable TP-Link TL-ANT24EC3S",
+"href": "/phu-kien-tplink-tl-ant24ec3s/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24ec3s/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cáp mở rộng Ăng-ten 5 mét TP-Link TL-ANT24EC5S",
+"href": "/phu-kien-tplink-tl-ant24ec5s/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24ec5s/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "6 Meters Low-loss Antenna Extension Cable TP-Link TL-ANT24EC6N",
+"href": "/phu-kien-tplink-tl-ant24ec6n/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24ec6n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "12 Meters Low-loss Antenna Extension Cable TP-Link TL-ANT24EC12N",
+"href": "/phu-kien-tplink-tl-ant24ec12n/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24ec12n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pigtail Cable TP-Link TL-ANT24PT",
+"href": "/phu-kien-tplink-tl-ant24pt/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24pt/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cáp Pigtail TP-Link TL-ANT24PT3",
+"href": "/phu-kien-tplink-tl-ant24pt3/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24pt3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Surge Protector TP-Link TL-ANT24SP",
+"href": "/phu-kien-tplink-tl-ant24sp/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant24sp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "0.5M Low-loss N-Type Male to RP-SMA Female Pigtail Cable TP-Link TL-ANT200PT",
+"href": "/phu-kien-tplink-tl-ant200pt/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant200pt/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An Ninh Quay Quét Wi-Fi/4G LTE Năng Lượng Mặt Trời TP-Link Tapo C665G KIT",
+"href": "/camera-wifi-tplink-tapo-c665g-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c665g-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An ninh Năng lượng Mặt trời Quay Quét Ống kính Kép TP-Link Tapo C645D KIT",
+"href": "/camera-wifi-tplink-tapo-c645d-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c645d-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C610 KIT",
+"href": "/camera-wifi-tplink-tapo-c610-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c610-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An Ninh Quay Quét Năng Lượng Mặt Trời Tích Hợp Đèn Pha TP-Link Tapo C615F KIT",
+"href": "/camera-wifi-tplink-tapo-c615f-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c615f-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Battery-Powered Security Camera with Built-In Solar Panel TP-Link Tapo C465",
+"href": "/camera-wifi-tplink-tapo-c465/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c465/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Chuông Cửa Video Tapo TP-Link Tapo D235",
+"href": "/camera-wifi-tplink-tapo-d235/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-d235/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa Cửa Thông Minh Nhận Diện Lòng Bàn Tay & Vân Tay TP-Link Tapo DL130",
+"href": "/nha-thong-minh-tplink-tapo-dl130/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-dl130/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Kit Camera An Ninh 4G LTE Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C615G KIT",
+"href": "/camera-wifi-tplink-tapo-c615g-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c615g-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Camera An Ninh Năng Lượng Mặt Trời TP-Link Tapo C460 KIT",
+"href": "/camera-wifi-tplink-tapo-c460-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c460-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "KIT Camera An ninh Năng lượng Mặt trời TP-Link Tapo C425 KIT",
+"href": "/camera-wifi-tplink-tapo-c425-kit/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c425-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Solar-Powered Security Camera Kit TP-Link Tapo C410 KIT V2.20",
+"href": "/camera-wifi-tplink-tapo-c410-kit-v2-20/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c410-kit-v2-20/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Outdoor Pan/Tilt Security Floodlight Camera TP-Link Tapo C710",
+"href": "/camera-wifi-tplink-tapo-c710/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c710/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời TP-Link Tapo C560WS",
+"href": "/camera-wifi-tplink-tapo-c560ws/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c560ws/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera WiFi An Ninh Quay/Quét Ngoài trời TP-Link Tapo C530WS",
+"href": "/camera-wifi-tplink-tapo-c530ws/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c530ws/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera 4G LTE Quay/Quét Ngoài trời TP-Link Tapo C501GW",
+"href": "/camera-wifi-tplink-tapo-c501gw/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c501gw/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera An Ninh Quay Quét Ống Kính Kép TP-Link Tapo C245D",
+"href": "/camera-wifi-tplink-tapo-c245d/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c245d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét AI TP-Link Tapo C250",
+"href": "/camera-wifi-tplink-tapo-c250/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c250/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Wi-Fi Thông Minh Mini TP-Link Tapo P100",
+"href": "/nha-thong-minh-tplink-tapo-p100/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Nối Dài Thông Minh Wi-Fi TP-Link Tapo P300",
+"href": "/nha-thong-minh-tplink-tapo-p300/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p300/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Mở Rộng Wi-Fi Thông Minh TP-Link Tapo P306",
+"href": "/nha-thong-minh-tplink-tapo-p306/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p306/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Wi-Fi Thông Minh Mini, Giám Sát Năng Lượng TP-Link Tapo P110M",
+"href": "/nha-thong-minh-tplink-tapo-p110m/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p110m/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Smart Wi-Fi Plug TP-Link Tapo P125M",
+"href": "/nha-thong-minh-tplink-tapo-p125m/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p125m/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Wi-Fi Thông Minh Ngoài Trời TP-Link Tapo P400M",
+"href": "/nha-thong-minh-tplink-tapo-p400m/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p400m/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Mini Smart Wi-Fi Socket, Energy Monitoring TP-Link Tapo P110",
+"href": "/nha-thong-minh-tplink-tapo-p110/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p110/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Wi-Fi Thông Minh Mini TP-Link Tapo P105",
+"href": "/nha-thong-minh-tplink-tapo-p105/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-p105/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Đèn Downlight Âm Trần Thông Minh TP-Link Tapo L730-6 KIT",
+"href": "/nha-thong-minh-tplink-tapo-l730-6-kit/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l730-6-kit/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đèn Spotlight Wi-Fi Thông Minh, Đa Sắc TP-Link Tapo L630",
+"href": "/nha-thong-minh-tplink-tapo-l630/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l630/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bóng đèn thông minh Wi-Fi đa sắc màu TP-Link Tapo L535E",
+"href": "/nha-thong-minh-tplink-tapo-l535e/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l535e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Đèn Spotlight Wi-Fi Thông Minh, Điều Chỉnh Độ Sáng TP-Link Tapo L610",
+"href": "/nha-thong-minh-tplink-tapo-l610/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l610/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bóng Đèn Wi-Fi Thông Minh, Đa Sắc TP-Link Tapo L530E",
+"href": "/nha-thong-minh-tplink-tapo-l530e/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l530e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bóng Đèn Wi-Fi Thông Minh Tapo, Điều Chỉnh Ánh Sáng TP-Link Tapo L520E",
+"href": "/nha-thong-minh-tplink-tapo-l520e/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l520e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bóng Đèn Wi-Fi Thông Minh, Điều Chỉnh Ánh Sáng TP-Link Tapo L510E",
+"href": "/nha-thong-minh-tplink-tapo-l510e/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l510e/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ LED Dây Thông Minh Wi-Fi TP-Link Tapo L900-10",
+"href": "/nha-thong-minh-tplink-tapo-l900-10/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l900-10/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dải Đèn LED Dây Wi-Fi Thông Minh Đa Màu Sắc TP-Link Tapo L920-5",
+"href": "/nha-thong-minh-tplink-tapo-l920-5/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l920-5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dây LED Thông Minh Wi-Fi Cảm Biến Kép TP-Link Tapo L901-6",
+"href": "/nha-thong-minh-tplink-tapo-l901-6/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l901-6/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Dải Đèn LED Dây Wi-Fi Thông Minh TP-Link Tapo L900-5",
+"href": "/nha-thong-minh-tplink-tapo-l900-5/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-l900-5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Module Công Tắc Thông Minh TP-Link Tapo S112",
+"href": "/nha-thong-minh-tplink-tapo-s112/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-s112/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Công tắc Thông minh TP-Link Tapo S200B",
+"href": "/nha-thong-minh-tplink-tapo-s200b/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-s200b/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Công Tắc Điều Khiển Độ Sáng Đèn Từ Xa Thông Minh TP-Link Tapo S200D",
+"href": "/nha-thong-minh-tplink-tapo-s200d/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-s200d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm Biến Hiện Diện Người Thông Minh TP-Link Tapo T150",
+"href": "/nha-thong-minh-tplink-tapo-t150/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t150/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Cảm Biến Thông Minh Smart Sensor Starter Kit TP-Link Tapo T30 KIT",
+"href": "/nha-thong-minh-tplink-tapo-t30-kit/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t30-kit/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm Biến Chuyển Động Thông Minh TP-Link Tapo T100",
+"href": "/nha-thong-minh-tplink-tapo-t100/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t100/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến trạng thái cửa thông minh TP-Link Tapo T110",
+"href": "/nha-thong-minh-tplink-tapo-t110/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t110/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm Biến Nhiệt Độ & Độ Ẩm Thông Minh TP-Link Tapo T310",
+"href": "/nha-thong-minh-tplink-tapo-t310/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t310/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Thiết Bị Đo Nhiệt Độ & Độ Ẩm Thông Minh TP-Link Tapo T315",
+"href": "/nha-thong-minh-tplink-tapo-t315/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t315/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Cảm biến Rò rỉ nước Thông minh TP-Link Tapo T300",
+"href": "/nha-thong-minh-tplink-tapo-t300/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-t300/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub Thông Minh Tapo TP-Link Tapo H200",
+"href": "/nha-thong-minh-tplink-tapo-h200/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-h200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "CentralHub™ TP-Link Tapo H500",
+"href": "/nha-thong-minh-tplink-tapo-h500/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-h500/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub IR & IoT Thông minh TP-Link Tapo H110",
+"href": "/nha-thong-minh-tplink-tapo-h110/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-h110/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hub thông minh tích hợp Chuông báo TP-Link Tapo H100",
+"href": "/nha-thong-minh-tplink-tapo-h100/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-h100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà Tự Động Kèm Trạm Làm Sạch Nâng Cao TP-Link Tapo RV50 Pro Omni",
+"href": "/nha-thong-minh-tplink-tapo-rv50-pro-omni/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv50-pro-omni/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot hút bụi và lau nhà điều hướng bằng MagSlim™ LiDAR với lực hút 5300Pa TP-Link Tapo RV20 Max",
+"href": "/nha-thong-minh-tplink-tapo-rv20-max/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv20-max/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot hút bụi và lau nhà điều hướng bằng MagSlim™ LiDAR với lực hút 5300Pa và Dock tự động xả TP-Link Tapo RV20 Max Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv20-max-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv20-max-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot hút bụi và lau nhà với lực hút siêu mạnh 5300Pa TP-Link Tapo RV30 Max",
+"href": "/nha-thong-minh-tplink-tapo-rv30-max/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà TP-Link Tapo RV10",
+"href": "/nha-thong-minh-tplink-tapo-rv10/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv10/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà + Dock Tự Động Đổ Rác Thông Minh TP-Link Tapo RV10 Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv10-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv10-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà Điều Hướng LiDAR MagSlim™ + Dock Tự Động Làm Trống Thông Minh TP-Link Tapo RV20 Mop Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv20-mop-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv20-mop-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà Điều Hướng LiDAR MagSlim™ TP-Link Tapo RV20 Mop",
+"href": "/nha-thong-minh-tplink-tapo-rv20-mop/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv20-mop/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi Điều Hướng LiDAR MagSlim™ + Dock Tự Động Làm Trống Thông Minh TP-Link Tapo RV20 Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv20-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv20-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà LiDAR TP-Link Tapo RV30",
+"href": "/nha-thong-minh-tplink-tapo-rv30/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà Điều Hướng LiDAR + Dock Tự Động Làm Trống Thông Minh TP-Link Tapo RV30 Plus",
+"href": "/nha-thong-minh-tplink-tapo-rv30-plus/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Robot Hút Bụi & Lau Nhà Điều Hướng LiDAR TP-Link Tapo RV30C Mop",
+"href": "/nha-thong-minh-tplink-tapo-rv30c-mop/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30c-mop/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Access Point Gắn Trần Wi-Fi 6 AX3000 TP-Link Festa F65",
+"href": "/mang-van-phong-soho-tplink-festa-f65/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-festa-f65/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Access Point Wi-Fi 6 Gắn Trần AX1800 TP-Link Festa F61",
+"href": "/mang-van-phong-soho-tplink-festa-f61/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-festa-f61/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Access Point Wi-Fi 5 Gắn Trần MU-MIMO Gigabit AC1350 TP-Link Festa F52",
+"href": "/mang-van-phong-soho-tplink-festa-f52/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-festa-f52/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Smart Switch 10 cổng Gigabit với 8 cổng PoE+ TP-Link Festa FS310GP",
+"href": "/mang-van-phong-soho-tplink-festa-fs310gp/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-festa-fs310gp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Smart Switch 8 cổng Gigabit TP-Link Festa FS308G",
+"href": "/mang-van-phong-soho-tplink-festa-fs308g/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-festa-fs308g/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 TP-Link EX510",
+"href": "/router-wifi-tplink-ex510/",
+"image": "assets/img/products/router-wifi-tplink-ex510/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi MU-MIMO AC1300 TP-Link EC225-G5",
+"href": "/router-wifi-tplink-ec225-g5/",
+"image": "assets/img/products/router-wifi-tplink-ec225-g5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX1500 Dual Band Gigabit Wi-Fi 6 Router TP-Link EX141",
+"href": "/router-wifi-tplink-ex141/",
+"image": "assets/img/products/router-wifi-tplink-ex141/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Archer C5 TP-Link Archer C5",
+"href": "/router-wifi-tplink-archer-c5/",
+"image": "assets/img/products/router-wifi-tplink-archer-c5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "TP-Link EC220-F5",
+"href": "/router-wifi-tplink-ec220-f5/",
+"image": "assets/img/products/router-wifi-tplink-ec220-f5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "TP-Link EC220-G5",
+"href": "/router-wifi-tplink-ec220-g5/",
+"image": "assets/img/products/router-wifi-tplink-ec220-g5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "300Mbps Wireless N Router TP-Link EN020-F5",
+"href": "/router-wifi-tplink-en020-f5/",
+"image": "assets/img/products/router-wifi-tplink-en020-f5/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "8-port GPON OLT TP-Link P1201-08",
+"href": "/router-modem-tplink-p1201-08/",
+"image": "assets/img/products/router-modem-tplink-p1201-08/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC1200 Wireless Dual Band Gigabit VoIP GPON Router TP-Link Archer XR500v",
+"href": "/router-modem-tplink-archer-xr500v/",
+"image": "assets/img/products/router-modem-tplink-archer-xr500v/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "300Mbps Wireless N Gigabit VoIP GPON Router TP-Link XN020-G3v",
+"href": "/router-modem-tplink-xn020-g3v/",
+"image": "assets/img/products/router-modem-tplink-xn020-g3v/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "1-Port Gigabit GPON Terminal TP-Link XZ000-G3",
+"href": "/router-modem-tplink-xz000-g3/",
+"image": "assets/img/products/router-modem-tplink-xz000-g3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera An Ninh Quay Quét Hai Ống Kính Trong Nhà/Ngoài Trời TP-Link Tapo C246D",
+"href": "/camera-wifi-tplink-tapo-c246d/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c246d/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Gigabit Băng tần kép Wi-Fi AC900 TP-Link Archer C2",
+"href": "/router-wifi-tplink-archer-c2/",
+"image": "assets/img/products/router-wifi-tplink-archer-c2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB 3.0 7-Port Hub with 2 Charging Ports TP-Link UH720",
+"href": "/phu-kien-tplink-uh720/",
+"image": "assets/img/products/phu-kien-tplink-uh720/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB 2.0 MFP và máy chủ lưu trữ TP-Link TL-PS310U",
+"href": "/phu-kien-tplink-tl-ps310u/",
+"image": "assets/img/products/phu-kien-tplink-tl-ps310u/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Sạc USB 5 Cổng 25W TP-Link UP525",
+"href": "/phu-kien-tplink-up525/",
+"image": "assets/img/products/phu-kien-tplink-up525/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "USB 2.0 Print Server Fast Ethernet TP-Link TL-PS110U",
+"href": "/phu-kien-tplink-tl-ps110u/",
+"image": "assets/img/products/phu-kien-tplink-tl-ps110u/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin Sạc Dự Phòng Li-Polymer 20000mAh TP-Link TL-PB20000",
+"href": "/phu-kien-tplink-tl-pb20000/",
+"image": "assets/img/products/phu-kien-tplink-tl-pb20000/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2-Port USB Charger TP-Link UP220",
+"href": "/phu-kien-tplink-up220/",
+"image": "assets/img/products/phu-kien-tplink-up220/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chuyển Đổi Nguồn Lighter Cigarette 3 cổng với 2 cổng sạc USB TP-Link CP250",
+"href": "/phu-kien-tplink-cp250/",
+"image": "assets/img/products/phu-kien-tplink-cp250/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "33W 3-Port USB Car Charger TP-Link CP230",
+"href": "/phu-kien-tplink-cp230/",
+"image": "assets/img/products/phu-kien-tplink-cp230/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "24W 2-Port USB Car Charge TP-Link CP220",
+"href": "/phu-kien-tplink-cp220/",
+"image": "assets/img/products/phu-kien-tplink-cp220/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "40W 5-Port USB Charger TP-Link UP540",
+"href": "/phu-kien-tplink-up540/",
+"image": "assets/img/products/phu-kien-tplink-up540/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin sạc dự phòng 10400mAh TP-Link TL-PB10400",
+"href": "/phu-kien-tplink-tl-pb10400/",
+"image": "assets/img/products/phu-kien-tplink-tl-pb10400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin Sạc Dự Phòng Li-Polymer 10000mAh TP-Link TL-PB10000",
+"href": "/phu-kien-tplink-tl-pb10000/",
+"image": "assets/img/products/phu-kien-tplink-tl-pb10000/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC750 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router TP-Link Archer VR200v",
+"href": "/router-modem-tplink-archer-vr200v/",
+"image": "assets/img/products/router-modem-tplink-archer-vr200v/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC1900 Wireless Gigabit VDSL/ADSL Modem Router TP-Link Archer VR900",
+"href": "/router-modem-tplink-archer-vr900/",
+"image": "assets/img/products/router-modem-tplink-archer-vr900/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "300Mbps Wireless N ADSL2+ Modem Router TP-Link TD-W8961N",
+"href": "/router-modem-tplink-td-w8961n/",
+"image": "assets/img/products/router-modem-tplink-td-w8961n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "N600 Wireless Dual Band Gigabit ADSL2+ Modem Router TP-Link TD-W8980",
+"href": "/router-modem-tplink-td-w8980/",
+"image": "assets/img/products/router-modem-tplink-td-w8980/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router không dây chuẩn N ADSL2+ tốc độ 150Mbps TP-Link TD-W8151N",
+"href": "/router-modem-tplink-td-w8151n/",
+"image": "assets/img/products/router-modem-tplink-td-w8151n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "ADSL2+ Modem TP-Link TD-8616",
+"href": "/router-modem-tplink-td-8616/",
+"image": "assets/img/products/router-modem-tplink-td-8616/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC1300 High Power Wireless Dual Band USB Adapter TP-Link Archer T4UHP",
+"href": "/phu-kien-tplink-archer-t4uhp/",
+"image": "assets/img/products/phu-kien-tplink-archer-t4uhp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Để Bàn 8-Cổng 2.5G TP-Link TL-SG108-M2",
+"href": "/mang-van-phong-soho-tplink-tl-sg108-m2/",
+"image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108-m2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "6-Port AC Outlets & 3-Port USB Charging Ports Surge Protector TP-Link SP290",
+"href": "/nha-thong-minh-tplink-sp290/",
+"image": "assets/img/products/nha-thong-minh-tplink-sp290/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng Wi-Fi Băng Tần Kép 450Mbps TP-Link TL-WDN4800",
+"href": "/wifi-adapter-tplink-tl-wdn4800/",
+"image": "assets/img/products/wifi-adapter-tplink-tl-wdn4800/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Chuẩn N 3G/4G TP-Link TL-MR3420",
+"href": "/router-modem-tplink-tl-mr3420/",
+"image": "assets/img/products/router-modem-tplink-tl-mr3420/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Di Động Chuẩn N 3G/4G TP-Link TL-MR3020",
+"href": "/router-modem-tplink-tl-mr3020/",
+"image": "assets/img/products/router-modem-tplink-tl-mr3020/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Băng Tần Kép Công Suất Cao AC1350 TP-Link Archer C58HP",
+"href": "/router-wifi-tplink-archer-c58hp/",
+"image": "assets/img/products/router-wifi-tplink-archer-c58hp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ định tuyến không dây công suất cao tốc độ 450Mbps chuẩn N TP-Link TL-WR941HP",
+"href": "/router-wifi-tplink-tl-wr941hp/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr941hp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Công suất cao tốc độ 300Mbps chuẩn N TP-Link TL-WR841HP",
+"href": "/router-wifi-tplink-tl-wr841hp/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr841hp/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Gigabit MU-MIMO AC1900 TP-Link Archer A9",
+"href": "/router-wifi-tplink-archer-a9/",
+"image": "assets/img/products/router-wifi-tplink-archer-a9/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Gigabit Wi-Fi Băng tần kép AC1900 TP-Link Archer C9",
+"href": "/router-wifi-tplink-archer-c9/",
+"image": "assets/img/products/router-wifi-tplink-archer-c9/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AC1200 Wireless Dual Band Gigabit Router TP-Link Archer C1200 V3",
+"href": "/router-wifi-tplink-archer-c1200-v3/",
+"image": "assets/img/products/router-wifi-tplink-archer-c1200-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ăng-ten Dĩa MIMO 2 x 2 24dBi 2.4GHz TP-Link TL-ANT2424MD",
+"href": "/phu-kien-tplink-tl-ant2424md/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2424md/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5GHz 30dBi 2×2 MIMO Dish Antenna TP-Link TL-ANT5830MD",
+"href": "/phu-kien-tplink-tl-ant5830md/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant5830md/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4G 15dBi 2x2 MIMO Sector Antenna TP-Link TL-ANT2415MS",
+"href": "/phu-kien-tplink-tl-ant2415ms/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant2415ms/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "5GHz 19dBi 2x2 MIMO Sector Antenna TP-Link TL-ANT5819MS",
+"href": "/phu-kien-tplink-tl-ant5819ms/",
+"image": "assets/img/products/phu-kien-tplink-tl-ant5819ms/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Card mạng loại Gigabit PCI TP-Link TG-3269",
+"href": "/wifi-adapter-tplink-tg-3269/",
+"image": "assets/img/products/wifi-adapter-tplink-tg-3269/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Ngoài Trời TP-Link Tapo C325WB V2",
+"href": "/camera-wifi-tplink-tapo-c325wb-v2/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c325wb-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Ngoài Trời TP-Link Tapo C320WS V2.20",
+"href": "/camera-wifi-tplink-tapo-c320ws-v2-20/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c320ws-v2-20/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Ngoài Trời TP-Link TC65 V1.20",
+"href": "/camera-wifi-tplink-tc65-v1-20/",
+"image": "assets/img/products/camera-wifi-tplink-tc65-v1-20/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình TP-Link Tapo C125",
+"href": "/camera-wifi-tplink-tapo-c125/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c125/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình AI Quay Quét TP-Link Tapo C225 V2",
+"href": "/camera-wifi-tplink-tapo-c225-v2/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c225-v2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C232",
+"href": "/camera-wifi-tplink-tapo-c232/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c232/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C222",
+"href": "/camera-wifi-tplink-tapo-c222/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c222/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C210 V3",
+"href": "/camera-wifi-tplink-tapo-c210-v3/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c210-v3/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link TC74",
+"href": "/camera-wifi-tplink-tc74/",
+"image": "assets/img/products/camera-wifi-tplink-tc74/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C230",
+"href": "/camera-wifi-tplink-tapo-c230/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c230/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C260",
+"href": "/camera-wifi-tplink-tapo-c260/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c260/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Trong Nhà/Ngoài Trời TP-Link Tapo C216",
+"href": "/camera-wifi-tplink-tapo-c216/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c216/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Trong Nhà/Ngoài Trời TP-Link Tapo C206",
+"href": "/camera-wifi-tplink-tapo-c206/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c206/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông Cửa Video 2K Dùng Pin Mini TP-Link Tapo D205",
+"href": "/nha-thong-minh-tplink-tapo-d205/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-d205/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Chuông Cửa Tapo TP-Link Tapo D210",
+"href": "/camera-wifi-tplink-tapo-d210/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-d210/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Thông Minh Tích Hợp Đèn Pha TP-Link Tapo C720",
+"href": "/camera-wifi-tplink-tapo-c720/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c720/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C220",
+"href": "/camera-wifi-tplink-tapo-c220/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c220/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa Cửa Wi-Fi Thông Minh TP-Link Tapo DL105",
+"href": "/nha-thong-minh-tplink-tapo-dl105/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-dl105/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera An Ninh Quay Quét Hai Ống Kính Ngoài Trời TP-Link Tapo C545D",
+"href": "/camera-wifi-tplink-tapo-c545d/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c545d/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI An Ninh Ngoài Trời Không Dây TP-Link Tapo C400",
+"href": "/camera-wifi-tplink-tapo-c400/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c400/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C212",
+"href": "/camera-wifi-tplink-tapo-c212/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c212/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tapo Video Doorbell Camera TP-Link TD25",
+"href": "/camera-wifi-tplink-td25/",
+"image": "assets/img/products/camera-wifi-tplink-td25/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Khóa cửa thông minh Wi-Fi TP-Link Tapo DL110",
+"href": "/nha-thong-minh-tplink-tapo-dl110/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-dl110/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C200C",
+"href": "/camera-wifi-tplink-tapo-c200c/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c200c/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C202",
+"href": "/camera-wifi-tplink-tapo-c202/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c202/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Camera An Ninh Không Dây Thông Minh, Hệ Thống 1 Camera TP-Link Tapo C420S1",
+"href": "/camera-wifi-tplink-tapo-c420s1/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c420s1/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tapo Smart Wired Video Doorbell TP-Link Tapo D130",
+"href": "/nha-thong-minh-tplink-tapo-d130/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-d130/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi Gia Đình Quay Quét TP-Link TC73",
+"href": "/camera-wifi-tplink-tc73/",
+"image": "assets/img/products/camera-wifi-tplink-tc73/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Thông Minh Quay Quét Giám Sát Trẻ Em TP-Link Tapo C840",
+"href": "/camera-wifi-tplink-tapo-c840/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c840/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera AI Wi-Fi An Ninh Gia Đình Quay Quét TP-Link TC72",
+"href": "/camera-wifi-tplink-tc72/",
+"image": "assets/img/products/camera-wifi-tplink-tc72/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera WI-Fi An Ninh Cho Gia Đình Quay Quét TP-Link Tapo C210P2",
+"href": "/camera-wifi-tplink-tapo-c210p2/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c210p2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera An Ninh Gia Đình Wi-Fi Trong Nhà Ngoài Trời Tapo TP-Link Tapo C120",
+"href": "/camera-wifi-tplink-tapo-c120/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c120/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Chuông Cửa Video Thông Minh Dùng Pin Tapo TP-Link Tapo D230S1",
+"href": "/nha-thong-minh-tplink-tapo-d230s1/",
+"image": "assets/img/products/nha-thong-minh-tplink-tapo-d230s1/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Camera An Ninh Thông Minh Không Dây, 2 Camera TP-Link Tapo C400S2",
+"href": "/camera-wifi-tplink-tapo-c400s2/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c400s2/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ Thống Camera An Ninh Không Dây Thông Minh, 2 Camera TP-Link Tapo C420S2",
+"href": "/camera-wifi-tplink-tapo-c420s2/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c420s2/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C211",
+"href": "/camera-wifi-tplink-tapo-c211/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c211/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét TP-Link Tapo C200",
+"href": "/camera-wifi-tplink-tapo-c200/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c200/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Quay Quét Ngoài trời TP-Link Tapo C520WS",
+"href": "/camera-wifi-tplink-tapo-c520ws/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c520ws/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera WiFi Quay Quét Ngoài Trời TP-Link Tapo C510W",
+"href": "/camera-wifi-tplink-tapo-c510w/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c510w/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Quay Quét Ngoài Trời TP-Link Tapo C500",
+"href": "/camera-wifi-tplink-tapo-c500/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-c500/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Solar Panel TP-Link Tapo A200",
+"href": "/camera-wifi-tplink-tapo-a200/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-a200/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Pin Dự Phòng TP-Link Tapo A100",
+"href": "/camera-wifi-tplink-tapo-a100/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-a100/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh Gia Đình Quay Quét TP-Link TC70",
+"href": "/camera-wifi-tplink-tc70/",
+"image": "assets/img/products/camera-wifi-tplink-tc70/g01.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Camera Wi-Fi An Ninh cho Gia Đình TP-Link TC60",
+"href": "/camera-wifi-tplink-tc60/",
+"image": "assets/img/products/camera-wifi-tplink-tc60/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Solar Panel TP-Link Tapo A201",
+"href": "/camera-wifi-tplink-tapo-a201/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-a201/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Tấm Pin Mặt Trời TP-Link Tapo A202",
+"href": "/camera-wifi-tplink-tapo-a202/",
+"image": "assets/img/products/camera-wifi-tplink-tapo-a202/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Ổ Cắm Thông Minh Wi-Fi TP-Link HS100",
+"href": "/nha-thong-minh-tplink-hs100/",
+"image": "assets/img/products/nha-thong-minh-tplink-hs100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bóng đèn LED Wi-Fi thông minh có thể điều chỉnh ánh sáng TP-Link LB100",
+"href": "/nha-thong-minh-tplink-lb100/",
+"image": "assets/img/products/nha-thong-minh-tplink-lb100/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Quản lý JetStream 48 cổng 10/100Mbps + 4 cổng Gigabit L2 TP-Link TL-SL3452",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl3452/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl3452/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "JetStream 48-Port Gigabit Smart Switch with 4 SFP Slots TP-Link T1600G-52TS",
+"href": "/giai-phap-doanh-nghiep-tplink-t1600g-52ts/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-52ts/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Quản Lý JetStream L2 - 24 cổng Gigabit với 4 khe SFP TP-Link T2600G-28TS (TL-SG3424)",
+"href": "/giai-phap-doanh-nghiep-tplink-t2600g-28ts-tl-sg3424/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-28ts-tl-sg3424/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ Chia Tín Hiệu JetStream 48 Cổng Gigabit Smart PoE+ với 4 khe SFP TP-Link T1600G-52PS (TL-SG2452P)",
+"href": "/giai-phap-doanh-nghiep-tplink-t1600g-52ps-tl-sg2452p/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-52ps-tl-sg2452p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Smart PoE+ JetStream 24 cổng Gigatbit với 4 khe cắm SFP TP-Link T1600G-28PS (TL-SG2424P)",
+"href": "/giai-phap-doanh-nghiep-tplink-t1600g-28ps-tl-sg2424p/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-28ps-tl-sg2424p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Quản Lý JetStream L3 Stackable 28 Cổng Gigabit TP-Link T3700G-28TQ",
+"href": "/giai-phap-doanh-nghiep-tplink-t3700g-28tq/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t3700g-28tq/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch JetStream quản lý L2+ Stackable tốc độ Gigabit 28 cổng TP-Link T2700G-28TQ",
+"href": "/giai-phap-doanh-nghiep-tplink-t2700g-28tq/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2700g-28tq/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "JetStream 16-Port Gigabit L2 Managed Switch with 2 SFP Slots TP-Link T2600G-18TS (TL-SG3216)",
+"href": "/giai-phap-doanh-nghiep-tplink-t2600g-18ts-tl-sg3216/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-18ts-tl-sg3216/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Smart JetStream 8 cổng Gigabit TP-Link T1500G-8T",
+"href": "/giai-phap-doanh-nghiep-tplink-t1500g-8t/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1500g-8t/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Quản Lý JetStream L2 28 Cổng Gigabit SFP TP-Link T2600G-28SQ",
+"href": "/giai-phap-doanh-nghiep-tplink-t2600g-28sq/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-28sq/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ quản lý chia tín hiệu JetStream 16 cổng Gigabit L2 với 2 khe cắm SFP TP-Link TL-SG3216",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sg3216/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg3216/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Smart PoE JetStream 8 cổng Gigabit với 2 khe SFP TP-Link T1500G-10PS (TL-SG2210P)",
+"href": "/giai-phap-doanh-nghiep-tplink-t1500g-10ps-tl-sg2210p/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1500g-10ps-tl-sg2210p/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu thông minh 8 cổng 10/100Mbps + 2 cổng Gigabit TP-Link TL-SL2210",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl2210/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl2210/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ quản lý chia tín hiệu JetStream 24 cổng Gigabit L2 với 4 khe cắm SFP kết hợp TP-Link TL-SG3424",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sg3424/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sg3424/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "JetStream 24-Port 10/100Mbps + 4-Port Gigabit Smart Switch TP-Link T1500-28TC (TL-SL2428)",
+"href": "/giai-phap-doanh-nghiep-tplink-t1500-28tc-tl-sl2428/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1500-28tc-tl-sl2428/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch thông minh 16 cổng 10/100Mbps + 2 cổng Gigabit TP-Link TL-SL2218",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl2218/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl2218/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch thông minh 24 cổng 10/100Mbps + 4 cổng Gigabit TP-Link TL-SL2428",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl2428/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl2428/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "48-Port 10/100Mbps + 4-Port Gigabit Smart Switch TP-Link TL-SL2452",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl2452/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl2452/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Trạm Phát Wi-Fi Ngoài Trời Tốc Độ 300Mbps 5GHz TP-Link WBS510",
+"href": "/giai-phap-doanh-nghiep-tplink-wbs510/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-wbs510/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "2.4GHz 300Mbps Outdoor Wireless Base Station TP-Link WBS210",
+"href": "/giai-phap-doanh-nghiep-tplink-wbs210/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-wbs210/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Băng Thông Rộng Cân Bằng Tải Tốc Độ Gigabit TP-Link TL-ER5120",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-er5120/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-er5120/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Cân Bằng Tải Băng Thông Rộng TP-Link TL-R480T+",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-r480t/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-r480t/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Bộ chia tín hiệu 24 cổng tốc độ 10/100mbps + 2 cổng Gigabit TP-Link TL-SL1226",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sl1226/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sl1226/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "24-Port 10/100Mbps Desktop Switch TP-Link TL-SF1024M",
+"href": "/giai-phap-doanh-nghiep-tplink-tl-sf1024m/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-tl-sf1024m/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Hệ thống Wi-Fi Mesh cho Gia Đình AC2200 TP-Link Deco M9 Plus",
+"href": "/he-thong-wifi-mesh-tplink-deco-m9-plus/",
+"image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-m9-plus/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Nhiều Chế Độ Tốc Độ 300 Mbps TP-Link TL-WR844N",
+"href": "/router-wifi-tplink-tl-wr844n/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr844n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "JetStream 12-Port 10GBase-T Smart Switch with 4 10G SFP+ Slots TP-Link T1700X-16TS",
+"href": "/giai-phap-doanh-nghiep-tplink-t1700x-16ts/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1700x-16ts/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi Nhiều Chế Độ Tốc Độ 300Mbps TP-Link TL-WR820N",
+"href": "/router-wifi-tplink-tl-wr820n/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr820n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Stackable Smart Switch JetStream 24-Cổng Gigabit với 4 khe cắm SFP+ 10GE TP-Link T1700G-28TQ",
+"href": "/giai-phap-doanh-nghiep-tplink-t1700g-28tq/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1700g-28tq/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Smart Switch JetStream 16 Cổng Gigabit Với 2 Khe Cắm SFP TP-Link T1600G-18TS",
+"href": "/giai-phap-doanh-nghiep-tplink-t1600g-18ts/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-18ts/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "JetStream 24-Port 10/100Mbps + 4-Port Gigabit L2 Managed Switch TP-Link T2500-28TC (TL-SL5428E)",
+"href": "/giai-phap-doanh-nghiep-tplink-t2500-28tc-tl-sl5428e/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2500-28tc-tl-sl5428e/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "24-Port 10/100Mbps + 4-Port Gigabit Smart PoE+ Switch TP-Link T1500-28PCT",
+"href": "/giai-phap-doanh-nghiep-tplink-t1500-28pct/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1500-28pct/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Smart JetStream 24 cổng Gigatbit với 4 khe cắm SFP TP-Link T1600G-28TS (TL-SG2424)",
+"href": "/giai-phap-doanh-nghiep-tplink-t1600g-28ts-tl-sg2424/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t1600g-28ts-tl-sg2424/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Switch Quản Lý JetStream L2 - 48 Cổng Gigabit với 4 Khe SFP TP-Link T2600G-52TS (TL-SG3452)",
+"href": "/giai-phap-doanh-nghiep-tplink-t2600g-52ts-tl-sg3452/",
+"image": "assets/img/products/giai-phap-doanh-nghiep-tplink-t2600g-52ts-tl-sg3452/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "TP-Link TL-WA854RE",
+"href": "/bo-mo-rong-wifi-tplink-tl-wa854re/",
+"image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wa854re/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "AX3000 Gigabit Wi-Fi 6 Portable Router TP-Link TL-WR3002X",
+"href": "/router-wifi-tplink-tl-wr3002x/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr3002x/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
+"name": "Router Wi-Fi chuẩn N 300Mbps TP-Link TL-WR845N",
+"href": "/router-wifi-tplink-tl-wr845n/",
+"image": "assets/img/products/router-wifi-tplink-tl-wr845n/g01.jpg",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
 "type": "post",
 "name": "VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH",
 "href": "/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/",

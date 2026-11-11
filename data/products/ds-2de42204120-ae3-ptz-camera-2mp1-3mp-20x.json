@@ -1,0 +1,56 @@
+{
+  "slug": "ds-2de42204120-ae3-ptz-camera-2mp1-3mp-20x",
+  "name": "PTZ Camera 2MP/1.3MP 20X Hikvision DS-2DE4220/4120-AE(3)",
+  "categories": [
+    "camera-ptz-hikvision",
+    "hikvision-camera-ptz"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-2DE4220/4120-AE(3)",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/01/DS-2DE4220W4120-AE3-500x500.jpg"
+  ],
+  "summary": [
+    "4-inch bubble",
+    "2MP/ 1.3MP real-time, 20X Optical Zoom",
+    "3D DNR, D WDR, ICR",
+    "Alarm input/output, privacy mask",
+    "24VAC/PoE+"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-2DE4220/4120-AE(3)"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera PTZ"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>4-inch bubble</p><p>2MP/ 1.3MP real-time, 20X Optical Zoom</p><p>3D DNR, D WDR, ICR</p><p>Alarm input/output, privacy mask</p><p>24VAC/PoE+</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "4-inch bubble 2MP/ 1.3MP real-time, 20X Optical Zoom 3D DNR, D WDR, ICR",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

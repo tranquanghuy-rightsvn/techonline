@@ -1,0 +1,172 @@
+{
+  "slug": "he-thong-wifi-mesh-tplink-deco-be63",
+  "name": "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình TP-Link Deco BE63",
+  "categories": [
+    "tp-link-mesh-wi-fi"
+  ],
+  "brand": "TP-Link",
+  "sku": "Deco BE63",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "/assets/img/products/he-thong-wifi-mesh-tplink-deco-be63/g01.jpg"
+  ],
+  "summary": [
+    "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình",
+    "Deco BE63 is the latest tri-band Whole Home Mesh WiFi 7 system, featuring the latest 6 GHz band, 320 MHz bandwidth, and 4K-QAM for a combined speed of up to 10 Gbps.",
+    "Standards and Protocols: Wi-Fi 7; IEEE 802.11be/ax 6 GHz; IEEE 802.11be/ax/ac/n/a 5 GHz; IEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Speeds: BE100006 GHz: 5188 Mbps (802.11be)5 GHz: 4324 Mbps (802.11be)2.4 GHz: 574 Mbps (802.11ax)",
+    "WiFi Range: Broader Whole Home CoverageTP-Link Mesh Technology; Optional Ethernet backhaul work together to link Deco units to provide seamless coverageAI-Driven Mesh",
+    "WiFi Capacity: Very High; Tri-Band; Distribute devices to different bands for optimal performance; 2×2 MU-MIMO; Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "Deco BE63"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Standards and Protocols",
+      "Wi-Fi 7<br />IEEE 802.11be/ax 6 GHz<br />IEEE 802.11be/ax/ac/n/a 5 GHz<br />IEEE 802.11ax/n/b/g 2.4 GHz"
+    ],
+    [
+      "WiFi Speeds",
+      "BE100006 GHz: 5188 Mbps (802.11be)5 GHz: 4324 Mbps (802.11be)2.4 GHz: 574 Mbps (802.11ax)"
+    ],
+    [
+      "WiFi Range",
+      "Broader Whole Home CoverageTP-Link Mesh Technology<br />Optional Ethernet backhaul work together to link Deco units to provide seamless coverageAI-Driven Mesh"
+    ],
+    [
+      "WiFi Capacity",
+      "Very High<br />Tri-Band<br />Distribute devices to different bands for optimal performance<br />2×2 MU-MIMO<br />Simultaneously communicates with multiple MU-MIMO clientsOFDMA"
+    ],
+    [
+      "Working Modes",
+      "Router Mode<br />Access Point Mode"
+    ],
+    [
+      "Advanced Features",
+      "Multi-Link Operation (MLO)<br />320 MHz Channel<br />4K-QAM<br />Multi-RUs<br />Works with Alexa and Google Assistant"
+    ],
+    [
+      "Network Security",
+      "SPI Firewall<br />Access ControlHomeShield Security<br />Real-Time IoT Protection<br />Malicious Site Blocker<br />Intrusion Prevention SystemDDoS Attack Prevention<br />Home Network Scanner"
+    ],
+    [
+      "Guest Network",
+      "1× 6 GHz Guest Network<br />1× 5 GHz Guest Network<br />1× 2.4 GHz Guest Network<br />Effective Time<br />Bandwidth Control"
+    ],
+    [
+      "VPN Server",
+      "OpenVPN Server<br />PPTP VPN Server<br />L2TP/IPSec VPN Server"
+    ],
+    [
+      "VPN Client",
+      "OpenVPN Client<br />PPTP VPN Client<br />L2TP/IPSec VPN Client"
+    ],
+    [
+      "WiFi Encryption",
+      "WPA-PersonalWPA2-PersonalWPA3-Personal"
+    ],
+    [
+      "Ethernet Ports",
+      "4× 2.5 Gbps*Per Deco Unit Supports WAN/LAN auto-sensing"
+    ],
+    [
+      "USB Support",
+      "1× USB PortFTP Server<br />Media Server<br />Samba Server"
+    ],
+    [
+      "Buttons",
+      "1× Reset Button<br />1× WPS"
+    ],
+    [
+      "Advanced Features",
+      "Reboot Schedule<br />Tapo/Kasa Onboarding<br />IoT network &amp; Device Isolation<br />Static Routing Function<br />Node/Band Connection Preference"
+    ],
+    [
+      "Protocols",
+      "IPv4 IPv6"
+    ],
+    [
+      "Service Kits",
+      "HomeShieldLearn More>"
+    ],
+    [
+      "Parental Controls",
+      "HomeShield Parental Controls<br />Youtube Restriction<br />Safe<br />Search<br />Custom Profiles<br />Professional Content Filter Library<br />Family Time<br />Bedtime<br />Off Time<br />Time Rewards<br />Family Online Time Ranking<br />Pause the Internet"
+    ],
+    [
+      "WAN Types",
+      "Dynamic IPStatic IPPPPoEPPTPL2TP"
+    ],
+    [
+      "Quality of Service",
+      "HomeShield QoSQoS by Device"
+    ],
+    [
+      "Cloud Service",
+      "OTA Firmware UpgradeTP-Link ID DDNS"
+    ],
+    [
+      "NAT Forwarding",
+      "Port ForwardingUPnP"
+    ],
+    [
+      "IPTV",
+      "IGMP ProxyIGMP Snooping<br />Bridge Tag VLAN"
+    ],
+    [
+      "DHCP",
+      "Address ReservationDHCP Client List<br />Server"
+    ],
+    [
+      "DDNS",
+      "TP-Link"
+    ],
+    [
+      "Management Features",
+      "Deco App"
+    ],
+    [
+      "Network Services Enabled by Default",
+      "Web Server Manage and configure device through web (HTTP/HTTPS)<br />Port: 80/443 Protocol: TCP DNS DNS<br />Port: 53 Protocol: TCP &amp; UDP DHCP Server IP address assignment (DHCP)"
+    ],
+    [
+      "Dimensions (W×D×H)",
+      "4.23 × 4.23 × 6.93 in (107.5 × 107.5 × 176 mm)"
+    ],
+    [
+      "Package Content",
+      "Deco BE63 (3-pack)3 Deco BE63 units1 RJ45 Ethernet cable3 Power adapters<br />Quick Installation Guide<br />Deco BE63 (2-pack)2 Deco BE63 units1 RJ45 Ethernet cable2 Power adapters<br />Quick Installation Guide"
+    ],
+    [
+      "Chứng chỉ",
+      "CE, FCC"
+    ],
+    [
+      "Môi trường",
+      "Operating Temperature: 0°C~40°C (32 °F~104 °F)<br />Storage Temperature: -40°C~60°C (-40 °F~140 °F)<br />Operating Humidity: 10%~90% RHStorage Humidity: 5%~90% RH"
+    ]
+  ],
+  "description_html": "<p>Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình</p><p>Deco BE63 is the latest tri-band Whole Home Mesh WiFi 7 system, featuring the latest 6 GHz band, 320 MHz bandwidth, and 4K-QAM for a combined speed of up to 10 Gbps.</p>",
+  "attrs": [
+    "Wi-Fi 7",
+    "BE10000"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình Deco BE63 is the latest tri-band Whole Home Mesh WiFi 7 system, featuring the latest 6 GHz band, 320 MHz bandwidth, and 4K-QAM for a combined speed of up to 10 Gbps.",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}

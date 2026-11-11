@@ -1,0 +1,63 @@
+{
+  "slug": "ds-mh6171-portable-ptz-dome",
+  "name": "Camera Portable PTZ Dome Hikvision DS-MH6171",
+  "categories": [
+    "camera-chuyen-dung-hikvision",
+    "hikvision-camera-chuyen-dung"
+  ],
+  "brand": "Hikvision",
+  "sku": "DS-MH6171",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://hikvision.vn/wp-content/uploads/2017/02/DS-MH6171.jpg"
+  ],
+  "summary": [
+    "2 MP Full HD1080p high resolution",
+    "30X optical zoom, 12X digital zoom",
+    "H.264+ optimized codec to reduce storage",
+    "Dual SD card slots, up to 128 GB for each card",
+    "Supports Wi-Fi, 3G, 4G wireless connection",
+    "Interchangeable Lithium battery, up to 6-hour operating time",
+    "Alarm I/O, RS232, RS485 interfaces",
+    "Supports Bluetooth connection",
+    "IP66 weather-proof protection",
+    "Up to 195 feet (60m) IR range",
+    "Powerful magnetic base for vehicle-roof mounting",
+    "iVMS-4500 client for remote operation"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "DS-MH6171"
+    ],
+    [
+      "Thương hiệu",
+      "Hikvision"
+    ],
+    [
+      "Danh mục",
+      "Camera chuyên dụng"
+    ],
+    [
+      "Độ phân giải",
+      "2MP"
+    ]
+  ],
+  "description_html": "<p>2 MP Full HD1080p high resolution</p><p>30X optical zoom, 12X digital zoom</p><p>H.264+ optimized codec to reduce storage</p><p>Dual SD card slots, up to 128 GB for each card</p><p>Supports Wi-Fi, 3G, 4G wireless connection</p><p>Interchangeable Lithium battery, up to 6-hour operating time</p><p>Alarm I/O, RS232, RS485 interfaces</p><p>Supports Bluetooth connection</p><p>IP66 weather-proof protection</p><p>Up to 195 feet (60m) IR range</p><p>Powerful magnetic base for vehicle-roof mounting</p><p>iVMS-4500 client for remote operation</p>",
+  "attrs": [
+    "2MP",
+    "Hikvision"
+  ],
+  "badge": "",
+  "featured": 0,
+  "seo_description": "2 MP Full HD1080p high resolution 30X optical zoom, 12X digital zoom H.264+ optimized codec to reduce storage",
+  "keywords": "",
+  "focus_keyword": "",
+  "created_at": "2026-11-11T00:00:00Z",
+  "updated_at": "2026-11-11T00:00:00Z"
+}
