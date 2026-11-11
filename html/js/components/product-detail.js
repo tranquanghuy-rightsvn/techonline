@@ -122,3 +122,85 @@
 
 // Consult form: prevent real submission on a static demo page
 document.getElementById('js-consult-form')?.addEventListener('submit', (e) => e.preventDefault());
+
+// "Liên hệ đặt mua": the buy button of a contact-priced product (build.py puts the Zalo / phone
+// numbers on it as data-contact-*) opens a picker with 2 options: chat Zalo or call the hotline.
+(() => {
+  const btn = document.querySelector('.pdp-actions__btn--buy[data-contact-tel]');
+  if (!btn) return;
+  const { contactZalo, contactTel, contactPhone } = btn.dataset;
+  const name = document.querySelector('.pdp__title')?.textContent.trim() || '';
+
+  const el = (tag, cls, text) => {
+    const n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text) n.textContent = text;
+    return n;
+  };
+  const icon = (svg) => {
+    const n = el('span', 'contact-pick__icon');
+    n.innerHTML = svg;
+    return n;
+  };
+  const option = (cls, href, svg, title, sub, newTab) => {
+    const a = el('a', `contact-pick__option ${cls}`);
+    a.href = href;
+    if (newTab) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+    const txt = el('span', 'contact-pick__text');
+    txt.append(el('strong', '', title), el('span', '', sub));
+    a.append(icon(svg), txt);
+    return a;
+  };
+
+  const overlay = el('div', 'contact-pick');
+  overlay.hidden = true;
+  const box = el('div', 'contact-pick__box');
+  box.setAttribute('role', 'dialog');
+  box.setAttribute('aria-modal', 'true');
+  box.setAttribute('aria-labelledby', 'js-contact-pick-title');
+  const head = el('div', 'contact-pick__head');
+  const title = el('p', 'contact-pick__title', 'Liên hệ đặt mua');
+  title.id = 'js-contact-pick-title';
+  const close = el('button', 'contact-pick__close', '×');
+  close.type = 'button';
+  close.setAttribute('aria-label', 'Đóng');
+  head.append(title, close);
+  box.append(head);
+  if (name) box.append(el('p', 'contact-pick__product', name));
+  box.append(
+    option('contact-pick__option--zalo', contactZalo, '<b>Zalo</b>', 'Chat qua Zalo', contactPhone, true),
+    option(
+      'contact-pick__option--phone',
+      `tel:${contactTel}`,
+      '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1L6.6 10.8Z"/></svg>',
+      'Gọi điện thoại',
+      contactPhone,
+      false
+    )
+  );
+  overlay.append(box);
+  document.body.append(overlay);
+
+  const onKey = (e) => {
+    if (e.key === 'Escape') hide();
+  };
+  function show() {
+    overlay.hidden = false;
+    document.addEventListener('keydown', onKey);
+    box.querySelector('.contact-pick__option')?.focus();
+  }
+  function hide() {
+    overlay.hidden = true;
+    document.removeEventListener('keydown', onKey);
+    btn.focus();
+  }
+  btn.addEventListener('click', show);
+  close.addEventListener('click', hide);
+  overlay.addEventListener('click', (e) => {
+    if (e.target === overlay) hide();
+  });
+  box.querySelectorAll('.contact-pick__option').forEach((a) => a.addEventListener('click', () => setTimeout(hide, 0)));
+})();

@@ -34,7 +34,7 @@ sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.join(REPO, "scripts", "site"))
 
 import smart  # noqa: E402  scripts/site/smart.py (node + html/js/smart-scope.js)
-from settings import load as load_settings, rel  # noqa: E402  scripts/site/settings.py
+from settings import load as load_settings, rel, tel, zalo_url  # noqa: E402  scripts/site/settings.py
 
 S = load_settings()
 BRAND = S["brand"]
@@ -468,9 +468,19 @@ def product_page(p, sm):
     offers = p.get("offers") or DEFAULT_OFFERS
     m = sub1(r'<ol class="pdp-offer__list">.*?</ol>', '<ol class="pdp-offer__list">' + "".join(
         f"\n              <li>{txt(o)}</li>" for o in offers) + "\n            </ol>", m)
-    buy = "LIÊN HỆ ĐẶT MUA" if p.get("price") is None else "ĐẶT MUA NGAY"
-    m = sub1(r'(<button type="button" class="pdp-actions__btn pdp-actions__btn--buy">).*?(<span>)',
-             f'<button type="button" class="pdp-actions__btn pdp-actions__btn--buy">{buy}<span>', m)
+    if p.get("price") is None:
+        # "Liên hệ" products: the button opens a Zalo / phone picker (product-detail.js).
+        buy = ("LIÊN HỆ ĐẶT MUA", f' data-contact-zalo="{esc(zalo_url(S))}" data-contact-tel="{esc(tel(S["hotline"]))}"'
+               f' data-contact-phone="{esc(S["hotline"])}" aria-haspopup="dialog"')
+    else:
+        buy = ("ĐẶT MUA NGAY", "")
+    m = sub1(r'<button type="button" class="pdp-actions__btn pdp-actions__btn--buy"[^>]*>.*?<span>',
+             f'<button type="button" class="pdp-actions__btn pdp-actions__btn--buy"{buy[1]}>{buy[0]}<span>', m)
+    # Contact-priced products can't go in the cart: hide (not remove) the button so a page used
+    # as the shell for the next build still has it.
+    m = sub1(r'<button type="button" class="pdp-actions__btn pdp-actions__btn--cart"[^>]*>',
+             '<button type="button" class="pdp-actions__btn pdp-actions__btn--cart"'
+             + (" hidden" if p.get("price") is None else "") + ">", m)
     m = sub1(r'<div class="pdp-ads">.*?</div>', ads_block(p), m)
     m = sub1(r'<div class="pdp-description__body" id="js-desc-body">.*?</div>(?=\s*<button type="button" class="pdp-description__toggle")',
              description_body(p, sm), m)

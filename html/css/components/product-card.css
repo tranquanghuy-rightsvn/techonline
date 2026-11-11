@@ -203,6 +203,11 @@
   transition: background var(--transition-fast), color var(--transition-fast);
 }
 
+/* Contact-priced products can't go in the cart (ordered via Zalo / phone). */
+.product-card:has(.product-card__price--contact) .product-card__cart {
+  display: none;
+}
+
 .product-card__cart:hover {
   background: var(--color-brand-blue);
   color: #ffffff;

@@ -43,7 +43,7 @@ function renderProductCard(product, isFlash) {
         <a class="product-card__name" href="${product.link}"><h3>${escapeHtml(product.name)}</h3></a>
         <div class="product-card__price-row">
           ${oldPrice}
-          <p class="product-card__price">${escapeHtml(product.price)}</p>
+          <p class="product-card__price${product.price === 'Liên hệ' ? ' product-card__price--contact' : ''}">${escapeHtml(product.price)}</p>
           ${discountTag}
         </div>
         ${attrs}

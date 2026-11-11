@@ -415,6 +415,10 @@
   color: #fff;
 }
 
+.pdp-actions__btn[hidden] {
+  display: none;
+}
+
 .pdp-actions__btn--cart {
   background: #2fa84f;
   color: #fff;
@@ -875,4 +879,120 @@
   .pdp-tabs__track .product-card {
     width: 160px;
   }
+}
+
+/* ==========================================================================
+   "Liên hệ đặt mua" picker — Zalo / phone (product-detail.js)
+   ========================================================================== */
+.contact-pick {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4);
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.contact-pick[hidden] {
+  display: none;
+}
+
+.contact-pick__box {
+  width: 100%;
+  max-width: 380px;
+  padding: var(--space-5);
+  background: var(--color-bg-white);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+}
+
+.contact-pick__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+
+.contact-pick__title {
+  margin: 0;
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text-primary);
+  text-transform: uppercase;
+}
+
+.contact-pick__close {
+  width: 32px;
+  height: 32px;
+  border: 0;
+  border-radius: 50%;
+  background: var(--color-bg-page);
+  color: var(--color-text-body);
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.contact-pick__product {
+  margin: var(--space-2) 0 0;
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.contact-pick__option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-lg);
+  color: #fff;
+  text-decoration: none;
+  transition: filter var(--transition-fast);
+}
+
+.contact-pick__option:hover {
+  filter: brightness(1.08);
+}
+
+.contact-pick__option--zalo {
+  background: #0068ff;
+}
+
+.contact-pick__option--phone {
+  background: var(--color-accent-red);
+}
+
+.contact-pick__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #fff;
+  font-size: var(--text-sm);
+}
+
+.contact-pick__option--zalo .contact-pick__icon {
+  color: #0068ff;
+}
+
+.contact-pick__option--phone .contact-pick__icon {
+  color: var(--color-accent-red);
+}
+
+.contact-pick__text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: var(--text-xs);
+}
+
+.contact-pick__text strong {
+  font-size: var(--text-md);
+  text-transform: uppercase;
 }

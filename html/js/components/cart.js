@@ -65,6 +65,8 @@ const Cart = (() => {
   }
 
   function add(product, qty = 1) {
+    // Contact-priced ("Liên hệ") products are ordered via Zalo / phone, not the cart.
+    if (product.priceValue === null) return false;
     const items = read();
     const existing = items.find((item) => item.id === product.id);
     if (existing) {
@@ -154,10 +156,7 @@ const Cart = (() => {
       const cardBtn = event.target.closest('.product-card__cart');
       if (cardBtn) {
         const card = cardBtn.closest('.product-card');
-        if (card) {
-          add(productFromCard(card), 1);
-          toast('Đã thêm vào giỏ hàng');
-        }
+        if (card && add(productFromCard(card), 1) !== false) toast('Đã thêm vào giỏ hàng');
         return;
       }
 
@@ -165,8 +164,7 @@ const Cart = (() => {
       if (pdpBtn) {
         const qtyInput = document.getElementById('js-qty-input');
         const qty = qtyInput ? Math.max(1, parseInt(qtyInput.value, 10) || 1) : 1;
-        add(productFromPdp(), qty);
-        toast('Đã thêm vào giỏ hàng');
+        if (add(productFromPdp(), qty) !== false) toast('Đã thêm vào giỏ hàng');
       }
     });
   }
