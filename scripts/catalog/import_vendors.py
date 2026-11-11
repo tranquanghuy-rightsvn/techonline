@@ -343,9 +343,27 @@ def desc_html(lines, fallback):
     return "".join(f"<p>{H.escape(x, quote=False)}</p>" for x in paras)
 
 
-def seo_desc(lines, fallback):
-    s = " ".join(lines[:3]) or fallback
-    return s if len(s) <= 300 else s[:297].rsplit(" ", 1)[0] + "…"
+SEO_MAX = 160
+
+
+def seo_desc(name, lines, brand="", warranty=WARRANTY):
+    """Unique meta description: product name first (names are unique), then the key features, <= 160 chars.
+    The first feature line often repeats the name ("Router Wi-Fi 6 ... AX6600") - skipped then."""
+    head = f"{name} chính hãng"
+    feats = []
+    for x in lines:
+        x = re.sub(r"<[^>]+>", " ", H.unescape(str(x))).replace("\u200d", "")
+        x = re.sub(r"\s+", " ", x).strip(" .;,")
+        if not x or norm(x) in norm(name) or JUNK_LINE.search(x):
+            continue
+        feats.append(x)
+    tail = f", bảo hành {warranty}, giao hàng toàn quốc."
+    s = head + (": " + ", ".join(feats) if feats else "") + "."
+    if not feats or len(s) < 90:
+        s = s.rstrip(".") + tail
+    if len(s) > SEO_MAX:
+        s = s[:SEO_MAX - 1].rsplit(" ", 1)[0].rstrip(" ,;:–-") + "…"
+    return s
 
 
 def richness(p):
@@ -394,7 +412,7 @@ def build_hik(src):
             price=price, images=[p["image"]] if p.get("image") else [], summary=lines,
             specs=specs, description_html=desc_html(lines, fallback),
             attrs=[x for x in (chip, brand) if x][:3], badge="Mẫu mới" if new else "",
-            seo_description=seo_desc(lines, fallback)))
+            seo_description=seo_desc(name, lines)))
     return out
 
 
@@ -565,7 +583,7 @@ def build_tp(src):
             brand="TP-Link", sku=sku, price=p.get("price"), images=[p["image"]] if p.get("image") else [],
             summary=summary, specs=specs, description_html=desc_html(dparas, fallback),
             attrs=tp_chips(name, " ".join(b for _, b in specs[2:6]), c), badge="",
-            seo_description=seo_desc([desc_part] + sents if desc_part else sents, fallback)))
+            seo_description=seo_desc(name, ([desc_part] if desc_part else []) + sents + [f"{a}: {b}" for a, b in specs[2:6]])))
     for q in out:  # Tapo cameras are also listed under "Camera giám sát" (like Imou)
         if q["categories"] == ["tp-link-camera-wi-fi"]:
             q["categories"] = ["camera-wifi-tp-link-tapo", "tp-link-camera-wi-fi"]
