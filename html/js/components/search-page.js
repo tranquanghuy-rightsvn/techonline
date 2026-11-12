@@ -102,7 +102,7 @@
 
   const found = search(query);
   title.textContent = `Kết quả tìm kiếm: “${query}”`;
-  document.title = `${query} - Tìm kiếm - AN NGUYÊN - CAMERA THÁI NGUYÊN`;
+  document.title = `${query} - Tìm kiếm - CAMERA AN NINH THÁI NGUYÊN`;
 
   if (!found.length) {
     summary.innerHTML = `Không tìm thấy sản phẩm phù hợp với “${escapeHtml(query)}”. Hãy thử từ khóa khác (ví dụ: <a href="/tim-kiem/?q=camera%20wifi">camera wifi</a>, <a href="/tim-kiem/?q=khoa%20van%20tay">khóa vân tay</a>) hoặc gọi <a href="tel:0913286293">0913.286.293</a> để được tư vấn.`;
