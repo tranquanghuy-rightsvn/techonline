@@ -22642,6 +22642,13 @@ const SEARCH_INDEX = [
 },
 {
 "type": "post",
+"name": "Giải Pháp Hiện Thực Hóa Hệ Thống Camera An Ninh Giao Thông Thông Minh Tại Thái Nguyên",
+"href": "/giai-phap-hien-thuc-hoa-he-thong-camera-an-ninh-giao-thong-thong-minh-tai-thai-nguyen/",
+"image": "assets/img/posts/giai-phap-hien-thuc-hoa-he-thong-camera-an-ninh-giao-thong-thong-minh-tai-thai-nguyen/cover.jpg",
+"date": "2026-11-12"
+},
+{
+"type": "post",
 "name": "Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera",
 "href": "/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/",
 "image": "assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg",
