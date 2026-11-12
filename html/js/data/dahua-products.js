@@ -2,46 +2,57 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Camera Wifi",
+    "href": "/dahua-camera-wifi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/H3AS-247x296.png"
   },
   {
     "label": "Camera IP",
+    "href": "/dahua-camera-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/12-247x296.png"
   },
   {
     "label": "Camera Analog",
+    "href": "/dahua-camera-analog/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/04/HAC-HDW1200TQP-IL-T-247x296.png"
   },
   {
     "label": "Camera PTZ",
+    "href": "/dahua-camera-ptz/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_07_15253_195330777_crop-247x296.png"
   },
   {
     "label": "Đầu ghi IP",
+    "href": "/dahua-dau-ghi-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/DHI-NVR5864-EI2-247x296.png"
   },
   {
     "label": "Đầu ghi Analog",
+    "href": "/dahua-dau-ghi-analog/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/XVR5104HS-I21-247x296.png"
   },
   {
     "label": "Switch",
+    "href": "/dahua-switch/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_20_11945_746851564_crop-247x296.png"
   },
   {
     "label": "Chuông cửa màn hình",
+    "href": "/dahua-chuong-cua-man-hinh/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/03/DHI-VTO2201F-P-S2-247x296.png"
   },
   {
     "label": "Access control",
+    "href": "/dahua-access-control/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/DHI-ASI3214A-W-247x296.png"
   },
   {
     "label": "Sản phẩm dự án",
+    "href": "/dahua-san-pham-du-an/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/09/ITC431-RW1F-L-247x296.png"
   },
   {
     "label": "Phụ kiện / Sản phẩm khác",
+    "href": "/dahua-phu-kien-san-pham-khac/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/admin-ajax-1-247x296.png"
   }
 ];

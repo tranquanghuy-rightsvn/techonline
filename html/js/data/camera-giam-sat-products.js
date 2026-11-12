@@ -2,143 +2,178 @@
 const CAMERA_ICON_STRIP = [
   {
     "label": "Camera IP Dahua",
+    "href": "/camera-ip-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-ipc-hdw1439t1-a-pro.png"
   },
   {
     "label": "Camera Wifi Dahua",
+    "href": "/camera-wifi-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-h5as.png"
   },
   {
     "label": "Camera Analog Dahua",
+    "href": "/camera-analog-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hdw1200tqp-il-t-vn.png"
   },
   {
     "label": "Camera PTZ Dahua",
+    "href": "/camera-ptz-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd4a225db-hny.png"
   },
   {
     "label": "Đầu ghi IP Dahua",
+    "href": "/dau-ghi-ip-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-dahua-dhi-nvr5864-ei2.png"
   },
   {
     "label": "Đầu ghi Analog Dahua",
+    "href": "/dau-ghi-analog-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr4116hs-i-t.png"
   },
   {
     "label": "Kiểm soát ra vào Dahua",
+    "href": "/kiem-soat-ra-vao-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-dahua-dhi-asi3214a-w.png"
   },
   {
     "label": "Chuông cửa màn hình Dahua",
+    "href": "/chuong-cua-man-hinh-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2201f-p-s2.png"
   },
   {
     "label": "Switch Dahua",
+    "href": "/switch-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-cs4010-8et2gt-60.png"
   },
   {
     "label": "Phụ kiện Dahua",
+    "href": "/phu-kien-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dhi-lm22-b220n.png"
   },
   {
     "label": "Sản phẩm dự án Dahua",
+    "href": "/san-pham-du-an-dahua/",
     "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-itc431-rw1f-l.png"
   },
   {
     "label": "Camera Imou",
+    "href": "/camera-imou/",
     "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-a82p-pro.png"
   },
   {
     "label": "Đầu ghi Imou",
+    "href": "/dau-ghi-imou/",
     "image": "assets/images/camera-giam-sat/outbox/dau-ghi-imou-nvr-n110w-8a0e.png"
   },
   {
     "label": "Sản phẩm khác Imou",
+    "href": "/san-pham-khac-imou/",
     "image": "assets/images/camera-giam-sat/outbox/san-pham-khac-imou-sf110p.png"
   },
   {
     "label": "Camera IP KBVision",
+    "href": "/camera-ip-kbvision/",
     "image": "assets/images/camera-giam-sat/outbox/camera-ip-kbvision-kx-caif5003n-dl-ab.png"
   },
   {
     "label": "Camera Analog KBVision",
+    "href": "/camera-analog-kbvision/",
     "image": "assets/images/camera-giam-sat/outbox/camera-analog-kbvision-kx-af5004s-dl-a.png"
   },
   {
     "label": "Sản phẩm KBVision",
+    "href": "/san-pham-kbvision/",
     "image": "assets/images/camera-giam-sat/outbox/san-pham-kbvision-provms.jpg"
   },
   {
     "label": "Camera Wifi KabeVision",
+    "href": "/camera-wifi-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/camera-wifi-kabevision-kx-5ptw-d-pma.png"
   },
   {
     "label": "Camera Analog KabeVision",
+    "href": "/camera-analog-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/camera-analog-kabevision-kx-ad5013-a.png"
   },
   {
     "label": "Camera PTZ KabeVision",
+    "href": "/camera-ptz-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-eai2458lzsn.png"
   },
   {
     "label": "Đầu ghi IP KabeVision",
+    "href": "/dau-ghi-ip-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-eai4k8864n4.png"
   },
   {
     "label": "Đầu ghi Analog KabeVision",
+    "href": "/dau-ghi-analog-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-kabevision-kx-7108t-vn.png"
   },
   {
     "label": "Kiểm soát ra vào KabeVision",
+    "href": "/kiem-soat-ra-vao-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/kiem-soat-ra-vao-kabevision-kx-fr04ac-fw.png"
   },
   {
     "label": "Switch KabeVision",
+    "href": "/switch-kabevision/",
     "image": "assets/images/camera-giam-sat/outbox/switch-kabevision-kx-dacs5121-8m-60-pma.png"
   },
   {
     "label": "Camera IP Hikvision",
-    "image": ""
+    "href": "/camera-ip-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T46G2-ISUSLHUN.jpg"
   },
   {
     "label": "Camera Wifi Hikvision",
-    "image": ""
+    "href": "/camera-wifi-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CV2021G2-IDW.jpg"
   },
   {
     "label": "Camera Analog Hikvision",
-    "image": ""
+    "href": "/camera-analog-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-PTE232IR-A-500x500.jpg"
   },
   {
     "label": "Camera PTZ Hikvision",
-    "image": ""
+    "href": "/camera-ptz-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2DE7A425IW-AEB-500x500.jpg"
   },
   {
     "label": "Camera chuyên dụng Hikvision",
-    "image": ""
+    "href": "/camera-chuyen-dung-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/08/10.-DS-2TD8167-150ZC4FW-e1660116495863.png"
   },
   {
     "label": "Đầu ghi IP Hikvision",
-    "image": ""
+    "href": "/dau-ghi-ip-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-ALS32-S16.jpg"
   },
   {
     "label": "Đầu ghi Analog Hikvision",
-    "image": ""
+    "href": "/dau-ghi-analog-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/04/iDS-7216HUHI-M2_S-500x500.jpg"
   },
   {
     "label": "Switch Hikvision",
-    "image": ""
+    "href": "/switch-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-3E0108D-E-500x500.jpg"
   },
   {
     "label": "Chuông cửa màn hình Hikvision",
-    "image": ""
+    "href": "/chuong-cua-man-hinh-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KV6113-WPE1-500x500.jpg"
   },
   {
     "label": "Phụ kiện Hikvision",
-    "image": ""
+    "href": "/phu-kien-hikvision/",
+    "image": "https://hikvision.vn/wp-content/uploads/2023/10/ds-ups-600.jpg"
   },
   {
     "label": "Camera Wifi TP-Link Tapo",
-    "image": ""
+    "href": "/camera-wifi-tp-link-tapo/",
+    "image": "assets/img/products/camera-wifi-tplink-tapo-c660-kit/g01.jpg"
   }
 ];
 
@@ -2324,7 +2359,7 @@ const CAMERA_CATEGORY_GROUPS = [
           "2MP",
           "Ezviz"
         ],
-        "image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1-500x500.png",
+        "image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1.png",
         "href": "/camera-wi-fi-indoor-cloud-c2c-panoramic-cs-cv206-a0-1b2w2fr/"
       },
       {

@@ -2,10 +2,12 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Thẻ nhớ",
+    "href": "/sandisk-the-nho/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/10/the-nho-sandisk-247x296.png"
   },
   {
     "label": "SSD",
+    "href": "/sandisk-ssd/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/03/SDSSDA-240G-G26-247x296.png"
   }
 ];

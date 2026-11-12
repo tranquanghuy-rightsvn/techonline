@@ -243,27 +243,63 @@ def primary_root(p):
     return ch[0] if ch else None
 
 
-# Alt texts of the two sidebar banners, by the root of the product's primary category.
-ADS_ALT = {"camera-giam-sat": ("Flash sale camera giám sát", "Camera giám sát bảo hành 24 tháng"),
-           "cham-cong-kiem-soat-cua": ("Flash sale camera giám sát", "Camera giám sát bảo hành 24 tháng"),
-           "thiet-bi-mang": ("Flash sale thiết bị mạng", "Thiết bị mạng bảo hành 24 tháng")}
+# Right column under the trust card: latest news / guides (replaced the 2 static banners, which
+# linked nowhere). Newest first, as data/posts.json is kept.
+NEWS_COUNT = 4
 
 
-def ads_block(p):
-    root = primary_root(p)
-    a1, a2 = ADS_ALT.get(root["slug"] if root else "", ("Flash sale", "Bảo hành 24 tháng"))
-    return f'''<div class="pdp-ads">
-            <a href="#"><img src="assets/images/pdp-sidebar-banner-1.png" alt="{a1}" loading="lazy" /></a>
-            <a href="#"><img src="assets/images/pdp-sidebar-banner-2.png" alt="{a2}" loading="lazy" /></a>
-          </div>'''
+def news_block():
+    path = os.path.join(REPO, "data", "posts.json")
+    posts = [q for q in (json.load(open(path, encoding="utf-8")) if os.path.exists(path) else [])
+             if q.get("slug") and os.path.exists(os.path.join(ROOT, q["slug"], "index.html"))][:NEWS_COUNT]
+    if not posts:
+        return '<section class="pdp-news" hidden></section>'
+    items = "".join(f'''
+              <li><a class="pdp-news__item" href="/{esc(q["slug"])}/">
+                <img class="pdp-news__img" src="{esc(rel(q.get("cover") or f"/assets/images/news-{q['slug']}.jpg"))}" alt="{esc(q["title"])}" loading="lazy" />
+                <span class="pdp-news__text"><span class="pdp-news__name">{esc(q["title"], quote=False)}</span>{f'<span class="pdp-news__date">{fmt_date(q["date"])}</span>' if q.get("date") else ""}</span>
+              </a></li>''' for q in posts)
+    return f'''<section class="pdp-news">
+            <h3 class="pdp-trust__title">TIN TỨC - HƯỚNG DẪN</h3>
+            <ul class="pdp-news__list">{items}
+            </ul>
+            <a class="pdp-news__more" href="/tin-tuc/">Xem tất cả ›</a>
+          </section>'''
+
+
+def fmt_date(d):
+    y, m, dd = (d or "")[:10].split("-") if re.fullmatch(r"\d{4}-\d{2}-\d{2}", (d or "")[:10]) else ("", "", "")
+    return f"{dd}/{m}/{y}" if y else ""
+
+
+NEWS_HTML = news_block()
+
+
+def brand_href(p):
+    """Brand page of a product, matched on the brand NAME (a Seagate drive filed under a Hikvision
+    category still links to /seagate/): the brand-layout category whose slug/name is the brand
+    (Hikvision -> /hikvision/, Wisualarm -> /dahua-wisualarm/); "#" if the brand has no page."""
+    key = re.sub(r"[^a-z0-9]", "", (p.get("brand") or "").lower())
+    if not key:
+        return "#"
+    brands = [c for c in cats if c.get("layout") == "brand"]
+    norm = lambda c: (re.sub(r"[^a-z0-9]", "", c["slug"]), re.sub(r"[^a-z0-9]", "", c["name"].lower()))
+    for c in brands:
+        if key in norm(c):
+            return f"/{c['slug']}/"
+    for c in brands:
+        if any(n.endswith(key) for n in norm(c)):
+            return f"/{c['slug']}/"
+    return "#"
 
 
 def meta_block(p):
     items = []
     if p.get("brand"):
-        root = primary_root(p)
-        href = f"/{root['slug']}/" if root and root.get("layout") == "brand" else "#"
-        items.append(f'<span class="pdp__meta-item">Thương hiệu: <a href="{href}" class="pdp__meta-link">{esc(p["brand"])}</a></span>')
+        href = brand_href(p)
+        brand = (f'<a href="{href}" class="pdp__meta-link">{esc(p["brand"])}</a>' if href != "#"
+                 else f'<strong>{esc(p["brand"])}</strong>')  # no brand page: plain text, not a dead link
+        items.append(f'<span class="pdp__meta-item">Thương hiệu: {brand}</span>')
     if p.get("sku"):
         items.append(f'<span class="pdp__meta-item">Mã sản phẩm: <strong>{esc(p["sku"])}</strong></span>')
     if p.get("warranty"):
@@ -481,7 +517,7 @@ def product_page(p, sm):
     m = sub1(r'<button type="button" class="pdp-actions__btn pdp-actions__btn--cart"[^>]*>',
              '<button type="button" class="pdp-actions__btn pdp-actions__btn--cart"'
              + (" hidden" if p.get("price") is None else "") + ">", m)
-    m = sub1(r'<div class="pdp-ads">.*?</div>', ads_block(p), m)
+    m = sub1(r'<div class="pdp-ads">.*?</div>|<section class="pdp-news"[^>]*>.*?</section>', NEWS_HTML, m)
     m = sub1(r'<div class="pdp-description__body" id="js-desc-body">.*?</div>(?=\s*<button type="button" class="pdp-description__toggle")',
              description_body(p, sm), m)
     m = sub1(r'<div class="pdp-specs">.*?</button>\s*</div>', specs_block(p), m)
@@ -511,6 +547,17 @@ def card(p, link_key="href"):
     return c
 
 
+def cat_icon(c):
+    """Icon of a category in the overview strip: its own image, else the photo of its first product
+    (a local copy first; then the products of its subcategories) so the strip never shows a blank."""
+    if c.get("image"):
+        return c["image"]
+    slugs = members(c["slug"]) + [s for k in children(c["slug"]) for s in members(k["slug"])]
+    imgs = [(PROD[s].get("images") or [""])[0] for s in slugs]
+    imgs = [i for i in imgs if i]
+    return next((i for i in imgs if not i.startswith("http")), imgs[0] if imgs else "")
+
+
 def groups_for(cat):
     layout = cat.get("layout") or "subcategory"
     kids = children(cat["slug"])
@@ -523,7 +570,7 @@ def groups_for(cat):
             out.append({"title": k["name"], "viewAllHref": f"/{k['slug']}/",
                         "products": [card(PROD[s]) for s in members(k["slug"])]})
         return None, out
-    strip = [{"label": k["name"], "image": rel(k.get("image") or "")} for k in kids]
+    strip = [{"label": k["name"], "href": f"/{k['slug']}/", "image": rel(cat_icon(k))} for k in kids]
     out = []
     for k in kids:
         ms = members(k["slug"])

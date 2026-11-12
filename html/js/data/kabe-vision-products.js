@@ -2,34 +2,42 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Camera Wifi",
+    "href": "/kabe-vision-camera-wifi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/KX-5PTW-D-PMA-247x296.png"
   },
   {
     "label": "Camera IP",
+    "href": "/kabe-vision-camera-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/KX-7009P-PMA-247x296.png"
   },
   {
     "label": "Camera Analog",
+    "href": "/kabe-vision-camera-analog/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/07/KX-AD5013-A-247x296.png"
   },
   {
     "label": "Camera PTZ",
+    "href": "/kabe-vision-camera-ptz/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/EAi2458LZSN-247x296.png"
   },
   {
     "label": "Đầu ghi IP",
+    "href": "/kabe-vision-dau-ghi-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/DAi4K8832N4-247x296.png"
   },
   {
     "label": "Đầu ghi Analog",
+    "href": "/kabe-vision-dau-ghi-analog/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-7108T-247x296.png"
   },
   {
     "label": "Switch",
+    "href": "/kabe-vision-switch/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/KX-DACS5121-8M-60-PMA-247x296.png"
   },
   {
     "label": "Access Control",
+    "href": "/kabe-vision-access-control/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-FR04AC-FW-247x296.png"
   }
 ];

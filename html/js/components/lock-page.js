@@ -60,7 +60,7 @@ function renderLockCategoryGroup(group) {
   return `
     <div class="category-band">
       <div class="category-band__title">
-        <a href="#" class="category-band__title-text">${escapeHtmlLock(group.title)}</a>
+        <a href="${group.viewAllHref || '#'}" class="category-band__title-text">${escapeHtmlLock(group.title)}</a>
         <a href="${group.viewAllHref}" class="category-band__view-all">Xem tất cả <span>&rsaquo;</span></a>
       </div>
       <div class="category-band__grid">
@@ -71,7 +71,7 @@ function renderLockCategoryGroup(group) {
 
 function renderLockIconStrip() {
   return LOCK_ICON_STRIP.map(icon => `
-    <a href="#" class="category-icon">
+    <a href="${icon.href || '#'}" class="category-icon">
       <span class="category-icon__thumb" style="background-image:url('${icon.image}')"></span>
       <h2 class="category-icon__label">${escapeHtmlLock(icon.label)}</h2>
     </a>`).join('');

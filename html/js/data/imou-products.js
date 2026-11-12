@@ -2,14 +2,17 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Camera",
+    "href": "/imou-camera/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-A32P-PRO-.-IPC-A52P-PRO-247x296.png"
   },
   {
     "label": "Đầu ghi",
+    "href": "/imou-dau-ghi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/11/NVR-N110W-8A0E-247x296.png"
   },
   {
     "label": "Sản phẩm khác",
+    "href": "/imou-san-pham-khac/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/01/1-247x296.png"
   }
 ];

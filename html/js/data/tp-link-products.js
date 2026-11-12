@@ -2,47 +2,58 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Mesh Wi-Fi",
+    "href": "/tp-link-mesh-wi-fi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-X50-OUTDOOR-247x296.png"
   },
   {
     "label": "Router Wi-Fi",
+    "href": "/tp-link-router-wi-fi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-GE230-247x296.png"
   },
   {
     "label": "Modem / Gateway",
+    "href": "/tp-link-modem-gateway/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-MR202-247x296.png"
   },
   {
     "label": "Thiết bị mở rộng mạng",
+    "href": "/tp-link-thiet-bi-mo-rong-mang/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/RE235BE-247x296.png"
   },
   {
     "label": "Wi-Fi di động",
+    "href": "/tp-link-wi-fi-di-dong/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/M7000-247x296.jpg"
   },
   {
     "label": "Wi-Fi Adapter",
+    "href": "/tp-link-wi-fi-adapter/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX50UH-247x296.png"
   },
   {
     "label": "Phụ kiện",
+    "href": "/tp-link-phu-kien/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UH9120C-247x296.png"
   },
   {
     "label": "Mạng Văn Phòng SOHO",
+    "href": "/tp-link-mang-van-phong-soho/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG1024DE-247x296.jpg"
   },
   {
     "label": "Giải pháp doanh nghiệp",
+    "href": "/tp-link-giai-phap-doanh-nghiep/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1-247x296.png"
   },
   {
     "label": "Camera Wi-Fi Tapo",
-    "image": ""
+    "href": "/tp-link-camera-wi-fi/",
+    "image": "assets/img/products/camera-wifi-tplink-tapo-c660-kit/g01.jpg"
   },
   {
     "label": "Nhà thông minh",
-    "image": ""
+    "href": "/tp-link-nha-thong-minh/",
+    "image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max-plus/g01.jpg"
   }
 ];
 

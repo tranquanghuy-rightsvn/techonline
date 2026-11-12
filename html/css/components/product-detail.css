@@ -581,17 +581,6 @@
   color: var(--color-text-muted);
 }
 
-.pdp-ads {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-3);
-}
-
-.pdp-ads img {
-  width: 100%;
-  border-radius: var(--radius-md);
-}
-
 /* ==========================================================================
    Description + specs
    ========================================================================== */
@@ -833,9 +822,8 @@
     gap: var(--space-4);
   }
 
-  .pdp-ads {
-    grid-column: 1 / -1;
-    flex-direction: row;
+  .pdp-trust {
+    margin-bottom: 0;
   }
 
   .pdp__details {
@@ -995,4 +983,77 @@
 .contact-pick__text strong {
   font-size: var(--text-md);
   text-transform: uppercase;
+}
+
+/* ==========================================================================
+   Right column — latest news / guides (build.py news_block)
+   ========================================================================== */
+.pdp-news {
+  background: var(--color-bg-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+}
+
+.pdp-news[hidden] {
+  display: none;
+}
+
+.pdp-news__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.pdp-news__item {
+  display: flex;
+  gap: var(--space-3);
+  color: var(--color-text-body);
+  text-decoration: none;
+}
+
+.pdp-news__img {
+  flex: none;
+  width: 88px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  background: var(--color-bg-page);
+}
+
+.pdp-news__text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.pdp-news__name {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--color-text-primary);
+}
+
+.pdp-news__item:hover .pdp-news__name {
+  color: var(--color-brand-blue);
+}
+
+.pdp-news__date {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+}
+
+.pdp-news__more {
+  display: inline-block;
+  margin-top: var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  color: var(--color-brand-blue);
+  text-decoration: none;
 }

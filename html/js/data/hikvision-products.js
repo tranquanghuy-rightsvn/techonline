@@ -2,59 +2,73 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Camera IP",
-    "image": ""
+    "href": "/hikvision-camera-ip/",
+    "image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-2CD2T46G2-ISUSLHUN.jpg"
   },
   {
     "label": "Camera Wifi",
-    "image": ""
+    "href": "/hikvision-camera-wifi/",
+    "image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-2CV2021G2-IDW.jpg"
   },
   {
     "label": "Camera Analog",
-    "image": ""
+    "href": "/hikvision-camera-analog/",
+    "image": "https://hikvision.vn/wp-content/uploads/2018/03/SH-PTE232IR-A-500x500.jpg"
   },
   {
     "label": "Camera PTZ",
-    "image": ""
+    "href": "/hikvision-camera-ptz/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/04/DS-2DE7A425IW-AEB-500x500.jpg"
   },
   {
     "label": "Camera chuyên dụng",
-    "image": ""
+    "href": "/hikvision-camera-chuyen-dung/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/08/10.-DS-2TD8167-150ZC4FW-e1660116495863.png"
   },
   {
     "label": "Đầu ghi IP",
-    "image": ""
+    "href": "/hikvision-dau-ghi-ip/",
+    "image": "https://hikvision.vn/wp-content/uploads/2026/11/DS-ALS32-S16.jpg"
   },
   {
     "label": "Đầu ghi Analog",
-    "image": ""
+    "href": "/hikvision-dau-ghi-analog/",
+    "image": "https://hikvision.vn/wp-content/uploads/2022/04/iDS-7216HUHI-M2_S-500x500.jpg"
   },
   {
     "label": "Switch",
-    "image": ""
+    "href": "/hikvision-switch/",
+    "image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-3E0108D-E-500x500.jpg"
   },
   {
     "label": "Chuông cửa màn hình",
-    "image": ""
+    "href": "/hikvision-chuong-cua-man-hinh/",
+    "image": "https://hikvision.vn/wp-content/uploads/2021/04/DS-KV6113-WPE1-500x500.jpg"
   },
   {
     "label": "Access control",
-    "image": ""
+    "href": "/hikvision-access-control/",
+    "image": "https://hikvision.vn/wp-content/uploads/2023/11/SH-K1T9343MFWX.jpg"
   },
   {
     "label": "Báo động",
-    "image": ""
+    "href": "/hikvision-bao-dong/",
+    "image": "https://hikvision.vn/wp-content/uploads/2016/01/ds-19s08-4f-500x500.png"
   },
   {
     "label": "Màn hình",
-    "image": ""
+    "href": "/hikvision-man-hinh/",
+    "image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-M4300H.jpg"
   },
   {
     "label": "Ổ cứng / Thẻ nhớ",
-    "image": ""
+    "href": "/hikvision-luu-tru/",
+    "image": "https://hikvision.vn/wp-content/uploads/2023/12/WD101PURA.jpg"
   },
   {
     "label": "Phụ kiện / Sản phẩm khác",
-    "image": ""
+    "href": "/hikvision-phu-kien-san-pham-khac/",
+    "image": "https://hikvision.vn/wp-content/uploads/2023/10/ds-ups-600.jpg"
   }
 ];
 
@@ -435,7 +449,7 @@ const BRAND_CATEGORY_GROUPS = [
           "2MP",
           "Ezviz"
         ],
-        "image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1-500x500.png",
+        "image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1.png",
         "href": "/camera-wi-fi-indoor-cloud-c2c-panoramic-cs-cv206-a0-1b2w2fr/"
       },
       {

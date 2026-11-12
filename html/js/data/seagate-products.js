@@ -2,6 +2,7 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Ổ cứng",
+    "href": "/seagate-o-cung/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/seagate-skyhawk-20tb-247x296.png"
   }
 ];

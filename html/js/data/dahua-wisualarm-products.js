@@ -2,22 +2,27 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Báo cháy không dây",
+    "href": "/dahua-wisualarm-bao-chay-khong-day/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-HT10A-R4-247x296.png"
   },
   {
     "label": "Báo cháy có dây",
+    "href": "/dahua-wisualarm-bao-chay-co-day/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-BD1-247x296.png"
   },
   {
     "label": "Hệ thường",
+    "href": "/dahua-wisualarm-he-thuong/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-BD1-247x296.png"
   },
   {
     "label": "Hệ địa chỉ",
+    "href": "/dahua-wisualarm-he-dia-chi/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DHI-HY-1460-247x296.png"
   },
   {
     "label": "Camera báo cháy",
+    "href": "/dahua-wisualarm-camera-bao-chay/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/HY-FT121LD-E_2_thumb-247x296.png"
   }
 ];

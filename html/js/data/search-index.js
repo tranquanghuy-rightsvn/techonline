@@ -6931,7 +6931,7 @@ const SEARCH_INDEX = [
 {
 "name": "Camera Wi-Fi Indoor Cloud C2C Panoramic (CS-CV206-A0-1B2W2FR)",
 "href": "/camera-wi-fi-indoor-cloud-c2c-panoramic-cs-cv206-a0-1b2w2fr/",
-"image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1-500x500.png",
+"image": "https://hikvision.vn/wp-content/uploads/2018/09/C2C-Panoramic-1.png",
 "price": "Liên hệ",
 "oldPrice": "",
 "discount": ""
@@ -11675,7 +11675,7 @@ const SEARCH_INDEX = [
 {
 "name": "4MP 4× Network PTZ Camera Hikvision DS-2DE2A404W-DE3(2.8-12MM)",
 "href": "/ds-2de2a404w-de32-8-12mm-4mp-4x-network-ptz-camera/",
-"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204IW-DE32.8-12mm-500x500.png",
+"image": "https://hikvision.vn/wp-content/uploads/2018/06/DS-2DE2A204IW-DE32.8-12mm.png",
 "price": "Liên hệ",
 "oldPrice": "",
 "discount": ""

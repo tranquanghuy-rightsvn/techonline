@@ -2,22 +2,27 @@
 const BRAND_ICON_STRIP = [
   {
     "label": "Camera IP",
+    "href": "/kbvision-camera-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/06/KX-CAiF5003N-DL-AB-247x296.png"
   },
   {
     "label": "Camera Analog",
+    "href": "/kbvision-camera-analog/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/10/KX-AF5004S-DL-A-247x296.png"
   },
   {
     "label": "Đầu ghi IP",
+    "href": "/kbvision-dau-ghi-ip/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/KX-A8124N2-VN-247x296.png"
   },
   {
     "label": "Chuông cửa màn hình",
+    "href": "/kbvision-chuong-cua-man-hinh/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/04/KX-VDP02HWN-247x296.png"
   },
   {
     "label": "Phụ kiện / Sản phẩm khác",
+    "href": "/kbvision-phu-kien-san-pham-khac/",
     "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/11/PROVMS-247x296.jpg"
   }
 ];

@@ -2,46 +2,57 @@
 const NETWORK_ICON_STRIP = [
   {
     "label": "Thiết bị mạng theo hãng",
+    "href": "/thiet-bi-mang-theo-hang/",
     "image": "assets/images/thiet-bi-mang/icons/cat_big_144_1748060512.jpg"
   },
   {
     "label": "Bộ phát wifi",
+    "href": "/bo-phat-wifi/",
     "image": "assets/images/thiet-bi-mang/icons/cat_big_56_1748060524.jpg"
   },
   {
     "label": "Router – Modem",
+    "href": "/router-modem/",
     "image": "assets/images/thiet-bi-mang/icons/cat_big_57_1748060640.jpg"
   },
   {
     "label": "Phụ kiện mạng",
+    "href": "/phu-kien-mang/",
     "image": "assets/images/thiet-bi-mang/icons/cat_big_60_1748060603.jpg"
   },
   {
     "label": "Mesh Wi-Fi",
+    "href": "/mesh-wi-fi/",
     "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-m4.png"
   },
   {
     "label": "Quản lý AP",
+    "href": "/thiet-bi-mang-quan-ly-ap/",
     "image": "assets/images/logo-mark.png"
   },
   {
     "label": "Gateway",
+    "href": "/thiet-bi-mang-gateway/",
     "image": "assets/images/thiet-bi-mang/icons/gateway-archer-mr202.png"
   },
   {
     "label": "Bộ kích sóng wifi",
+    "href": "/bo-kich-song-wifi/",
     "image": "assets/images/thiet-bi-mang/icons/kich-song-re315.jpg"
   },
   {
     "label": "Wi-Fi Di Động",
+    "href": "/wi-fi-di-dong/",
     "image": "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg"
   },
   {
     "label": "Switch – Bộ chuyển mạch",
+    "href": "/switch-bo-chuyen-mach/",
     "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png"
   },
   {
     "label": "Module mạng",
+    "href": "/thiet-bi-mang-module-mang/",
     "image": "assets/images/logo-mark.png"
   }
 ];

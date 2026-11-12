@@ -2,62 +2,77 @@
 const LOCK_ICON_STRIP = [
   {
     "label": "Khóa cửa Ezviz",
+    "href": "/khoa-cua-van-tay-ezviz/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_74_1749193066.jpg"
   },
   {
     "label": "Khóa vân tay Bosch",
+    "href": "/khoa-van-tay-bosch/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_68_1749193030.jpg"
   },
   {
     "label": "Khóa cửa Hafele",
+    "href": "/khoa-cua-van-tay-hafele/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_82_1749193056.jpg"
   },
   {
     "label": "Khóa cửa Philips",
+    "href": "/khoa-van-tay-philips/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_69_1749193041.jpg"
   },
   {
     "label": "Khóa cửa Kaadas",
+    "href": "/khoa-cua-van-tay-kaadas/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_71_1749193075.jpg"
   },
   {
     "label": "Khóa cửa Hyundai",
+    "href": "/khoa-cua-van-tay-hyundai/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_126_1749193217.png"
   },
   {
     "label": "Khóa cửa Kawa",
+    "href": "/khoa-cua-van-tay-kawa/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_163_1749193105.jpg"
   },
   {
     "label": "Khóa cửa Kassler",
+    "href": "/khoa-cua-van-tay-kassler/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_73_1749193097.jpg"
   },
   {
     "label": "Khóa cửa Solity",
+    "href": "/khoa-cua-van-tay-solity/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_72_1749193123.jpg"
   },
   {
     "label": "Khóa cửa Hubert",
+    "href": "/khoa-cua-van-tay-hubert/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_128_1749193115.jpg"
   },
   {
     "label": "Khóa vân tay Kitos",
+    "href": "/khoa-van-tay-kitos/",
     "image": "assets/images/khoa-cua-van-tay/products/250-2593-khoa-cua-kitos-kt-e3-pro-den.jpg"
   },
   {
     "label": "Phụ kiện khóa vân tay",
+    "href": "/phu-kien-khoa-van-tay/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_123_1748060785.jpg"
   },
   {
     "label": "Khóa vân tay theo loại cửa",
+    "href": "/khoa-van-tay-theo-loai-cua/",
     "image": "assets/images/khoa-cua-van-tay/icons/cat_big_76_1748060744.jpg"
   },
   {
     "label": "Khóa cửa Yale",
+    "href": "/khoa-cua-yale/",
     "image": "assets/images/khoa-cua-van-tay/products/250-2803-yale-zuri-s.jpg"
   },
   {
     "label": "Khóa cửa Hexa",
+    "href": "/khoa-cua-hexa/",
     "image": "assets/images/khoa-cua-van-tay/products/250-4180-hexa-a100.jpg"
   }
 ];
