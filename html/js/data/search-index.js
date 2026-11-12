@@ -22642,6 +22642,13 @@ const SEARCH_INDEX = [
 },
 {
 "type": "post",
+"name": "Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera",
+"href": "/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/",
+"image": "assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg",
+"date": "2026-11-12"
+},
+{
+"type": "post",
 "name": "VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH",
 "href": "/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/",
 "image": "assets/img/posts/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/cover.jpg",

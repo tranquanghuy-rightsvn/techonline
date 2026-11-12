@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <base href="/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera - AN NGUYÊN TECHCONS SERVICES</title>
+  <meta name="description" content="Giải pháp camera an ninh giao thông toàn diện do An Nguyên Camera cung cấp, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật khắt khe của Bộ Công an. Nội dung tập trung vào các yêu cầu về độ phân giải, khả năng nhận diện biển số AI, an ninh mạng và độ bền thiết bị. Giải pháp bao gồm hệ thống camera đa dạng (PTZ, ANPR, đo tốc độ) cùng trung tâm điều hành hiện đại, đảm bảo giám sát hiệu quả 24/7. An Nguyên Camera cam kết cung cấp thiết bị chính hãng, tư vấn linh hoạt và hỗ trợ kỹ thuật trọn gói cho các đơn vị công an">
+  <meta name="keywords" content="camera giao thông, lắp camera giao thông thái nguyên, sửa chữa camera giao thông">
+  <link rel="icon" href="assets/favicon.webp" type="image/webp">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/components/header.css">
+  <link rel="stylesheet" href="css/components/cart.css" />
+  <link rel="stylesheet" href="css/components/policy-page.css">
+  <link rel="stylesheet" href="css/components/news-page.css">
+  <link rel="stylesheet" href="css/components/article-page.css">
+  <link rel="stylesheet" href="css/components/usp-bar.css">
+  <link rel="stylesheet" href="css/components/newsletter.css">
+  <link rel="stylesheet" href="css/components/footer.css">
+  <link rel="stylesheet" href="css/components/floating.css">
+  <!-- seo:start -->
+  <link rel="canonical" href="https://anninhthainguyen.vn/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="theme-color" content="#0064bd">
+  <link rel="apple-touch-icon" href="assets/favicon.webp">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:site_name" content="AN NGUYÊN TECHCONS SERVICES">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera - AN NGUYÊN TECHCONS SERVICES">
+  <meta property="og:description" content="Giải pháp camera an ninh giao thông toàn diện do An Nguyên Camera cung cấp, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật khắt khe của Bộ Công an. Nội dung tập trung vào các yêu cầu về độ phân giải, khả năng nhận diện biển số AI, an ninh mạng và độ bền thiết bị. Giải pháp bao gồm hệ thống camera đa dạng (PTZ, ANPR, đo tốc độ) cùng trung tâm điều hành hiện đại, đảm bảo giám sát hiệu quả 24/7. An Nguyên Camera cam kết cung cấp thiết bị chính hãng, tư vấn linh hoạt và hỗ trợ kỹ thuật trọn gói cho các đơn vị công an">
+  <meta property="og:url" content="https://anninhthainguyen.vn/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/">
+  <meta property="og:image" content="https://anninhthainguyen.vn/assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg">
+  <meta property="og:image:alt" content="Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera">
+  <meta property="article:published_time" content="2026-11-12">
+  <meta property="article:section" content="Tin tức công ty">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera - AN NGUYÊN TECHCONS SERVICES">
+  <meta name="twitter:description" content="Giải pháp camera an ninh giao thông toàn diện do An Nguyên Camera cung cấp, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật khắt khe của Bộ Công an. Nội dung tập trung vào các yêu cầu về độ phân giải, khả năng nhận diện biển số AI, an ninh mạng và độ bền thiết bị. Giải pháp bao gồm hệ thống camera đa dạng (PTZ, ANPR, đo tốc độ) cùng trung tâm điều hành hiện đại, đảm bảo giám sát hiệu quả 24/7. An Nguyên Camera cam kết cung cấp thiết bị chính hãng, tư vấn linh hoạt và hỗ trợ kỹ thuật trọn gói cho các đơn vị công an">
+  <meta name="twitter:image" content="https://anninhthainguyen.vn/assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg">
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://anninhthainguyen.vn/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/#article","headline":"Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera","description":"Giải pháp camera an ninh giao thông toàn diện do An Nguyên Camera cung cấp, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật khắt khe của Bộ Công an. Nội dung tập trung vào các yêu cầu về độ phân giải, khả năng nhận diện biển số AI, an ninh mạng và độ bền thiết bị. Giải pháp bao gồm hệ thống camera đa dạng (PTZ, ANPR, đo tốc độ) cùng trung tâm điều hành hiện đại, đảm bảo giám sát hiệu quả 24/7. An Nguyên Camera cam kết cung cấp thiết bị chính hãng, tư vấn linh hoạt và hỗ trợ kỹ thuật trọn gói cho các đơn vị công an","image":["https://anninhthainguyen.vn/assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg"],"datePublished":"2026-11-12","dateModified":"2026-11-12","author":{"@id":"https://anninhthainguyen.vn/#organization"},"publisher":{"@id":"https://anninhthainguyen.vn/#organization"},"mainEntityOfPage":"https://anninhthainguyen.vn/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/","articleSection":"Tin tức công ty","inLanguage":"vi-VN"},{"@type":"LocalBusiness","@id":"https://anninhthainguyen.vn/#organization","name":"AN NGUYÊN TECHCONS SERVICES","url":"https://anninhthainguyen.vn/","logo":{"@type":"ImageObject","url":"https://anninhthainguyen.vn/assets/images/logo.png"},"image":"https://anninhthainguyen.vn/assets/images/og-default.jpg","email":"annguyentechcons@gmail.com","telephone":"+84913286293","contactPoint":[{"@type":"ContactPoint","telephone":"+84913286293","contactType":"customer service","areaServed":"VN","availableLanguage":["Vietnamese"]}],"address":{"@type":"PostalAddress","streetAddress":"Tổ 17 , P. Linh Sơn, T. Thái Nguyên - VP: 202 đường Thồng Nhất, P. Phan Đình Phùng, T. Thái Nguyên","addressCountry":"VN"},"taxID":"8074908961- 001"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://anninhthainguyen.vn/"},{"@type":"ListItem","position":2,"name":"Tin tức","item":"https://anninhthainguyen.vn/tin-tuc/"},{"@type":"ListItem","position":3,"name":"Tin tức công ty","item":"https://anninhthainguyen.vn/tin-tuc-cong-ty/"},{"@type":"ListItem","position":4,"name":"Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera","item":"https://anninhthainguyen.vn/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/"}]}]}</script>
+  <!-- seo:end -->
+</head>
+<body>
+<header class="site-header" id="js-site-header">
+  <div class="site-header__top">
+    <div class="container site-header__top-inner">
+      <div class="site-header__hotlines">
+        <a class="site-header__pill" href="tel:0913286293">
+          <svg class="site-header__pill-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" aria-hidden="true">
+            <path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1L6.6 10.8z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+          </svg>
+          <span>Hotline 0913.286.293</span>
+        </a>
+      </div>
+      <nav class="site-header__top-links" aria-label="Liên kết nhanh">
+        <a class="site-header__top-link" href="/tin-tuc/">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" aria-hidden="true">
+            <path d="M4 5h16v12H9l-4 3V5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+            <path d="M7 9h10M7 12h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <span>Tin tức nổi bật</span>
+        </a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="site-header__main">
+    <div class="container site-header__main-inner">
+          <div class="site-header__row1">
+      <a class="site-header__logo" href="/" aria-label="AN NGUYÊN TECHCONS SERVICES - về trang chủ">
+        <img src="assets/images/logo.png" alt="AN NGUYÊN TECHCONS SERVICES" width="160" height="50">
+      </a>
+
+      <form class="site-header__search" role="search" action="/tim-kiem/">
+        <input class="site-header__search-input" type="search" name="q" placeholder="Bạn cần tìm gì?" autocomplete="off">
+        <button class="site-header__search-btn" type="submit" aria-label="Tìm kiếm">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" stroke="#fff" stroke-width="2"/>
+            <path d="M21 21l-4.3-4.3" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </form>
+
+      <button type="button" class="site-header__mobile-toggle" id="js-mobile-toggle" aria-label="Mở menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" aria-hidden="true">
+      <path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+  </button>
+      <div class="site-header__right">
+        <a class="site-header__right-item site-header__hotline-block" href="tel:0913286293">
+          <svg class="site-header__right-icon" viewBox="0 0 24 24" width="22" height="22" fill="none" aria-hidden="true">
+            <path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1L6.6 10.8z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+          </svg>
+          <span class="site-header__hotline-numbers">
+            <span>0913.286.293</span>
+          </span>
+        </a>
+
+        <a class="site-header__right-item site-header__cart" href="/gio-hang/">
+          <span class="site-header__cart-icon-wrap">
+            <svg class="site-header__right-icon" viewBox="0 0 24 24" width="22" height="22" fill="none" aria-hidden="true">
+              <path d="M3 4h2l2.4 11.4a2 2 0 002 1.6h7.7a2 2 0 002-1.6L21 8H6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="10" cy="20" r="1.4" fill="currentColor"/>
+              <circle cx="17" cy="20" r="1.4" fill="currentColor"/>
+            </svg>
+            <span class="site-header__cart-count" id="js-cart-count">0</span>
+          </span>
+          <span class="site-header__right-label">Giỏ hàng</span>
+        </a>
+      </div>
+
+      </div>
+          <div class="site-header__row2">
+          <div class="site-header__category" id="js-category-menu">
+        <button type="button" class="site-header__category-btn" id="js-category-btn" aria-haspopup="true" aria-expanded="false">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" aria-hidden="true">
+            <path d="M4 6h16M4 12h16M4 18h16" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <span>Danh mục sản phẩm</span>
+        </button>
+
+        <div class="category-menu" id="js-category-panel-wrap" aria-label="Danh mục sản phẩm">
+          <ul class="category-menu__list" id="js-category-list"></ul>
+          <div class="category-menu__panel" id="js-category-panel"></div>
+        </div>
+      </div>
+
+      <nav class="site-header__utility" aria-label="Tiện ích">
+        <a class="site-header__utility-item" href="/giao-lap-chuyen-nghiep/">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true">
+            <path d="M3 13l2-7h14l2 7M5 13h14v6a1 1 0 01-1 1H6a1 1 0 01-1-1v-6z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+            <circle cx="8" cy="17" r="1.2" fill="currentColor"/>
+            <circle cx="16" cy="17" r="1.2" fill="currentColor"/>
+          </svg>
+          <span>Giao lắp chuyên nghiệp</span>
+        </a>
+        <a class="site-header__utility-item" href="/chinh-sach-doi-tra-hang/">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true">
+            <path d="M4 7l4-4 4 4M8 3v12M20 17l-4 4-4-4M16 21V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Chính sách đổi trả</span>
+        </a>
+        <a class="site-header__utility-item" href="/chinh-sach-giao-hang/">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true">
+            <path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+            <circle cx="7.5" cy="18.5" r="1.4" stroke="currentColor" stroke-width="1.4"/>
+            <circle cx="17.5" cy="18.5" r="1.4" stroke="currentColor" stroke-width="1.4"/>
+          </svg>
+          <span>Chính sách giao hàng</span>
+        </a>
+        <a class="site-header__utility-item" href="/san-pham-da-xem/">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true">
+            <path d="M2 12s3.6-6.5 10-6.5S22 12 22 12s-3.6 6.5-10 6.5S2 12 2 12z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+            <circle cx="12" cy="12" r="2.6" stroke="currentColor" stroke-width="1.5"/>
+          </svg>
+          <span>Sản phẩm đã xem</span>
+        </a>
+      </nav>
+        </div>
+    </div>
+  </div>
+
+</header>
+
+<nav class="global-breadcrumb" aria-label="Breadcrumb">
+  <div class="container">
+    <ol class="global-breadcrumb__list">
+      <li class="global-breadcrumb__item"><a class="global-breadcrumb__link" href="/">Trang chủ</a></li>
+      <li class="global-breadcrumb__item"><a class="global-breadcrumb__link" href="/tin-tuc/">Tin tức</a></li>
+      <li class="global-breadcrumb__item"><a class="global-breadcrumb__link" href="/tin-tuc-cong-ty/">Tin tức công ty</a></li>
+    </ol>
+  </div>
+</nav>
+
+<main class="article-page">
+  <div class="container article-page__layout">
+    <article class="article-detail">
+      <a class="article-detail__cat" href="/tin-tuc-cong-ty/">Tin tức công ty</a>
+      <h1 class="article-detail__title">Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera</h1>
+      <div class="article-detail__meta">
+        <time class="news-date" datetime="2026-11-12"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>12/11/2026</span></time>
+        <span>AN NGUYÊN TECHCONS SERVICES</span>
+      </div>
+      <p class="article-detail__summary">Giải pháp camera an ninh giao thông toàn diện do An Nguyên Camera cung cấp, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật khắt khe của Bộ Công an. Nội dung tập trung vào các yêu cầu về độ phân giải, khả năng nhận diện biển số AI, an ninh mạng và độ bền thiết bị. Giải pháp bao gồm hệ thống camera đa dạng (PTZ, ANPR, đo tốc độ) cùng trung tâm điều hành hiện đại, đảm bảo giám sát hiệu quả 24/7. An Nguyên Camera cam kết cung cấp thiết bị chính hãng, tư vấn linh hoạt và hỗ trợ kỹ thuật trọn gói cho các đơn vị công an</p>
+      <img class="article-detail__cover" src="assets/img/posts/giai-phap-camera-an-ninh-giao-thong-chuan-bo-cong-an-tieu-chuan-kien-truc-va-trien-khai-tu-an-nguyen-camera/cover.jpg" alt="Giải Pháp Camera An Ninh Giao Thông Chuẩn Bộ Công An: Tiêu Chuẩn, Kiến Trúc và Triển Khai Từ An Nguyên Camera">
+      <div class="article-detail__content">
+<nav class="article-toc" aria-label="Mục lục">
+        <p class="article-toc__title">Mục lục</p>
+        <ol class="article-toc__list">
+          <li><a href="#muc-1">1. Đặt vấn đề: Y&ecirc;u cầu cấp thiết từ h&agrave;nh lang ph&aacute;p l&yacute; mới trong gi&aacute;m s&aacute;t giao th&ocirc;ng</a></li>
+          <li><a href="#muc-2">2. Ti&ecirc;u ch&iacute; kỹ thuật khắt khe của Bộ C&ocirc;ng an đối với hệ thống camera giao th&ocirc;ng</a></li>
+          <li><a href="#muc-3">3. Kiến tr&uacute;c giải ph&aacute;p camera an ninh giao th&ocirc;ng to&agrave;n diện từ An Nguy&ecirc;n Camera</a></li>
+          <li><a href="#muc-4">4. H&igrave;nh ảnh minh họa v&agrave; m&ocirc; phỏng thực tế giải ph&aacute;p</a></li>
+          <li><a href="#muc-5">5. Lợi &iacute;ch khi lựa chọn giải ph&aacute;p của An Nguy&ecirc;n Camera</a></li>
+        </ol>
+      </nav>
+<h2 id="muc-1">1. Đặt vấn đề: Y&ecirc;u cầu cấp thiết từ h&agrave;nh lang ph&aacute;p l&yacute; mới trong gi&aacute;m s&aacute;t giao th&ocirc;ng</h2>
+<p id="p-rc_d71aa883b1f5d3f5-54" dir="ltr" data-path-to-node="3"><span class="citation-174 citation-end-174">Trong giai đoạn chuyển đổi số mạnh mẽ của lực lượng C&ocirc;ng an nh&acirc;n d&acirc;n, hệ thống camera gi&aacute;m s&aacute;t, chỉ huy điều h&agrave;nh giao th&ocirc;ng v&agrave; đảm bảo an ninh trật tự (ANTT) đ&oacute;ng vai tr&ograve; l&agrave; "mắt thần" kh&ocirc;ng thể thiếu.<sup class="superscript" data-turn-source-index="1"><!----></sup></span> <span class="citation-173">Đặc biệt, sự ra đời của c&aacute;c khung ph&aacute;p l&yacute; ti&ecirc;n tiến như </span><strong class="" data-path-to-node="3" data-index-in-node="259"><span class="citation-173">Quy chuẩn kỹ thuật quốc gia QCVN 11:2026/BCA</span></strong><span class="citation-173 citation-end-173"> (ban h&agrave;nh k&egrave;m theo Th&ocirc;ng tư của Bộ C&ocirc;ng an về an ninh mạng đối với thiết bị camera gi&aacute;m s&aacute;t Internet) c&ugrave;ng c&aacute;c ti&ecirc;u chuẩn kỹ thuật kiểm định khắt khe đối với camera AI nhận diện biển số, đo tốc độ đ&atilde; đặt ra y&ecirc;u cầu to&agrave;n diện cho c&aacute;c đơn vị cung cấp giải ph&aacute;p.<sup class="superscript" data-turn-source-index="2"><!----></sup></span></p>
+<p dir="ltr" data-path-to-node="4"><strong data-path-to-node="4" data-index-in-node="0">An Nguy&ecirc;n Camera</strong> tự h&agrave;o l&agrave; đơn vị ti&ecirc;n phong cung cấp hệ sinh th&aacute;i giải ph&aacute;p camera an ninh giao th&ocirc;ng chuy&ecirc;n dụng, đ&aacute;p ứng trọn vẹn c&aacute;c ti&ecirc;u chuẩn khắt khe nhất của Bộ C&ocirc;ng an, phục vụ hiệu quả c&ocirc;ng t&aacute;c tuần tra kiểm so&aacute;t, xử phạt nguội vi phạm giao th&ocirc;ng v&agrave; ph&ograve;ng chống tội phạm tr&ecirc;n kh&ocirc;ng gian số.</p>
+<h2 id="muc-2">2. Ti&ecirc;u ch&iacute; kỹ thuật khắt khe của Bộ C&ocirc;ng an đối với hệ thống camera giao th&ocirc;ng</h2>
+<p id="p-rc_d71aa883b1f5d3f5-55" dir="ltr" data-path-to-node="7"><span class="citation-172 citation-end-172">Để t&iacute;ch hợp v&agrave;o Trung t&acirc;m Chỉ huy C&ocirc;ng an c&aacute;c cấp, hệ thống camera giao th&ocirc;ng phải vượt qua c&aacute;c bộ chỉ ti&ecirc;u kỹ thuật nghi&ecirc;m ngặt theo ti&ecirc;u chuẩn quốc gia v&agrave; quy chuẩn của Bộ C&ocirc;ng an:<sup class="superscript" data-turn-source-index="3"><!----></sup></span></p>
+<ul dir="ltr" data-path-to-node="8">
+<li id="p-rc_d71aa883b1f5d3f5-56">
+<p dir="ltr" data-path-to-node="8,0,0"><strong class="" data-path-to-node="8,0,0" data-index-in-node="0"><span class="citation-171 citation-end-171">Chỉ ti&ecirc;u quang học v&agrave; xử l&yacute; h&igrave;nh ảnh:<sup class="superscript" data-turn-source-index="4"><!----></sup></span></strong></p>
+<ul dir="ltr" data-path-to-node="8,0,1">
+<li id="p-rc_d71aa883b1f5d3f5-57">
+<p id="p-rc_d71aa883b1f5d3f5-75" dir="ltr" data-path-to-node="8,0,1,0,0"><span class="citation-170">Độ ph&acirc;n giải tối thiểu từ </span><strong class="" data-path-to-node="8,0,1,0,0" data-index-in-node="26"><span class="citation-170">4MP trở l&ecirc;n</span></strong><span class="citation-170 citation-end-170">, tốc độ khung h&igrave;nh <sup class="superscript" data-turn-source-index="5"><!----></sup></span><span class="math-inline" data-math="\ge 25\text{ fps}" data-index-in-node="57">$\ge 25\text{ fps}$</span><span class="citation-169 citation-end-169"> để đảm bảo h&igrave;nh ảnh sắc n&eacute;t trong mọi điều kiện thời tiết.<sup class="superscript" data-turn-source-index="6"><!----></sup></span></p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-58">
+<p id="p-rc_d71aa883b1f5d3f5-76" dir="ltr" data-path-to-node="8,0,1,1,0"><span class="citation-168 citation-end-168">T&iacute;ch hợp c&ocirc;ng nghệ chống ngược s&aacute;ng thực (WDR <sup class="superscript" data-turn-source-index="7"><!----></sup></span><span class="math-inline" data-math="\ge 120\text{dB}" data-index-in-node="46">$\ge 120\text{dB}$</span><span class="citation-167 citation-end-167">), tự động c&acirc;n bằng trắng (AWB), b&ugrave; s&aacute;ng (AGC) v&agrave; đ&egrave;n hồng ngoại th&ocirc;ng minh tầm xa từ <sup class="superscript" data-turn-source-index="8"><!----></sup></span><span class="math-inline" data-math="50\text{m}" data-index-in-node="148">$50\text{m}$</span><span class="citation-166 citation-end-166"> đến <sup class="superscript" data-turn-source-index="9"><!----></sup></span><span class="math-inline" data-math="100\text{m}" data-index-in-node="163">$100\text{m}$</span><span class="citation-165 citation-end-165">, cho ph&eacute;p nhận diện r&otilde; danh t&iacute;nh người l&aacute;i v&agrave; biển số cả ng&agrave;y lẫn đ&ecirc;m.<sup class="superscript" data-turn-source-index="10"><!----></sup></span></p>
+</li>
+</ul>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-59">
+<p id="p-rc_d71aa883b1f5d3f5-73" dir="ltr" data-path-to-node="8,1,0"><strong class="" data-path-to-node="8,1,0" data-index-in-node="0"><span class="citation-164 citation-end-164">Hiệu năng AI v&agrave; nhận diện chuy&ecirc;n dụng:<sup class="superscript" data-turn-source-index="11"><!----></sup></span></strong></p>
+<ul dir="ltr" data-path-to-node="8,1,1">
+<li id="p-rc_d71aa883b1f5d3f5-60">
+<p id="p-rc_d71aa883b1f5d3f5-77" dir="ltr" data-path-to-node="8,1,1,0,0"><span class="citation-163 citation-end-163">Khả năng chụp h&igrave;nh r&otilde; n&eacute;t phương tiện di chuyển với vận tốc từ <sup class="superscript" data-turn-source-index="12"><!----></sup></span><span class="math-inline" data-math="0" data-index-in-node="63">$0$</span><span class="citation-162 citation-end-162"> đến <sup class="superscript" data-turn-source-index="13"><!----></sup></span><span class="math-inline" data-math="180\text{km/h}" data-index-in-node="69">$180\text{km/h}$</span><span class="citation-161 citation-end-161"> (đối với camera gi&aacute;m s&aacute;t th&ocirc;ng thường) v&agrave; l&ecirc;n tới <sup class="superscript" data-turn-source-index="14"><!----></sup></span><span class="math-inline" data-math="320\text{km/h}" data-index-in-node="134">$320\text{km/h}$</span><span class="citation-160 citation-end-160"> (đối với camera đo tốc độ chuy&ecirc;n dụng).<sup class="superscript" data-turn-source-index="15"><!----></sup></span></p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-61">
+<p id="p-rc_d71aa883b1f5d3f5-78" dir="ltr" data-path-to-node="8,1,1,1,0"><span class="citation-159 citation-end-159">Tỷ lệ nhận dạng biển số ch&iacute;nh x&aacute;c đạt <sup class="superscript" data-turn-source-index="16"><!----></sup></span><strong class="" data-path-to-node="8,1,1,1,0" data-index-in-node="38"><span class="math-inline" data-math="\ge 93\%" data-index-in-node="38">$\ge 93\%$</span><span class="citation-158"> ban ng&agrave;y</span></strong><span class="citation-158 citation-end-158"> v&agrave; <sup class="superscript" data-turn-source-index="17"><!----></sup></span><strong class="" data-path-to-node="8,1,1,1,0" data-index-in-node="59"><span class="math-inline" data-math="\ge 80\%" data-index-in-node="59">$\ge 80\%$</span><span class="citation-157"> ban đ&ecirc;m</span></strong><span class="citation-157 citation-end-157">.<sup class="superscript" data-turn-source-index="18"><!----></sup></span></p>
+</li>
+</ul>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-62">
+<p id="p-rc_d71aa883b1f5d3f5-74" dir="ltr" data-path-to-node="8,2,0"><strong class="" data-path-to-node="8,2,0" data-index-in-node="0"><span class="citation-156 citation-end-156">Ti&ecirc;u chuẩn an ninh mạng (QCVN / Th&ocirc;ng tư của Bộ C&ocirc;ng an):<sup class="superscript" data-turn-source-index="19"><!----></sup></span></strong></p>
+<ul dir="ltr" data-path-to-node="8,2,1">
+<li id="p-rc_d71aa883b1f5d3f5-63">
+<p id="p-rc_d71aa883b1f5d3f5-79" dir="ltr" data-path-to-node="8,2,1,0,0"><span class="citation-155 citation-end-155">Thiết bị kết nối Internet bắt buộc phải vượt qua c&aacute;c b&agrave;i kiểm tra an ninh mạng cơ bản, chống x&acirc;m nhập tr&aacute;i ph&eacute;p, m&atilde; h&oacute;a dữ liệu đường truyền, quản trị ph&acirc;n quyền chặt chẽ v&agrave; cơ chế cập nhật bản v&aacute; lỗ hổng bảo mật định kỳ.<sup class="superscript" data-turn-source-index="20"><!----></sup></span></p>
+</li>
+</ul>
+</li>
+<li>
+<p dir="ltr" data-path-to-node="8,3,0"><strong data-path-to-node="8,3,0" data-index-in-node="0">Độ bền cơ học ngo&agrave;i trời:</strong></p>
+<ul dir="ltr" data-path-to-node="8,3,1">
+<li id="p-rc_d71aa883b1f5d3f5-64">
+<p id="p-rc_d71aa883b1f5d3f5-80" dir="ltr" data-path-to-node="8,3,1,0,0"><span class="citation-154">Đạt chuẩn chống bụi/nước từ </span><strong class="" data-path-to-node="8,3,1,0,0" data-index-in-node="28"><span class="citation-154">IP66/IP67</span></strong><span class="citation-154"> trở l&ecirc;n v&agrave; chuẩn chống va đập </span><strong class="" data-path-to-node="8,3,1,0,0" data-index-in-node="68"><span class="citation-154">IK08</span></strong><span class="citation-154 citation-end-154">, hoạt động ổn định trong dải nhiệt độ rộng từ <sup class="superscript" data-turn-source-index="21"><!----></sup></span><span class="math-inline" data-math="0^\circ\text{C}" data-index-in-node="119">$0^\circ\text{C}$</span><span class="citation-153 citation-end-153"> đến <sup class="superscript" data-turn-source-index="22"><!----></sup></span><span class="math-inline" data-math="55^\circ\text{C}" data-index-in-node="139">$55^\circ\text{C}$</span><span class="citation-152 citation-end-152"> (hoặc <sup class="superscript" data-turn-source-index="23"><!----></sup></span><span class="math-inline" data-math="-30^\circ\text{C}" data-index-in-node="162">$-30^\circ\text{C}$</span><span class="citation-151 citation-end-151"> đến <sup class="superscript" data-turn-source-index="24"><!----></sup></span><span class="math-inline" data-math="+60^\circ\n" data-index-in-node="184">$+60^\circ\n$</span><span class="citation-150 citation-end-150"> t&ugrave;y m&ocirc;i trường).<sup class="superscript" data-turn-source-index="25"><!----></sup></span></p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="muc-3">3. Kiến tr&uacute;c giải ph&aacute;p camera an ninh giao th&ocirc;ng to&agrave;n diện từ An Nguy&ecirc;n Camera</h2>
+<p dir="ltr" data-path-to-node="11">Giải ph&aacute;p do An Nguy&ecirc;n Camera cung cấp được thiết kế theo m&ocirc; h&igrave;nh mở, dễ d&agrave;ng đồng bộ với hạ tầng cơ sở dữ liệu quốc gia về d&acirc;n cư v&agrave; hệ thống điều h&agrave;nh của Cục Cảnh s&aacute;t giao th&ocirc;ng.</p>
+<p><!----><!----><!----><!----><!----><!----><!----><!----></p>
+<div class="code-block ng-tns-c4098799382-23 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation" data-hveid="0" data-ved="0CAAQhtANahgKEwj2utXwxoKYAxUAAAAAHQAAAAAQqwE"><!---->
+<div class="formatted-code-block-internal-container ng-tns-c4098799382-23">
+<div class="animated-opacity ng-tns-c4098799382-23"><!---->
+<pre class="ng-tns-c4098799382-23"><code class="code-container formatted ng-tns-c4098799382-23 no-decoration-radius" role="text" data-test-id="code-content">[Hệ thống Camera AI ngo&agrave;i trời (PTZ, ANPR, Speed Cam)]
+                         │
+                         ▼ (M&atilde; h&oacute;a đường truyền an ninh mạng)
+[Hạ tầng truyền dẫn chuy&ecirc;n dụng &amp; Thiết bị bi&ecirc;n (Edge Storage)]
+                         │
+                         ▼
+[Trung t&acirc;m Chỉ huy C&ocirc;ng an (Server lưu trữ AI, Đầu ghi 4K, Tường lửa)]
+                         │
+                         ▼
+[Giao diện quản trị th&ocirc;ng minh (Smart Client / App gi&aacute;m s&aacute;t 24/7)]
+</code></pre>
+<!----></div>
+</div>
+</div>
+<p><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></p>
+<h3 dir="ltr" data-path-to-node="13">3.1. Ph&acirc;n hệ thiết bị đầu cuối (Front-end Devices)</h3>
+<ul dir="ltr" data-path-to-node="14">
+<li id="p-rc_d71aa883b1f5d3f5-65">
+<p id="p-rc_d71aa883b1f5d3f5-81" dir="ltr" data-path-to-node="14,0,0"><strong class="" data-path-to-node="14,0,0" data-index-in-node="0"><span class="citation-149 citation-end-149">Camera Nhận dạng biển số (ANPR Camera):<sup class="superscript" data-turn-source-index="26"><!----></sup></span></strong> Chuy&ecirc;n lắp đặt tại c&aacute;c tuyến đường huyết mạch, cổng ra v&agrave;o đ&ocirc; thị để tự động tr&iacute;ch xuất biển số, m&agrave;u sơn, chủng loại xe v&agrave; ph&aacute;t hiện xe giả, xe stolen.</p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-66">
+<p id="p-rc_d71aa883b1f5d3f5-82" dir="ltr" data-path-to-node="14,1,0"><strong class="" data-path-to-node="14,1,0" data-index-in-node="0"><span class="citation-148 citation-end-148">Camera Quay qu&eacute;t hồng ngoại PTZ (Pan/Tilt/Zoom):<sup class="superscript" data-turn-source-index="27"><!----></sup></span></strong> <span class="citation-147 citation-end-147">Đặt tại c&aacute;c ng&atilde; tư lớn, quảng trường, cho ph&eacute;p zoom quang học <sup class="superscript" data-turn-source-index="28"><!----></sup></span><span class="math-inline" data-math="\ge 30\mathrm{X}" data-index-in-node="111">$\ge 30\mathrm{X}$</span><span class="citation-146 citation-end-146">, quan s&aacute;t to&agrave;n 360 độ, hỗ trợ lực lượng trực ban b&aacute;m s&aacute;t diễn biến phức tạp về ANTT.<sup class="superscript" data-turn-source-index="29"><!----></sup></span></p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-67">
+<p id="p-rc_d71aa883b1f5d3f5-83" dir="ltr" data-path-to-node="14,2,0"><strong class="" data-path-to-node="14,2,0" data-index-in-node="0"><span class="citation-145 citation-end-145">Camera Đo tốc độ chuy&ecirc;n dụng (Speed Camera):<sup class="superscript" data-turn-source-index="30"><!----></sup></span></strong> T&iacute;ch hợp Radar/Laser đo dải tốc độ từ <span class="math-inline" data-math="8\text{km/h}" data-index-in-node="83">$8\text{km/h}$</span> đến <span class="math-inline" data-math="320\text{km/h}" data-index-in-node="100">$320\text{km/h}$</span> với sai số tối thiểu (<span class="math-inline" data-math="\pm 3\text{km/h}" data-index-in-node="137">$\pm 3\text{km/h}$</span>), tự động ghi h&igrave;nh l&agrave;m bằng chứng xử phạt &ldquo;nội bộ&rdquo; hoặc phạt nguội.</p>
+</li>
+</ul>
+<h3 dir="ltr" data-path-to-node="15">3.2. Ph&acirc;n hệ trung t&acirc;m v&agrave; lưu trữ (Back-end &amp; Storage)</h3>
+<ul dir="ltr" data-path-to-node="16">
+<li id="p-rc_d71aa883b1f5d3f5-68">
+<p id="p-rc_d71aa883b1f5d3f5-84" dir="ltr" data-path-to-node="16,0,0"><strong data-path-to-node="16,0,0" data-index-in-node="0">Hệ thống Server AI hiệu năng cao:</strong> <span class="citation-144 citation-end-144">Xử l&yacute; đồng thời h&agrave;ng trăm k&ecirc;nh camera, ph&acirc;n t&iacute;ch h&agrave;nh vi vi phạm (vượt đ&egrave;n đỏ, đi ngược chiều, sai l&agrave;n đường, dừng đỗ tr&aacute;i ph&eacute;p).<sup class="superscript" data-turn-source-index="31"><!----></sup></span></p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-69">
+<p id="p-rc_d71aa883b1f5d3f5-85" dir="ltr" data-path-to-node="16,1,0"><strong data-path-to-node="16,1,0" data-index-in-node="0">Hệ thống lưu trữ tập trung (SAN/NAS):</strong> <span class="citation-143 citation-end-143">Đ&aacute;p ứng lưu trữ dữ liệu h&igrave;nh ảnh chuẩn Full HD/4K li&ecirc;n tục từ 20 đến 30 ng&agrave;y theo đ&uacute;ng quy định ph&aacute;p luật.<sup class="superscript" data-turn-source-index="32"><!----></sup></span></p>
+</li>
+<li id="p-rc_d71aa883b1f5d3f5-70">
+<p id="p-rc_d71aa883b1f5d3f5-86" dir="ltr" data-path-to-node="16,2,0"><strong data-path-to-node="16,2,0" data-index-in-node="0">Bảo mật tuyệt đối:</strong> <span class="citation-142 citation-end-142">T&iacute;ch hợp tường lửa cứng, giao thức ONVIF Profile G, S, T bảo mật v&agrave; cơ chế x&aacute;c thực đa lớp, v&ocirc; hiệu h&oacute;a c&aacute;c nguy cơ tấn c&ocirc;ng từ kh&ocirc;ng gian mạng.<sup class="superscript" data-turn-source-index="33"><!----></sup></span></p>
+</li>
+</ul>
+<h2 id="muc-4">4. H&igrave;nh ảnh minh họa v&agrave; m&ocirc; phỏng thực tế giải ph&aacute;p</h2>
+<blockquote dir="ltr" data-path-to-node="19">
+<p dir="ltr" data-path-to-node="19,0">[!NOTE]</p>
+<p dir="ltr" data-path-to-node="19,0">Dưới đ&acirc;y l&agrave; c&aacute;c h&igrave;nh ảnh minh họa m&ocirc; phỏng trực quan về sơ đồ bố tr&iacute; thiết bị, giao diện trung t&acirc;m điều h&agrave;nh v&agrave; thực tế triển khai ngo&agrave;i hiện trường của giải ph&aacute;p An Nguy&ecirc;n Camera:</p>
+</blockquote>
+<p><!----><!----><!----><!----><!----><!----><!----><!----></p>
+<div class="code-block ng-tns-c4098799382-24 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation" data-hveid="0" data-ved="0CAAQhtANahgKEwj2utXwxoKYAxUAAAAAHQAAAAAQrAE"><!---->
+<div class="formatted-code-block-internal-container ng-tns-c4098799382-24">
+<div class="animated-opacity ng-tns-c4098799382-24"><!---->
+<pre class="ng-tns-c4098799382-24"><code class="code-container formatted ng-tns-c4098799382-24 no-decoration-radius" role="text" data-test-id="code-content">+-------------------------------------------------------------------+
+|               SƠ ĐỒ BỐ TR&Iacute; CAMERA TẠI N&Uacute;T GIAO TH&Ocirc;NG               |
+|                                                                   |
+|   [Camera PTZ 360&deg;]                 [Camera ANPR (Nhận diện biển)]|
+|        │                                         │                |
+|        └───────────────────┬─────────────────────┘                |
+|                            ▼                                      |
+|                 [Tủ kỹ thuật điện &amp; Thiết bị 4G/Switch]           |
+|                            │                                      |
+|                            ▼                                      |
+|             [Trung t&acirc;m Chỉ huy C&ocirc;ng an (M&agrave;n h&igrave;nh Video Wall)]     |
++-------------------------------------------------------------------+
+</code></pre>
+<!----></div>
+</div>
+</div>
+<p><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></p>
+<ul dir="ltr" data-path-to-node="21">
+<li>
+<p dir="ltr" data-path-to-node="21,0,0"><strong data-path-to-node="21,0,0" data-index-in-node="0">H&igrave;nh minh họa 1: Giao diện trực quan tại Ph&ograve;ng Trực ban C&ocirc;ng an</strong></p>
+<ul dir="ltr" data-path-to-node="21,0,1">
+<li>
+<p dir="ltr" data-path-to-node="21,0,1,0,0">M&agrave;n h&igrave;nh hiển thị đa luồng chia &ocirc; (1/4/9/16 khung h&igrave;nh) t&iacute;ch hợp phần mềm chuy&ecirc;n dụng tiếng Việt.</p>
+</li>
+<li>
+<p dir="ltr" data-path-to-node="21,0,1,1,0">Hệ thống tự động cảnh b&aacute;o bằng &acirc;m thanh v&agrave; khung đỏ khi ph&aacute;t hiện xe vi phạm tốc độ hoặc đối tượng nằm trong danh s&aacute;ch truy nộ (Blacklist).</p>
+</li>
+</ul>
+</li>
+<li>
+<p dir="ltr" data-path-to-node="21,1,0"><strong data-path-to-node="21,1,0" data-index-in-node="0">H&igrave;nh minh họa 2: Khả năng chụp đ&ecirc;m v&agrave; chống ngược s&aacute;ng thực</strong></p>
+<ul dir="ltr" data-path-to-node="21,1,1">
+<li>
+<p dir="ltr" data-path-to-node="21,1,1,0,0">H&igrave;nh ảnh phương tiện di chuyển ban đ&ecirc;m qua ống k&iacute;nh hồng ngoại th&ocirc;ng minh tầm xa <span class="math-inline" data-math="80\text{m}" data-index-in-node="81">$80\text{m}$</span> vẫn giữ nguy&ecirc;n độ n&eacute;t của k&yacute; tự tr&ecirc;n biển số, kh&ocirc;ng bị l&oacute;a s&aacute;ng bởi đ&egrave;n pha xe đối diện.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="muc-5">5. Lợi &iacute;ch khi lựa chọn giải ph&aacute;p của An Nguy&ecirc;n Camera</h2>
+<ol dir="ltr" start="1" data-path-to-node="24">
+<li id="p-rc_d71aa883b1f5d3f5-71">
+<p id="p-rc_d71aa883b1f5d3f5-87" dir="ltr" data-path-to-node="24,0,0"><strong data-path-to-node="24,0,0" data-index-in-node="0">Ph&aacute;p l&yacute; đồng bộ:</strong> <span class="citation-141 citation-end-141">Cam kết 100% thiết bị đạt chuẩn kỹ thuật quốc gia, đ&aacute;p ứng c&aacute;c th&ocirc;ng tư mới nhất của Bộ C&ocirc;ng an về an ninh mạng v&agrave; an to&agrave;n giao th&ocirc;ng.<sup class="superscript" data-turn-source-index="34"><!----></sup></span></p>
+</li>
+<li>
+<p dir="ltr" data-path-to-node="24,1,0"><strong data-path-to-node="24,1,0" data-index-in-node="0">Tối ưu chi ph&iacute; đầu tư:</strong> Tư vấn thiết kế cấu h&igrave;nh linh hoạt theo ng&acirc;n s&aacute;ch của địa phương hoặc đơn vị c&ocirc;ng an c&aacute;c cấp, dễ d&agrave;ng mở rộng quy m&ocirc; trong tương lai.</p>
+</li>
+<li>
+<p dir="ltr" data-path-to-node="24,2,0"><strong data-path-to-node="24,2,0" data-index-in-node="0">Hỗ trợ kỹ thuật 24/7:</strong> Đội ngũ kỹ sư chuy&ecirc;n m&ocirc;n cao từ An Nguy&ecirc;n Camera trực tiếp khảo s&aacute;t, lắp đặt, chuyển giao c&ocirc;ng nghệ v&agrave; bảo tr&igrave; định kỳ, đảm bảo hệ thống vận h&agrave;nh th&ocirc;ng suốt kh&ocirc;ng gi&aacute;n đoạn.</p>
+</li>
+</ol>
+      </div>
+      <div class="article-detail__cta">
+        <p><strong>Cần tư vấn chọn camera, thiết bị an ninh?</strong> Gọi ngay cho AN NGUYÊN TECHCONS SERVICES để được hỗ trợ miễn phí.</p>
+        <a class="article-detail__cta-btn" href="tel:0913286293">Hotline 0913.286.293</a>
+      </div>
+    </article>
+
+    <aside class="article-side" aria-label="Bài viết mới">
+      <div class="article-side__box">
+        <h2 class="article-side__heading">Bài viết mới</h2>
+        <ul class="article-side__list">
+          <li>
+            <a class="article-side__item" href="/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/">
+              <img src="assets/img/posts/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/cover.jpg" alt="" loading="lazy">
+              <span>
+                <span class="article-side__title">VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH</span>
+                <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a class="article-side__item" href="/an-ninh-thai-nguyen-chinh-thuc-ra-mat-website/">
+              <img src="assets/images/news-an-ninh-thai-nguyen-chinh-thuc-ra-mat-website.jpg" alt="" loading="lazy">
+              <span>
+                <span class="article-side__title">An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn</span>
+                <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a class="article-side__item" href="/cach-chon-vi-tri-lap-dat-camera-an-ninh/">
+              <img src="assets/images/news-cach-chon-vi-tri-lap-dat-camera-an-ninh.jpg" alt="" loading="lazy">
+              <span>
+                <span class="article-side__title">Cách chọn vị trí lắp đặt camera an ninh cho gia đình</span>
+                <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a class="article-side__item" href="/camera-ai-la-gi/">
+              <img src="assets/images/news-camera-ai-la-gi.jpg" alt="" loading="lazy">
+              <span>
+                <span class="article-side__title">Camera AI là gì? Những tính năng thông minh đáng chú ý</span>
+                <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a class="article-side__item" href="/kinh-nghiem-chon-camera-cho-gia-dinh/">
+              <img src="assets/images/news-kinh-nghiem-chon-camera-cho-gia-dinh.jpg" alt="" loading="lazy">
+              <span>
+                <span class="article-side__title">Kinh nghiệm chọn mua camera giám sát cho gia đình</span>
+                <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+
+  <section class="container article-related" aria-labelledby="related-title">
+    <h2 class="news-box__title" id="related-title">Bài viết liên quan</h2>
+    <div class="article-related__grid">
+        <article class="news-card">
+          <a class="news-card__img" href="/an-ninh-thai-nguyen-chinh-thuc-ra-mat-website/">
+            <img src="assets/images/news-an-ninh-thai-nguyen-chinh-thuc-ra-mat-website.jpg" alt="An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn" loading="lazy">
+          </a>
+          <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+          <h3 class="news-card__title"><a href="/an-ninh-thai-nguyen-chinh-thuc-ra-mat-website/">An Ninh Thái Nguyên chính thức ra mắt website anninhthainguyen.vn</a></h3>
+        </article>
+        <article class="news-card">
+          <a class="news-card__img" href="/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/">
+            <img src="assets/img/posts/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/cover.jpg" alt="VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH" loading="lazy">
+          </a>
+          <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+          <h3 class="news-card__title"><a href="/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/">VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH</a></h3>
+        </article>
+        <article class="news-card">
+          <a class="news-card__img" href="/cach-chon-vi-tri-lap-dat-camera-an-ninh/">
+            <img src="assets/images/news-cach-chon-vi-tri-lap-dat-camera-an-ninh.jpg" alt="Cách chọn vị trí lắp đặt camera an ninh cho gia đình" loading="lazy">
+          </a>
+          <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+          <h3 class="news-card__title"><a href="/cach-chon-vi-tri-lap-dat-camera-an-ninh/">Cách chọn vị trí lắp đặt camera an ninh cho gia đình</a></h3>
+        </article>
+        <article class="news-card">
+          <a class="news-card__img" href="/camera-ai-la-gi/">
+            <img src="assets/images/news-camera-ai-la-gi.jpg" alt="Camera AI là gì? Những tính năng thông minh đáng chú ý" loading="lazy">
+          </a>
+          <time class="news-date" datetime="2026-11-08"><svg class="news-date__icon" viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg><span>08/11/2026</span></time>
+          <h3 class="news-card__title"><a href="/camera-ai-la-gi/">Camera AI là gì? Những tính năng thông minh đáng chú ý</a></h3>
+        </article>
+    </div>
+  </section>
+</main>
+
+<section class="usp-bar" aria-label="Cam kết dịch vụ">
+  <div class="usp-bar__item">
+    <img class="usp-bar__icon" src="assets/images/usp-icon-payment.png" alt="" loading="lazy">
+    <div class="usp-bar__text">
+      <span class="usp-bar__title">THANH TOÁN TIỆN LỢI</span>
+      <span class="usp-bar__subtitle">Trả tiền mặt, chuyển khoản, trả góp 0%</span>
+    </div>
+  </div>
+  <div class="usp-bar__item">
+    <img class="usp-bar__icon" src="assets/images/usp-icon-truck.png" alt="" loading="lazy">
+    <div class="usp-bar__text">
+      <span class="usp-bar__title">GIAO HÀNG TOÀN QUỐC</span>
+      <span class="usp-bar__subtitle">Nhận hàng và thanh toán tiền tại nhà</span>
+    </div>
+  </div>
+  <div class="usp-bar__item">
+    <img class="usp-bar__icon" src="assets/images/usp-icon-support.png" alt="" loading="lazy">
+    <div class="usp-bar__text">
+      <span class="usp-bar__title">HỖ TRỢ NHIỆT TÌNH</span>
+      <span class="usp-bar__subtitle">Tư vấn, giải đáp mọi thắc mắc</span>
+    </div>
+  </div>
+  <div class="usp-bar__item">
+    <img class="usp-bar__icon" src="assets/images/usp-icon-trade.png" alt="" loading="lazy">
+    <div class="usp-bar__text">
+      <span class="usp-bar__title">ĐỔI TRẢ DỄ DÀNG</span>
+      <span class="usp-bar__subtitle">Đổi mới trong 30 ngày đầu</span>
+    </div>
+  </div>
+</section>
+
+<section class="newsletter" aria-label="Đăng ký nhận tin">
+  <div class="newsletter__inner">
+    <div class="newsletter__left">
+      <img class="newsletter__icon" src="assets/images/newsletter-icon-mail.png" alt="" loading="lazy">
+      <div>
+        <p class="newsletter__title">Đăng ký nhận tin</p>
+        <p class="newsletter__subtitle">Bạn vui lòng để lại Email để nhận thông tin khuyến mãi từ AN NGUYÊN TECHCONS SERVICES</p>
+      </div>
+    </div>
+    <div class="newsletter__right">
+      <form class="newsletter__form" id="js-newsletter-form" novalidate>
+        <input class="newsletter__input" type="email" id="js-email-newsletter" placeholder="Nhập email đăng ký nhận tin khuyến mãi" required>
+        <button class="newsletter__submit" type="submit" aria-label="Đăng ký nhận tin">
+          <span class="newsletter__submit-ring">
+            <img class="newsletter__submit-icon" src="assets/images/newsletter-icon-arrow.png" alt="" loading="lazy">
+          </span>
+        </button>
+      </form>
+      <p class="newsletter__message" id="js-newsletter-message" aria-live="polite"></p>
+    </div>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="site-footer__main container">
+    <div class="site-footer__col">
+      <h3 class="site-footer__title site-footer__brand"><a href="/" aria-label="AN NGUYÊN TECHCONS SERVICES - về trang chủ"><img src="assets/images/logo.png" alt="AN NGUYÊN TECHCONS SERVICES" width="164" height="48" loading="lazy"></a></h3>
+      <div class="site-footer__list">
+        <p class="site-footer__company">AN NGUYÊN TECHCONS SERVICES</p>
+        <p>Cung cấp giải pháp, lắp đặt thiết bị: &quot;An ninh bảo vệ - Thông tin liên lạc - Tin học&quot; Uy tín số 1 tại Thái Nguyên.</p>
+        <p class="site-footer__address">Địa chỉ: Tổ 17 , P. Linh Sơn, T. Thái Nguyên - VP: 202 đường Thồng Nhất, P. Phan Đình Phùng, T. Thái Nguyên</p>
+        <p class="site-footer__tax">MST: 8074908961- 001</p>
+        <a href="tel:0913286293">Hotline/Zalo: 0913.286.293</a>
+        <a href="mailto:annguyentechcons@gmail.com">Email: annguyentechcons@gmail.com</a>
+        <a href="https://anninhthainguyen.vn">Website: anninhthainguyen.vn</a>
+      </div>
+      <p class="site-footer__agent-link"><a href="/chinh-sach-dai-ly/">CHÍNH SÁCH ĐẠI LÝ</a></p>
+    </div>
+
+    <div class="site-footer__col">
+      <h3 class="site-footer__title">Chính sách</h3>
+      <div class="site-footer__list">
+        <a href="/chinh-sach-bao-mat/">Chính sách bảo mật</a>
+        <a href="/chinh-sach-bao-hanh/">Chính sách bảo hành</a>
+        <a href="/chinh-sach-giao-hang/">Chính sách giao hàng</a>
+        <a href="/chinh-sach-doi-tra-hang/">Chính sách đổi trả hàng</a>
+        <a href="/huong-dan-mua-hang/">Hướng dẫn mua hàng</a>
+        <a href="/hinh-thuc-thanh-toan/">Hình thức thanh toán</a>
+        <a href="/lien-he/">Liên hệ</a>
+      </div>
+    </div>
+
+    <div class="site-footer__col">
+      <h3 class="site-footer__title">Kết nối với chúng tôi</h3>
+      <div class="site-footer__social">
+        <a href="#" class="site-footer__social-icon" target="_blank" rel="nofollow noopener" aria-label="Instagram">
+          <img src="assets/images/social-instagram.png" alt="" width="41" height="41" loading="lazy">
+        </a>
+        <a href="#" class="site-footer__social-icon" target="_blank" rel="nofollow noopener" aria-label="YouTube">
+          <img src="assets/images/social-youtube.png" alt="" width="41" height="41" loading="lazy">
+        </a>
+      </div>
+    </div>
+
+    <div class="site-footer__col">
+      <h3 class="site-footer__title">Tin tức</h3>
+      <div class="site-footer__list">
+        <a href="/tin-tuc/">Tin tức – kiến thức</a>
+        <a href="/huong-dan/">Cẩm nang sử dụng</a>
+        <a href="/tuyen-dung-nhan-vien-ky-thuat/">Tin tuyển dụng</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="site-footer__copyright">
+    <p>Bản quyền thuộc về  An Nguyên Techcons Services</p>
+  </div>
+</footer>
+<div class="contact-stack">
+  <!-- messenger:hidden (tạm ẩn - mở lại: SHOW_MESSENGER = True trong scripts/site/apply_settings.py)
+  <a href="#" class="contact-stack__item contact-stack__item--messenger" aria-label="Chat Messenger">
+    <svg viewBox="0 0 48 48" width="28" height="28" aria-hidden="true">
+      <path fill="#fff" d="M24 4C13 4 4 12.4 4 23c0 5.9 2.9 11.2 7.4 14.7V44l6.8-3.7c1.9.5 3.9.8 5.8.8 11 0 20-8.4 20-19s-9-18-20-18Zm2 25.6-5.1-5.4-10 5.4L21.9 18l5.2 5.4 9.9-5.4L26 29.6Z"/>
+    </svg>
+  </a>
+  messenger:hidden -->
+  <a href="https://zalo.me/0913286293" class="contact-stack__item contact-stack__item--zalo" aria-label="Chat Zalo">
+    <span class="contact-stack__zalo-text">Zalo</span>
+  </a>
+  <a href="tel:0913286293" class="contact-stack__item contact-stack__item--phone" aria-label="Gọi hotline 0913.286.293">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+      <path fill="#df3333" d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1L6.6 10.8Z"/>
+    </svg>
+  </a>
+</div>
+
+<button type="button" class="back-to-top" id="js-back-to-top" aria-label="Lên đầu trang">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <path fill="currentColor" d="M12 5 5 12l1.4 1.4L11 8.8V19h2V8.8l4.6 4.6L19 12z"/>
+  </svg>
+</button>
+
+  <script src="js/data/menu-data.js" defer></script>
+  <script src="js/components/category-menu.js" defer></script>
+  <script src="js/components/header.js" defer></script>
+  <script src="js/components/cart.js" defer></script>
+  <script src="js/components/viewed.js" defer></script>
+  <script src="js/components/newsletter.js" defer></script>
+  <script src="js/components/floating.js" defer></script>
+  <script src="js/main.js" defer></script>
+</body>
+</html>
