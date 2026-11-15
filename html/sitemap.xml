@@ -3651,96 +3651,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://anninhthainguyen.vn/dahua/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-access-control/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-camera-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-camera-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-camera-ptz/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-camera-wifi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-chuong-cua-man-hinh/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-dau-ghi-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-dau-ghi-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-phu-kien-san-pham-khac/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-san-pham-du-an/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-switch/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm-bao-chay-co-day/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm-bao-chay-khong-day/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm-camera-bao-chay/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm-he-dia-chi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/dahua-wisualarm-he-thuong/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://anninhthainguyen.vn/dau-bao-khoi-hikvision-ds-pd1-smk-w/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
@@ -10091,79 +10001,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://anninhthainguyen.vn/hikvision/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-access-control/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-bao-dong/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-camera-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-camera-chuyen-dung/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-camera-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-camera-ptz/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-camera-wifi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-chuong-cua-man-hinh/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-dau-ghi-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-dau-ghi-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://anninhthainguyen.vn/hikvision-ds-2ce16d0t-ipf-2mp-1080p-20m-bullet-cctv-camera/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-luu-tru/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-man-hinh/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-phu-kien-san-pham-khac/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/hikvision-smart-q1-fhd-sh-ipb21qf-iw/</loc>
@@ -10184,11 +10024,6 @@
     <loc>https://anninhthainguyen.vn/hikvision-smart-u1-hd-sh-ivb01uef-iw/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/hikvision-switch/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/hinh-thuc-thanh-toan/</loc>
@@ -10516,104 +10351,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://anninhthainguyen.vn/imou/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/imou-camera/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/imou-dau-ghi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/imou-san-pham-khac/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://anninhthainguyen.vn/ipc-4300h/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-access-control/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-camera-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-camera-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-camera-ptz/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-camera-wifi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-dau-ghi-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-dau-ghi-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kabe-vision-switch/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision-camera-analog/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision-camera-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision-chuong-cua-man-hinh/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision-dau-ghi-ip/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/kbvision-phu-kien-san-pham-khac/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/khoa-chot-roi-hikvision-ds-k4t108/</loc>
@@ -13556,6 +13296,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://anninhthainguyen.vn/router-wifi-tplink-archer-bn800/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://anninhthainguyen.vn/router-wifi-tplink-archer-c1200-v3/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
@@ -13859,31 +13604,6 @@
     <loc>https://anninhthainguyen.vn/san-pham-khac-imou-the-nho-imou/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/sandisk/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/sandisk-ssd/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/sandisk-the-nho/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/seagate/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/seagate-o-cung/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/selfie-stick-gay-selfie/</loc>
@@ -14539,66 +14259,6 @@
     <loc>https://anninhthainguyen.vn/toi-uu-hoa-van-hanh-nha-hang-vai-tro-cot-loi-cua-he-thong-quan-ly-thoi-gian-nhan-su/</loc>
     <lastmod>2026-11-15</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-camera-wi-fi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-giai-phap-doanh-nghiep/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-mang-van-phong-soho/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-mesh-wi-fi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-modem-gateway/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-nha-thong-minh/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-phu-kien/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-router-wi-fi/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-thiet-bi-mo-rong-mang/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-wi-fi-adapter/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anninhthainguyen.vn/tp-link-wi-fi-di-dong/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://anninhthainguyen.vn/tplink-bo-kich-song-wifi-tl-wn781nd/</loc>

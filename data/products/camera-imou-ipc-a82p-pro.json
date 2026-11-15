@@ -2,7 +2,7 @@
   "slug": "camera-imou-ipc-a82p-pro",
   "name": "Camera Imou IPC-A82P-PRO",
   "categories": [
-    "imou-camera"
+    "camera-imou"
   ],
   "brand": "Imou",
   "sku": "IPC-A82P-PRO",
@@ -66,16 +66,7 @@
   "seo_description": "Camera wifi trong nhà quay quét 8.0MP • 8MP (4K), 1/2.7”Progressive CMOS, 15fps@ 8MP(3840×2160) • Chuẩn nén H.265",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Imou",
-      "/imou/"
-    ],
-    [
-      "Camera",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

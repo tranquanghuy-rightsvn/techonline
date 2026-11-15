@@ -2,7 +2,7 @@
   "slug": "camera-imou-ipc-ua7e-5m0t2-eu-fsp14",
   "name": "Camera Imou IPC-UA7E-5M0T2-EU/FSP14",
   "categories": [
-    "imou-camera"
+    "camera-imou"
   ],
   "brand": "Imou",
   "sku": "IPC-UA7E-5M0T2-EU/FSP14",
@@ -71,16 +71,7 @@
   "seo_description": "Camera Wifi PT Pin năng lượng mặt trời AURORA FullColor 5.0MP • 5.0 MP, 1/1.8”Progressive CMOS, 15fps@5MP(2880*1620) • Ống kính 3.6mm (89°), Chuẩn nén H.265",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Imou",
-      "/imou/"
-    ],
-    [
-      "Camera",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

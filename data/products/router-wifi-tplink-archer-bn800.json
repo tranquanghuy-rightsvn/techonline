@@ -1,0 +1,87 @@
+{
+  "slug": "router-wifi-tplink-archer-bn800",
+  "name": "Router Wi-Fi TP-Link ARCHER BN800 (Archer 8 Ultra)",
+  "categories": [
+    "router-modem"
+  ],
+  "brand": "TP-Link",
+  "sku": "ARCHER BN800",
+  "warranty": "24 tháng",
+  "stock": "Còn hàng",
+  "price": null,
+  "old_price": null,
+  "vat": false,
+  "images": [
+    "https://static.tp-link.com/upload/image-line/Archer_BN800_large_20260831033808d.png"
+  ],
+  "summary": [
+    "Trải Nghiệm Độ Tin Cậy Cực Cao Với Wi-Fi 8",
+    "Wi-Fi 8 Ba Băng Tần Tốc Độ 19 Gbps",
+    "18 Ăng-Ten Hiệu Năng Cao",
+    "Hỗ Trợ Các Gói Cước Internet Multi-Gig",
+    "Nâng Cao Hiệu Suất Dễ Dàng Cùng Trợ Lý AI Aireal"
+  ],
+  "offers": [],
+  "specs": [
+    [
+      "Mã sản phẩm",
+      "ARCHER BN800"
+    ],
+    [
+      "Thương hiệu",
+      "TP-Link"
+    ],
+    [
+      "Danh mục",
+      "Router Wi-Fi"
+    ],
+    [
+      "Chuẩn Wi-Fi",
+      "802.11bn/be/ax (6 GHz); 802.11bn/be/ax/ac/n/a (5 GHz); 802.11bn/be/ax/n/g/b (2.4 GHz)"
+    ],
+    [
+      "Tốc độ Wi-Fi",
+      "11.528 Mbps (6 GHz) + 5.764 Mbps (5 GHz) + 1.376 Mbps (2.4 GHz)"
+    ],
+    [
+      "Ăng-ten",
+      "18 ăng-ten hiệu năng cao"
+    ],
+    [
+      "Cổng Ethernet",
+      "1× 10 Gbps SFP+/RJ45 WAN/LAN; 1× 10 Gbps RJ45 WAN/LAN; 4× 2.5 Gbps LAN; 1× 1 Gbps LAN"
+    ],
+    [
+      "USB",
+      "1× USB 3.0"
+    ],
+    [
+      "Chế độ hoạt động",
+      "Router, Access Point, EasyMesh Agent"
+    ],
+    [
+      "VPN",
+      "OpenVPN, PPTP, L2TP, WireGuard"
+    ],
+    [
+      "Mã hóa Wi-Fi",
+      "WPA3, WPA2, WPA/WPA2-Enterprise (802.1x)"
+    ],
+    [
+      "Kích thước (R×S×C)",
+      "226 × 98 × 245,6 mm"
+    ]
+  ],
+  "description_html": "<p>Trải Nghiệm Độ Tin Cậy Cực Cao Với Wi-Fi 8</p><p>Wi-Fi 8 Ba Băng Tần Tốc Độ 19 Gbps</p><p>18 Ăng-Ten Hiệu Năng Cao</p><p>Hỗ Trợ Các Gói Cước Internet Multi-Gig</p><p>Nâng Cao Hiệu Suất Dễ Dàng Cùng Trợ Lý AI Aireal</p>",
+  "attrs": [
+    "TP-Link"
+  ],
+  "badge": "Mới ra mắt",
+  "featured": 0,
+  "seo_description": "Archer 8 Ultra — Router Wi-Fi 8 Ba Băng Tần BN19000. Độ tin cậy cực cao, kiến tạo trên chuẩn 802.11bn thế hệ mới.",
+  "keywords": "",
+  "focus_keyword": "",
+  "breadcrumb": null,
+  "created_at": "2026-11-15T00:00:00Z",
+  "updated_at": "2026-11-15T00:00:00Z"
+}

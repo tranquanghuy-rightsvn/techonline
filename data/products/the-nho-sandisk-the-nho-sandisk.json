@@ -2,7 +2,6 @@
   "slug": "the-nho-sandisk-the-nho-sandisk",
   "name": "Thẻ nhớ SanDisk",
   "categories": [
-    "sandisk-the-nho",
     "luu-tru-the-nho"
   ],
   "brand": "SanDisk",
@@ -50,16 +49,7 @@
   "seo_description": "Save time transferring media with SanDisk QuickFlow Technology [64GB-1TB] Pair with the SanDisk Professional PRO-READER SD and microSD for speeds up to 19OMB/S (sold separately) [128GB-1TB] (up to 17OMB/s for 64GB) Up to 13OMB/S write speeds for fast",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "SanDisk",
-      "/sandisk/"
-    ],
-    [
-      "Thẻ nhớ",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

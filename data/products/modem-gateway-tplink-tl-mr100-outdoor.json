@@ -2,7 +2,7 @@
   "slug": "modem-gateway-tplink-tl-mr100-outdoor",
   "name": "Modem / Gateway TP-Link TL-MR100-Outdoor",
   "categories": [
-    "tp-link-modem-gateway"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "TL-MR100-Outdoor",
@@ -49,16 +49,7 @@
   "seo_description": "Bộ Phát Wi-Fi Ngoài Trời 4G Tốc Độ 300 Mbps 4G LTE và Wi-Fi tốc độ cao: Hỗ trợ LTE lên đến 150 Mbps và Wi-Fi 2.4 GHz lên đến 300 Mbps.* Thiết kế ngoài trời bền bỉ: Kết nối ổn định với vỏ chống chịu thời tiết chuẩn IP65**, chống sét ±6kV và chống tĩnh",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Modem / Gateway",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

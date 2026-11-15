@@ -2,7 +2,7 @@
   "slug": "chuong-cua-man-hinh-dahua-dhi-vto6210b",
   "name": "Chuông cửa màn hình Dahua DHI-VTO6210B",
   "categories": [
-    "dahua-chuong-cua-man-hinh"
+    "chuong-cua-man-hinh-dahua"
   ],
   "brand": "Dahua",
   "sku": "DHI-VTO6210B",
@@ -51,16 +51,7 @@
   "seo_description": "• Camera độ phân giải 1 MP CMOS với góc quan sát 70° • Hỗ trợ quan sát ban đêm • Kết nối tới các smart phone qua phần mềm",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Chuông cửa màn hình",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

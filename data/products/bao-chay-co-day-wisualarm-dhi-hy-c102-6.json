@@ -2,7 +2,6 @@
   "slug": "bao-chay-co-day-wisualarm-dhi-hy-c102-6",
   "name": "Báo cháy có dây Wisualarm DHI-HY-C102-6",
   "categories": [
-    "dahua-wisualarm-bao-chay-co-day",
     "bao-chay-co-day"
   ],
   "brand": "Wisualarm",
@@ -49,16 +48,7 @@
   "seo_description": "Tủ báo cháy thường – 6 kênh Số vùng: 6 Số lượng thiết bị mỗi vùng: 25",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Báo cháy có dây",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

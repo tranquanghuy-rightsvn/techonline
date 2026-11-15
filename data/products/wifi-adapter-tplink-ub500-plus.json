@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-ub500-plus",
   "name": "Wi-Fi Adapter TP-Link UB500 PLUS",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "UB500 PLUS",
@@ -46,16 +46,7 @@
   "seo_description": "Bộ Chuyển Đổi USB Bluetooth Tầm Xa Bluetooth 5.4 — Cải thiện bảo mật và độ ổn định so với Bluetooth thế hệ trước.† Kết nối không dây – Cung cấp khả năng giao tiếp ổn định và tiện lợi giữa các thiết bị Bluetooth với PC hoặc laptop của bạn.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

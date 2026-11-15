@@ -2,7 +2,7 @@
   "slug": "router-wifi-tplink-tl-wr840n",
   "name": "Router Wi-Fi TP-Link TL-WR840N",
   "categories": [
-    "tp-link-router-wi-fi"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "TL-WR840N",
@@ -48,16 +48,7 @@
   "seo_description": "Tốc độ truyền Wi-Fi 300 Mbps lý tưởng cho các tác vụ đòi hỏi độ nhạy cao và công việc cơ bản trên cả hai băng tần Hỗ trợ 4 chế độ: Chế độ Router, Mở Rộng Sóng, Điểm Truy Cập và WISP Quyền Kiểm Soát của Phụ Huynh: Quản lý thời gian và phương thức thiế",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Router Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

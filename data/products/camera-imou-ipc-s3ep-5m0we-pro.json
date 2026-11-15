@@ -2,7 +2,7 @@
   "slug": "camera-imou-ipc-s3ep-5m0we-pro",
   "name": "Camera Imou IPC-S3EP-5M0WE-PRO",
   "categories": [
-    "imou-camera"
+    "camera-imou"
   ],
   "brand": "Imou",
   "sku": "IPC-S3EP-5M0WE-PRO",
@@ -89,16 +89,7 @@
   "seo_description": "• 5.0 MP 3K, 1/2.9”Progressive CMOS, 20fps@5MP(2880×1620) • Ống kính 2.8mm, H.265, chế độ ngày đêm(ICR), chống ngược sáng HDR • 4 chế độ ánh sáng ban đêm: Tự động, Hồng ngoại, Full Color và tắt.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Imou",
-      "/imou/"
-    ],
-    [
-      "Camera",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

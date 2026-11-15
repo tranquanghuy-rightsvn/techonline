@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-re505x",
   "name": "Thiết bị mở rộng mạng TP-Link RE505X",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "RE505X",
@@ -50,16 +50,7 @@
   "seo_description": "Bộ Mở Rộng Sóng Wi-Fi AX1500 RE505X được trang bị công nghệ Wi-Fi 6, thế hệ Wi-Fi mới nhất, cho tốc độ nhanh hơn, dung lượng lớn hơn, và giảm thiểu tắc nghẽn mạng. Tạo ra mạng Mesh bằng cách kết nối router TP-Link OneMesh™ để phủ sóng liền mạch toàn",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

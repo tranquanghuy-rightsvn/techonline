@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1008mp",
   "name": "Giải pháp doanh nghiệp TP-Link TL-SG1008MP",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "TL-SG1008MP",
@@ -49,16 +49,7 @@
   "seo_description": "Switch Để Bàn/ Gắn Tường 8 Cổng Gigabit với 8 Cổng PoE+ 8 cổng RJ45 10/100/1000Mbps Được trang bị 8 cổng hỗ trợ PoE+ để truyền dữ liệu và cấp nguồn qua một cáp",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

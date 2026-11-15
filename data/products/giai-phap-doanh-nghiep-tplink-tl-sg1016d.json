@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1016d",
   "name": "Giải pháp doanh nghiệp TP-Link TL-SG1016D",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "TL-SG1016D",
@@ -49,16 +49,7 @@
   "seo_description": "16-Port Gigabit Desktop/Rackmount Switch 16 10/100/1000Mbps ports Innovative energy-efficient technology saves power consumption",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

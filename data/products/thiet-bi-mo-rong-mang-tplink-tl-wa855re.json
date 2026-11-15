@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-tl-wa855re",
   "name": "Thiết bị mở rộng mạng TP-Link TL-WA855RE",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "TL-WA855RE",
@@ -50,16 +50,7 @@
   "seo_description": "Bộ mở rộng sóng Wi-Fi tốc độ 300Mbps Tăng độ phủ sóng Wi-Fi hiện tại của bạn mang đến kết nối nhanh chóng và đáng tin cậy cho các kết nối dây và Wi-Fi của bạn. Ăng ten ngoài giúp Wi-Fi nhanh hơn và đáng tin cậy hơn.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,7 @@
   "slug": "dau-ghi-analog-dahua-dh-xvr1b04-i-t",
   "name": "Đầu ghi Analog Dahua DH-XVR1B04-I/T",
   "categories": [
-    "dahua-dau-ghi-analog"
+    "dau-ghi-analog-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-XVR1B04-I/T",
@@ -86,16 +86,7 @@
   "seo_description": "• Đầu ghi hình 4 kênh đàm thoại 2 chiều, hỗ trợ camera HDCVI/TVI/AHD/Analog/IP • Hỗ trợ chuẩn nén AI Coding-ABR lưu trữ siêu tiết kiệm dung lượng • Hỗ trợ tối đa 4 kênh SMD Plus từ Camera Analog, hoặc 5 kênh SMD Plus từ Camera IP .",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Đầu ghi Analog",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

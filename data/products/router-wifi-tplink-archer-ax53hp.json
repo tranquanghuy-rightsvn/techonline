@@ -2,7 +2,7 @@
   "slug": "router-wifi-tplink-archer-ax53hp",
   "name": "Router Wi-Fi TP-Link ARCHER AX53HP",
   "categories": [
-    "tp-link-router-wi-fi"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER AX53HP",
@@ -51,16 +51,7 @@
   "seo_description": "Router Wi-Fi 6 Gigabit Băng Tần Kép AX3000 Tốc Độ Wi-Fi 6 Gigabit Thế Hệ Mới: 2402 Mbps trên băng tần 5 GHz và 574 Mbps trên băng tần 2.4 GHz đảm bảo truyền phát mượt mà hơn và tải xuống nhanh hơn. Kết Nối Nhiều Thiết Bị Hơn: Công nghệ OFDMA tăng cườ",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Router Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

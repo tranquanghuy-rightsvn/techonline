@@ -2,7 +2,7 @@
   "slug": "mesh-wifi-tplink-deco-e4",
   "name": "Mesh Wi-Fi TP-Link DECO E4",
   "categories": [
-    "tp-link-mesh-wi-fi"
+    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
   "sku": "DECO E4",
@@ -52,16 +52,7 @@
   "seo_description": "Hệ thống Wi-Fi Mesh Cho Gia Đình AC1200 Deco sử dụng một hệ thống các unit để đạt được vùng phủ sóng Wi-Fi toàn bộ ngôi nhà liền mạch — loại bỏ các khu vực tín hiệu yếu một lần và mãi mãi. Với Công nghệ Deco Mesh tiên tiến, các unit hoạt động cùng nh",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mesh Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

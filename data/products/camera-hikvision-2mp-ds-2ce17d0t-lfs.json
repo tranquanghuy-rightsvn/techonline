@@ -2,8 +2,7 @@
   "slug": "camera-hikvision-2mp-ds-2ce17d0t-lfs",
   "name": "Camera Hikvision 2MP DS-2CE17D0T-LFS",
   "categories": [
-    "camera-analog-hikvision",
-    "hikvision-camera-analog"
+    "camera-analog-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2CE17D0T-LFS",

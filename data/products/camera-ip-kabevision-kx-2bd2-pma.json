@@ -2,7 +2,7 @@
   "slug": "camera-ip-kabevision-kx-2bd2-pma",
   "name": "Camera IP KabeVision KX-2BD2-PMA",
   "categories": [
-    "kabe-vision-camera-ip"
+    "camera-wifi-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-2BD2-PMA",
@@ -53,16 +53,7 @@
   "seo_description": "GIÁ: 6,500,000 VND · 2-MP 1/2.8″ Sony Starvis image sensor, low luminance, and high definition image. · Outputs max. 2MP (1920×1080) @25/30fps.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

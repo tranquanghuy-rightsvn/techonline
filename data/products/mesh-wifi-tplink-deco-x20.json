@@ -2,7 +2,7 @@
   "slug": "mesh-wifi-tplink-deco-x20",
   "name": "Mesh Wi-Fi TP-Link DECO X20",
   "categories": [
-    "tp-link-mesh-wi-fi"
+    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
   "sku": "DECO X20",
@@ -52,16 +52,7 @@
   "seo_description": "Hệ thống Wi-Fi 6 Mesh cho Gia đình AX1800 Kết nối nhanh hơn: Wi-Fi 6 có tốc độ lên tới 1.800 Mbps—1.201 Mbps trên 5 GHz và 574 Mbps trên 2,4 GHz.† Kết nối nhiều thiết bị hơn: Công nghệ OFDMA và MU-MIMO tăng gấp bốn lần công suất để cho phép truyền đồ",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mesh Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

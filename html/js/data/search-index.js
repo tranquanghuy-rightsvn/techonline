@@ -22641,6 +22641,14 @@ const SEARCH_INDEX = [
 "discount": ""
 },
 {
+"name": "Router Wi-Fi TP-Link ARCHER BN800 (Archer 8 Ultra)",
+"href": "/router-wifi-tplink-archer-bn800/",
+"image": "https://static.tp-link.com/upload/image-line/Archer_BN800_large_20260831033808d.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
 "type": "post",
 "name": "Tối Ưu Hóa Vận Hành Nhà Hàng: Vai Trò Cốt Lõi Của Hệ Thống Quản Lý Thời Gian Nhân Sự",
 "href": "/toi-uu-hoa-van-hanh-nha-hang-vai-tro-cot-loi-cua-he-thong-quan-ly-thoi-gian-nhan-su/",

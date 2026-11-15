@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1005p",
   "name": "Giải pháp doanh nghiệp TP-Link TL-SG1005P",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "TL-SG1005P",
@@ -50,16 +50,7 @@
   "seo_description": "Switch Để bàn Gigabit 5 cổng với 4 cổng PoE+ 5 cổng RJ45 10/100/1000Mbps Với 4 cổng PoE+, chuyển dữ liệu và cấp nguồn chỉ trên một cáp",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

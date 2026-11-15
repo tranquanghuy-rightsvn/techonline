@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-re205",
   "name": "Thiết bị mở rộng mạng TP-Link RE205",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "RE205",
@@ -48,16 +48,7 @@
   "seo_description": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC750 Loại bỏ vùng Wi-Fi “chết” với tín hiệu sóng Wi-Fi mở rộng mạnh mẽ với tốc độ kết hợp lên đến 750Mbps† Hoạt động trên cả băng tần 2.4GHz (300Mbps) và băng tần 5GHz (433Mbps) mang lại trải nghiệm Wi-Fi ổn định hơn†",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

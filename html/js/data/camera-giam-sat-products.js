@@ -168,12 +168,12 @@ const CAMERA_ICON_STRIP = [
   {
     "label": "Phụ kiện Hikvision",
     "href": "/phu-kien-hikvision/",
-    "image": "https://hikvision.vn/wp-content/uploads/2023/10/ds-ups-600.jpg"
+    "image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-M4300H.jpg"
   },
   {
     "label": "Camera Wifi TP-Link Tapo",
     "href": "/camera-wifi-tp-link-tapo/",
-    "image": "assets/img/products/camera-wifi-tplink-tapo-c660-kit/g01.jpg"
+    "image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max-plus/g01.jpg"
   }
 ];
 
@@ -277,6 +277,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-ip-dahua-dh-n42drz-pma.png",
         "href": "/camera-ip-dahua-dh-n42drz-pma/"
+      },
+      {
+        "name": "Camera IP Dahua DH-SD3C205DB-GNY-A-PV",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/01/DH-SD3C205DB-GNY-A-PV-1.png",
+        "href": "/camera-ip-dahua-dh-sd3c205db-gny-a-pv/"
+      },
+      {
+        "name": "Camera IP Dahua DH-IPC-HDW1230T2-A-VN",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/01/DH-IPC-HDW1230T2-A-VN-1.png",
+        "href": "/camera-ip-dahua-dh-ipc-hdw1230t2-a-vn/"
       }
     ]
   },
@@ -383,6 +401,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-wifi-dahua-dh-ipc-hdw1539da-saw-il.png",
         "href": "/camera-wifi-dahua-dh-ipc-hdw1539da-saw-il/"
+      },
+      {
+        "name": "Camera Wifi Dahua DH-IPC-HDW1339DA-SAW-IL",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/04/DH-IPC-HDW1339DA-SAW-IL-1.png",
+        "href": "/camera-wifi-dahua-dh-ipc-hdw1339da-saw-il/"
+      },
+      {
+        "name": "Camera Wifi Dahua DH-IPC-HFW1539DTK2-SAW-IL",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/04/1.png",
+        "href": "/camera-wifi-dahua-dh-ipc-hfw1539dtk2-saw-il/"
       }
     ]
   },
@@ -489,6 +525,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro.png",
         "href": "/camera-analog-dahua-dh-hac-hfw1249x-il-a-pro/"
+      },
+      {
+        "name": "Camera Analog Dahua DH-HAC-HFW1249X-A-PRO-VN",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DH-HAC-HFW1249XP-IL-A-PRO-0360B-DIP_Rendergraph_45Left-logo.png",
+        "href": "/camera-analog-dahua-dh-hac-hfw1249x-a-pro-vn/"
+      },
+      {
+        "name": "Camera Analog Dahua DH-HAC-HFW1249X-A-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DH-HAC-HFW1249XP-IL-A-PRO-0360B-DIP_Rendergraph_45Left-logo.png",
+        "href": "/camera-analog-dahua-dh-hac-hfw1249x-a-pro/"
       }
     ]
   },
@@ -594,6 +648,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-ptz-dahua-dh-sd29404db-gny-w.png",
         "href": "/camera-ptz-dahua-dh-sd29404db-gny-w/"
+      },
+      {
+        "name": "Camera PTZ Dahua DH-SD29404DB-GNY",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/sd14.png",
+        "href": "/camera-ptz-dahua-dh-sd29404db-gny/"
+      },
+      {
+        "name": "Camera PTZ Dahua DH-SD29204DB-GNY-W",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/sd14.png",
+        "href": "/camera-ptz-dahua-dh-sd29204db-gny-w/"
       }
     ]
   },
@@ -768,6 +840,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/dau-ghi-analog-dahua-dh-xvr1b04-i-t-vn.png",
         "href": "/dau-ghi-analog-dahua-dh-xvr1b04-i-t-vn/"
+      },
+      {
+        "name": "Đầu ghi Analog Dahua DH-XVR1B04-I/T",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_01_16589_748707296_crop.png",
+        "href": "/dau-ghi-analog-dahua-dh-xvr1b04-i-t/"
+      },
+      {
+        "name": "Đầu ghi Analog Dahua DH-XVR5232AN-5M-I3",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/11/1_0_01_01_16825_1084810437_crop.png",
+        "href": "/dau-ghi-analog-dahua-dh-xvr5232an-5m-i3/"
       }
     ]
   },
@@ -963,6 +1053,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/chuong-cua-man-hinh-dahua-dhi-vto2211g-wp.png",
         "href": "/chuong-cua-man-hinh-dahua-dhi-vto2211g-wp/"
+      },
+      {
+        "name": "Chuông cửa màn hình Dahua DHI-VTO2202F-P-S2",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2022/10/DHI-VTO2202F-P-S2.png",
+        "href": "/chuong-cua-man-hinh-dahua-dhi-vto2202f-p-s2/"
+      },
+      {
+        "name": "Chuông cửa màn hình Dahua DHI-VTO6210B",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2022/02/VTO6210B_BW.png",
+        "href": "/chuong-cua-man-hinh-dahua-dhi-vto6210b/"
       }
     ]
   },
@@ -1059,6 +1167,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/switch-dahua-dh-sf1008l.png",
         "href": "/switch-dahua-dh-sf1008l/"
+      },
+      {
+        "name": "Switch Dahua DH-CS4006-4ET2GT-36",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_20_11802_674015150_crop.png",
+        "href": "/switch-dahua-dh-cs4006-4et2gt-36/"
+      },
+      {
+        "name": "Switch Dahua DH-CS4005-4ET1GT-36",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/1_0_01_20_11804_674015154_crop.png",
+        "href": "/switch-dahua-dh-cs4005-4et1gt-36/"
       }
     ]
   },
@@ -1155,6 +1281,33 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/phu-kien-dahua-dh-pfm920i-6un1-c-cat6-ong-305m.png",
         "href": "/phu-kien-dahua-dh-pfm920i-6un1-c-cat6-ong-305m/"
+      },
+      {
+        "name": "Phụ kiện / Sản phẩm khác Dahua DH-PFM920I-6UN1-C (CAT6 đồng – 305m)",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/04/DH-PFM920I-6UN1-C.png",
+        "href": "/phu-kien-dahua-dh-pfm920i-6un1-c-cat6-dong-305m/"
+      },
+      {
+        "name": "Phụ kiện / Sản phẩm khác Dahua DH-PFM920I-5EUN-h (CAT5e – 305m)",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/04/DH-PFM920I-5EUN-h.png",
+        "href": "/phu-kien-dahua-dh-pfm920i-5eun-h-cat5e-305m/"
+      },
+      {
+        "name": "Phụ kiện / Sản phẩm khác Dahua DH-PFM920I-5EUN-m (CAT5e – 305m)",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/04/DH-PFM920I-5EUN-m.png",
+        "href": "/phu-kien-dahua-dh-pfm920i-5eun-m-cat5e-305m/"
       }
     ]
   },
@@ -1252,6 +1405,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/san-pham-du-an-dahua-en-nvr708ai.png",
         "href": "/san-pham-du-an-dahua-en-nvr708ai/"
+      },
+      {
+        "name": "Sản phẩm dự án Dahua EN-NVR716AI",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/06/NVR5216-EI_1.png",
+        "href": "/san-pham-du-an-dahua-en-nvr716ai/"
+      },
+      {
+        "name": "Sản phẩm dự án Dahua EN-NVR764AI",
+        "price": "Liên hệ",
+        "attrs": [
+          "Dahua"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/06/EN-NVR764AI.png",
+        "href": "/san-pham-du-an-dahua-en-nvr764ai/"
       }
     ]
   },
@@ -1359,6 +1530,96 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-wifi-imou-ipc-s3ep-3m0we-pro.png",
         "href": "/camera-wifi-imou-ipc-s3ep-3m0we-pro/"
+      },
+      {
+        "name": "Camera Imou IPC-A82P-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-A32P-PRO-.-IPC-A52P-PRO.png",
+        "href": "/camera-imou-ipc-a82p-pro/"
+      },
+      {
+        "name": "Camera Imou IPC-UA7E-5M0T2-EU/FSP14",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/IPC-UA7E-5M0T2-EU.FSP14-1.png",
+        "href": "/camera-imou-ipc-ua7e-5m0t2-eu-fsp14/"
+      },
+      {
+        "name": "Camera Imou IPC-SA70F-10M0T2-EU",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/IPC-SA70F-10M0T2-EU.png",
+        "href": "/camera-imou-ipc-sa70f-10m0t2-eu/"
+      },
+      {
+        "name": "Camera Imou IPC-K7F-5M1T-X",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/IPC-K7F-5M1T-X.png",
+        "href": "/camera-imou-ipc-k7f-5m1t-x/"
+      },
+      {
+        "name": "Camera Imou IPC-K7F-3M1T-X",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/IPC-K7F-3M1T-X.png",
+        "href": "/camera-imou-ipc-k7f-3m1t-x/"
+      },
+      {
+        "name": "Camera Imou IPC-S76DP-13M0N",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-S7UP-11M0WED.png",
+        "href": "/camera-imou-ipc-s76dp-13m0n/"
+      },
+      {
+        "name": "Camera Imou IPC-PS8E-5V0",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/PS8D.png",
+        "href": "/camera-imou-ipc-ps8e-5v0/"
+      },
+      {
+        "name": "Camera Imou IPC-PS8EP-3V0",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/PS8D.png",
+        "href": "/camera-imou-ipc-ps8ep-3v0/"
+      },
+      {
+        "name": "Camera Imou IPC-S3EP-5M0WE-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-F32FP-PRO.png",
+        "href": "/camera-imou-ipc-s3ep-5m0we-pro/"
+      },
+      {
+        "name": "Camera Imou IPC-S3EP-3M0WE-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "Imou"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/IPC-F32FP-PRO.png",
+        "href": "/camera-imou-ipc-s3ep-3m0we-pro/"
       }
     ]
   },
@@ -1595,6 +1856,15 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kbvision-kx-a4k8114n2.png",
         "href": "/dau-ghi-ip-kbvision-kx-a4k8114n2/"
+      },
+      {
+        "name": "Phụ kiện / Sản phẩm khác KBVision PROVMS",
+        "price": "Liên hệ",
+        "attrs": [
+          "KBVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2024/11/PROVMS.jpg",
+        "href": "/phu-kien-kbvision-provms/"
       }
     ]
   },
@@ -1612,6 +1882,114 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/product-cat1-kabevision.png",
         "href": "/camera-wifi-kabevision-kx-5ptw-d-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-7009P-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/KX-7009P-PMA-scaled.png",
+        "href": "/camera-ip-kabevision-kx-7009p-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-8BA2-DL-HSPMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/KX-8BA2-DL-HSPMA.png",
+        "href": "/camera-ip-kabevision-kx-8ba2-dl-hspma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-8D2-DL-HSPMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/KX-8D2-DL-HSPMA-01-scaled.jpg",
+        "href": "/camera-ip-kabevision-kx-8d2-dl-hspma/"
+      },
+      {
+        "name": "Camera IP KabeVision KM-5BAZ5-DL-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/KM-5BAZ5-DL-PMA-01.png-scaled.jpg",
+        "href": "/camera-ip-kabevision-km-5baz5-dl-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-2DAZ2-DL-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/05/KX-2DAZ2-DL-PMA-1.png",
+        "href": "/camera-ip-kabevision-kx-2daz2-dl-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-2BAZ2-DL-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/05/KX-2BAZ2-DL-PMA-1.png",
+        "href": "/camera-ip-kabevision-kx-2baz2-dl-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-2DV1-DL-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/AD2112CN-A.png",
+        "href": "/camera-ip-kabevision-kx-2dv1-dl-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-2BD2-PMA",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/09/DAi2204N-EAB.web_.png",
+        "href": "/camera-ip-kabevision-kx-2bd2-pma/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-SM4P-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/10/KX-SM4P-PRO.web_.png",
+        "href": "/camera-ip-kabevision-kx-sm4p-pro/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-CAiF4003SN-AB",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/06/Kabe-vision-KX-CAiF4003SN-AB.png",
+        "href": "/camera-ip-kabevision-kx-caif4003sn-ab/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-C4007CPN-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2025/06/KX-C4007CPN-PRO.png",
+        "href": "/camera-ip-kabevision-kx-c4007cpn-pro/"
+      },
+      {
+        "name": "Camera IP KabeVision KX-CAi4003N-PRO",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/Kabe-vision-KX-CAi4003N-PRO.png",
+        "href": "/camera-ip-kabevision-kx-cai4003n-pro/"
       }
     ]
   },
@@ -1794,6 +2172,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/camera-ptz-kabevision-kx-s44p.png",
         "href": "/camera-ptz-kabevision-kx-s44p/"
+      },
+      {
+        "name": "Camera PTZ KabeVision KX-S24P",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-S24P-.-KX-S44P-scaled.png",
+        "href": "/camera-ptz-kabevision-kx-s24p/"
+      },
+      {
+        "name": "Camera PTZ KabeVision KX-S5P",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/KX-S5P.png",
+        "href": "/camera-ptz-kabevision-kx-s5p/"
       }
     ]
   },
@@ -1890,6 +2286,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/camera-giam-sat/outbox/dau-ghi-ip-kabevision-kx-dai4k8832en3.png",
         "href": "/dau-ghi-ip-kabevision-kx-dai4k8832en3/"
+      },
+      {
+        "name": "Đầu ghi IP KabeVision KX-DAi4K8816EN3",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/S0201B-25-001-MEI_海外中性网络硬盘录像机NVR5816-EI（主板V1.00）_渲染图_45Left-logo.png",
+        "href": "/dau-ghi-ip-kabevision-kx-dai4k8816en3/"
+      },
+      {
+        "name": "Đầu ghi IP KabeVision KX-DAi4K8432EN3",
+        "price": "Liên hệ",
+        "attrs": [
+          "KabeVision"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/09/S0201B-25-001-MEI_海外中性网络硬盘录像机NVR5816-EI（主板V1.00）_渲染图_45Left-logo.png",
+        "href": "/dau-ghi-ip-kabevision-kx-dai4k8432en3/"
       }
     ]
   },
@@ -3787,6 +4201,15 @@ const CAMERA_CATEGORY_GROUPS = [
     "viewAllHref": "/phu-kien-hikvision/",
     "products": [
       {
+        "name": "Màn hình hiển thị hình ảnh Hikvision SH-M4300H",
+        "price": "Liên hệ",
+        "attrs": [
+          "Hikvision"
+        ],
+        "image": "https://hikvision.vn/wp-content/uploads/2024/03/SH-M4300H.jpg",
+        "href": "/man-hinh-may-tinh-hikvision-sh-m4300h/"
+      },
+      {
         "name": "Bộ lưu điện UPS Hikvision DS-UPS600",
         "price": "Liên hệ",
         "attrs": [
@@ -3821,6 +4244,24 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-5WF200CT-2N.jpg",
         "href": "/bo-thu-phat-song-khong-day-cho-thang-may-hikvision/"
+      },
+      {
+        "name": "Giá treo màn hình Hikvision",
+        "price": "1.005.000 đ",
+        "attrs": [
+          "Hikvision"
+        ],
+        "image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-DM4255W.jpg",
+        "href": "/gia-treo-man-hinh-hikvision/"
+      },
+      {
+        "name": "Màn hình chuyên dụng 55 inch Hikvision",
+        "price": "46.150.000 đ",
+        "attrs": [
+          "Hikvision"
+        ],
+        "image": "https://hikvision.vn/wp-content/uploads/2023/09/DS-D5055UC-C.jpeg",
+        "href": "/man-hinh-chuyen-dung-55-inch-hikvision/"
       },
       {
         "name": "Bản quyền phần mềm cho 1 thiết bị",
@@ -3938,34 +4379,6 @@ const CAMERA_CATEGORY_GROUPS = [
         ],
         "image": "https://hikvision.vn/wp-content/uploads/2018/07/sac-cho-chan-de-camera-chager-ezviz-500x500.jpg",
         "href": "/de-sac-cho-pin-charge/"
-      },
-      {
-        "name": "Phụ kiện DS-2907 ZJ Tripod Hikvision",
-        "price": "Liên hệ",
-        "attrs": [
-          "Hikvision"
-        ],
-        "image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2907-ZJ-500x500.jpg",
-        "href": "/ds-2907-zj-tripod-hikvision/"
-      },
-      {
-        "name": "Phụ kiện Hikvision DS-2TP31-3AUF",
-        "price": "Liên hệ",
-        "attrs": [
-          "Hikvision"
-        ],
-        "image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TP31B-3AUF-500x500.jpg",
-        "href": "/ds-2tp31-3auf/"
-      },
-      {
-        "name": "Phụ kiện Hikvision DS-2TP21B-6AVF/W",
-        "price": "Liên hệ",
-        "attrs": [
-          "8MP",
-          "Hikvision"
-        ],
-        "image": "https://hikvision.vn/wp-content/uploads/2020/04/DS-2TP21B-6AVF.W-500x500.jpg",
-        "href": "/ds-2tp21b-6avfw/"
       }
     ]
   },
@@ -3973,6 +4386,13 @@ const CAMERA_CATEGORY_GROUPS = [
     "title": "Camera Wifi TP-Link Tapo",
     "viewAllHref": "/camera-wifi-tp-link-tapo/",
     "products": [
+      {
+        "name": "Robot hút bụi và lau nhà với lực hút siêu mạnh 5300Pa + Dock tự động xả thông minh TP-Link Tapo RV30 Max Plus",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-rv30-max-plus/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-rv30-max-plus/"
+      },
       {
         "name": "Camera AI 4K An Ninh Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C660 KIT",
         "price": "Liên hệ",
@@ -4037,6 +4457,20 @@ const CAMERA_CATEGORY_GROUPS = [
         "href": "/camera-wifi-tplink-tapo-c310/"
       },
       {
+        "name": "Dải Đèn LED Dây Wi-Fi Thông Minh Đa Màu Sắc TP-Link Tapo L930-5",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-l930-5/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-l930-5/"
+      },
+      {
+        "name": "Bluetooth Music Receiver TP-Link HA100",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-ha100/g01.jpg",
+        "href": "/nha-thong-minh-tplink-ha100/"
+      },
+      {
         "name": "Kit Camera An Ninh Quay Quét Wi-Fi/4G LTE Năng Lượng Mặt Trời TP-Link Tapo C665G KIT",
         "price": "Liên hệ",
         "attrs": [
@@ -4090,6 +4524,13 @@ const CAMERA_CATEGORY_GROUPS = [
         "href": "/camera-wifi-tplink-tapo-d235/"
       },
       {
+        "name": "Khóa Cửa Thông Minh Nhận Diện Lòng Bàn Tay & Vân Tay TP-Link Tapo DL130",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/nha-thong-minh-tplink-tapo-dl130/g01.jpg",
+        "href": "/nha-thong-minh-tplink-tapo-dl130/"
+      },
+      {
         "name": "Kit Camera An Ninh 4G LTE Quay Quét Năng Lượng Mặt Trời TP-Link Tapo C615G KIT",
         "price": "Liên hệ",
         "attrs": [
@@ -4112,43 +4553,6 @@ const CAMERA_CATEGORY_GROUPS = [
         "attrs": [],
         "image": "assets/img/products/camera-wifi-tplink-tapo-c425-kit/g01.jpg",
         "href": "/camera-wifi-tplink-tapo-c425-kit/"
-      },
-      {
-        "name": "Solar-Powered Security Camera Kit TP-Link Tapo C410 KIT V2.20",
-        "price": "Liên hệ",
-        "attrs": [],
-        "image": "assets/img/products/camera-wifi-tplink-tapo-c410-kit-v2-20/g01.png",
-        "href": "/camera-wifi-tplink-tapo-c410-kit-v2-20/"
-      },
-      {
-        "name": "Outdoor Pan/Tilt Security Floodlight Camera TP-Link Tapo C710",
-        "price": "Liên hệ",
-        "attrs": [
-          "Quay quét",
-          "Ngoài trời"
-        ],
-        "image": "assets/img/products/camera-wifi-tplink-tapo-c710/g01.jpg",
-        "href": "/camera-wifi-tplink-tapo-c710/"
-      },
-      {
-        "name": "Camera Wi-Fi An Ninh 4K Quay Quét Ngoài Trời TP-Link Tapo C560WS",
-        "price": "Liên hệ",
-        "attrs": [
-          "8MP",
-          "Quay quét",
-          "Ngoài trời"
-        ],
-        "image": "assets/img/products/camera-wifi-tplink-tapo-c560ws/g01.jpg",
-        "href": "/camera-wifi-tplink-tapo-c560ws/"
-      },
-      {
-        "name": "Camera WiFi An Ninh Quay/Quét Ngoài trời TP-Link Tapo C530WS",
-        "price": "Liên hệ",
-        "attrs": [
-          "Ngoài trời"
-        ],
-        "image": "assets/img/products/camera-wifi-tplink-tapo-c530ws/g01.jpg",
-        "href": "/camera-wifi-tplink-tapo-c530ws/"
       }
     ]
   }

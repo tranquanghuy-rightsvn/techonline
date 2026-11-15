@@ -2,7 +2,7 @@
   "slug": "router-wifi-tplink-archer-ax56eu",
   "name": "Router Wi-Fi TP-Link ARCHER AX56EU",
   "categories": [
-    "tp-link-router-wi-fi"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER AX56EU",
@@ -49,16 +49,7 @@
   "seo_description": "Thông số kỹ thuật chính Tốc độ Wi-Fi: 2402 Mbps trên băng tần 5 GHz và 574 Mbps trên băng tần 2.4 GHz. Chuẩn kết nối: Wi-Fi 6 (802.11ax), hỗ trợ băng thông 160 MHz.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Router Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

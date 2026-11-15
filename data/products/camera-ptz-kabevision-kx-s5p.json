@@ -2,7 +2,7 @@
   "slug": "camera-ptz-kabevision-kx-s5p",
   "name": "Camera PTZ KabeVision KX-S5P",
   "categories": [
-    "kabe-vision-camera-ptz"
+    "camera-ptz-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-S5P",
@@ -53,16 +53,7 @@
   "seo_description": "Camera PoE quay quét ánh sáng kép báo động 3.0MP 1/2.8″ 5MP, H265+, 25/30fps@2560 × 1920 4 chế độ ánh sáng ban đêm",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera PTZ",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

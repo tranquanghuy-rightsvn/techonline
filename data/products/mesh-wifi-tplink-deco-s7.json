@@ -2,7 +2,7 @@
   "slug": "mesh-wifi-tplink-deco-s7",
   "name": "Mesh Wi-Fi TP-Link DECO S7",
   "categories": [
-    "tp-link-mesh-wi-fi"
+    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
   "sku": "DECO S7",
@@ -52,16 +52,7 @@
   "seo_description": "Hệ Thống Wi-Fi Mesh AC1900 Cho Gia Đình Tốc độ WiFi 1900 Mbps – Thỏa sức xem series yêu thích ở độ phân giải 4K với tổng tốc độ lên đến 1900 Mbps (600 Mbps trên băng tần 2.4 GHz và 1300 Mbps trên băng tần 5 GHz) nhờ công nghệ MU-MIMO 3×3.† ‡ Kết nối",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mesh Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

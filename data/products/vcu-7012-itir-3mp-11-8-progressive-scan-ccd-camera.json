@@ -2,8 +2,7 @@
   "slug": "vcu-7012-itir-3mp-11-8-progressive-scan-ccd-camera",
   "name": "3MP 1/1.8” Progressive Scan CCD Camera Hikvision VCU-7012-ITIR",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "VCU-7012-ITIR",

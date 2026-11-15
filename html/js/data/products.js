@@ -166,7 +166,7 @@ const PRODUCT_SECTIONS = [
       }
     ],
     "viewAllText": "Xem tất cả ›",
-    "viewAllHref": "/tp-link/",
+    "viewAllHref": "/thiet-bi-mang/",
     "products": [
       {
         "name": "Router Wi-Fi 7 TP-Link Archer GE230 băng tần kép BE3600",
@@ -312,7 +312,7 @@ const PRODUCT_SECTIONS = [
       }
     ],
     "viewAllText": "Xem tất cả ›",
-    "viewAllHref": "/dahua/",
+    "viewAllHref": "/cham-cong-kiem-soat-cua/",
     "products": [
       {
         "name": "Máy chấm công khuôn mặt Dahua DHI-ASI3214A-W màn hình 4.3 inch",
@@ -463,7 +463,7 @@ const PRODUCT_SECTIONS = [
       }
     ],
     "viewAllText": "Xem tất cả ›",
-    "viewAllHref": "/sandisk/",
+    "viewAllHref": "/thiet-bi-luu-tru/",
     "products": [
       {
         "name": "SSD SanDisk SDSSDA-240G-G26 2.5\" SATA 3, 240GB",

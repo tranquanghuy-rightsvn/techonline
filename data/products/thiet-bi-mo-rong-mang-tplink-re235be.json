@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-re235be",
   "name": "Thiết bị mở rộng mạng TP-Link RE235BE",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "RE235BE",
@@ -50,16 +50,7 @@
   "seo_description": "Bộ mở rộng sóng Wi-Fi 7 băng tần kép BE3600 Wi-Fi 7 băng tần kép 3.6 Gbps cực nhanh: 2882 Mbps (5 GHz) + 688 Mbps (2.4 GHz).† Multi-Link Operation (MLO): Tăng thông lượng, giảm độ trễ và cải thiện độ tin cậy cho các ứng dụng mới.△",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

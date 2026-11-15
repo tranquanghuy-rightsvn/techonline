@@ -2,7 +2,7 @@
   "slug": "phu-kien-tplink-ue306",
   "name": "Phụ kiện TP-Link UE306",
   "categories": [
-    "tp-link-phu-kien"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "UE306",
@@ -46,16 +46,7 @@
   "seo_description": "Bộ chuyển đổi USB 3.0 sang Ethernet Gigabit Giải pháp USB 3.0 và Gigabit đảm bảo truyền tải tốc độ cao nhất Cắm và Sử dụng ngay với Nintendo Switch, Windows 11/10/8.1, Mac OS và Linux OS",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Phụ kiện",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

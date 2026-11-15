@@ -2,7 +2,7 @@
   "slug": "phu-kien-tplink-uh9120c",
   "name": "Phụ kiện TP-Link UH9120C",
   "categories": [
-    "tp-link-phu-kien"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "UH9120C",
@@ -50,16 +50,7 @@
   "seo_description": "Hub USB Type-C 9 Cổng Hub USB-C 9 trong 1: UH9120C biến một cổng USB-C duy nhất thành 9 cổng với HDMI 4K@60Hz, Ethernet 1 Gbps, SD & microSD UHS-I, sạc nhanh 100W, 1 cổng dữ liệu USB-C và 3 cổng dữ liệu USB-A. Hiển thị đa phương tiện độ nét cực cao:",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Phụ kiện",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,6 @@
   "slug": "o-cung-seagate-st12000ve001",
   "name": "Ổ cứng Seagate ST12000VE001",
   "categories": [
-    "seagate-o-cung",
     "luu-tru-o-cung"
   ],
   "brand": "Seagate",
@@ -46,16 +45,7 @@
   "seo_description": "Ổ cứng gắn trong Seagate SkyHawk™AI 12TB 7200rpm SATA 3.5″_ST12000VE001",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Seagate",
-      "/seagate/"
-    ],
-    [
-      "Ổ cứng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

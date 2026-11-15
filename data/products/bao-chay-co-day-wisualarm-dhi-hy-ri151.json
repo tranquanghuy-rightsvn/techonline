@@ -2,7 +2,6 @@
   "slug": "bao-chay-co-day-wisualarm-dhi-hy-ri151",
   "name": "Báo cháy có dây Wisualarm DHI-HY-RI151",
   "categories": [
-    "dahua-wisualarm-bao-chay-co-day",
     "bao-chay-co-day"
   ],
   "brand": "Wisualarm",
@@ -46,16 +45,7 @@
   "seo_description": "Đèn báo phòng Điện áp làm việc DC 12V / 24V Kích thước 85mm x 85mm x 31mm",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Báo cháy có dây",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

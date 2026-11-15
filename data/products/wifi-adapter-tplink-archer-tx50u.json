@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-archer-tx50u",
   "name": "Wi-Fi Adapter TP-Link ARCHER TX50U",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER TX50U",
@@ -48,16 +48,7 @@
   "seo_description": "Bộ chuyển đổi USB Wi-Fi 6 Băng tần kép AX3000 Tốc độ cực nhanh: Wi-Fi 6 băng tần kép mang lại tốc độ lên đến 3000 Mbps (2402 Mbps trên băng tần 5 GHz + 574 Mbps trên băng tần 2.4 GHz) cho trải nghiệm mượt mà vượt trội.† Hiệu suất mạng mượt mà tối ưu:",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

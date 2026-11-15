@@ -2,7 +2,7 @@
   "slug": "phu-kien-kbvision-provms",
   "name": "Phụ kiện / Sản phẩm khác KBVision PROVMS",
   "categories": [
-    "kbvision-phu-kien-san-pham-khac"
+    "san-pham-kbvision"
   ],
   "brand": "KBVision",
   "sku": "PROVMS",
@@ -45,16 +45,7 @@
   "seo_description": "Scalable Design, Easy to Grow AI-Powered Applications, Proactive Security Highly Available Technology, More Stable",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KBVision",
-      "/kbvision/"
-    ],
-    [
-      "Phụ kiện / Sản phẩm khác",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

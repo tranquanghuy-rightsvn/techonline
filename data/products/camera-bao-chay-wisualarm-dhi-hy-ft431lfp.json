@@ -2,7 +2,6 @@
   "slug": "camera-bao-chay-wisualarm-dhi-hy-ft431lfp",
   "name": "Camera báo cháy Wisualarm DHI-HY-FT431LFP",
   "categories": [
-    "dahua-wisualarm-camera-bao-chay",
     "bao-chay-camera"
   ],
   "brand": "Wisualarm",
@@ -54,16 +53,7 @@
   "seo_description": "Download Image Camera báo cháy WISUALARM (DẠNG THÂN TRỤ) Độ phân giải tối đa: 4MP",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Camera báo cháy",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

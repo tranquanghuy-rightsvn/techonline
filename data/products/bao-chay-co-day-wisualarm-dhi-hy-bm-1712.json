@@ -2,7 +2,6 @@
   "slug": "bao-chay-co-day-wisualarm-dhi-hy-bm-1712",
   "name": "Báo cháy có dây Wisualarm DHI-HY-BM-1712",
   "categories": [
-    "dahua-wisualarm-bao-chay-co-day",
     "bao-chay-co-day"
   ],
   "brand": "Wisualarm",
@@ -45,16 +44,7 @@
   "seo_description": "Bộ cài địa chỉ cầm tay Sử dụng để cài đặt địa chỉ cho đầu báo, mô đun, nút nhấn,… Download Brochure",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Báo cháy có dây",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

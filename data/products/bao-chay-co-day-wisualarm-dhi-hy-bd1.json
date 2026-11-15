@@ -2,7 +2,6 @@
   "slug": "bao-chay-co-day-wisualarm-dhi-hy-bd1",
   "name": "Báo cháy có dây Wisualarm DHI-HY-BD1",
   "categories": [
-    "dahua-wisualarm-bao-chay-co-day",
     "bao-chay-co-day"
   ],
   "brand": "Wisualarm",
@@ -49,16 +48,7 @@
   "seo_description": "Đầu báo khói beam Điện áp hoạt động 24v. Khoảng cách hoạt động 70 đến 100m.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Báo cháy có dây",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

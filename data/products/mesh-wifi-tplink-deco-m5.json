@@ -2,7 +2,7 @@
   "slug": "mesh-wifi-tplink-deco-m5",
   "name": "Mesh Wi-Fi TP-Link DECO M5",
   "categories": [
-    "tp-link-mesh-wi-fi"
+    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
   "sku": "DECO M5",
@@ -52,16 +52,7 @@
   "seo_description": "Hệ thống Wi-Fi Mesh cho Gia đình AC1300 Deco là hệ thống Wi-Fi sử dụng nhiều thiết bị liên kết để tạo nên một hệ thống Wi-Fi xuyên suốt với vùng phủ rộng lớn – giúp loại bỏ hoàn toàn các khu vực sóng Wi-Fi yếu! Với công nghệ Deco Mesh tân tiến, nhiều",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mesh Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

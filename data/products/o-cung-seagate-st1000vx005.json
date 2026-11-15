@@ -2,7 +2,6 @@
   "slug": "o-cung-seagate-st1000vx005",
   "name": "Ổ cứng Seagate ST1000VX005",
   "categories": [
-    "seagate-o-cung",
     "luu-tru-o-cung"
   ],
   "brand": "Seagate",
@@ -46,16 +45,7 @@
   "seo_description": "Ổ cứng gắn trong Seagate SkyHawk 1TB 5900rpm SATA 3.5″_ST1000VX005",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Seagate",
-      "/seagate/"
-    ],
-    [
-      "Ổ cứng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

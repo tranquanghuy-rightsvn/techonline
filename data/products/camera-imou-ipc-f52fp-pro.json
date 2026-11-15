@@ -2,7 +2,7 @@
   "slug": "camera-imou-ipc-f52fp-pro",
   "name": "Camera Imou IPC-F52FP-PRO",
   "categories": [
-    "imou-camera"
+    "camera-imou"
   ],
   "brand": "Imou",
   "sku": "IPC-F52FP-PRO",
@@ -90,16 +90,7 @@
   "seo_description": "Camera wifi thân cố định ngoài trời FULL COLOR 5.0MP • 5MP 3K, 1/2.9”Progressive CMOS, 20fps@5MP(2880×1620) • Ống kính 2.8mm, H.265, chống ngược sáng HDR",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Imou",
-      "/imou/"
-    ],
-    [
-      "Camera",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

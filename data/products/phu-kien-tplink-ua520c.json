@@ -2,7 +2,7 @@
   "slug": "phu-kien-tplink-ua520c",
   "name": "Phụ kiện TP-Link UA520C",
   "categories": [
-    "tp-link-phu-kien"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "UA520C",
@@ -49,16 +49,7 @@
   "seo_description": "Bộ chuyển đổi USB Type-C sang HDMI HDMI với độ phân giải lên đến 4K@60Hz: Kết nối với màn hình ngoài qua cổng HDMI với chất lượng hình ảnh siêu nét. Tương thích với các thiết bị sử dụng USB Type-C: Cho phép bạn kết nối với bất kỳ thiết bị nào có cổng",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Phụ kiện",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

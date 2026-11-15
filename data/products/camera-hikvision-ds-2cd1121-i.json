@@ -2,8 +2,7 @@
   "slug": "camera-hikvision-ds-2cd1121-i",
   "name": "Camera Hikvision DS-2CD1121-I",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2CD1121-I",
