@@ -2,7 +2,7 @@
   "slug": "modem-gateway-tplink-tl-mr6400",
   "name": "Modem / Gateway TP-Link TL-MR6400",
   "categories": [
-    "tp-link-modem-gateway"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "TL-MR6400",
@@ -47,16 +47,7 @@
   "seo_description": "Router Wi-Fi 4G LTE Chuẩn N 300 Mbps Mạng 4G tiên tiến – chia sẻ truy cập internet với nhiều thiết bị Wi-Fi tận hưởng tốc độ download lên tới 150Mbps Không cần cấu hình – chỉ cần cắm SIM và sử dụng, tương thích với các thẻ SIM của các nhà mạng Mobifo",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Modem / Gateway",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,8 +2,7 @@
   "slug": "camera-ip-hikvision-ds-sh-dt1123-avd-2-0-megapixel",
   "name": "Camera IP Hikvision SH-DT1123-AVD 2.0 Megapixel",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "SH-DT1123-AVD",

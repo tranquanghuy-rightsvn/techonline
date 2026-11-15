@@ -2,7 +2,6 @@
   "slug": "he-dia-chi-wisualarm-dhi-hy-1410",
   "name": "Hệ địa chỉ Wisualarm DHI-HY-1410",
   "categories": [
-    "dahua-wisualarm-he-dia-chi",
     "bao-chay-he-dia-chi"
   ],
   "brand": "Wisualarm",
@@ -50,16 +49,7 @@
   "seo_description": "Mô-đun điều khiển Điện áp đầu vào: DC 24V(16V-28V) Đầu ra: Đầu ra thụ động DC 30V/2A",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Hệ địa chỉ",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

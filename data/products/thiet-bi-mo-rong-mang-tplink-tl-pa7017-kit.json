@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-tl-pa7017-kit",
   "name": "Thiết bị mở rộng mạng TP-Link TL-PA7017 KIT",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "TL-PA7017 KIT",
@@ -46,16 +46,7 @@
   "seo_description": "Bộ Chuyển Đổi Internet Qua Đường Dây Điện Gigabit AV1000 HomePlug AV2 tuân theo tiêu chuẩn, tốc độ truyền dữ liệu tốc độ cao lên đến 1000Mbps, hỗ trợ mọi nhu cầu trực tuyến của bạn Cổng Gigabit cung cấp mạng có dây an toàn cho máy tính để bàn, TV thô",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,7 @@
   "slug": "router-wifi-tplink-archer-be400",
   "name": "Router Wi-Fi TP-Link ARCHER BE400",
   "categories": [
-    "tp-link-router-wi-fi"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER BE400",
@@ -51,16 +51,7 @@
   "seo_description": "Router Wi-Fi 7 Băng Tần Kép BE6500 Wi-Fi 7 Băng Tần Kép 6.5 Gbps: Đảm bảo các thiết bị của bạn hoạt động ở tốc độ tối đa. Thưởng thức phát trực tiếp 4K/8K mượt mà, chơi game AR/VR sống động và tải xuống siêu nhanh.1 Công nghệ Multi-Link Operation (ML",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Router Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

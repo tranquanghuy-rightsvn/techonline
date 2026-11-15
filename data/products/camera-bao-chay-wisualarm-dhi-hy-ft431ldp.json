@@ -2,7 +2,6 @@
   "slug": "camera-bao-chay-wisualarm-dhi-hy-ft431ldp",
   "name": "Camera báo cháy Wisualarm DHI-HY-FT431LDP",
   "categories": [
-    "dahua-wisualarm-camera-bao-chay",
     "bao-chay-camera"
   ],
   "brand": "Wisualarm",
@@ -77,16 +76,7 @@
   "seo_description": "Camera báo cháy DAHUA – Phiên bản PRO Độ phân giải tối đa: 4MP Khoảng cách phát hiện lửa: 10 m",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Camera báo cháy",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

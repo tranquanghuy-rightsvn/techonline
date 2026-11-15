@@ -2,8 +2,7 @@
   "slug": "ds-2cd2d11g0m-dnf-covert-network-camera",
   "name": "Covert Network Camera Hikvision DS-2CD2D11G0/M-D/NF",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2CD2D11G0/M-D/NF",

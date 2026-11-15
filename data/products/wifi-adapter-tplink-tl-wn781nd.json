@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-tl-wn781nd",
   "name": "Wi-Fi Adapter TP-Link TL-WN781ND",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "TL-WN781ND",
@@ -47,16 +47,7 @@
   "seo_description": "Card mạng PCI Express Wi-Fi 150Mbps Tốc độ truyền dữ liệu không dây lên tới 150Mbps Cung cấp giao diện PCI Express",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

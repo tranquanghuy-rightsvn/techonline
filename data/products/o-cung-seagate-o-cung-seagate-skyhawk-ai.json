@@ -2,7 +2,6 @@
   "slug": "o-cung-seagate-o-cung-seagate-skyhawk-ai",
   "name": "Ổ cứng Seagate Skyhawk AI",
   "categories": [
-    "seagate-o-cung",
     "luu-tru-o-cung"
   ],
   "brand": "Seagate",
@@ -51,16 +50,7 @@
   "seo_description": "ImagePerfect™ AI firmware delivers zero dropped frames while supporting heavier workloads. Versatile capabilities intelligently adapt to the scale of your AI environment, supporting up to 64 HD video streams and 32 AI streams. Rescue Data Recovery Se",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Seagate",
-      "/seagate/"
-    ],
-    [
-      "Ổ cứng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

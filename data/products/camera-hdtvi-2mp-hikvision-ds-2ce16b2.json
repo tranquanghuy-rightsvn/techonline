@@ -2,8 +2,7 @@
   "slug": "camera-hdtvi-2mp-hikvision-ds-2ce16b2",
   "name": "Camera hdtvi 2MP Hikvision DS-2CE16B2-IF",
   "categories": [
-    "camera-analog-hikvision",
-    "hikvision-camera-analog"
+    "camera-analog-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2CE16B2-IF",

@@ -2,7 +2,7 @@
   "slug": "dau-ghi-ip-kabevision-kx-dai4k8432en3",
   "name": "Đầu ghi IP KabeVision KX-DAi4K8432EN3",
   "categories": [
-    "kabe-vision-dau-ghi-ip"
+    "dau-ghi-ip-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-DAi4K8432EN3",
@@ -79,16 +79,7 @@
   "seo_description": "· Đầu ghi hình Kabe vision IP thông minh 32 kênh 4 ổ cứng · Smart H.265+/H.265, phân giải hỗ trợ lên đến 32MP · Băng thông max 384Mbps (AI disabled)",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Đầu ghi IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

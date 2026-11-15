@@ -2,8 +2,7 @@
   "slug": "camera-ids-tcm203",
   "name": "CAMERA iDS-TCM203-A",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "iDS-TCM203-A",

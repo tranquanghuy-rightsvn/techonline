@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-archer-t3u-nano",
   "name": "Wi-Fi Adapter TP-Link ARCHER T3U NANO",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER T3U NANO",
@@ -48,16 +48,7 @@
   "seo_description": "USB Wi-Fi MU-MIMO Nano AC1300 Tối Ưu Tốc Độ Wi-Fi– Tốc độ lên tới 1300 Mbps với 400 Mbps trên 2.4GHz và 867 Mbps trên 5GHz, nâng cấp thiết bị của bạn lên tốc độ WiFi AC cao hơn. Kết Nối Băng Tần Kép – Băng tần 2,4 GHz và 5 GHz cho kết nối linh hoạt,",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

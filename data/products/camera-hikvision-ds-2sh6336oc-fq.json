@@ -2,8 +2,7 @@
   "slug": "camera-hikvision-ds-2sh6336oc-fq",
   "name": "Camera Hikvision DS-2SH6336OC-FQ",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2SH6336OC-FQ",

@@ -22641,6 +22641,14 @@ const SEARCH_INDEX = [
 "discount": ""
 },
 {
+"name": "Router Wi-Fi TP-Link ARCHER BN800 (Archer 8 Ultra)",
+"href": "/router-wifi-tplink-archer-bn800/",
+"image": "https://static.tp-link.com/upload/image-line/Archer_BN800_large_20260831033808d.png",
+"price": "Liên hệ",
+"oldPrice": "",
+"discount": ""
+},
+{
 "type": "post",
 "name": "VAI TRÒ QUAN TRỌNG CỦA BỘ ĐÀM CẦM TAY TRONG LĨNH VỰC BẢO VỆ AN NINH",
 "href": "/vai-tro-quan-trong-cua-bo-dam-cam-tay-trong-linh-vuc-bao-ve-an-ninh/",

@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-tl-sg1008d",
   "name": "Giải pháp doanh nghiệp TP-Link TL-SG1008D",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "TL-SG1008D",
@@ -47,16 +47,7 @@
   "seo_description": "Switch Để Bàn 8 Cổng Gigabit 8 cổng Gigabit RJ45 tự động đàm phán, Hỗ trợ MDI / MDIX tự động Công Nghệ Ethernet xanh tiết kiệm điện năng tiêu thụ",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

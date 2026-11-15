@@ -2,7 +2,7 @@
   "slug": "camera-ptz-dahua-dh-sd29204db-gny-w",
   "name": "Camera PTZ Dahua DH-SD29204DB-GNY-W",
   "categories": [
-    "dahua-camera-ptz"
+    "camera-ptz-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-SD29204DB-GNY-W",
@@ -86,16 +86,7 @@
   "seo_description": "• 1/2.8″CMOS, 2MP 25/30fps@2MP, H.265+ • Starlight, WDR 120dB, hồng ngoại 50m. • Zoom quang 4X(2.8mm-12mm)",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Camera PTZ",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

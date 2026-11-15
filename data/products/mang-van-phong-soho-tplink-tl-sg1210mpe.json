@@ -2,7 +2,7 @@
   "slug": "mang-van-phong-soho-tplink-tl-sg1210mpe",
   "name": "Mạng Văn Phòng SOHO TP-Link TL-SG1210MPE",
   "categories": [
-    "tp-link-mang-van-phong-soho"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "TL-SG1210MPE",
@@ -50,16 +50,7 @@
   "seo_description": "10-Port Gigabit Easy Smart Switch with 8-Port PoE+ 9× gigabit RJ45 ports and 1× combo gigabit SFP/RJ45 port Equipped with eight 802.3af/at PoE+ ports with up to 30 W for each port, the switch can transfer data and power via one single cable",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mạng Văn Phòng SOHO",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

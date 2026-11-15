@@ -2,7 +2,6 @@
   "slug": "o-cung-seagate-st4000vx007",
   "name": "Ổ cứng Seagate ST4000VX007",
   "categories": [
-    "seagate-o-cung",
     "luu-tru-o-cung"
   ],
   "brand": "Seagate",
@@ -46,16 +45,7 @@
   "seo_description": "Ổ cứng gắn trong Seagate SkyHawk 4TB 5900rpm SATA 3.5″_ST4000VX007",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Seagate",
-      "/seagate/"
-    ],
-    [
-      "Ổ cứng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,7 @@
   "slug": "san-pham-du-an-dahua-en-nvr764ai",
   "name": "Sản phẩm dự án Dahua EN-NVR764AI",
   "categories": [
-    "dahua-san-pham-du-an"
+    "san-pham-du-an-dahua"
   ],
   "brand": "Dahua",
   "sku": "EN-NVR764AI",
@@ -51,16 +51,7 @@
   "seo_description": "15.400.000đ · Supports Smart H.265+, H.265, Smart H.264+, H.264 and MJPEG decoding formats. · Max. decoding capability: 32 × 1080p@30 fps or 32 × 2MP@30 fps.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Sản phẩm dự án",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

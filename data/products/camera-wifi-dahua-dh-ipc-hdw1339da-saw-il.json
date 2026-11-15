@@ -2,7 +2,7 @@
   "slug": "camera-wifi-dahua-dh-ipc-hdw1339da-saw-il",
   "name": "Camera Wifi Dahua DH-IPC-HDW1339DA-SAW-IL",
   "categories": [
-    "dahua-camera-wifi"
+    "camera-wifi-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-IPC-HDW1339DA-SAW-IL",
@@ -81,16 +81,7 @@
   "seo_description": "Camera IP WiFi Dome Ánh sáng kép 3.0MP 3MP 1/2.8″ CMOS, 2304 × 1296@(1–25/30) fps H265, DWDR",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Camera Wifi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

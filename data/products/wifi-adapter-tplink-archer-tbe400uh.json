@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-archer-tbe400uh",
   "name": "Wi-Fi Adapter TP-Link ARCHER TBE400UH",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER TBE400UH",
@@ -51,16 +51,7 @@
   "seo_description": "USB Wi-Fi 7 BE6500 Độ Lợi Cao Chuẩn Wi-Fi 7 tiên tiến – Tốc độ không nghẽn mạng lên đến 2880 Mbps (6 GHz) + 2880 Mbps (5 GHz) + 688 Mbps (2.4 GHz). Wi-Fi 3 băng tần – Kết nối linh hoạt với 3 dải tần: 2.4 GHz, 5 GHz và 6 GHz.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,7 @@
   "slug": "camera-ip-kabevision-kx-sm4p-pro",
   "name": "Camera IP KabeVision KX-SM4P-PRO",
   "categories": [
-    "kabe-vision-camera-ip"
+    "camera-wifi-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-SM4P-PRO",
@@ -95,16 +95,7 @@
   "seo_description": "Camera PoE PT Mắt Đêm 2 ống kính quay quét ngoài trời 2.0 + 2.0 MP 2 ống kính với độ phân giải 2.0MP cho ống kính cố định và 2.0 MP cho ống kính quay quét Chuẩn nén H.265+, 1920 × 1080@(1–25/30 fps)",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

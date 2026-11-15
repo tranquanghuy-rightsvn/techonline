@@ -2,7 +2,7 @@
   "slug": "dau-ghi-analog-dahua-dh-xvr5232an-5m-i3",
   "name": "Đầu ghi Analog Dahua DH-XVR5232AN-5M-I3",
   "categories": [
-    "dahua-dau-ghi-analog"
+    "dau-ghi-analog-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-XVR5232AN-5M-I3",
@@ -86,16 +86,7 @@
   "seo_description": "• Đầu ghi hình 32 kênh, hỗ trợ camera HDCVI/TVI/AHD/Analog/IP • Hỗ trợ chuẩn nén AI-Coding • Chức năng thông minh: Hỗ trợ 2 kênh QuickPick 2.0 (analog), 32 kênh SMD Plus (analog), 48 kênh SMD Plus (IP Camera), 8 kênh IVS (analog) hoặc 2 kênh phát hiệ",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Đầu ghi Analog",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

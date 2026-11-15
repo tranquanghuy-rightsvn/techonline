@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-re200",
   "name": "Thiết bị mở rộng mạng TP-Link RE200",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "RE200",
@@ -49,16 +49,7 @@
   "seo_description": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC750 Tăng cường tín hiệu không dây đến các khu vực khó đi dây hoặc không thể kết nối trước đây một cách hoàn hảo. Tương thích với EasyMesh: Tạo mạng Lưới một cách linh hoạt bằng cách kết nối với bộ định tuyến tương thích v",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

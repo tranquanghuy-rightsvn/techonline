@@ -2,8 +2,7 @@
   "slug": "camera-ipc-tb3645g0-iz",
   "name": "Camera IPC-TB3645G0-IZ",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "IPC-TB3645G0-IZ",

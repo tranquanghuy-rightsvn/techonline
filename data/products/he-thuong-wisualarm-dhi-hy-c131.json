@@ -2,7 +2,6 @@
   "slug": "he-thuong-wisualarm-dhi-hy-c131",
   "name": "Hệ thường Wisualarm DHI-HY-C131",
   "categories": [
-    "dahua-wisualarm-he-thuong",
     "bao-chay-he-thuong"
   ],
   "brand": "Wisualarm",
@@ -49,16 +48,7 @@
   "seo_description": "Đầu báo khói thường 2 dây 2 dây Điện áp đầu vào: DC 24V(16V-28V)",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Hệ thường",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

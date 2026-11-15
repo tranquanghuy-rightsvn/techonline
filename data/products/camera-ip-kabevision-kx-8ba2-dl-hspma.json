@@ -2,7 +2,7 @@
   "slug": "camera-ip-kabevision-kx-8ba2-dl-hspma",
   "name": "Camera IP KabeVision KX-8BA2-DL-HSPMA",
   "categories": [
-    "kabe-vision-camera-ip"
+    "camera-wifi-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-8BA2-DL-HSPMA",
@@ -93,16 +93,7 @@
   "seo_description": "Camera IP Thân cố định 8MP • Độ phân giải 8 Megapixel cảm biến SONY SONY CMOS kích thước 1/2.7″ • 8 MP (3840 × 2160) @20 fps, hoặc (2688×1520)@25/30.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

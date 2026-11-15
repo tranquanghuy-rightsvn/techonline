@@ -2,7 +2,7 @@
   "slug": "wifi-adapter-tplink-archer-tx1u-nano",
   "name": "Wi-Fi Adapter TP-Link ARCHER TX1U NANO",
   "categories": [
-    "tp-link-wi-fi-adapter"
+    "phu-kien-mang"
   ],
   "brand": "TP-Link",
   "sku": "ARCHER TX1U NANO",
@@ -49,16 +49,7 @@
   "seo_description": "USB Wi-Fi 6 AX300 Siêu Nhỏ Gọn Tốc độ vượt trội, Kết nối vững vàng: Nhờ công nghệ Wi-Fi 6, thiết bị hỗ trợ đạt tốc độ cao lên đến 287 Mbps, mang lại trải nghiệm duyệt web mượt mà, phản hồi email tức thì và chia sẻ mạng xã hội liền mạch.* Thiết kế nhỏ",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Wi-Fi Adapter",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

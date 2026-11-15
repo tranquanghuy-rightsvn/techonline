@@ -2,7 +2,7 @@
   "slug": "mesh-wifi-tplink-deco-x10",
   "name": "Mesh Wi-Fi TP-Link DECO X10",
   "categories": [
-    "tp-link-mesh-wi-fi"
+    "mesh-wi-fi"
   ],
   "brand": "TP-Link",
   "sku": "DECO X10",
@@ -52,16 +52,7 @@
   "seo_description": "Hệ Thống Mesh WiFi 6 AX1500 Cho Gia Đình Kết nối nhanh hơn: Tốc độ Wi-Fi 6 lên tới 1.500 Mbps—1.201 Mbps trên 5 GHz và 300 Mbps trên 2,4 GHz.† Kết nối nhiều thiết bị hơn: Công nghệ OFDMA và MU-MIMO tăng gấp bốn lần dung lượng để cho phép truyền đồng",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Mesh Wi-Fi",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

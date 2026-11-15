@@ -112,6 +112,162 @@ const NETWORK_CATEGORY_GROUPS = [
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-archer-c50.png",
         "href": "/tplink-router-modem-archer-c50/"
+      },
+      {
+        "name": "Router Wi-Fi 7 TP-Link Archer GE230 băng tần kép BE3600",
+        "price": "1.690.000 đ",
+        "oldPrice": "2.290.000 đ",
+        "discount": "-26%",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "assets/images/product-cat2-tplink-router.png",
+        "href": "/router-wifi-tplink-archer-ge230/",
+        "isNew": true
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER C64",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-C64.png",
+        "href": "/router-wifi-tplink-archer-c64/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER C54",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-C54.png",
+        "href": "/router-wifi-tplink-archer-c54/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER C50",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-C50.png",
+        "href": "/router-wifi-tplink-archer-c50/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER BE800",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-BE800.png",
+        "href": "/router-wifi-tplink-archer-be800/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER BE400",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/Thiet-ke-chua-co-ten-23.png",
+        "href": "/router-wifi-tplink-archer-be400/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER AX56EU",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/Thiet-ke-chua-co-ten-21.png",
+        "href": "/router-wifi-tplink-archer-ax56eu/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER AX53HP",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-AX53HP.png",
+        "href": "/router-wifi-tplink-archer-ax53hp/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link ARCHER AX12",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-AX12.png",
+        "href": "/router-wifi-tplink-archer-ax12/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link TL-WR1502X",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-WR1502X-01-scaled.png",
+        "href": "/router-wifi-tplink-tl-wr1502x/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link TL-WR846N",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-WR846N-scaled.png",
+        "href": "/router-wifi-tplink-tl-wr846n/"
+      },
+      {
+        "name": "Router Wi-Fi TP-Link TL-WR840N",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/06/TL-WR840N.jpg",
+        "href": "/router-wifi-tplink-tl-wr840n/"
+      },
+      {
+        "name": "Modem / Gateway TP-Link ARCHER MR400",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-MR202.png",
+        "href": "/modem-gateway-tplink-archer-mr400/"
+      },
+      {
+        "name": "Modem / Gateway TP-Link ARCHER MR202",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-MR202.png",
+        "href": "/modem-gateway-tplink-archer-mr202/"
+      },
+      {
+        "name": "Modem / Gateway TP-Link TL-MR6400",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-MR6400.jpg",
+        "href": "/modem-gateway-tplink-tl-mr6400/"
+      },
+      {
+        "name": "Modem / Gateway TP-Link TL-MR105",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-MR105.png",
+        "href": "/modem-gateway-tplink-tl-mr105/"
+      },
+      {
+        "name": "Modem / Gateway TP-Link TL-MR100-Outdoor",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-MR100-OUTDOOR.jpg",
+        "href": "/modem-gateway-tplink-tl-mr100-outdoor/"
       }
     ]
   },
@@ -136,6 +292,168 @@ const NETWORK_CATEGORY_GROUPS = [
         "attrs": [],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-ue306.png",
         "href": "/tplink-phu-kien-mang-ue306/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TX50UH",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX50UH.png",
+        "href": "/wifi-adapter-tplink-archer-tx50uh/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TX50U",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX50U.png",
+        "href": "/wifi-adapter-tplink-archer-tx50u/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TX35U PLUS",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX35U-PLUS.png",
+        "href": "/wifi-adapter-tplink-archer-tx35u-plus/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TX20U NANO",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX20U-NANO.png",
+        "href": "/wifi-adapter-tplink-archer-tx20u-nano/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TX1U NANO",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TX1U-NANO.png",
+        "href": "/wifi-adapter-tplink-archer-tx1u-nano/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TBE400UH",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TBE400UH.png",
+        "href": "/wifi-adapter-tplink-archer-tbe400uh/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER TBE400E",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-TBE400E.png",
+        "href": "/wifi-adapter-tplink-archer-tbe400e/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link ARCHER T3U NANO",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/ARCHER-T3U-NANO.png",
+        "href": "/wifi-adapter-tplink-archer-t3u-nano/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link UB600",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UB600.png",
+        "href": "/wifi-adapter-tplink-ub600/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link UB500 PLUS",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UB500-PLUS.png",
+        "href": "/wifi-adapter-tplink-ub500-plus/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link TX201",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TX201.png",
+        "href": "/wifi-adapter-tplink-tx201/"
+      },
+      {
+        "name": "Wi-Fi Adapter TP-Link TL-WN781ND",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/TL-WN781ND.jpg",
+        "href": "/wifi-adapter-tplink-tl-wn781nd/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UH9120C",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UH9120C.png",
+        "href": "/phu-kien-tplink-uh9120c/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UE330C",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UE330C.png",
+        "href": "/phu-kien-tplink-ue330c/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UC400",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UC400.png",
+        "href": "/phu-kien-tplink-uc400/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UA520C",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UA520C.png",
+        "href": "/phu-kien-tplink-ua520c/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UA430D",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/UA430D.png",
+        "href": "/phu-kien-tplink-ua430d/"
+      },
+      {
+        "name": "Phụ kiện TP-Link UE306",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/03/UE306.png",
+        "href": "/phu-kien-tplink-ue306/"
       }
     ]
   },
@@ -177,6 +495,167 @@ const NETWORK_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-s7.png",
         "href": "/tplink-mesh-wifi-deco-s7/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO X50-OUTDOOR",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-X50-OUTDOOR.png",
+        "href": "/mesh-wifi-tplink-deco-x50-outdoor/"
+      },
+      {
+        "name": "Hệ thống Wi-Fi Mesh TP-Link Deco X50 AX3000 (1-Pack)",
+        "price": "1.890.000 đ",
+        "oldPrice": "2.590.000 đ",
+        "discount": "-27%",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "assets/images/product-cat2-tplink-mesh.png",
+        "href": "/mesh-wifi-tplink-deco-x50/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO X20",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-X201-PACK.png",
+        "href": "/mesh-wifi-tplink-deco-x20/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO X10",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-X101-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-x10/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO S7",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-S71-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-s7/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO M5",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-M51-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-m5/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO M4",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-M41-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-m4/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO E4",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-E41-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-e4/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO BE25-OUTDOOR(1-PACK)",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-BE25-OUTDOOR1-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-be25-outdoor-1-pack/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO BE25(3-PACK)",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-BE253-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-be25-3-pack/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO BE25(2-PACK)",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-BE252-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-be25-2-pack/"
+      },
+      {
+        "name": "Mesh Wi-Fi TP-Link DECO BE25(1-PACK)",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/DECO-BE251-PACK-scaled.png",
+        "href": "/mesh-wifi-tplink-deco-be25-1-pack/"
+      },
+      {
+        "name": "Hệ Thống Mesh Wi-Fi 7 BE33000 Bốn Băng Tần Cho Gia Đình TP-Link Deco BE95",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE33000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be95/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be95/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 BE11000 cho gia đình TP-Link Deco BE65 Pro",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-pro/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65-pro/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 Ba Băng Tần BE11000 5G cho gia đình TP-Link Deco BE65-5G",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000",
+          "5G"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be65-5g/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be65-5g/"
+      },
+      {
+        "name": "Hệ thống Mesh Wi-Fi 7 BE10000 cho gia đình TP-Link Deco BE63",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE10000"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-be63/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-be63/"
+      },
+      {
+        "name": "Hệ Thống Mesh Wi-Fi 6 AX5400 Cho Gia Đình TP-Link Deco X60 V3.20",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX5400"
+        ],
+        "image": "assets/img/products/he-thong-wifi-mesh-tplink-deco-x60-v3-20/g01.jpg",
+        "href": "/he-thong-wifi-mesh-tplink-deco-x60-v3-20/"
       }
     ]
   },
@@ -195,6 +674,182 @@ const NETWORK_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-wn781nd.jpg",
         "href": "/tplink-bo-kich-song-wifi-tl-wn781nd/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE235BE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/RE235BE.png",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re235be/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link TL-PA7017 KIT",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-PA7017-KIT.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-tl-pa7017-kit/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link TL-WA850RE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-WA850RE.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-tl-wa850re/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link TL-WA855RE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-WA855RE.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-tl-wa855re/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE200",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE200.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re200/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE205",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE205.png",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re205/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE315",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE315.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re315/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE305",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE305.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re305/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE505X",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE505X.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re505x/"
+      },
+      {
+        "name": "Thiết bị mở rộng mạng TP-Link RE705X EU",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/RE705X-EU.jpg",
+        "href": "/thiet-bi-mo-rong-mang-tplink-re705x-eu/"
+      },
+      {
+        "name": "Bộ mở rộng sóng Wi-Fi 7 TP-Link RE235BE băng tần kép BE3600",
+        "price": "990.000 đ",
+        "oldPrice": "1.350.000 đ",
+        "discount": "-27%",
+        "attrs": [
+          "Wi-Fi 7",
+          "MLO"
+        ],
+        "image": "assets/images/product-cat2-tplink-extender.png",
+        "href": "/bo-mo-rong-wifi-tplink-re235be/"
+      },
+      {
+        "name": "AX3000 Dual-Band Wi-Fi 6 Air Range Extender TP-Link Archer Air E5",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-archer-air-e5/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-archer-air-e5/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng WiFi 6 Mesh AX3000 TP-Link RE700X",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 6",
+          "AX3000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re700x/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re700x/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi 7 BE3600 Hai Băng Tần TP-Link RE225BE",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE3600"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re225be/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re225be/"
+      },
+      {
+        "name": "BE11000 Tri-Band Wi-Fi 7 Range Extender TP-Link RE655BE",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 7",
+          "BE11000"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re655be/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re655be/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi AC2600 TP-Link RE650",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC2600"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re650/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re650/"
+      },
+      {
+        "name": "Bộ Mở Rộng Sóng Wi-Fi Mesh AC1750 TP-Link RE450",
+        "price": "Liên hệ",
+        "attrs": [
+          "Wi-Fi 5",
+          "AC1750"
+        ],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-re450/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-re450/"
+      },
+      {
+        "name": "Bộ Kit Mở Rộng Sóng Wi-Fi AC Powerline AV1000 Gigabit Kèm Ổ Cắm Điện TP-Link TL-WPA7617 KIT",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-tl-wpa7617-kit/"
+      },
+      {
+        "name": "TP-Link TL-WA854RE",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/bo-mo-rong-wifi-tplink-tl-wa854re/g01.jpg",
+        "href": "/bo-mo-rong-wifi-tplink-tl-wa854re/"
       }
     ]
   },
@@ -213,6 +868,15 @@ const NETWORK_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-m7000.jpg",
         "href": "/tplink-wifi-di-dong-m7000/"
+      },
+      {
+        "name": "Wi-Fi di động TP-Link M7000",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/M7000.jpg",
+        "href": "/wifi-di-dong-tplink-m7000/"
       },
       {
         "name": "Bộ phát Wi-Fi di động TP-Link M7350 4G LTE pin 2000mAh",
@@ -238,6 +902,54 @@ const NETWORK_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-deco-e4.png",
         "href": "/tplink-wifi-di-dong-deco-e4/"
+      },
+      {
+        "name": "TP-Link M8550",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m8550/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m8550/"
+      },
+      {
+        "name": "600 Mbps LTE-Advanced Mobile Wi-Fi TP-Link M7750",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7750/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7750/"
+      },
+      {
+        "name": "TP-Link M8200",
+        "price": "Liên hệ",
+        "attrs": [],
+        "image": "assets/img/products/wifi-di-dong-tplink-m8200/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m8200/"
+      },
+      {
+        "name": "Wi-Fi Di Động 4G LTE-Advanced 300 Mbps TP-Link M7450",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7450/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7450/"
+      },
+      {
+        "name": "Wi-Fi Di Động 4G LTE TP-Link M7005",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7005/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7005/"
+      },
+      {
+        "name": "Wi-Fi Di động 4G LTE TP-Link M7200",
+        "price": "Liên hệ",
+        "attrs": [
+          "4G"
+        ],
+        "image": "assets/img/products/wifi-di-dong-tplink-m7200/g01.jpg",
+        "href": "/wifi-di-dong-tplink-m7200/"
       }
     ]
   },
@@ -255,6 +967,179 @@ const NETWORK_CATEGORY_GROUPS = [
         ],
         "image": "assets/images/thiet-bi-mang/outbox/tplink-tl-sg1005d.png",
         "href": "/tplink-switch-tl-sg1005d/"
+      },
+      {
+        "name": "Mạng Văn Phòng SOHO TP-Link TL-SG1024DE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG1024DE.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1024de/"
+      },
+      {
+        "name": "Mạng Văn Phòng SOHO TP-Link TL-SG1210MPE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG1210MPE.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1210mpe/"
+      },
+      {
+        "name": "Mạng Văn Phòng SOHO TP-Link TL-SG105PE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2023/02/TL-SG105PE.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg105pe/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link MC212CS-20",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-mc212cs-20/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link MC212CS-2",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-mc212cs-2/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link MC211CS-20",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2-1.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-mc211cs-20/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link MC211CS-2",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/MC211CS-2.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-mc211cs-2/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1024",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1024.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1024/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1016PE",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1016PE.jpg",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1016pe/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1016D",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1016D.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1016d/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1008MP",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1008MP.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1008mp/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1008D",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1008D.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1008d/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1005P",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SG1005P.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1005p/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SG1005D",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/Thiet-ke-chua-co-ten-44-scaled.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sg1005d/"
+      },
+      {
+        "name": "Giải pháp doanh nghiệp TP-Link TL-SF1048",
+        "price": "Liên hệ",
+        "attrs": [
+          "TP-Link"
+        ],
+        "image": "https://kabegroup.vn/kabet/wp-content/uploads/2026/08/TL-SF1048-scaled.png",
+        "href": "/giai-phap-doanh-nghiep-tplink-tl-sf1048/"
+      },
+      {
+        "name": "5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out TP-Link TL-SG1005P-PD",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg1005p-pd/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg1005p-pd/"
+      },
+      {
+        "name": "Switch Easy Smart 8 cổng Gigabit với 4 cổng PoE+ TP-Link TL-SG108PE V4.20",
+        "price": "Liên hệ",
+        "attrs": [
+          "8 Cổng",
+          "PoE"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg108pe-v4-20/"
+      },
+      {
+        "name": "Switch Easy Smart 16 Cổng Gigabit TP-Link TL-SG116E",
+        "price": "Liên hệ",
+        "attrs": [
+          "16 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg116e/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg116e/"
+      },
+      {
+        "name": "Switch Easy Smart 5 cổng Gigabit TP-Link TL-SG105E",
+        "price": "Liên hệ",
+        "attrs": [
+          "5 Cổng"
+        ],
+        "image": "assets/img/products/mang-van-phong-soho-tplink-tl-sg105e/g01.jpg",
+        "href": "/mang-van-phong-soho-tplink-tl-sg105e/"
       }
     ]
   }

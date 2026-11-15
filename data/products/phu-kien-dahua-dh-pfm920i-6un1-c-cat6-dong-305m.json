@@ -2,7 +2,7 @@
   "slug": "phu-kien-dahua-dh-pfm920i-6un1-c-cat6-dong-305m",
   "name": "Phụ kiện / Sản phẩm khác Dahua DH-PFM920I-6UN1-C (CAT6 đồng – 305m)",
   "categories": [
-    "dahua-phu-kien-san-pham-khac"
+    "phu-kien-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-PFM920I-6UN1-C (CAT6 đồng – 305m)",
@@ -54,16 +54,7 @@
   "seo_description": "Cáp mạng UTP CAT6 lõi đồng nguyên chất 305m, thời gian sử dụng lên đến 10 năm Chất liệu lõi: Đồng nguyên chất 99.97% Đường kính lõi: 0.52mm ± 0.02 mm 24AWG",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Phụ kiện / Sản phẩm khác",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

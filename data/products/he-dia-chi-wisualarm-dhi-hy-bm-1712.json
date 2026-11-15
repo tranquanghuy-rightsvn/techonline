@@ -2,7 +2,6 @@
   "slug": "he-dia-chi-wisualarm-dhi-hy-bm-1712",
   "name": "Hệ địa chỉ Wisualarm DHI-HY-BM-1712",
   "categories": [
-    "dahua-wisualarm-he-dia-chi",
     "bao-chay-he-dia-chi"
   ],
   "brand": "Wisualarm",
@@ -45,16 +44,7 @@
   "seo_description": "Bộ cài địa chỉ cầm tay Sử dụng để cài đặt địa chỉ cho đầu báo, mô đun, nút nhấn,… Download Brochure",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Hệ địa chỉ",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

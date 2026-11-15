@@ -2,7 +2,7 @@
   "slug": "modem-gateway-tplink-tl-mr105",
   "name": "Modem / Gateway TP-Link TL-MR105",
   "categories": [
-    "tp-link-modem-gateway"
+    "router-modem"
   ],
   "brand": "TP-Link",
   "sku": "TL-MR105",
@@ -46,16 +46,7 @@
   "seo_description": "Router Wi-Fi 4G LTE Chuẩn N 300 Mbps Mạng 4G tiên tiến – Chia sẻ quyền truy cập internet với tối đa 32 thiết bị Wi-Fi và tận hưởng tốc độ tải xuống lên tới 150 Mbps Cắm thẻ SIM và sử dụng – Không cần cấu hình, khả năng tương thích của thẻ SIM ở hơn 1",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Modem / Gateway",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

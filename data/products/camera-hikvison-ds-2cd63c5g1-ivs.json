@@ -2,8 +2,7 @@
   "slug": "camera-hikvison-ds-2cd63c5g1-ivs",
   "name": "Camera Hikvison DS-2CD63C5G1-IVS",
   "categories": [
-    "camera-ip-hikvision",
-    "hikvision-camera-ip"
+    "camera-ip-hikvision"
   ],
   "brand": "Hikvision",
   "sku": "DS-2CD63C5G1-IVS",

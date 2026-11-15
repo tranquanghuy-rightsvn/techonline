@@ -2,7 +2,6 @@
   "slug": "camera-bao-chay-wisualarm-dhi-hy-ft121ldp",
   "name": "Camera báo cháy Wisualarm DHI-HY-FT121LDP",
   "categories": [
-    "dahua-wisualarm-camera-bao-chay",
     "bao-chay-camera"
   ],
   "brand": "Wisualarm",
@@ -82,16 +81,7 @@
   "seo_description": "Cảm biến Thermal Uncooled VOx thermal sensor Độ nhạy (NETD) < 60mK@f/1.0 , Góc nhìn : 90° Cảm biến Visible 1/2.7″ CMOS 2.0MP độ phân giải 25fps@1080P . H.265+",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Wisualarm",
-      "/dahua-wisualarm/"
-    ],
-    [
-      "Camera báo cháy",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

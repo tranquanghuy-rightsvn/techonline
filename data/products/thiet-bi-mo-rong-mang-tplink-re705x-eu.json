@@ -2,7 +2,7 @@
   "slug": "thiet-bi-mo-rong-mang-tplink-re705x-eu",
   "name": "Thiết bị mở rộng mạng TP-Link RE705X EU",
   "categories": [
-    "tp-link-thiet-bi-mo-rong-mang"
+    "bo-kich-song-wifi"
   ],
   "brand": "TP-Link",
   "sku": "RE705X EU",
@@ -51,16 +51,7 @@
   "seo_description": "Bộ Mở Rộng Sóng Wi-Fi 6 AX3000 Wi-Fi 6 Băng tần Kép lên đến 3 Gbps: Băng tần Wi-Fi 5 GHz (2402 Mbps) và 2,4 GHz (574 Mbps) riêng biệt để có tốc độ nhanh hơn và dung lượng lớn hơn với công nghệ Wi-Fi 6.† Chuyển vùng thông minh: Đi bộ từ phòng này sang",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Thiết bị mở rộng mạng",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

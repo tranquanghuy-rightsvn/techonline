@@ -2,7 +2,7 @@
   "slug": "camera-ip-kabevision-kx-7009p-pma",
   "name": "Camera IP KabeVision KX-7009P-PMA",
   "categories": [
-    "kabe-vision-camera-ip"
+    "camera-wifi-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-7009P-PMA",
@@ -61,16 +61,7 @@
   "seo_description": "Camera PoE quay quét 4.0MP Độ phân giải 4 Megapixel cảm biến STARVIS™ CMOS kích thước 1/1.8″ Chuẩn nén H265+, 25/30fps@2560 × 1440",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

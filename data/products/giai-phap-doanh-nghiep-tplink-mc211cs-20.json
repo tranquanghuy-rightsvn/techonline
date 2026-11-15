@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-mc211cs-20",
   "name": "Giải pháp doanh nghiệp TP-Link MC211CS-20",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "MC211CS-20",
@@ -46,16 +46,7 @@
   "seo_description": "Omada Gigabit WDM Media Converter • 1× 10/100/1000Mbps Auto-Negotiation RJ45 port supports Auto-MDI/MDIX • Auto-negotiation of Half-Duplex/Full-Duplex transfer mode",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

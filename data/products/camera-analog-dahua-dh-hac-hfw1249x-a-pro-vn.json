@@ -2,7 +2,7 @@
   "slug": "camera-analog-dahua-dh-hac-hfw1249x-a-pro-vn",
   "name": "Camera Analog Dahua DH-HAC-HFW1249X-A-PRO-VN",
   "categories": [
-    "dahua-camera-analog"
+    "camera-analog-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-HAC-HFW1249X-A-PRO-VN",
@@ -81,16 +81,7 @@
   "seo_description": "Camera Thân HDCVI Wizcolor2.0MP Hỗ trợ 4 chế độ : CVI/TVI/AHD/Analog với công tắc chuyển chế độ nhanh Độ phân giải 2.0MP CMOS 25/30fps@(1920×1080)",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Camera Analog",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

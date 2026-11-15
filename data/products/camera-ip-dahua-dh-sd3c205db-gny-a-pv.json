@@ -2,7 +2,7 @@
   "slug": "camera-ip-dahua-dh-sd3c205db-gny-a-pv",
   "name": "Camera IP Dahua DH-SD3C205DB-GNY-A-PV",
   "categories": [
-    "dahua-camera-ip"
+    "camera-ip-dahua"
   ],
   "brand": "Dahua",
   "sku": "DH-SD3C205DB-GNY-A-PV",
@@ -96,16 +96,7 @@
   "seo_description": "Camera Speeddome báo động chủ động 2.0MP Cảm biến: 1/2.8″ CMOS 25/30fps@ 2.0MP(1920×1080) Ống kính zoom quang 5x (2.7-13.5mm), zoom số 16x.",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "Dahua",
-      "/dahua/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

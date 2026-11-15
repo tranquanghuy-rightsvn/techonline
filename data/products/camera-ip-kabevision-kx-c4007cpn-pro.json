@@ -2,7 +2,7 @@
   "slug": "camera-ip-kabevision-kx-c4007cpn-pro",
   "name": "Camera IP KabeVision KX-C4007CPN-PRO",
   "categories": [
-    "kabe-vision-camera-ip"
+    "camera-wifi-kabevision"
   ],
   "brand": "KabeVision",
   "sku": "KX-C4007CPN-PRO",
@@ -93,16 +93,7 @@
   "seo_description": "• Camera PoE quay quét 4.0MP • Độ phân giải 4 MP STARVIS™ CMOS 1/1.8″ • Chuẩn nén H265+, 25/30fps@2560 × 1440, Starlight",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "KabeVision",
-      "/kabe-vision/"
-    ],
-    [
-      "Camera IP",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }

@@ -2,7 +2,7 @@
   "slug": "giai-phap-doanh-nghiep-tplink-mc212cs-20",
   "name": "Giải pháp doanh nghiệp TP-Link MC212CS-20",
   "categories": [
-    "tp-link-giai-phap-doanh-nghiep"
+    "switch-bo-chuyen-mach"
   ],
   "brand": "TP-Link",
   "sku": "MC212CS-20",
@@ -46,16 +46,7 @@
   "seo_description": "Bộ chuyển đổi quang điện Omada Gigabit WDM 1× Cổng RJ45 10/100/1000Mbps Tự động đàm phán hỗ trợ Tự động MDI/MDIX Tự động đàm phán chế độ truyền Half-Duplex/Full-Duplex",
   "keywords": "",
   "focus_keyword": "",
-  "breadcrumb": [
-    [
-      "TP-Link",
-      "/tp-link/"
-    ],
-    [
-      "Giải pháp doanh nghiệp",
-      "#"
-    ]
-  ],
+  "breadcrumb": null,
   "created_at": "2026-11-07T00:00:00Z",
   "updated_at": "2026-11-07T00:00:00Z"
 }
