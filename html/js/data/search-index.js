@@ -22642,6 +22642,13 @@ const SEARCH_INDEX = [
 },
 {
 "type": "post",
+"name": "Tối Ưu Hóa Vận Hành Nhà Hàng: Vai Trò Cốt Lõi Của Hệ Thống Quản Lý Thời Gian Nhân Sự",
+"href": "/toi-uu-hoa-van-hanh-nha-hang-vai-tro-cot-loi-cua-he-thong-quan-ly-thoi-gian-nhan-su/",
+"image": "assets/img/posts/toi-uu-hoa-van-hanh-nha-hang-vai-tro-cot-loi-cua-he-thong-quan-ly-thoi-gian-nhan-su/cover.jpg",
+"date": "2026-11-15"
+},
+{
+"type": "post",
 "name": "Giải Pháp Hiện Thực Hóa Hệ Thống Camera An Ninh Giao Thông Thông Minh Tại Thái Nguyên",
 "href": "/giai-phap-hien-thuc-hoa-he-thong-camera-an-ninh-giao-thong-thong-minh-tai-thai-nguyen/",
 "image": "assets/img/posts/giai-phap-hien-thuc-hoa-he-thong-camera-an-ninh-giao-thong-thong-minh-tai-thai-nguyen/cover.jpg",
